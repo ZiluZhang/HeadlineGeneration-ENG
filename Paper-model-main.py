@@ -23,7 +23,7 @@ import numpy as np
 import random
 from gensim.models import *
 
-from data.util import *
+from ENGdatasets.util import *
 from MyModels import *
 from generate import *
 
