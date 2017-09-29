@@ -66,8 +66,8 @@ for dirpath, fnm in tqdm.tqdm(input_file_list):
 
     wid_list.append([title_id, ctnt_id])
 
-    if not os.path.exists('%s/%d/' % (output_fmt_dir, fid / DIR_SZ)):
-        os.mkdir('%s/%d/' % (output_fmt_dir, fid / DIR_SZ))
+    if not os.path.exists('%s/%d/' % (output_fmt_dir, int(fid / DIR_SZ))):
+        os.mkdir('%s/%d/' % (output_fmt_dir, int(fid / DIR_SZ)))
 
     fout = open('%s/%d/%d.txt' % (output_fmt_dir, fid / DIR_SZ, fid), 'w')
     fout.write('Title:\n%s\nContent:\n' % (' '.join(title_w)))
