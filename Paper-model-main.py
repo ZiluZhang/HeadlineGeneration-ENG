@@ -40,7 +40,7 @@ def train_lstm(
 	options = locals()
 	print "model options", options
 
-	data_dir = 'data'
+	data_dir = 'ENGdatasets'
 	prog_name = 'Paper-model-main'
 	extra_name = ['model', 'model_show']
 
