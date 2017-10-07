@@ -1,0 +1,613 @@
+Title:
+BG spent the prior couple decades millions residents the congo using their forced labor extract the
+Teacher Forced Generated Title:
+the in first the years ago dollars in united state the own for from from
+Distribution for each word in title:
+1:
+the: 0.267479
+in: 0.045723
+this: 0.034500
+trump: 0.033070
+but: 0.032299
+it: 0.023675
+s: 0.018612
+on: 0.018130
+NUM: 0.017111
+as: 0.011693
+* spent: 0.000101
+
+2:
+in: 0.061615
+the: 0.049498
+NUM: 0.030146
+on: 0.027402
+this: 0.022293
+an: 0.016353
+by: 0.014604
+his: 0.014503
+after: 0.013989
+at: 0.013625
+* the: 0.049498
+
+3:
+first: 0.040830
+most: 0.022117
+new: 0.017397
+NUM: 0.015176
+last: 0.014246
+two: 0.010284
+day: 0.009598
+u: 0.009451
+week: 0.009263
+time: 0.007791
+* prior: 0.000052
+
+4:
+the: 0.051233
+NUM: 0.030704
+time: 0.030169
+this: 0.016505
+two: 0.016085
+week: 0.013772
+day: 0.013277
+night: 0.012858
+his: 0.010959
+years: 0.010281
+* couple: 0.000325
+
+5:
+years: 0.175412
+weeks: 0.071345
+days: 0.066243
+months: 0.052045
+hours: 0.038836
+the: 0.026896
+NUM: 0.012263
+in: 0.010088
+minutes: 0.009498
+with: 0.009487
+* decades: 0.004649
+
+6:
+ago: 0.202014
+old: 0.029816
+in: 0.025212
+since: 0.022577
+after: 0.015806
+later: 0.011039
+the: 0.010894
+before: 0.007520
+years: 0.006985
+ED: 0.006641
+* millions: 0.000476
+
+7:
+dollars: 0.018460
+in: 0.014949
+people: 0.012613
+the: 0.008417
+for: 0.005288
+since: 0.005145
+americans: 0.004863
+that: 0.004445
+have: 0.004333
+from: 0.004214
+* residents: 0.000778
+
+8:
+in: 0.131507
+have: 0.035548
+who: 0.029817
+were: 0.021445
+are: 0.020251
+on: 0.018044
+from: 0.016767
+at: 0.013249
+the: 0.012588
+with: 0.011315
+* the: 0.012588
+
+9:
+united: 0.011873
+the: 0.010824
+new: 0.009133
+country: 0.007295
+most: 0.006053
+state: 0.005950
+city: 0.005797
+first: 0.005616
+u: 0.005130
+NUM: 0.004343
+* congo: 0.000009
+
+10:
+state: 0.029708
+ED: 0.026186
+who: 0.013353
+the: 0.011490
+city: 0.011215
+police: 0.006965
+party: 0.006768
+are: 0.006281
+is: 0.006090
+NUM: 0.005626
+* using: 0.000142
+
+11:
+the: 0.164018
+their: 0.024867
+his: 0.017034
+her: 0.011460
+an: 0.011436
+it: 0.010382
+for: 0.007292
+its: 0.006402
+on: 0.006332
+were: 0.005532
+* their: 0.024867
+
+12:
+own: 0.032329
+children: 0.011047
+way: 0.005676
+home: 0.005191
+country: 0.004708
+support: 0.004215
+family: 0.004110
+other: 0.003770
+work: 0.003726
+name: 0.003622
+* forced: 0.000149
+
+13:
+for: 0.014653
+make: 0.012453
+their: 0.012405
+be: 0.011701
+ED: 0.010871
+the: 0.008451
+get: 0.007912
+into: 0.006955
+them: 0.006924
+have: 0.006447
+* labor: 0.000060
+
+14:
+from: 0.011885
+ED: 0.007991
+in: 0.007372
+for: 0.007027
+or: 0.006570
+their: 0.005679
+people: 0.005362
+the: 0.005235
+into: 0.004642
+through: 0.004560
+* extract: 0.000010
+
+15:
+from: 0.071522
+the: 0.069035
+their: 0.039395
+in: 0.011669
+ED: 0.010664
+out: 0.010485
+into: 0.009789
+them: 0.009332
+or: 0.009253
+an: 0.007745
+* the: 0.069035
+
+
+Perplexity = 7.441961
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.24511719  0.05664062 -0.01916504 ..., -0.22460938 -0.11181641
+   0.20214844]
+ [-0.06884766  0.38476562 -0.11230469 ..., -0.00964355  0.11328125  0.375     ]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  8.36839192e-12   2.52520227e-11   3.11883744e-12 ...,   9.03995368e-12
+     3.35829059e-10   2.76814812e-12]
+  [  1.74171622e-10   5.13405207e-10   6.86933080e-11 ...,   1.84864832e-10
+     4.37621361e-09   6.89469107e-11]
+  [  3.31590477e-10   9.38410794e-10   1.54367213e-10 ...,   3.74349163e-10
+     7.77009213e-09   1.41716111e-10]
+  ..., 
+  [  2.58331047e-03   3.86075140e-03   2.53997021e-03 ...,   2.65651126e-03
+     4.88712033e-03   2.78602284e-03]
+  [  3.13282828e-03   4.16278141e-03   2.83301296e-03 ...,   2.79440312e-03
+     4.07055486e-03   3.21147381e-03]
+  [  3.10753169e-03   3.78822419e-03   2.78382492e-03 ...,   2.88050249e-03
+     3.74225550e-03   3.09126661e-03]]
+
+ [[  8.73997489e-12   2.56977200e-11   3.23818251e-12 ...,   9.30377997e-12
+     3.43685497e-10   2.86939613e-12]
+  [  3.12940451e-10   7.37164496e-10   1.17748838e-10 ...,   2.89070046e-10
+     5.69483616e-09   9.13641940e-11]
+  [  9.84952564e-10   2.31972241e-09   3.88323956e-10 ...,   8.62540595e-10
+     1.55515085e-08   3.10660608e-10]
+  ..., 
+  [  3.08283931e-03   3.38103320e-03   3.02695134e-03 ...,   3.07769468e-03
+     3.77191906e-03   2.98764743e-03]
+  [  3.14656016e-03   3.38772987e-03   3.12759960e-03 ...,   3.17337969e-03
+     3.63612548e-03   3.09285638e-03]
+  [  3.19093745e-03   3.38000804e-03   3.19533446e-03 ...,   3.23713780e-03
+     3.53442808e-03   3.17906938e-03]]
+
+ [[  8.66499927e-12   2.57934282e-11   3.23149428e-12 ...,   9.27458110e-12
+     3.42668338e-10   2.85732614e-12]
+  [  1.80601686e-10   5.36271527e-10   8.05089120e-11 ...,   2.12222004e-10
+     4.48188864e-09   7.79912870e-11]
+  [  9.59178958e-10   2.57101673e-09   4.40545100e-10 ...,   9.45986511e-10
+     1.76144717e-08   4.01813915e-10]
+  ..., 
+  [  3.11303604e-03   3.40714329e-03   3.07955872e-03 ...,   3.15650599e-03
+     3.70394764e-03   3.03314906e-03]
+  [  3.15510412e-03   3.39568360e-03   3.15248850e-03 ...,   3.21717071e-03
+     3.60292825e-03   3.12357745e-03]
+  [  3.19112139e-03   3.38063692e-03   3.20585934e-03 ...,   3.26111168e-03
+     3.51833738e-03   3.19897616e-03]]
+
+ ..., 
+ [[  8.24465669e-12   2.51571246e-11   3.06744040e-12 ...,   8.85602962e-12
+     3.34913069e-10   2.68572035e-12]
+  [  2.30555117e-10   6.69460931e-10   9.43045156e-11 ...,   2.39501280e-10
+     5.29905719e-09   8.36276118e-11]
+  [  5.77634163e-10   1.84293747e-09   2.63731786e-10 ...,   5.57536961e-10
+     1.29066322e-08   2.14419787e-10]
+  ..., 
+  [  3.12760426e-03   3.38307139e-03   3.11557576e-03 ...,   3.19691189e-03
+     3.68928560e-03   3.04997712e-03]
+  [  3.16331862e-03   3.37905786e-03   3.17131076e-03 ...,   3.23866308e-03
+     3.59671609e-03   3.13216564e-03]
+  [  3.19613726e-03   3.36972065e-03   3.21547803e-03 ...,   3.27234762e-03
+     3.51591944e-03   3.20300926e-03]]
+
+ [[  8.53305274e-12   2.57941654e-11   3.18855077e-12 ...,   9.17914269e-12
+     3.41800144e-10   2.80462719e-12]
+  [  2.54200994e-10   6.70040912e-10   1.02815652e-10 ...,   2.48059184e-10
+     5.48832046e-09   8.73376024e-11]
+  [  9.42848577e-10   2.06951811e-09   3.62361807e-10 ...,   7.90877919e-10
+     1.59458278e-08   3.20857868e-10]
+  ..., 
+  [  3.12777283e-03   3.38130654e-03   3.11619695e-03 ...,   3.19824670e-03
+     3.68754193e-03   3.05173337e-03]
+  [  3.16340732e-03   3.37785343e-03   3.17151845e-03 ...,   3.23923002e-03
+     3.59570934e-03   3.13316053e-03]
+  [  3.19620199e-03   3.36892996e-03   3.21551342e-03 ...,   3.27254995e-03
+     3.51534295e-03   3.20356316e-03]]
+
+ [[  8.31885082e-12   2.52307428e-11   3.08584907e-12 ...,   8.87063600e-12
+     3.37911504e-10   2.71134742e-12]
+  [  1.51352084e-10   4.30024460e-10   5.84290533e-11 ...,   1.59424529e-10
+     3.83762355e-09   5.18106114e-11]
+  [  7.50627283e-10   1.77944215e-09   3.01363573e-10 ...,   6.87493951e-10
+     1.34914053e-08   2.66228511e-10]
+  ..., 
+  [  3.12628271e-03   3.38088092e-03   3.11335456e-03 ...,   3.19790142e-03
+     3.68885137e-03   3.04985209e-03]
+  [  3.16237658e-03   3.37755261e-03   3.16981995e-03 ...,   3.23923538e-03
+     3.59644671e-03   3.13210348e-03]
+  [  3.19547416e-03   3.36871063e-03   3.21448850e-03 ...,   3.27267824e-03
+     3.51576717e-03   3.20298038e-03]]]
+encode_h2:
+[[-0.19583696  0.24038954 -0.12268659 ..., -0.00802098  0.15014814
+  -0.19340341]
+ [-0.25970131  0.320779   -0.16938689 ...,  0.00983215  0.25673199
+  -0.27047065]
+ [-0.27447087  0.34209237 -0.18353797 ...,  0.02952185  0.31348386
+  -0.29958811]
+ ..., 
+ [-0.26669943  0.34155545 -0.18107033 ...,  0.0510703   0.35065806
+  -0.30963311]
+ [-0.26160675  0.33848643 -0.17709355 ...,  0.05462446  0.35480785
+  -0.30786169]
+ [-0.25815696  0.33614907 -0.17384091 ...,  0.05580665  0.35620365
+  -0.30557865]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.25390625  0.16113281  0.03320312 ..., -0.04077148  0.18261719
+  -0.00515747]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ ..., 
+ [ 0.25976562  0.24609375  0.15820312 ...,  0.16601562 -0.05541992  0.125     ]
+ [-0.15527344  0.13476562  0.02380371 ...,  0.07763672 -0.046875
+   0.04589844]
+ [ 0.03417969 -0.01361084 -0.28515625 ..., -0.05981445  0.00067902
+  -0.00704956]]
+decode_seq:
+[[-0.56885487  0.28747964 -0.45463932 ..., -0.39409971  0.80140126
+  -0.80232257]
+ [-0.86296535  0.18820906  0.19178452 ..., -0.16728784 -0.17516321
+  -0.42146072]
+ [ 0.15686433 -0.4118216  -0.06830204 ..., -0.26887193 -0.51920778
+  -0.50258452]
+ ..., 
+ [-0.09873836 -0.56835037  0.52443099 ...,  0.38583344 -0.1360413
+   0.79699993]
+ [-0.27555123 -0.61731094  0.08226646 ...,  0.44549045 -0.13928929
+   0.82409406]
+ [-0.61000514 -0.71254873  0.10708956 ...,  0.46188891 -0.13928929
+   0.53389084]]
+output_dstrb:
+[[  3.64643779e-06   8.76689938e-08   1.50722045e-07 ...,   2.26523809e-07
+    2.14056172e-06   1.22846117e-07]
+ [  5.96325435e-06   1.44495448e-06   1.68920997e-06 ...,   2.00047134e-06
+    8.54861810e-06   1.16577451e-06]
+ [  1.10530264e-05   1.11520092e-06   1.89126899e-06 ...,   2.75395132e-06
+    8.09350331e-06   1.32613866e-06]
+ ..., 
+ [  1.03968705e-06   4.26338374e-06   4.63506694e-06 ...,   7.45438774e-06
+    2.40544978e-05   4.11159135e-06]
+ [  8.09907803e-08   5.17743183e-06   6.95123344e-06 ...,   7.20686330e-06
+    2.60388388e-05   4.55807822e-06]
+ [  2.54674831e-07   1.66840664e-06   2.20013067e-06 ...,   3.38187124e-06
+    1.50559681e-05   1.55925284e-06]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.318715
+No. 2
+BG in             
+-3.085161
+No. 3
+BG this             
+-3.366784
+No. 4
+BG trump             
+-3.409137
+No. 5
+BG but             
+-3.432733
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG this article            
+-4.733209
+No. 2
+BG in the            
+-4.856524
+No. 3
+BG but the            
+-5.289409
+No. 4
+BG the first            
+-5.394115
+No. 5
+BG this week            
+-5.545960
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this article is           
+-5.200879
+No. 2
+BG this article the           
+-7.753898
+No. 3
+BG this week the           
+-7.929652
+No. 4
+BG the first time           
+-8.043894
+No. 5
+BG in the first           
+-8.155533
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this article is part          
+-5.711246
+No. 2
+BG this article is the          
+-8.614168
+No. 3
+BG this article is also          
+-8.805052
+No. 4
+BG this article is feature          
+-8.910906
+No. 5
+BG this article is one          
+-9.958731
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this article is part feature         
+-5.981297
+No. 2
+BG this article is part we         
+-8.881460
+No. 3
+BG this article is the feature         
+-9.396844
+No. 4
+BG this article is feature feature         
+-9.531094
+No. 5
+BG this article is also feature         
+-9.541782
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this article is part feature we        
+-6.524855
+No. 2
+BG this article is part feature feature        
+-8.420254
+No. 3
+BG this article is part feature the        
+-9.481521
+No. 4
+BG this article is part we also        
+-9.897635
+No. 5
+BG this article is part feature that        
+-10.037887
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this article is part feature we also       
+-6.797747
+No. 2
+BG this article is part feature we send       
+-9.434320
+No. 3
+BG this article is part feature feature we       
+-9.514835
+No. 4
+BG this article is part feature we we       
+-10.259881
+No. 5
+BG this article is part we also send       
+-10.512164
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this article is part feature we also send      
+-7.081991
+No. 2
+BG this article is part feature feature we also      
+-9.802363
+No. 3
+BG this article is part feature we also also      
+-9.832129
+No. 4
+BG this article is part feature we send out      
+-9.986601
+No. 5
+BG this article is part we also send out      
+-10.704804
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this article is part feature we also send out     
+-7.268057
+No. 2
+BG this article is part feature feature we also send     
+-10.050205
+No. 3
+BG this article is part feature we send out via     
+-10.385993
+No. 4
+BG this article is part feature we also also send     
+-10.736068
+No. 5
+BG this article is part feature we also send send     
+-10.823917
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this article is part feature we also send out via    
+-7.633575
+No. 2
+BG this article is part feature we also send out email    
+-9.595612
+No. 3
+BG this article is part feature feature we also send out    
+-10.267113
+No. 4
+BG this article is part feature we send out via email    
+-10.813483
+No. 5
+BG this article is part feature we also also send out    
+-11.083257
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this article is part feature we also send out via email   
+-8.002373
+No. 2
+BG this article is part feature we also send out via via   
+-9.597324
+No. 3
+BG this article is part feature we also send out email as   
+-10.452156
+No. 4
+BG this article is part feature feature we also send out via   
+-10.648576
+No. 5
+BG this article is part feature we also send out via the   
+-11.007061
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this article is part feature we also send out via email as  
+-8.272296
+No. 2
+BG this article is part feature we also send out via via email  
+-10.228031
+No. 3
+BG this article is part feature we also send out email as the  
+-10.897441
+No. 4
+BG this article is part feature feature we also send out via email  
+-10.999802
+No. 5
+BG this article is part feature we also send out via email email  
+-11.303168
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this article is part feature we also send out via email as the 
+-8.585578
+No. 2
+BG this article is part feature we also send out via via email as 
+-10.653997
+No. 3
+BG this article is part feature we also send out via email as as 
+-11.023553
+No. 4
+BG this article is part feature feature we also send out via email as 
+-11.270881
+No. 5
+BG this article is part feature we also send out via email as part 
+-11.987409
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG this article is part feature we also send out via email as the atlantic ED
+-0.697784
+No. 2
+BG this article is part feature we also send out via email as the edge ED
+-0.731749
+No. 3
+BG this article is part feature we also send out via email as the daily ED
+-0.766933
+No. 4
+BG this article is part feature we also send out via via email as the ED
+-0.787740
+No. 5
+BG this article is part feature we also send out via email as the email ED
+-0.817793
+Content:
+BG edgar rice published the first his stories in NUM just four years after as the opening title cards the the legend inform us king ii was forced cede control
+
+BG spent the prior couple decades millions residents the congo using their forced labor extract the rubber diamonds other resources for his personal enrichment ED     
+
+BG film versions the story have numbered in the hundreds the earliest ones arriving almost decade before the movies got recorded sound ED       
+
+BG clearly you drop new gloss this archaic material without some by which i mean existential rethink ED            
+
+BG so craig brewer adam have the story as indictment colonialism made jane so often hostage marion type ED           
+
+BG still hostage though the filmmakers even attempt dodge the white savior problem by casting samuel l ED            
+
+BG jackson as journalist historian george washington williams who began reporting on the atrocities committed by in NUM ED           

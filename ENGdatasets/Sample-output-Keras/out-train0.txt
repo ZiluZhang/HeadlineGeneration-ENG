@@ -1,0 +1,618 @@
+Title:
+BG the topic was the final attempt modify the american health care act before the house
+Teacher Forced Generated Title:
+the first is part first time be the new union care act ED the united
+Distribution for each word in title:
+1:
+the: 0.267479
+in: 0.045723
+this: 0.034500
+trump: 0.033070
+but: 0.032299
+it: 0.023675
+s: 0.018612
+on: 0.018130
+NUM: 0.017111
+as: 0.011693
+* the: 0.267479
+
+2:
+first: 0.016985
+new: 0.011644
+article: 0.011540
+u: 0.009176
+former: 0.008375
+most: 0.008203
+latest: 0.007847
+republican: 0.006906
+company: 0.005813
+NUM: 0.005563
+* topic: 0.000319
+
+3:
+is: 0.205545
+the: 0.095570
+on: 0.050668
+was: 0.036431
+in: 0.033965
+about: 0.033615
+that: 0.031350
+which: 0.018292
+for: 0.017678
+has: 0.017459
+* was: 0.036431
+
+4:
+part: 0.062258
+the: 0.041348
+not: 0.018290
+in: 0.013442
+an: 0.012476
+one: 0.011487
+NUM: 0.011256
+also: 0.011220
+asked: 0.009073
+no: 0.008159
+* the: 0.041348
+
+5:
+first: 0.114244
+most: 0.022761
+latest: 0.021464
+feature: 0.012909
+new: 0.007323
+case: 0.005857
+part: 0.005729
+same: 0.004945
+time: 0.004733
+second: 0.004720
+* final: 0.001014
+
+6:
+time: 0.042662
+the: 0.026790
+day: 0.025806
+season: 0.015769
+night: 0.014923
+week: 0.013489
+year: 0.012534
+in: 0.009712
+republican: 0.008044
+morning: 0.007447
+* attempt: 0.000530
+
+7:
+be: 0.037900
+by: 0.036639
+for: 0.034589
+the: 0.020370
+that: 0.014495
+on: 0.012002
+ED: 0.011388
+in: 0.011029
+win: 0.006872
+make: 0.006257
+* modify: 0.000001
+
+8:
+the: 0.126452
+his: 0.021197
+its: 0.016832
+on: 0.011794
+an: 0.010971
+it: 0.009531
+him: 0.008035
+by: 0.007860
+trump: 0.007838
+her: 0.007753
+* the: 0.126452
+
+9:
+new: 0.009784
+united: 0.007421
+first: 0.007392
+republican: 0.006709
+u: 0.006031
+most: 0.005397
+american: 0.004601
+national: 0.004414
+end: 0.004340
+state: 0.004296
+* american: 0.004601
+
+10:
+union: 0.028136
+state: 0.019521
+the: 0.014336
+government: 0.014307
+american: 0.011120
+by: 0.008169
+for: 0.007101
+politics: 0.007001
+national: 0.006806
+as: 0.006534
+* health: 0.003738
+
+11:
+care: 0.217009
+ED: 0.023560
+act: 0.022175
+for: 0.010758
+in: 0.010046
+policy: 0.008701
+as: 0.007653
+or: 0.007281
+system: 0.006961
+health: 0.006136
+* care: 0.217009
+
+12:
+act: 0.151663
+ED: 0.073209
+care: 0.034274
+for: 0.033234
+the: 0.027242
+in: 0.018650
+as: 0.012069
+or: 0.011958
+from: 0.009798
+that: 0.008253
+* act: 0.151663
+
+13:
+ED: 0.106796
+as: 0.075010
+in: 0.071343
+the: 0.051177
+that: 0.033577
+for: 0.030239
+by: 0.019315
+on: 0.016741
+with: 0.014713
+it: 0.013048
+* before: 0.001292
+
+14:
+the: 0.280643
+it: 0.022858
+ED: 0.022040
+they: 0.018396
+he: 0.018271
+his: 0.016145
+an: 0.014299
+this: 0.012460
+NUM: 0.010425
+that: 0.008509
+* the: 0.280643
+
+15:
+united: 0.021256
+u: 0.015779
+first: 0.015386
+republican: 0.008982
+new: 0.008916
+state: 0.008566
+most: 0.007553
+NUM: 0.007322
+election: 0.006920
+president: 0.006669
+* house: 0.003291
+
+
+Perplexity = 4.921456
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.01116943 -0.16308594  0.01373291 ...,  0.1796875   0.23828125
+   0.05664062]
+ ..., 
+ [ 0.04882812  0.16699219  0.16894531 ..., -0.22949219 -0.00970459
+  -0.09570312]
+ [-0.22851562 -0.08837891  0.12792969 ..., -0.21289062  0.18847656
+  -0.14550781]
+ [ 0.40039062 -0.18457031  0.11328125 ..., -0.21386719  0.15234375
+   0.13769531]]
+encode_h1:
+[[[  8.51159594e-12   2.56524715e-11   3.17134361e-12 ...,   9.14412383e-12
+     3.43037820e-10   2.79450291e-12]
+  [  2.23700031e-10   6.13260609e-10   8.72263858e-11 ...,   2.19450721e-10
+     4.97946528e-09   7.72603162e-11]
+  [  8.04834144e-10   1.89567362e-09   3.16842941e-10 ...,   7.08116954e-10
+     1.27629578e-08   2.55103272e-10]
+  ..., 
+  [  3.12288012e-03   3.38643882e-03   3.05890990e-03 ...,   3.14514339e-03
+     3.72504466e-03   3.00432998e-03]
+  [  3.16347438e-03   3.38395033e-03   3.14255711e-03 ...,   3.21323005e-03
+     3.61553091e-03   3.10747279e-03]
+  [  3.19728767e-03   3.37409670e-03   3.20184790e-03 ...,   3.26029398e-03
+     3.52590787e-03   3.19005037e-03]]
+
+ [[  8.46036869e-12   2.53580611e-11   3.14908364e-12 ...,   9.05199700e-12
+     3.42479489e-10   2.78018038e-12]
+  [  2.17435001e-10   5.98216421e-10   8.48140655e-11 ...,   2.12696111e-10
+     4.89066698e-09   7.56425131e-11]
+  [  9.28732313e-10   2.11957718e-09   3.85589449e-10 ...,   7.50574047e-10
+     1.50070036e-08   3.03025743e-10]
+  ..., 
+  [  3.12986947e-03   3.38435289e-03   3.11380881e-03 ...,   3.19680013e-03
+     3.69059062e-03   3.04582319e-03]
+  [  3.16475518e-03   3.37990350e-03   3.17071099e-03 ...,   3.23882676e-03
+     3.59718502e-03   3.12970416e-03]
+  [  3.19701759e-03   3.37024569e-03   3.21541098e-03 ...,   3.27258348e-03
+     3.51603027e-03   3.20154964e-03]]
+
+ [[  8.56483287e-12   2.59081159e-11   3.18322170e-12 ...,   9.23125378e-12
+     3.39980905e-10   2.79959237e-12]
+  [  1.76620746e-10   5.09539022e-10   7.44615480e-11 ...,   1.74688611e-10
+     4.16566115e-09   6.82462697e-11]
+  [  4.51064880e-10   1.15420762e-09   1.94475172e-10 ...,   4.20827012e-10
+     8.24977509e-09   1.54335100e-10]
+  ..., 
+  [  3.12875980e-03   3.37945088e-03   3.11616343e-03 ...,   3.19978967e-03
+     3.68716265e-03   3.05191381e-03]
+  [  3.16407741e-03   3.37677449e-03   3.17126513e-03 ...,   3.23993550e-03
+     3.59568023e-03   3.13312025e-03]
+  [  3.19666020e-03   3.36833321e-03   3.21524194e-03 ...,   3.27284355e-03
+     3.51543492e-03   3.20346630e-03]]
+
+ ..., 
+ [[  8.67344824e-12   2.58752256e-11   3.20665217e-12 ...,   9.11386158e-12
+     3.41650236e-10   2.84634382e-12]
+  [  1.70600631e-10   4.69593808e-10   6.70292433e-11 ...,   1.73401279e-10
+     4.08710044e-09   6.12989035e-11]
+  [  8.74721018e-10   2.47822118e-09   3.86615295e-10 ...,   8.89985030e-10
+     1.70616907e-08   3.39066719e-10]
+  ..., 
+  [  3.12875630e-03   3.37944599e-03   3.11616831e-03 ...,   3.19981249e-03
+     3.68716381e-03   3.05190263e-03]
+  [  3.16407415e-03   3.37676913e-03   3.17126699e-03 ...,   3.23995017e-03
+     3.59568046e-03   3.13311187e-03]
+  [  3.19665787e-03   3.36832926e-03   3.21524288e-03 ...,   3.27285333e-03
+     3.51543562e-03   3.20346071e-03]]
+
+ [[  8.76680499e-12   2.61461009e-11   3.28289609e-12 ...,   9.37045667e-12
+     3.53350960e-10   2.85846000e-12]
+  [  2.92191993e-10   7.93403232e-10   1.18902777e-10 ...,   2.89888863e-10
+     6.04862027e-09   1.01730478e-10]
+  [  1.26484623e-09   3.09037840e-09   4.51779170e-10 ...,   1.06652220e-09
+     1.78274373e-08   3.80621284e-10]
+  ..., 
+  [  3.12870741e-03   3.37946857e-03   3.11619206e-03 ...,   3.19986884e-03
+     3.68710421e-03   3.05192126e-03]
+  [  3.16403992e-03   3.37677356e-03   3.17127747e-03 ...,   3.23999207e-03
+     3.59564158e-03   3.13312607e-03]
+  [  3.19663389e-03   3.36832530e-03   3.21524451e-03 ...,   3.27288220e-03
+     3.51541000e-03   3.20347003e-03]]
+
+ [[  8.63581255e-12   2.57100764e-11   3.17209974e-12 ...,   9.12767431e-12
+     3.40266343e-10   2.82552974e-12]
+  [  2.52487975e-10   7.54805551e-10   1.07441417e-10 ...,   2.68292111e-10
+     6.00074834e-09   9.82832427e-11]
+  [  6.40891895e-10   1.66597824e-09   2.53384702e-10 ...,   6.11549145e-10
+     1.20490675e-08   2.40669346e-10]
+  ..., 
+  [  2.77042855e-03   3.87027021e-03   2.52063200e-03 ...,   2.49001896e-03
+     4.24520485e-03   2.57079746e-03]
+  [  3.01788840e-03   3.84265906e-03   2.69142725e-03 ...,   2.65791337e-03
+     3.63399833e-03   2.81237392e-03]
+  [  3.23802186e-03   4.11324576e-03   3.07103666e-03 ...,   2.95374263e-03
+     3.21555045e-03   2.86515569e-03]]]
+encode_h2:
+[[-0.19583696  0.24038954 -0.12268659 ..., -0.00802098  0.15014814
+  -0.19340341]
+ [-0.25970131  0.320779   -0.16938689 ...,  0.00983215  0.25673199
+  -0.27047065]
+ [-0.27447087  0.34209237 -0.18353797 ...,  0.02952185  0.31348386
+  -0.29958811]
+ ..., 
+ [-0.26669943  0.34155545 -0.18107033 ...,  0.0510703   0.35065806
+  -0.30963311]
+ [-0.26160675  0.33848643 -0.17709355 ...,  0.05462446  0.35480785
+  -0.30786169]
+ [-0.25815696  0.33614907 -0.17384091 ...,  0.05580665  0.35620365
+  -0.30557865]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.14941406  0.01159668 -0.01330566 ..., -0.296875   -0.05957031
+  -0.02514648]
+ ..., 
+ [ 0.15039062  0.14648438  0.06396484 ...,  0.09423828  0.08398438
+  -0.05249023]
+ [ 0.04541016 -0.04711914  0.06738281 ..., -0.11914062 -0.10058594
+  -0.12597656]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]]
+decode_seq:
+[[-0.56885487  0.28747964 -0.45463932 ..., -0.39409971  0.80140126
+  -0.80232257]
+ [ 0.45795929  0.30340138  0.20921399 ..., -0.29595268 -0.25473246
+   0.26972935]
+ [-0.40825292  0.34528691 -0.07260042 ...,  0.3954466  -0.2734434
+  -0.83016449]
+ ..., 
+ [-0.37598336 -0.52851677 -0.08700967 ...,  0.48865506 -0.07201394
+   0.13981691]
+ [ 0.37909958 -0.56213707  0.55901742 ...,  0.29919553  0.01825555
+  -0.01824218]
+ [ 0.41297847 -0.39265925  0.28348118 ...,  0.17305535 -0.07466245
+   0.16757014]]
+output_dstrb:
+[[  3.64643756e-06   8.76689867e-08   1.50722045e-07 ...,   2.26523795e-07
+    2.14056172e-06   1.22846117e-07]
+ [  1.15433950e-05   2.86307431e-06   5.37957521e-06 ...,   8.24344443e-06
+    1.38855494e-05   4.08110645e-06]
+ [  6.81808174e-08   1.93232509e-07   2.61466766e-07 ...,   5.20942251e-07
+    2.96505527e-06   2.04157089e-07]
+ ..., 
+ [  4.04292450e-07   2.64447493e-07   3.45812992e-07 ...,   6.69846770e-07
+    4.95003042e-06   2.91228702e-07]
+ [  1.22126949e-05   6.07060201e-07   7.06378103e-07 ...,   1.13655778e-06
+    9.95246501e-06   5.16623800e-07]
+ [  1.78139671e-05   1.45047761e-06   2.42652732e-06 ...,   3.71891065e-06
+    1.15720213e-05   1.89016714e-06]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.318715
+No. 2
+BG in             
+-3.085161
+No. 3
+BG this             
+-3.366784
+No. 4
+BG trump             
+-3.409137
+No. 5
+BG but             
+-3.432733
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG this article            
+-4.733209
+No. 2
+BG in the            
+-4.856524
+No. 3
+BG but the            
+-5.289409
+No. 4
+BG the first            
+-5.394115
+No. 5
+BG this week            
+-5.545960
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this article is           
+-5.200879
+No. 2
+BG this article the           
+-7.753898
+No. 3
+BG this week the           
+-7.929652
+No. 4
+BG the first time           
+-8.043894
+No. 5
+BG in the first           
+-8.155533
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this article is part          
+-5.711246
+No. 2
+BG this article is the          
+-8.614168
+No. 3
+BG this article is also          
+-8.805053
+No. 4
+BG this article is feature          
+-8.910906
+No. 5
+BG this article is one          
+-9.958732
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this article is part feature         
+-5.981297
+No. 2
+BG this article is part we         
+-8.881460
+No. 3
+BG this article is the feature         
+-9.396844
+No. 4
+BG this article is feature feature         
+-9.531095
+No. 5
+BG this article is also feature         
+-9.541782
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this article is part feature we        
+-6.524855
+No. 2
+BG this article is part feature feature        
+-8.420254
+No. 3
+BG this article is part feature the        
+-9.481521
+No. 4
+BG this article is part we also        
+-9.897635
+No. 5
+BG this article is part feature that        
+-10.037887
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this article is part feature we also       
+-6.797747
+No. 2
+BG this article is part feature we send       
+-9.434320
+No. 3
+BG this article is part feature feature we       
+-9.514835
+No. 4
+BG this article is part feature we we       
+-10.259881
+No. 5
+BG this article is part we also send       
+-10.512165
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this article is part feature we also send      
+-7.081991
+No. 2
+BG this article is part feature feature we also      
+-9.802363
+No. 3
+BG this article is part feature we also also      
+-9.832130
+No. 4
+BG this article is part feature we send out      
+-9.986601
+No. 5
+BG this article is part we also send out      
+-10.704804
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this article is part feature we also send out     
+-7.268057
+No. 2
+BG this article is part feature feature we also send     
+-10.050205
+No. 3
+BG this article is part feature we send out via     
+-10.385993
+No. 4
+BG this article is part feature we also also send     
+-10.736068
+No. 5
+BG this article is part feature we also send send     
+-10.823917
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this article is part feature we also send out via    
+-7.633575
+No. 2
+BG this article is part feature we also send out email    
+-9.595612
+No. 3
+BG this article is part feature feature we also send out    
+-10.267113
+No. 4
+BG this article is part feature we send out via email    
+-10.813483
+No. 5
+BG this article is part feature we also also send out    
+-11.083257
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this article is part feature we also send out via email   
+-8.002373
+No. 2
+BG this article is part feature we also send out via via   
+-9.597325
+No. 3
+BG this article is part feature we also send out email as   
+-10.452156
+No. 4
+BG this article is part feature feature we also send out via   
+-10.648576
+No. 5
+BG this article is part feature we also send out via the   
+-11.007061
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this article is part feature we also send out via email as  
+-8.272296
+No. 2
+BG this article is part feature we also send out via via email  
+-10.228031
+No. 3
+BG this article is part feature we also send out email as the  
+-10.897441
+No. 4
+BG this article is part feature feature we also send out via email  
+-10.999802
+No. 5
+BG this article is part feature we also send out via email email  
+-11.303168
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this article is part feature we also send out via email as the 
+-8.585578
+No. 2
+BG this article is part feature we also send out via via email as 
+-10.653997
+No. 3
+BG this article is part feature we also send out via email as as 
+-11.023553
+No. 4
+BG this article is part feature feature we also send out via email as 
+-11.270882
+No. 5
+BG this article is part feature we also send out via email as part 
+-11.987409
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG this article is part feature we also send out via email as the atlantic ED
+-0.697784
+No. 2
+BG this article is part feature we also send out via email as the edge ED
+-0.731749
+No. 3
+BG this article is part feature we also send out via email as the daily ED
+-0.766933
+No. 4
+BG this article is part feature we also send out via via email as the ED
+-0.787740
+No. 5
+BG this article is part feature we also send out via email as the email ED
+-0.817793
+Content:
+BG the chairman the house freedom caucus spoke news on thursday after his meeting with speaker paul ryan three senior aides president trump ED      
+
+BG the topic was the final attempt modify the american health care act before the house vote on friday ED          
+
+BG principles deal have been defined an ED                      
+
+BG the details the agreement are the most fundamental question that is what we are working said rep ED           
+
+BG mark meadows who met with stephen k ED                     
+
+BG president chief strategist his chief staff mick his budget director ED                  
+
+BG meadows said the house freedom caucus welcomed the compromise from the president that the essential health benefits provision in the NUM patient protection affordable care act will be stripped

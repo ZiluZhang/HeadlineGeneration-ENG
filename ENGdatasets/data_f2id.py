@@ -16,7 +16,7 @@ w2id = cPickle.load(fo)
 fo.close()
 
 fid = 0
-DIR_SZ = 1000
+DIR_SZ = 5000
 
 if not os.path.exists(output_wid_dir):
     os.mkdir(output_wid_dir)

@@ -1,0 +1,614 @@
+Title:
+BG in texas so is not killing if the state goes through with the execution wood
+Teacher Forced Generated Title:
+the the the the the be the the most is out the the united the
+Distribution for each word in title:
+1:
+the: 0.267479
+in: 0.045723
+this: 0.034500
+trump: 0.033070
+but: 0.032299
+it: 0.023675
+s: 0.018612
+on: 0.018130
+NUM: 0.017111
+as: 0.011693
+* in: 0.045723
+
+2:
+the: 0.170101
+NUM: 0.062527
+an: 0.035448
+statement: 0.018467
+his: 0.016749
+new: 0.014392
+this: 0.014382
+recent: 0.011611
+fact: 0.010330
+one: 0.008565
+* texas: 0.001673
+
+3:
+the: 0.094286
+NUM: 0.028469
+on: 0.026490
+state: 0.018980
+in: 0.018857
+is: 0.017154
+trump: 0.015840
+with: 0.014779
+for: 0.011862
+new: 0.010629
+* so: 0.000484
+
+4:
+the: 0.134872
+it: 0.038613
+he: 0.028310
+they: 0.020693
+you: 0.020452
+she: 0.019388
+that: 0.018839
+i: 0.018150
+far: 0.016283
+this: 0.014001
+* is: 0.007324
+
+5:
+the: 0.084330
+part: 0.046806
+not: 0.020194
+one: 0.018647
+that: 0.015073
+an: 0.014745
+no: 0.012894
+going: 0.011703
+in: 0.010928
+more: 0.009683
+* not: 0.020194
+
+6:
+be: 0.042847
+the: 0.025582
+not: 0.022853
+only: 0.016330
+ED: 0.014670
+going: 0.012643
+we: 0.012237
+that: 0.007782
+it: 0.007731
+one: 0.007416
+* killing: 0.000085
+
+7:
+the: 0.255592
+in: 0.025751
+ED: 0.018971
+his: 0.015867
+it: 0.015582
+for: 0.012384
+an: 0.012315
+this: 0.009966
+that: 0.009961
+him: 0.009036
+* if: 0.001244
+
+8:
+the: 0.172508
+it: 0.062978
+he: 0.059436
+they: 0.040079
+you: 0.037605
+ED: 0.035837
+she: 0.019475
+be: 0.016428
+i: 0.015805
+that: 0.015735
+* the: 0.172508
+
+9:
+most: 0.018396
+united: 0.011514
+republican: 0.010180
+president: 0.009523
+first: 0.007055
+state: 0.006568
+man: 0.006463
+same: 0.006004
+case: 0.005552
+the: 0.005358
+* state: 0.006568
+
+10:
+is: 0.032632
+department: 0.032399
+ED: 0.029465
+has: 0.023541
+government: 0.015924
+was: 0.013074
+state: 0.012314
+court: 0.011029
+said: 0.009483
+would: 0.009476
+* goes: 0.000391
+
+11:
+out: 0.088232
+into: 0.073805
+in: 0.071292
+ED: 0.066533
+for: 0.041632
+on: 0.040983
+the: 0.031411
+back: 0.027884
+down: 0.027830
+that: 0.018213
+* through: 0.011685
+
+12:
+the: 0.362947
+an: 0.024479
+their: 0.023898
+his: 0.022219
+ED: 0.011874
+its: 0.010301
+it: 0.009914
+this: 0.009637
+our: 0.009384
+what: 0.006151
+* with: 0.002565
+
+13:
+the: 0.180963
+his: 0.022595
+an: 0.017258
+their: 0.015000
+NUM: 0.012941
+it: 0.010159
+ED: 0.009216
+some: 0.008838
+her: 0.007562
+what: 0.006251
+* the: 0.180963
+
+14:
+united: 0.012458
+country: 0.009990
+most: 0.007606
+new: 0.006919
+first: 0.006493
+the: 0.006144
+NUM: 0.005935
+white: 0.005424
+ED: 0.005381
+way: 0.005302
+* execution: 0.000034
+
+15:
+the: 0.263626
+ED: 0.038089
+in: 0.029890
+for: 0.022578
+on: 0.018371
+that: 0.016601
+but: 0.013608
+NUM: 0.009930
+his: 0.009334
+as: 0.008367
+* wood: 0.000007
+
+
+Perplexity = 6.061068
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.03637695 -0.02148438 -0.03540039 ..., -0.08740234  0.05151367
+   0.01745605]
+ [-0.03149414  0.06445312 -0.06054688 ...,  0.03881836  0.15234375
+  -0.02685547]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  8.61286476e-12   2.57642709e-11   3.20018166e-12 ...,   9.17184471e-12
+     3.40043799e-10   2.82340210e-12]
+  [  2.23343621e-10   6.19536367e-10   8.95726063e-11 ...,   2.17992679e-10
+     4.93452745e-09   8.19500440e-11]
+  [  8.57316607e-10   2.09134243e-09   3.47942647e-10 ...,   7.68308972e-10
+     1.46741916e-08   3.21906057e-10]
+  ..., 
+  [  3.12789530e-03   3.37920850e-03   3.11606447e-03 ...,   3.20019992e-03
+     3.68776522e-03   3.05142510e-03]
+  [  3.16346018e-03   3.37653980e-03   3.17128422e-03 ...,   3.24036088e-03
+     3.59599083e-03   3.13287042e-03]
+  [  3.19622178e-03   3.36812739e-03   3.21528758e-03 ...,   3.27320676e-03
+     3.51559394e-03   3.20333848e-03]]
+
+ [[  8.38721540e-12   2.54487178e-11   3.11881358e-12 ...,   8.90116019e-12
+     3.37562367e-10   2.75266377e-12]
+  [  2.05396616e-10   5.58135371e-10   8.07850245e-11 ...,   2.02187961e-10
+     4.68179229e-09   7.19439855e-11]
+  [  7.32327532e-10   2.12091988e-09   3.36532691e-10 ...,   6.61768085e-10
+     1.59370703e-08   3.04764658e-10]
+  ..., 
+  [  3.12912883e-03   3.38747958e-03   3.11577925e-03 ...,   3.19523690e-03
+     3.68978735e-03   3.04943882e-03]
+  [  3.16445762e-03   3.38190491e-03   3.17181577e-03 ...,   3.23766726e-03
+     3.59666208e-03   3.13204876e-03]
+  [  3.19692399e-03   3.37150553e-03   3.21600540e-03 ...,   3.27174598e-03
+     3.51571012e-03   3.20303929e-03]]
+
+ [[  8.40188249e-12   2.56381878e-11   3.17366120e-12 ...,   9.17111005e-12
+     3.38968881e-10   2.75907639e-12]
+  [  1.71673259e-10   4.54701721e-10   7.36048653e-11 ...,   1.92781235e-10
+     4.25211821e-09   5.66182032e-11]
+  [  6.59730492e-10   1.62438696e-09   2.73666562e-10 ...,   6.29944430e-10
+     1.27345317e-08   2.19361890e-10]
+  ..., 
+  [  3.12846527e-03   3.37982317e-03   3.11623886e-03 ...,   3.20013682e-03
+     3.68743204e-03   3.05170403e-03]
+  [  3.16385389e-03   3.37697077e-03   3.17136571e-03 ...,   3.24022723e-03
+     3.59577639e-03   3.13300942e-03]
+  [  3.19649419e-03   3.36842681e-03   3.21532506e-03 ...,   3.27306660e-03
+     3.51545447e-03   3.20340274e-03]]
+
+ ..., 
+ [[  8.59863396e-12   2.62027639e-11   3.19290796e-12 ...,   9.27021220e-12
+     3.42980894e-10   2.82878690e-12]
+  [  2.46566656e-10   7.13471060e-10   1.06483780e-10 ...,   2.67683847e-10
+     5.56248070e-09   9.46992415e-11]
+  [  7.50070506e-10   1.98923056e-09   3.20553944e-10 ...,   7.44416584e-10
+     1.39010421e-08   2.94532398e-10]
+  ..., 
+  [  3.12807783e-03   3.37974099e-03   3.11626028e-03 ...,   3.19984299e-03
+     3.68725066e-03   3.05193802e-03]
+  [  3.16362898e-03   3.37690348e-03   3.17134801e-03 ...,   3.24002607e-03
+     3.59570119e-03   3.13314795e-03]
+  [  3.19636660e-03   3.36837862e-03   3.21530155e-03 ...,   3.27293226e-03
+     3.51543049e-03   3.20348796e-03]]
+
+ [[  8.53220706e-12   2.58611656e-11   3.17300158e-12 ...,   9.08075438e-12
+     3.39464484e-10   2.78263155e-12]
+  [  2.30793593e-10   5.90704763e-10   8.56364216e-11 ...,   2.15386042e-10
+     5.02492803e-09   7.73111783e-11]
+  [  6.77534084e-10   1.84283544e-09   2.80300672e-10 ...,   6.18596119e-10
+     1.37989700e-08   2.44914339e-10]
+  ..., 
+  [  3.12872673e-03   3.37945390e-03   3.11619253e-03 ...,   3.19982180e-03
+     3.68715916e-03   3.05192429e-03]
+  [  3.16405669e-03   3.37677076e-03   3.17128259e-03 ...,   3.23995925e-03
+     3.59567418e-03   3.13312653e-03]
+  [  3.19664739e-03   3.36832786e-03   3.21525219e-03 ...,   3.27286054e-03
+     3.51542910e-03   3.20347003e-03]]
+
+ [[  8.62425669e-12   2.62748816e-11   3.19904671e-12 ...,   9.24744829e-12
+     3.44469092e-10   2.83616663e-12]
+  [  2.50521187e-10   7.19073745e-10   1.07792011e-10 ...,   2.68013362e-10
+     5.65789504e-09   9.60477184e-11]
+  [  1.10536935e-09   2.65511479e-09   4.32640201e-10 ...,   9.62452007e-10
+     1.76836163e-08   3.53748336e-10]
+  ..., 
+  [  3.12877912e-03   3.37944855e-03   3.11617530e-03 ...,   3.19978991e-03
+     3.68716544e-03   3.05191334e-03]
+  [  3.16408952e-03   3.37677333e-03   3.17127281e-03 ...,   3.23993480e-03
+     3.59568186e-03   3.13311978e-03]
+  [  3.19666765e-03   3.36833321e-03   3.21524730e-03 ...,   3.27284262e-03
+     3.51543608e-03   3.20346560e-03]]]
+encode_h2:
+[[-0.19583696  0.24038954 -0.12268659 ..., -0.00802098  0.15014814
+  -0.19340341]
+ [-0.25970131  0.320779   -0.16938689 ...,  0.00983215  0.25673199
+  -0.27047065]
+ [-0.27447087  0.34209237 -0.18353797 ...,  0.02952185  0.31348386
+  -0.29958811]
+ ..., 
+ [-0.26669943  0.34155545 -0.18107033 ...,  0.0510703   0.35065806
+  -0.30963311]
+ [-0.26160675  0.33848643 -0.17709355 ...,  0.05462446  0.35480785
+  -0.30786169]
+ [-0.25815696  0.33614907 -0.17384091 ...,  0.05580665  0.35620365
+  -0.30557865]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0703125   0.08691406  0.08789062 ..., -0.04760742  0.01446533 -0.0625    ]
+ [-0.21582031 -0.24414062 -0.00097275 ..., -0.078125   -0.38085938
+   0.08789062]
+ ..., 
+ [-0.02490234  0.02197266 -0.03540039 ...,  0.01080322 -0.01879883
+  -0.06884766]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.30859375  0.0534668  -0.00262451 ...,  0.13964844 -0.15332031
+   0.43359375]]
+decode_seq:
+[[-0.56885487  0.28747964 -0.45463932 ..., -0.39409971  0.80140126
+  -0.80232257]
+ [ 0.11520627  0.14519657  0.37418029 ..., -0.00192418 -0.33587036
+   0.21509197]
+ [-0.15594159  0.23758356 -0.55330664 ...,  0.02019477 -0.52730709
+  -0.70819098]
+ ..., 
+ [ 0.12023783 -0.67550325  0.69696558 ...,  0.60999215  0.03955398
+   0.45469803]
+ [ 0.13060984 -0.65791768  0.48474771 ...,  0.34387076 -0.24146983
+   0.46365404]
+ [-0.60320789 -0.48712981 -0.29516706 ...,  0.5201757  -0.08567274
+   0.10273299]]
+output_dstrb:
+[[  3.64643779e-06   8.76689938e-08   1.50722045e-07 ...,   2.26523809e-07
+    2.14056172e-06   1.22846117e-07]
+ [  1.99940428e-06   5.44363047e-07   8.66530456e-07 ...,   1.20728691e-06
+    5.96157543e-06   6.77402284e-07]
+ [  5.42136559e-06   9.39698523e-08   2.13792305e-07 ...,   4.16435682e-07
+    2.41867951e-06   2.10838138e-07]
+ ..., 
+ [  1.43672933e-05   7.02978298e-07   9.55535484e-07 ...,   1.63870175e-06
+    1.12706748e-05   8.43314979e-07]
+ [  1.27748463e-05   1.87249009e-06   3.01262912e-06 ...,   4.65141193e-06
+    1.48839072e-05   2.39406995e-06]
+ [  9.37945330e-08   2.03297020e-07   2.80298224e-07 ...,   5.21321567e-07
+    5.99281202e-06   2.08290430e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.318715
+No. 2
+BG in             
+-3.085161
+No. 3
+BG this             
+-3.366784
+No. 4
+BG trump             
+-3.409137
+No. 5
+BG but             
+-3.432733
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG this article            
+-4.733209
+No. 2
+BG in the            
+-4.856524
+No. 3
+BG but the            
+-5.289409
+No. 4
+BG the first            
+-5.394115
+No. 5
+BG this week            
+-5.545960
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this article is           
+-5.200879
+No. 2
+BG this article the           
+-7.753898
+No. 3
+BG this week the           
+-7.929653
+No. 4
+BG the first time           
+-8.043894
+No. 5
+BG in the first           
+-8.155533
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this article is part          
+-5.711246
+No. 2
+BG this article is the          
+-8.614168
+No. 3
+BG this article is also          
+-8.805053
+No. 4
+BG this article is feature          
+-8.910906
+No. 5
+BG this article is one          
+-9.958732
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this article is part feature         
+-5.981297
+No. 2
+BG this article is part we         
+-8.881460
+No. 3
+BG this article is the feature         
+-9.396844
+No. 4
+BG this article is feature feature         
+-9.531094
+No. 5
+BG this article is also feature         
+-9.541782
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this article is part feature we        
+-6.524855
+No. 2
+BG this article is part feature feature        
+-8.420254
+No. 3
+BG this article is part feature the        
+-9.481521
+No. 4
+BG this article is part we also        
+-9.897635
+No. 5
+BG this article is part feature that        
+-10.037887
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this article is part feature we also       
+-6.797747
+No. 2
+BG this article is part feature we send       
+-9.434320
+No. 3
+BG this article is part feature feature we       
+-9.514835
+No. 4
+BG this article is part feature we we       
+-10.259881
+No. 5
+BG this article is part we also send       
+-10.512164
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this article is part feature we also send      
+-7.081991
+No. 2
+BG this article is part feature feature we also      
+-9.802363
+No. 3
+BG this article is part feature we also also      
+-9.832129
+No. 4
+BG this article is part feature we send out      
+-9.986601
+No. 5
+BG this article is part we also send out      
+-10.704804
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this article is part feature we also send out     
+-7.268057
+No. 2
+BG this article is part feature feature we also send     
+-10.050205
+No. 3
+BG this article is part feature we send out via     
+-10.385993
+No. 4
+BG this article is part feature we also also send     
+-10.736068
+No. 5
+BG this article is part feature we also send send     
+-10.823917
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this article is part feature we also send out via    
+-7.633575
+No. 2
+BG this article is part feature we also send out email    
+-9.595612
+No. 3
+BG this article is part feature feature we also send out    
+-10.267113
+No. 4
+BG this article is part feature we send out via email    
+-10.813483
+No. 5
+BG this article is part feature we also also send out    
+-11.083257
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this article is part feature we also send out via email   
+-8.002373
+No. 2
+BG this article is part feature we also send out via via   
+-9.597324
+No. 3
+BG this article is part feature we also send out email as   
+-10.452156
+No. 4
+BG this article is part feature feature we also send out via   
+-10.648576
+No. 5
+BG this article is part feature we also send out via the   
+-11.007061
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this article is part feature we also send out via email as  
+-8.272296
+No. 2
+BG this article is part feature we also send out via via email  
+-10.228031
+No. 3
+BG this article is part feature we also send out email as the  
+-10.897441
+No. 4
+BG this article is part feature feature we also send out via email  
+-10.999801
+No. 5
+BG this article is part feature we also send out via email email  
+-11.303168
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this article is part feature we also send out via email as the 
+-8.585578
+No. 2
+BG this article is part feature we also send out via via email as 
+-10.653997
+No. 3
+BG this article is part feature we also send out via email as as 
+-11.023553
+No. 4
+BG this article is part feature feature we also send out via email as 
+-11.270881
+No. 5
+BG this article is part feature we also send out via email as part 
+-11.987409
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG this article is part feature we also send out via email as the atlantic ED
+-0.697784
+No. 2
+BG this article is part feature we also send out via email as the edge ED
+-0.731749
+No. 3
+BG this article is part feature we also send out via email as the daily ED
+-0.766933
+No. 4
+BG this article is part feature we also send out via via email as the ED
+-0.787740
+No. 5
+BG this article is part feature we also send out via email as the email ED
+-0.817793
+Content:
+BG even as capital punishment becomes less frequent killing remains punishable by death in NUM states ED             
+
+BG in texas so is not killing if the state goes through with the execution wood slated for aug ED          
+
+BG NUM man will die for murder he did not commit is not accused committing ED              
+
+BG twenty years ago mr ED                        
+
+BG wood made plan with friend steal safe from store in kerr county tex ED               
+
+BG while daniel entered the store shot the clerk mr ED                   
+
+BG wood sat outside in truck ED                       

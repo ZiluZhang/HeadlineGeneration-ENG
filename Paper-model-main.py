@@ -215,7 +215,7 @@ def train_lstm(
 				os.mkdir('%s/Sample-output-Keras' % data_dir)
 
 			fout = open('%s/Sample-output-Keras/out-%s%d.txt' % (data_dir, dataset_name, i), 'w')
-			fout.write(('Title:\n%s\nTeacher Forced Generated Title:\n%s\n' % (org_title, tcf_gen_title)).encode('utf-8'))
+			fout.write(('Title:\n%s\nTeacher Forced Generated Title:\n%s\n' % (org_title, tcf_gen_title)))
 			ppl = 0
 			fout.write('Distribution for each word in title:\n')
 			for j in range(Title_len):
@@ -223,8 +223,8 @@ def train_lstm(
 				k_argm = k_argmax(dst, 10)
 				fout.write('%d:\n' % (j+1))
 				for k in k_argm:	# k is the word_id
-					fout.write(('%s: %.6lf\n' % (id2w[k], dst[k])).encode('utf-8'))
-				fout.write(('* %s: %.6lf\n' % (id2w[ref_data[i][j+1]], dst[ref_data[i][j+1]])).encode('utf-8'))
+					fout.write(('%s: %.6lf\n' % (id2w[k], dst[k])))
+				fout.write(('* %s: %.6lf\n' % (id2w[ref_data[i][j+1]], dst[ref_data[i][j+1]])))
 				ppl += -np.log(dst[ref_data[i][j+1]])
 				fout.write('\n')
 
@@ -243,15 +243,15 @@ def train_lstm(
 				for k in range(len(allstep_best_open[step])):
 					(t, p) = allstep_best_open[step][k]
 					_title = ' '.join(id2w[wid] for wid in t)
-					fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title.encode('utf-8'), p))
+					fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title, p))
 				fout.write('--- End of Step %d ---\n' % (step + 1))
 
 			fout.write('\nGenerated Titles:\n')
 			for k in range(len(best_gen_title_list)):
 				(t, p) = best_gen_title_list[k]
 				_title = ' '.join(id2w[wid] for wid in t)
-				fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title.encode('utf-8'), p))
-			fout.write('Content:\n%s\n' % body.encode('utf-8'))
+				fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title, p))
+			fout.write('Content:\n%s\n' % body)
 
 			fout.close()
 
