@@ -1,0 +1,614 @@
+Title:
+BG according report released by the united refugee agency this morning the number people displaced by
+Teacher Forced Generated Title:
+the the the by the first states group in week that u the were in
+Distribution for each word in title:
+1:
+the: 0.267479
+in: 0.045723
+this: 0.034500
+trump: 0.033070
+but: 0.032299
+it: 0.023675
+s: 0.018612
+on: 0.018130
+NUM: 0.017111
+as: 0.011693
+* according: 0.002353
+
+2:
+the: 0.136435
+NUM: 0.039892
+news: 0.038525
+new: 0.031024
+that: 0.024791
+statement: 0.023103
+in: 0.017294
+this: 0.016127
+an: 0.014898
+on: 0.013361
+* report: 0.013305
+
+3:
+the: 0.189566
+that: 0.098323
+by: 0.053101
+from: 0.050960
+on: 0.034192
+in: 0.024696
+released: 0.013221
+published: 0.013039
+NUM: 0.012334
+which: 0.011183
+* released: 0.013221
+
+4:
+by: 0.230132
+on: 0.063163
+the: 0.059819
+in: 0.033800
+wednesday: 0.028889
+from: 0.027244
+as: 0.026952
+friday: 0.026469
+tuesday: 0.023402
+thursday: 0.022508
+* by: 0.230132
+
+5:
+the: 0.368925
+NUM: 0.048821
+an: 0.020929
+news: 0.016807
+by: 0.015534
+police: 0.012662
+former: 0.009478
+new: 0.006298
+trump: 0.005929
+on: 0.005515
+* the: 0.368925
+
+6:
+first: 0.026713
+news: 0.019975
+new: 0.019441
+u: 0.019361
+former: 0.014855
+the: 0.014387
+NUM: 0.012032
+police: 0.010421
+report: 0.008832
+university: 0.007782
+* united: 0.001880
+
+7:
+states: 0.487843
+the: 0.023166
+nations: 0.022178
+national: 0.013782
+on: 0.013001
+group: 0.009304
+by: 0.007505
+in: 0.007381
+media: 0.007293
+state: 0.006376
+* refugee: 0.000031
+
+8:
+group: 0.016505
+media: 0.016227
+in: 0.010723
+security: 0.010079
+which: 0.009960
+committee: 0.009797
+the: 0.008496
+leader: 0.006695
+center: 0.006663
+leaders: 0.006119
+* agency: 0.002425
+
+9:
+in: 0.067918
+on: 0.041978
+that: 0.038292
+has: 0.029565
+said: 0.029405
+which: 0.025142
+was: 0.022218
+the: 0.021795
+for: 0.020630
+ED: 0.014605
+* this: 0.001274
+
+10:
+week: 0.300831
+month: 0.038151
+year: 0.036685
+article: 0.017846
+is: 0.011373
+was: 0.008731
+weekend: 0.006211
+the: 0.004521
+NUM: 0.004479
+summer: 0.004414
+* morning: 0.003632
+
+11:
+that: 0.094711
+the: 0.091184
+in: 0.069359
+after: 0.042571
+ED: 0.034282
+at: 0.028205
+on: 0.026304
+was: 0.023095
+with: 0.022917
+when: 0.013872
+* the: 0.091184
+
+12:
+u: 0.017542
+new: 0.016649
+first: 0.015603
+former: 0.009883
+the: 0.009287
+president: 0.007666
+news: 0.007547
+police: 0.005842
+company: 0.005729
+trump: 0.005564
+* number: 0.001118
+
+13:
+the: 0.064034
+was: 0.024246
+were: 0.017499
+NUM: 0.015016
+people: 0.013883
+is: 0.013347
+had: 0.012986
+has: 0.011000
+which: 0.007803
+other: 0.007294
+* people: 0.013883
+
+14:
+were: 0.155948
+have: 0.080817
+who: 0.057277
+in: 0.045327
+are: 0.045153
+the: 0.030176
+had: 0.022604
+found: 0.009470
+was: 0.009253
+that: 0.009138
+* displaced: 0.000003
+
+15:
+in: 0.151587
+were: 0.077463
+have: 0.050512
+the: 0.041180
+are: 0.040737
+from: 0.031129
+with: 0.027618
+NUM: 0.022926
+on: 0.021231
+by: 0.016121
+* by: 0.016121
+
+
+Perplexity = 5.486474
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.08056641 -0.04296875 -0.09716797 ...,  0.36914062  0.14746094
+  -0.12792969]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  8.57146819e-12   2.59033732e-11   3.17832566e-12 ...,   9.15707440e-12
+     3.41733669e-10   2.80840086e-12]
+  [  2.24786426e-10   6.21655172e-10   8.72227290e-11 ...,   2.19762777e-10
+     4.91629315e-09   7.77478498e-11]
+  [  1.14364418e-09   2.43791565e-09   4.34412145e-10 ...,   9.54841761e-10
+     1.87288443e-08   3.95018102e-10]
+  ..., 
+  [  3.12872534e-03   3.37944785e-03   3.11612943e-03 ...,   3.19980248e-03
+     3.68714263e-03   3.05190450e-03]
+  [  3.16405459e-03   3.37676657e-03   3.17124138e-03 ...,   3.23994691e-03
+     3.59566533e-03   3.13311303e-03]
+  [  3.19664483e-03   3.36832483e-03   3.21522565e-03 ...,   3.27285239e-03
+     3.51542467e-03   3.20346095e-03]]
+
+ [[  8.57329919e-12   2.55757221e-11   3.21663724e-12 ...,   9.23005596e-12
+     3.41613765e-10   2.84453125e-12]
+  [  2.66404371e-10   6.94067470e-10   9.92541743e-11 ...,   2.63075256e-10
+     5.85322768e-09   9.38032707e-11]
+  [  8.09307565e-10   1.88930604e-09   2.90809682e-10 ...,   7.26343319e-10
+     1.42583829e-08   2.75249046e-10]
+  ..., 
+  [  2.84365029e-03   3.61678889e-03   2.26927153e-03 ...,   2.52491795e-03
+     4.79645468e-03   2.45021004e-03]
+  [  3.13329720e-03   3.68272979e-03   2.72465590e-03 ...,   2.87544425e-03
+     4.14544763e-03   2.67814542e-03]
+  [  3.44120245e-03   3.35280504e-03   3.13352398e-03 ...,   3.25056305e-03
+     3.88142373e-03   3.31149925e-03]]
+
+ [[  8.63217223e-12   2.60905048e-11   3.22320859e-12 ...,   9.23178201e-12
+     3.43219092e-10   2.83405222e-12]
+  [  2.33844805e-10   6.51313781e-10   8.88245380e-11 ...,   2.39406245e-10
+     5.42757661e-09   8.49331994e-11]
+  [  8.44519621e-10   2.17717133e-09   3.35341588e-10 ...,   7.83595633e-10
+     1.51073483e-08   2.96416364e-10]
+  ..., 
+  [  3.12874583e-03   3.37943854e-03   3.11615015e-03 ...,   3.19978804e-03
+     3.68717546e-03   3.05192312e-03]
+  [  3.16406763e-03   3.37676634e-03   3.17125698e-03 ...,   3.23993387e-03
+     3.59568838e-03   3.13312723e-03]
+  [  3.19665321e-03   3.36832763e-03   3.21523729e-03 ...,   3.27284168e-03
+     3.51544004e-03   3.20347096e-03]]
+
+ ..., 
+ [[  8.55125172e-12   2.58945799e-11   3.18204404e-12 ...,   9.12983317e-12
+     3.40900363e-10   2.80327931e-12]
+  [  2.17189239e-10   5.86159343e-10   8.61901314e-11 ...,   2.17652868e-10
+     4.85008167e-09   7.61014099e-11]
+  [  7.46674778e-10   1.93817939e-09   3.07729120e-10 ...,   6.95066060e-10
+     1.31725200e-08   2.66532324e-10]
+  ..., 
+  [  3.12872673e-03   3.37943505e-03   3.11614620e-03 ...,   3.19980271e-03
+     3.68716079e-03   3.05191590e-03]
+  [  3.16405459e-03   3.37676262e-03   3.17125348e-03 ...,   3.23994318e-03
+     3.59567790e-03   3.13312234e-03]
+  [  3.19664506e-03   3.36832483e-03   3.21523449e-03 ...,   3.27284844e-03
+     3.51543352e-03   3.20346840e-03]]
+
+ [[  8.35582385e-12   2.55562654e-11   3.19297496e-12 ...,   9.15885597e-12
+     3.39859002e-10   2.75553690e-12]
+  [  1.71355943e-10   4.52072824e-10   7.47343160e-11 ...,   1.93149649e-10
+     4.28727498e-09   5.69500523e-11]
+  [  9.34630373e-10   2.18418794e-09   3.93349742e-10 ...,   8.32762803e-10
+     1.61324998e-08   3.00337477e-10]
+  ..., 
+  [  3.12868832e-03   3.37942992e-03   3.11618717e-03 ...,   3.19985789e-03
+     3.68712610e-03   3.05190706e-03]
+  [  3.16402875e-03   3.37675377e-03   3.17128072e-03 ...,   3.23998253e-03
+     3.59565439e-03   3.13311722e-03]
+  [  3.19662783e-03   3.36831575e-03   3.21525056e-03 ...,   3.27287544e-03
+     3.51541745e-03   3.20346514e-03]]
+
+ [[  8.53751358e-12   2.54958450e-11   3.16031164e-12 ...,   9.02272788e-12
+     3.40328654e-10   2.80523695e-12]
+  [  2.11152443e-10   5.84532700e-10   8.38374786e-11 ...,   2.11075130e-10
+     4.65870365e-09   7.19120180e-11]
+  [  9.49571310e-10   2.31074937e-09   3.82916560e-10 ...,   8.18547286e-10
+     1.62288529e-08   3.44007739e-10]
+  ..., 
+  [  3.12310853e-03   3.39165772e-03   3.10724415e-03 ...,   3.19131115e-03
+     3.69685632e-03   3.05167632e-03]
+  [  3.16063897e-03   3.38416151e-03   3.16714961e-03 ...,   3.23568285e-03
+     3.60084907e-03   3.13365343e-03]
+  [  3.19447089e-03   3.37265083e-03   3.21352738e-03 ...,   3.27080581e-03
+     3.51816858e-03   3.20416898e-03]]]
+encode_h2:
+[[-0.19583696  0.24038954 -0.12268659 ..., -0.00802098  0.15014814
+  -0.19340341]
+ [-0.25970131  0.320779   -0.16938689 ...,  0.00983215  0.25673199
+  -0.27047065]
+ [-0.27447087  0.34209237 -0.18353797 ...,  0.02952185  0.31348386
+  -0.29958811]
+ ..., 
+ [-0.26669943  0.34155545 -0.18107033 ...,  0.0510703   0.35065806
+  -0.30963311]
+ [-0.26160675  0.33848643 -0.17709355 ...,  0.05462446  0.35480785
+  -0.30786169]
+ [-0.25815696  0.33614907 -0.17384091 ...,  0.05580665  0.35620365
+  -0.30557865]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.05541992 -0.19628906 -0.06835938 ...,  0.04736328  0.0625      0.14160156]
+ [-0.14257812 -0.1640625  -0.09033203 ..., -0.10546875  0.08447266
+  -0.14160156]
+ ..., 
+ [ 0.13964844 -0.04101562  0.09277344 ...,  0.02185059 -0.10791016
+  -0.06030273]
+ [ 0.26367188 -0.01916504  0.02893066 ..., -0.06689453  0.20703125
+  -0.13867188]
+ [ 0.24902344  0.1640625  -0.09960938 ...,  0.06201172  0.0378418
+  -0.28515625]]
+decode_seq:
+[[-0.56885487  0.28747964 -0.45463932 ..., -0.39409971  0.80140126
+  -0.80232257]
+ [ 0.41980386  0.4538404   0.34618735 ..., -0.79998946 -0.44455776
+  -0.29097384]
+ [-0.15689386  0.45310417 -0.5195992  ..., -0.52915061 -0.76550764
+  -0.8732143 ]
+ ..., 
+ [-0.0593794   0.53388023 -0.19860999 ..., -0.41016215 -0.51203555
+  -0.4087927 ]
+ [-0.24659567  0.52991068 -0.12636782 ..., -0.77015638 -0.27772641
+   0.01364732]
+ [-0.60255086  0.45977595 -0.20256941 ..., -0.48593676 -0.11898184
+   0.37198704]]
+output_dstrb:
+[[  3.64643779e-06   8.76689938e-08   1.50722045e-07 ...,   2.26523809e-07
+    2.14056172e-06   1.22846117e-07]
+ [  1.24907706e-06   1.47549159e-07   3.21900416e-07 ...,   5.20394451e-07
+    2.12273858e-06   2.30257541e-07]
+ [  6.29517672e-06   8.72502142e-08   1.89986579e-07 ...,   3.49496787e-07
+    2.09158407e-06   1.28508688e-07]
+ ..., 
+ [  7.49461560e-06   6.98281610e-07   1.61709102e-06 ...,   2.47027197e-06
+    1.39977665e-05   1.40112900e-06]
+ [  1.91685081e-06   3.45084004e-07   6.69753035e-07 ...,   1.11623979e-06
+    5.34098717e-06   4.30531031e-07]
+ [  1.29726459e-07   1.68869732e-07   2.80924354e-07 ...,   3.47356746e-07
+    2.30942101e-06   2.07243403e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.318715
+No. 2
+BG in             
+-3.085161
+No. 3
+BG this             
+-3.366784
+No. 4
+BG trump             
+-3.409137
+No. 5
+BG but             
+-3.432733
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG this article            
+-4.733209
+No. 2
+BG in the            
+-4.856524
+No. 3
+BG but the            
+-5.289409
+No. 4
+BG the first            
+-5.394115
+No. 5
+BG this week            
+-5.545960
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this article is           
+-5.200879
+No. 2
+BG this article the           
+-7.753898
+No. 3
+BG this week the           
+-7.929652
+No. 4
+BG the first time           
+-8.043894
+No. 5
+BG in the first           
+-8.155534
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this article is part          
+-5.711246
+No. 2
+BG this article is the          
+-8.614168
+No. 3
+BG this article is also          
+-8.805053
+No. 4
+BG this article is feature          
+-8.910906
+No. 5
+BG this article is one          
+-9.958732
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this article is part feature         
+-5.981297
+No. 2
+BG this article is part we         
+-8.881460
+No. 3
+BG this article is the feature         
+-9.396844
+No. 4
+BG this article is feature feature         
+-9.531095
+No. 5
+BG this article is also feature         
+-9.541782
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this article is part feature we        
+-6.524855
+No. 2
+BG this article is part feature feature        
+-8.420254
+No. 3
+BG this article is part feature the        
+-9.481521
+No. 4
+BG this article is part we also        
+-9.897635
+No. 5
+BG this article is part feature that        
+-10.037887
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this article is part feature we also       
+-6.797747
+No. 2
+BG this article is part feature we send       
+-9.434320
+No. 3
+BG this article is part feature feature we       
+-9.514835
+No. 4
+BG this article is part feature we we       
+-10.259881
+No. 5
+BG this article is part we also send       
+-10.512164
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this article is part feature we also send      
+-7.081991
+No. 2
+BG this article is part feature feature we also      
+-9.802363
+No. 3
+BG this article is part feature we also also      
+-9.832129
+No. 4
+BG this article is part feature we send out      
+-9.986601
+No. 5
+BG this article is part we also send out      
+-10.704804
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this article is part feature we also send out     
+-7.268057
+No. 2
+BG this article is part feature feature we also send     
+-10.050205
+No. 3
+BG this article is part feature we send out via     
+-10.385993
+No. 4
+BG this article is part feature we also also send     
+-10.736068
+No. 5
+BG this article is part feature we also send send     
+-10.823917
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this article is part feature we also send out via    
+-7.633575
+No. 2
+BG this article is part feature we also send out email    
+-9.595612
+No. 3
+BG this article is part feature feature we also send out    
+-10.267113
+No. 4
+BG this article is part feature we send out via email    
+-10.813483
+No. 5
+BG this article is part feature we also also send out    
+-11.083257
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this article is part feature we also send out via email   
+-8.002373
+No. 2
+BG this article is part feature we also send out via via   
+-9.597325
+No. 3
+BG this article is part feature we also send out email as   
+-10.452156
+No. 4
+BG this article is part feature feature we also send out via   
+-10.648576
+No. 5
+BG this article is part feature we also send out via the   
+-11.007061
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this article is part feature we also send out via email as  
+-8.272296
+No. 2
+BG this article is part feature we also send out via via email  
+-10.228031
+No. 3
+BG this article is part feature we also send out email as the  
+-10.897441
+No. 4
+BG this article is part feature feature we also send out via email  
+-10.999802
+No. 5
+BG this article is part feature we also send out via email email  
+-11.303168
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this article is part feature we also send out via email as the 
+-8.585578
+No. 2
+BG this article is part feature we also send out via via email as 
+-10.653997
+No. 3
+BG this article is part feature we also send out via email as as 
+-11.023553
+No. 4
+BG this article is part feature feature we also send out via email as 
+-11.270882
+No. 5
+BG this article is part feature we also send out via email as part 
+-11.987409
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG this article is part feature we also send out via email as the atlantic ED
+-0.697784
+No. 2
+BG this article is part feature we also send out via email as the edge ED
+-0.731749
+No. 3
+BG this article is part feature we also send out via email as the daily ED
+-0.766933
+No. 4
+BG this article is part feature we also send out via via email as the ED
+-0.787740
+No. 5
+BG this article is part feature we also send out via email as the email ED
+-0.817793
+Content:
+BG the global community has reached devastating new milestone ED                    
+
+BG according report released by the united refugee agency this morning the number people displaced by conflict at the end NUM was the highest ever even greater than the refugee
+
+BG by the end NUM some NUM ED                      
+
+BG NUM million people were forcibly displaced from their homes globally ED                  
+
+BG in that year alone an estimated NUM ED                     
+
+BG NUM million people were newly displaced according the report ED                   
+
+BG this means that for every minute in NUM an average NUM people left their communities because violence or persecution ED         

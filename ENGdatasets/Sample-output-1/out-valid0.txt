@@ -1,0 +1,615 @@
+Title:
+BG john mccain rebuked president donald remarks towards controversial foreign leaders that have been widely admonished
+Teacher Forced Generated Title:
+the mccain is the donald trump on the the policy in the been the the
+Distribution for each word in title:
+1:
+the: 0.267479
+in: 0.045723
+this: 0.034500
+trump: 0.033070
+but: 0.032299
+it: 0.023675
+s: 0.018612
+on: 0.018130
+NUM: 0.017111
+as: 0.011693
+* john: 0.002250
+
+2:
+mccain: 0.062145
+said: 0.039778
+ED: 0.037428
+sanders: 0.021380
+was: 0.019867
+who: 0.017324
+is: 0.017263
+sessions: 0.010014
+NUM: 0.008821
+has: 0.008488
+* mccain: 0.062145
+
+3:
+is: 0.084089
+was: 0.080014
+said: 0.076642
+has: 0.046177
+who: 0.032995
+on: 0.025218
+in: 0.024352
+NUM: 0.022491
+the: 0.018861
+ED: 0.017762
+* rebuked: 0.000000
+
+4:
+the: 0.179307
+his: 0.106803
+him: 0.076406
+donald: 0.037138
+on: 0.028647
+her: 0.028449
+for: 0.022720
+hillary: 0.021409
+trump: 0.015192
+an: 0.015170
+* president: 0.011272
+
+5:
+donald: 0.157247
+obama: 0.064878
+barack: 0.032058
+trump: 0.031025
+the: 0.030473
+in: 0.019680
+hillary: 0.017542
+john: 0.017287
+ED: 0.012789
+his: 0.011649
+* donald: 0.157247
+
+6:
+trump: 0.548325
+j: 0.054153
+ED: 0.020433
+sanders: 0.013557
+on: 0.013307
+who: 0.012941
+clinton: 0.011833
+in: 0.010294
+obama: 0.009255
+the: 0.007923
+* remarks: 0.000127
+
+7:
+on: 0.223357
+in: 0.085117
+about: 0.054163
+from: 0.051690
+at: 0.045106
+ED: 0.035944
+that: 0.025819
+the: 0.018583
+during: 0.016764
+wednesday: 0.013898
+* towards: 0.000041
+
+8:
+the: 0.250167
+his: 0.063492
+an: 0.020765
+donald: 0.011961
+president: 0.009934
+that: 0.009775
+hillary: 0.007333
+on: 0.007192
+NUM: 0.007145
+her: 0.006754
+* controversial: 0.000200
+
+9:
+the: 0.018378
+on: 0.017729
+campaign: 0.015704
+republican: 0.015502
+his: 0.012605
+in: 0.010560
+president: 0.009066
+presidential: 0.008612
+national: 0.008452
+news: 0.008359
+* foreign: 0.001537
+
+10:
+policy: 0.087570
+security: 0.046507
+committee: 0.014497
+minister: 0.012254
+media: 0.009166
+leaders: 0.006689
+convention: 0.005862
+secretary: 0.005850
+law: 0.005814
+officials: 0.004842
+* leaders: 0.006689
+
+11:
+in: 0.118620
+the: 0.052442
+on: 0.048556
+from: 0.046555
+ED: 0.045466
+at: 0.033747
+with: 0.030225
+who: 0.023520
+as: 0.020527
+that: 0.019745
+* that: 0.019745
+
+12:
+the: 0.115736
+he: 0.060976
+they: 0.038946
+president: 0.014897
+trump: 0.013180
+would: 0.012453
+his: 0.012232
+in: 0.010205
+donald: 0.010171
+it: 0.009686
+* have: 0.005069
+
+13:
+been: 0.126802
+the: 0.065248
+made: 0.011879
+no: 0.011836
+his: 0.009023
+not: 0.008540
+had: 0.008206
+long: 0.007498
+more: 0.006780
+president: 0.006587
+* been: 0.126802
+
+14:
+the: 0.019556
+in: 0.011144
+been: 0.009652
+more: 0.009535
+no: 0.008048
+that: 0.006163
+made: 0.005933
+taken: 0.005668
+called: 0.005349
+under: 0.005128
+* widely: 0.000952
+
+15:
+the: 0.025794
+been: 0.015617
+as: 0.014592
+since: 0.012156
+made: 0.007516
+for: 0.007515
+known: 0.006955
+president: 0.006034
+in: 0.005752
+said: 0.005633
+* admonished: 0.000003
+
+
+Perplexity = 6.673991
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.38867188 -0.11132812 -0.140625   ...,  0.0625      0.01068115
+   0.20410156]
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  8.58493311e-12   2.60718998e-11   3.21094258e-12 ...,   9.21399675e-12
+     3.47262191e-10   2.83507419e-12]
+  [  1.48785761e-10   4.32275160e-10   6.57411764e-11 ...,   1.51909374e-10
+     3.56096552e-09   5.63357520e-11]
+  [  1.25163616e-10   3.34239803e-10   4.92954774e-11 ...,   1.02917112e-10
+     2.96412872e-09   4.35896527e-11]
+  ..., 
+  [  3.12878215e-03   3.37945647e-03   3.11616692e-03 ...,   3.19977966e-03
+     3.68717546e-03   3.05191521e-03]
+  [  3.16409185e-03   3.37677938e-03   3.17126885e-03 ...,   3.23992828e-03
+     3.59568861e-03   3.13312118e-03]
+  [  3.19666951e-03   3.36833717e-03   3.21524544e-03 ...,   3.27283889e-03
+     3.51544097e-03   3.20346700e-03]]
+
+ [[  8.14804387e-12   2.51783906e-11   3.07008021e-12 ...,   8.71096684e-12
+     3.34820449e-10   2.68232637e-12]
+  [  2.26210925e-10   6.61035671e-10   9.18229520e-11 ...,   2.22615523e-10
+     5.74358605e-09   8.04059250e-11]
+  [  9.47975143e-10   2.38036546e-09   4.50612270e-10 ...,   8.48902393e-10
+     2.01311341e-08   3.76125270e-10]
+  ..., 
+  [  3.12853744e-03   3.38063203e-03   3.11490381e-03 ...,   3.19932797e-03
+     3.68958269e-03   3.04878247e-03]
+  [  3.16368276e-03   3.37739452e-03   3.17103346e-03 ...,   3.24005983e-03
+     3.59687093e-03   3.13131115e-03]
+  [  3.19623551e-03   3.36861960e-03   3.21541447e-03 ...,   3.27316206e-03
+     3.51598556e-03   3.20241996e-03]]
+
+ [[  8.43277184e-12   2.50663587e-11   3.13419885e-12 ...,   9.00416026e-12
+     3.36891487e-10   2.76778383e-12]
+  [  2.04998574e-10   5.60701374e-10   7.65290609e-11 ...,   1.93708549e-10
+     4.38955450e-09   7.11433829e-11]
+  [  1.17068866e-09   3.01007308e-09   5.46459766e-10 ...,   1.17839738e-09
+     2.17497966e-08   4.15324469e-10]
+  ..., 
+  [  3.12168361e-03   3.39992787e-03   3.05456016e-03 ...,   3.15196323e-03
+     3.73935979e-03   3.01092886e-03]
+  [  3.16330348e-03   3.39147169e-03   3.14012752e-03 ...,   3.21773440e-03
+     3.62262549e-03   3.11015779e-03]
+  [  3.19763832e-03   3.37827695e-03   3.20027256e-03 ...,   3.26336082e-03
+     3.52920452e-03   3.19100148e-03]]
+
+ ..., 
+ [[  8.52070844e-12   2.53784320e-11   3.12295068e-12 ...,   9.08505129e-12
+     3.41181361e-10   2.79522781e-12]
+  [  2.31014652e-10   6.70543288e-10   9.21540275e-11 ...,   2.28210464e-10
+     5.20916643e-09   8.80225962e-11]
+  [  8.71521855e-10   2.22150143e-09   3.55320551e-10 ...,   7.89403931e-10
+     1.49960151e-08   3.12381343e-10]
+  ..., 
+  [  1.27684535e-03   2.02078326e-03   1.06872863e-03 ...,   1.09898357e-03
+     3.70210782e-03   8.28769582e-04]
+  [  2.12665158e-03   3.53461783e-03   1.95172033e-03 ...,   1.93561625e-03
+     4.52324236e-03   1.62549713e-03]
+  [  2.18692096e-03   3.13164364e-03   1.86366111e-03 ...,   1.80989946e-03
+     4.66217659e-03   1.75298308e-03]]
+
+ [[  8.34961093e-12   2.53269818e-11   3.12008102e-12 ...,   8.99204322e-12
+     3.38822137e-10   2.75032818e-12]
+  [  1.47671847e-10   4.35364911e-10   6.52835980e-11 ...,   1.46484935e-10
+     3.77220077e-09   5.68535670e-11]
+  [  6.45317466e-10   1.67891001e-09   2.71295653e-10 ...,   5.49820522e-10
+     1.18780425e-08   2.36721254e-10]
+  ..., 
+  [  3.12847504e-03   3.37986951e-03   3.11622838e-03 ...,   3.20001529e-03
+     3.68766603e-03   3.05192405e-03]
+  [  3.16389510e-03   3.37698497e-03   3.17137060e-03 ...,   3.24016600e-03
+     3.59592447e-03   3.13316192e-03]
+  [  3.19654215e-03   3.36842891e-03   3.21533601e-03 ...,   3.27303703e-03
+     3.51554807e-03   3.20350705e-03]]
+
+ [[  8.38715208e-12   2.52963241e-11   3.11382062e-12 ...,   8.97295779e-12
+     3.36572298e-10   2.75784538e-12]
+  [  1.64377956e-10   4.73162287e-10   6.69875821e-11 ...,   1.66886616e-10
+     3.88712884e-09   6.08619127e-11]
+  [  6.93930857e-10   1.83112936e-09   2.83182616e-10 ...,   6.30844987e-10
+     1.23539206e-08   2.72426554e-10]
+  ..., 
+  [  3.12811695e-03   3.39046819e-03   3.10408697e-03 ...,   3.18626873e-03
+     3.69947590e-03   3.03385733e-03]
+  [  3.16395820e-03   3.38436617e-03   3.16658383e-03 ...,   3.23396549e-03
+     3.60161578e-03   3.12360679e-03]
+  [  3.19653400e-03   3.37327854e-03   3.21397395e-03 ...,   3.27046961e-03
+     3.51822656e-03   3.19860852e-03]]]
+encode_h2:
+[[-0.19583696  0.24038954 -0.12268659 ..., -0.00802098  0.15014814
+  -0.19340341]
+ [-0.25970131  0.320779   -0.16938689 ...,  0.00983215  0.25673199
+  -0.27047065]
+ [-0.27447087  0.34209237 -0.18353797 ...,  0.02952185  0.31348386
+  -0.29958811]
+ ..., 
+ [-0.26669943  0.34155545 -0.18107033 ...,  0.0510703   0.35065806
+  -0.30963311]
+ [-0.26160675  0.33848643 -0.17709355 ...,  0.05462446  0.35480785
+  -0.30786169]
+ [-0.25815696  0.33614907 -0.17384091 ...,  0.05580665  0.35620365
+  -0.30557865]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.25390625  0.14746094 -0.08154297 ..., -0.12451172 -0.12792969
+   0.30664062]
+ [ 0.03540039  0.0013504   0.04443359 ..., -0.16015625 -0.18164062
+   0.17480469]
+ ..., 
+ [-0.13964844 -0.03466797 -0.05371094 ..., -0.11816406 -0.00245667
+  -0.07226562]
+ [-0.10107422  0.0177002   0.01470947 ..., -0.08349609  0.00558472
+  -0.01782227]
+ [ 0.04882812 -0.12353516 -0.08105469 ..., -0.08984375  0.13769531
+  -0.00689697]]
+decode_seq:
+[[-0.56885487  0.28747964 -0.45463932 ..., -0.39409971  0.80140126
+  -0.80232257]
+ [-0.6880219   0.65776992 -0.59558654 ...,  0.08632959  0.21406184
+   0.3195917 ]
+ [-0.44031602  0.70755553 -0.83314049 ...,  0.65826499  0.57213116
+  -0.49811012]
+ ..., 
+ [ 0.77279669  0.2060162   0.25000653 ...,  0.63165104 -0.01534504
+   0.74611604]
+ [-0.15012118  0.16991654 -0.57109416 ...,  0.63134897  0.31211305
+   0.78102708]
+ [ 0.41686779 -0.32087195 -0.84100646 ...,  0.22382729  0.26614931
+   0.68819416]]
+output_dstrb:
+[[  3.64643779e-06   8.76689938e-08   1.50722045e-07 ...,   2.26523809e-07
+    2.14056172e-06   1.22846117e-07]
+ [  5.43121096e-05   2.90539901e-06   4.50773632e-06 ...,   5.77669880e-06
+    2.12217383e-05   2.91168499e-06]
+ [  9.14079737e-06   1.76319176e-07   3.40792383e-07 ...,   5.39419887e-07
+    2.00324985e-06   2.62386294e-07]
+ ..., 
+ [  1.61068347e-05   7.54522318e-07   1.26403438e-06 ...,   1.86042325e-06
+    9.11198094e-06   9.69738153e-07]
+ [  1.71259580e-05   2.82928067e-06   3.34225456e-06 ...,   4.56662201e-06
+    2.25025797e-05   2.80682161e-06]
+ [  2.57001302e-05   2.00242062e-06   2.39549172e-06 ...,   3.70541170e-06
+    2.04874686e-05   1.94920221e-06]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.318715
+No. 2
+BG in             
+-3.085161
+No. 3
+BG this             
+-3.366784
+No. 4
+BG trump             
+-3.409137
+No. 5
+BG but             
+-3.432733
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG this article            
+-4.733209
+No. 2
+BG in the            
+-4.856524
+No. 3
+BG but the            
+-5.289409
+No. 4
+BG the first            
+-5.394115
+No. 5
+BG this week            
+-5.545960
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this article is           
+-5.200879
+No. 2
+BG this article the           
+-7.753898
+No. 3
+BG this week the           
+-7.929652
+No. 4
+BG the first time           
+-8.043894
+No. 5
+BG in the first           
+-8.155533
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this article is part          
+-5.711246
+No. 2
+BG this article is the          
+-8.614168
+No. 3
+BG this article is also          
+-8.805053
+No. 4
+BG this article is feature          
+-8.910907
+No. 5
+BG this article is one          
+-9.958732
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this article is part feature         
+-5.981297
+No. 2
+BG this article is part we         
+-8.881460
+No. 3
+BG this article is the feature         
+-9.396844
+No. 4
+BG this article is feature feature         
+-9.531095
+No. 5
+BG this article is also feature         
+-9.541782
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this article is part feature we        
+-6.524855
+No. 2
+BG this article is part feature feature        
+-8.420254
+No. 3
+BG this article is part feature the        
+-9.481521
+No. 4
+BG this article is part we also        
+-9.897635
+No. 5
+BG this article is part feature that        
+-10.037887
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this article is part feature we also       
+-6.797747
+No. 2
+BG this article is part feature we send       
+-9.434320
+No. 3
+BG this article is part feature feature we       
+-9.514835
+No. 4
+BG this article is part feature we we       
+-10.259881
+No. 5
+BG this article is part we also send       
+-10.512165
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this article is part feature we also send      
+-7.081991
+No. 2
+BG this article is part feature feature we also      
+-9.802363
+No. 3
+BG this article is part feature we also also      
+-9.832129
+No. 4
+BG this article is part feature we send out      
+-9.986601
+No. 5
+BG this article is part we also send out      
+-10.704804
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this article is part feature we also send out     
+-7.268057
+No. 2
+BG this article is part feature feature we also send     
+-10.050205
+No. 3
+BG this article is part feature we send out via     
+-10.385992
+No. 4
+BG this article is part feature we also also send     
+-10.736068
+No. 5
+BG this article is part feature we also send send     
+-10.823917
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this article is part feature we also send out via    
+-7.633575
+No. 2
+BG this article is part feature we also send out email    
+-9.595612
+No. 3
+BG this article is part feature feature we also send out    
+-10.267113
+No. 4
+BG this article is part feature we send out via email    
+-10.813483
+No. 5
+BG this article is part feature we also also send out    
+-11.083257
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this article is part feature we also send out via email   
+-8.002373
+No. 2
+BG this article is part feature we also send out via via   
+-9.597325
+No. 3
+BG this article is part feature we also send out email as   
+-10.452156
+No. 4
+BG this article is part feature feature we also send out via   
+-10.648576
+No. 5
+BG this article is part feature we also send out via the   
+-11.007061
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this article is part feature we also send out via email as  
+-8.272296
+No. 2
+BG this article is part feature we also send out via via email  
+-10.228031
+No. 3
+BG this article is part feature we also send out email as the  
+-10.897441
+No. 4
+BG this article is part feature feature we also send out via email  
+-10.999802
+No. 5
+BG this article is part feature we also send out via email email  
+-11.303168
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this article is part feature we also send out via email as the 
+-8.585578
+No. 2
+BG this article is part feature we also send out via via email as 
+-10.653997
+No. 3
+BG this article is part feature we also send out via email as as 
+-11.023553
+No. 4
+BG this article is part feature feature we also send out via email as 
+-11.270882
+No. 5
+BG this article is part feature we also send out via email as part 
+-11.987409
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG this article is part feature we also send out via email as the atlantic ED
+-0.697784
+No. 2
+BG this article is part feature we also send out via email as the edge ED
+-0.731749
+No. 3
+BG this article is part feature we also send out via email as the daily ED
+-0.766933
+No. 4
+BG this article is part feature we also send out via via email as the ED
+-0.787740
+No. 5
+BG this article is part feature we also send out via email as the email ED
+-0.817793
+Content:
+BG sen ED                           
+
+BG john mccain rebuked president donald remarks towards controversial foreign leaders that have been widely admonished by lawmakers ED           
+
+BG speaking joe scarborough on on tuesday mccain said that latest attempts side with leaders like kim jong un north korea were beyond ED      
+
+BG understand it i think that the president appreciates the fact that when he says things like that it helps the credibility prestige this really outrageous mccain said referring kim
+
+BG wish the president would consider much more carefully his trump sent in the national security community after calling jong un acknowledging that he would be meet with him ED
+
+BG date no sitting us president has ever held meeting with current north korean leader ED              
+
+BG it would be appropriate for me meet with him i would absolutely i would be honored do trump on monday ED        

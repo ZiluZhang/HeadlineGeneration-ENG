@@ -1,0 +1,615 @@
+Title:
+BG police said imam his associate were shot in the back the head as they left
+Teacher Forced Generated Title:
+the officers the was was in killed in the police the city the the were
+Distribution for each word in title:
+1:
+the: 0.267479
+in: 0.045723
+this: 0.034500
+trump: 0.033070
+but: 0.032299
+it: 0.023675
+s: 0.018612
+on: 0.018130
+NUM: 0.017111
+as: 0.011693
+* police: 0.001531
+
+2:
+officers: 0.071279
+said: 0.057009
+officer: 0.045550
+in: 0.023562
+department: 0.021759
+were: 0.020849
+officials: 0.016303
+chief: 0.014728
+who: 0.014282
+was: 0.012046
+* said: 0.057009
+
+3:
+the: 0.167778
+they: 0.059973
+in: 0.052829
+that: 0.045289
+he: 0.038720
+it: 0.032833
+she: 0.031131
+on: 0.024727
+was: 0.012746
+thursday: 0.012257
+* imam: 0.000003
+
+4:
+was: 0.049524
+had: 0.042761
+who: 0.032894
+were: 0.030563
+in: 0.029057
+said: 0.016606
+officers: 0.013915
+the: 0.010413
+officer: 0.009874
+police: 0.008548
+* his: 0.001263
+
+5:
+was: 0.021292
+son: 0.018563
+father: 0.016302
+had: 0.014650
+family: 0.014318
+mother: 0.014071
+death: 0.011060
+home: 0.011055
+wife: 0.010746
+name: 0.009490
+* associate: 0.000096
+
+6:
+in: 0.042413
+with: 0.032375
+for: 0.031972
+was: 0.026268
+at: 0.022528
+who: 0.020241
+the: 0.018987
+on: 0.018277
+said: 0.012189
+ED: 0.010980
+* were: 0.005472
+
+7:
+killed: 0.049122
+the: 0.035632
+in: 0.026034
+found: 0.024999
+arrested: 0.017576
+charged: 0.013804
+at: 0.010059
+not: 0.009961
+on: 0.009375
+shot: 0.009326
+* shot: 0.009326
+
+8:
+in: 0.166689
+at: 0.086804
+on: 0.071550
+by: 0.038803
+for: 0.021969
+killed: 0.020346
+ED: 0.019669
+from: 0.018510
+after: 0.018233
+into: 0.017080
+* in: 0.166689
+
+9:
+the: 0.239211
+an: 0.037233
+his: 0.035876
+NUM: 0.030241
+her: 0.019332
+police: 0.014949
+in: 0.012076
+on: 0.007801
+one: 0.007787
+prison: 0.006142
+* the: 0.239211
+
+10:
+police: 0.011012
+first: 0.009766
+death: 0.009485
+case: 0.008677
+home: 0.008349
+attack: 0.008217
+shooting: 0.008151
+city: 0.007854
+university: 0.007513
+last: 0.007053
+* back: 0.001052
+
+11:
+the: 0.131247
+in: 0.042255
+ED: 0.032896
+with: 0.032312
+on: 0.031235
+his: 0.027331
+NUM: 0.020090
+her: 0.017010
+at: 0.016083
+an: 0.011600
+* the: 0.131247
+
+12:
+city: 0.009601
+home: 0.008392
+police: 0.005901
+NUM: 0.005716
+death: 0.005241
+first: 0.004913
+shooting: 0.004828
+new: 0.004686
+day: 0.004668
+school: 0.004469
+* head: 0.002739
+
+13:
+the: 0.057799
+ED: 0.045625
+in: 0.035977
+at: 0.028408
+on: 0.027938
+state: 0.015705
+home: 0.012703
+his: 0.009941
+her: 0.008713
+city: 0.007287
+* as: 0.002949
+
+14:
+the: 0.146017
+he: 0.054253
+she: 0.038295
+his: 0.025108
+an: 0.019399
+they: 0.017961
+her: 0.017617
+as: 0.017136
+in: 0.016382
+ED: 0.015001
+* they: 0.017961
+
+15:
+were: 0.083393
+had: 0.031521
+have: 0.022472
+in: 0.021175
+ED: 0.018744
+was: 0.018314
+said: 0.012463
+are: 0.011551
+not: 0.010310
+be: 0.009662
+* left: 0.004371
+
+
+Perplexity = 5.403836
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0112915   0.02893066  0.08349609 ...,  0.08154297 -0.04589844
+  -0.04638672]
+ [-0.5625      0.10107422 -0.02648926 ...,  0.03393555 -0.31445312
+  -0.09277344]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  8.37057854e-12   2.52887988e-11   3.14914371e-12 ...,   8.87754193e-12
+     3.38868655e-10   2.76392754e-12]
+  [  2.32894065e-10   6.27426611e-10   9.26383276e-11 ...,   2.20891971e-10
+     5.06893905e-09   8.64138275e-11]
+  [  8.12392653e-10   2.35538122e-09   3.64257041e-10 ...,   6.78431256e-10
+     1.59179923e-08   3.03892828e-10]
+  ..., 
+  [  3.10432864e-03   3.36982729e-03   3.01748468e-03 ...,   3.10982135e-03
+     3.80948838e-03   2.93142884e-03]
+  [  3.15974606e-03   3.37927882e-03   3.12287989e-03 ...,   3.19582922e-03
+     3.66090215e-03   3.06229922e-03]
+  [  3.19831073e-03   3.37448833e-03   3.19274887e-03 ...,   3.25236795e-03
+     3.55002447e-03   3.16260522e-03]]
+
+ [[  8.52165127e-12   2.55489536e-11   3.19793649e-12 ...,   9.15572999e-12
+     3.39458656e-10   2.81353196e-12]
+  [  1.97583033e-10   5.61536262e-10   7.47381670e-11 ...,   2.04024575e-10
+     4.58947857e-09   6.96263047e-11]
+  [  6.02773498e-10   1.49138379e-09   2.15823928e-10 ...,   5.65915370e-10
+     1.08916156e-08   2.10645903e-10]
+  ..., 
+  [  6.89014501e-04   1.35076221e-03   5.90808806e-04 ...,   6.80612633e-04
+     3.23143811e-03   5.26815420e-04]
+  [  1.68721133e-03   2.67257355e-03   1.41377235e-03 ...,   1.45130313e-03
+     4.79021901e-03   1.42752926e-03]
+  [  2.77752196e-03   3.40981223e-03   2.59761233e-03 ...,   2.73788045e-03
+     4.17974498e-03   2.82999873e-03]]
+
+ [[  8.49521495e-12   2.56105259e-11   3.17767709e-12 ...,   9.08382050e-12
+     3.40372147e-10   2.79343172e-12]
+  [  1.66358427e-10   4.80999629e-10   6.54112320e-11 ...,   1.95901156e-10
+     4.34198366e-09   6.59320515e-11]
+  [  1.37237402e-10   3.58393371e-10   5.27713463e-11 ...,   1.19929566e-10
+     3.36851746e-09   4.91367363e-11]
+  ..., 
+  [  3.12878028e-03   3.37945647e-03   3.11616762e-03 ...,   3.19977826e-03
+     3.68717522e-03   3.05191521e-03]
+  [  3.16409068e-03   3.37677915e-03   3.17126932e-03 ...,   3.23992758e-03
+     3.59568815e-03   3.13312118e-03]
+  [  3.19666858e-03   3.36833647e-03   3.21524544e-03 ...,   3.27283773e-03
+     3.51544027e-03   3.20346630e-03]]
+
+ ..., 
+ [[  8.46409748e-12   2.55550459e-11   3.19122766e-12 ...,   9.10889159e-12
+     3.39284517e-10   2.79050828e-12]
+  [  1.94276928e-10   5.58180058e-10   7.40511055e-11 ...,   2.01230754e-10
+     4.56938931e-09   6.84325513e-11]
+  [  5.82925708e-10   1.46195189e-09   2.10489251e-10 ...,   5.48247669e-10
+     1.07606377e-08   2.04314191e-10]
+  ..., 
+  [  3.12819029e-03   3.38658155e-03   3.10390815e-03 ...,   3.18132271e-03
+     3.70782265e-03   3.04184621e-03]
+  [  3.16424901e-03   3.38220107e-03   3.16623063e-03 ...,   3.23092774e-03
+     3.60601861e-03   3.12804827e-03]
+  [  3.19682690e-03   3.37206572e-03   3.21359164e-03 ...,   3.26867960e-03
+     3.52047570e-03   3.20109725e-03]]
+
+ [[  8.54559392e-12   2.61648082e-11   3.22574866e-12 ...,   9.19500066e-12
+     3.42408962e-10   2.82264815e-12]
+  [  2.13570148e-10   5.91595606e-10   8.59770102e-11 ...,   2.02333802e-10
+     4.72485251e-09   7.74714945e-11]
+  [  9.70918790e-10   2.23606977e-09   3.76602666e-10 ...,   8.82715567e-10
+     1.63383636e-08   3.50958623e-10]
+  ..., 
+  [  3.12877656e-03   3.37945321e-03   3.11616878e-03 ...,   3.19979247e-03
+     3.68717383e-03   3.05191241e-03]
+  [  3.16408835e-03   3.37677659e-03   3.17126862e-03 ...,   3.23993713e-03
+     3.59568675e-03   3.13311885e-03]
+  [  3.19666718e-03   3.36833484e-03   3.21524404e-03 ...,   3.27284401e-03
+     3.51543957e-03   3.20346490e-03]]
+
+ [[  8.44803307e-12   2.56732743e-11   3.13768607e-12 ...,   9.04647277e-12
+     3.38331974e-10   2.76838578e-12]
+  [  2.11295870e-10   6.17652207e-10   8.48881937e-11 ...,   2.09548406e-10
+     4.81973261e-09   7.42128581e-11]
+  [  8.08933920e-10   2.00361683e-09   3.30772271e-10 ...,   7.58464902e-10
+     1.42784113e-08   2.88044505e-10]
+  ..., 
+  [  3.11603770e-03   3.40099819e-03   3.07743810e-03 ...,   3.15934326e-03
+     3.72326747e-03   3.02190473e-03]
+  [  3.15732206e-03   3.39097809e-03   3.15112178e-03 ...,   3.21918842e-03
+     3.61558329e-03   3.11665051e-03]
+  [  3.19275795e-03   3.37728369e-03   3.20511707e-03 ...,   3.26271122e-03
+     3.52642057e-03   3.19460337e-03]]]
+encode_h2:
+[[-0.19583696  0.24038954 -0.12268659 ..., -0.00802098  0.15014814
+  -0.19340341]
+ [-0.25970131  0.320779   -0.16938689 ...,  0.00983215  0.25673199
+  -0.27047065]
+ [-0.27447087  0.34209237 -0.18353797 ...,  0.02952185  0.31348386
+  -0.29958811]
+ ..., 
+ [-0.26669943  0.34155545 -0.18107033 ...,  0.0510703   0.35065806
+  -0.30963311]
+ [-0.26160675  0.33848643 -0.17709355 ...,  0.05462446  0.35480785
+  -0.30786169]
+ [-0.25815696  0.33614907 -0.17384091 ...,  0.05580665  0.35620365
+  -0.30557865]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09277344  0.08007812  0.13671875 ..., -0.23632812  0.01635742
+  -0.14941406]
+ [-0.00909424 -0.04418945  0.09960938 ...,  0.14453125  0.18066406
+  -0.08691406]
+ ..., 
+ [-0.07128906 -0.07373047  0.19921875 ...,  0.05053711  0.0177002
+   0.11523438]
+ [-0.03149414  0.06445312 -0.06054688 ...,  0.03881836  0.15234375
+  -0.02685547]
+ [ 0.06445312  0.03613281  0.03857422 ..., -0.16308594  0.12890625
+  -0.06030273]]
+decode_seq:
+[[-0.56885487  0.28747964 -0.45463932 ..., -0.39409971  0.80140126
+  -0.80232257]
+ [-0.55171549  0.57028878 -0.71013331 ...,  0.19507878 -0.32481611
+   0.82457906]
+ [ 0.13392057  0.66800487  0.52279806 ..., -0.16756965 -0.04591429
+   0.1490182 ]
+ ..., 
+ [-0.70924413  0.15481959 -0.24540198 ...,  0.88372511 -0.74953258
+   0.45271856]
+ [-0.23510161  0.03072794  0.40160626 ...,  0.92798537 -0.7215994
+   0.18361881]
+ [ 0.1334684   0.06428189  0.29749131 ...,  0.82027209 -0.40647593
+   0.54103261]]
+output_dstrb:
+[[  3.64643779e-06   8.76689938e-08   1.50722045e-07 ...,   2.26523809e-07
+    2.14056172e-06   1.22846117e-07]
+ [  4.27535326e-07   1.62193123e-06   2.68326289e-06 ...,   2.92586742e-06
+    1.12552470e-05   2.15486193e-06]
+ [  4.32391380e-06   2.74468704e-07   3.78191061e-07 ...,   5.65024322e-07
+    3.01273758e-06   2.31322971e-07]
+ ..., 
+ [  5.83018220e-07   5.02458477e-07   8.14394696e-07 ...,   1.30190040e-06
+    6.09767631e-06   4.74671737e-07]
+ [  4.01257876e-06   3.63594296e-07   5.65745779e-07 ...,   8.31198406e-07
+    5.40280644e-06   3.55821896e-07]
+ [  1.11510508e-06   7.84130123e-07   1.22814095e-06 ...,   1.73673300e-06
+    6.54239602e-06   7.44948409e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.318715
+No. 2
+BG in             
+-3.085161
+No. 3
+BG this             
+-3.366784
+No. 4
+BG trump             
+-3.409137
+No. 5
+BG but             
+-3.432733
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG this article            
+-4.733209
+No. 2
+BG in the            
+-4.856524
+No. 3
+BG but the            
+-5.289409
+No. 4
+BG the first            
+-5.394115
+No. 5
+BG this week            
+-5.545960
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this article is           
+-5.200879
+No. 2
+BG this article the           
+-7.753898
+No. 3
+BG this week the           
+-7.929653
+No. 4
+BG the first time           
+-8.043894
+No. 5
+BG in the first           
+-8.155533
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this article is part          
+-5.711246
+No. 2
+BG this article is the          
+-8.614168
+No. 3
+BG this article is also          
+-8.805053
+No. 4
+BG this article is feature          
+-8.910906
+No. 5
+BG this article is one          
+-9.958732
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this article is part feature         
+-5.981297
+No. 2
+BG this article is part we         
+-8.881460
+No. 3
+BG this article is the feature         
+-9.396844
+No. 4
+BG this article is feature feature         
+-9.531095
+No. 5
+BG this article is also feature         
+-9.541782
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this article is part feature we        
+-6.524855
+No. 2
+BG this article is part feature feature        
+-8.420254
+No. 3
+BG this article is part feature the        
+-9.481521
+No. 4
+BG this article is part we also        
+-9.897635
+No. 5
+BG this article is part feature that        
+-10.037887
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this article is part feature we also       
+-6.797747
+No. 2
+BG this article is part feature we send       
+-9.434320
+No. 3
+BG this article is part feature feature we       
+-9.514835
+No. 4
+BG this article is part feature we we       
+-10.259881
+No. 5
+BG this article is part we also send       
+-10.512165
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this article is part feature we also send      
+-7.081991
+No. 2
+BG this article is part feature feature we also      
+-9.802363
+No. 3
+BG this article is part feature we also also      
+-9.832129
+No. 4
+BG this article is part feature we send out      
+-9.986601
+No. 5
+BG this article is part we also send out      
+-10.704804
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this article is part feature we also send out     
+-7.268057
+No. 2
+BG this article is part feature feature we also send     
+-10.050205
+No. 3
+BG this article is part feature we send out via     
+-10.385993
+No. 4
+BG this article is part feature we also also send     
+-10.736068
+No. 5
+BG this article is part feature we also send send     
+-10.823917
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this article is part feature we also send out via    
+-7.633575
+No. 2
+BG this article is part feature we also send out email    
+-9.595612
+No. 3
+BG this article is part feature feature we also send out    
+-10.267113
+No. 4
+BG this article is part feature we send out via email    
+-10.813483
+No. 5
+BG this article is part feature we also also send out    
+-11.083257
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this article is part feature we also send out via email   
+-8.002373
+No. 2
+BG this article is part feature we also send out via via   
+-9.597324
+No. 3
+BG this article is part feature we also send out email as   
+-10.452156
+No. 4
+BG this article is part feature feature we also send out via   
+-10.648576
+No. 5
+BG this article is part feature we also send out via the   
+-11.007061
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this article is part feature we also send out via email as  
+-8.272296
+No. 2
+BG this article is part feature we also send out via via email  
+-10.228031
+No. 3
+BG this article is part feature we also send out email as the  
+-10.897441
+No. 4
+BG this article is part feature feature we also send out via email  
+-10.999802
+No. 5
+BG this article is part feature we also send out via email email  
+-11.303168
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this article is part feature we also send out via email as the 
+-8.585578
+No. 2
+BG this article is part feature we also send out via via email as 
+-10.653997
+No. 3
+BG this article is part feature we also send out via email as as 
+-11.023553
+No. 4
+BG this article is part feature feature we also send out via email as 
+-11.270882
+No. 5
+BG this article is part feature we also send out via email as part 
+-11.987409
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG this article is part feature we also send out via email as the atlantic ED
+-0.697784
+No. 2
+BG this article is part feature we also send out via email as the edge ED
+-0.731749
+No. 3
+BG this article is part feature we also send out via email as the daily ED
+-0.766933
+No. 4
+BG this article is part feature we also send out via via email as the ED
+-0.787740
+No. 5
+BG this article is part feature we also send out via email as the email ED
+-0.817793
+Content:
+BG new york the leader new york city mosque an associate were fatally shot in brazen daylight attack as they left afternoon prayers saturday ED     
+
+BG police said imam his associate were shot in the back the head as they left the mosque in the ozone park section queens shortly before NUM p ED 
+
+BG m ED                           
+
+BG both men were pronounced dead later saturday an administrator at jamaica hospital said ED               
+
+BG police said no motive has been established there is no reason believe the men were shot because they were muslim ED        
+
+BG no suspects are in custody ED                       
+
+BG nothing in the preliminary investigation indicate that they were targeted because their said deputy inspector henry the new york police department ED       
