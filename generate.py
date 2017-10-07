@@ -12,8 +12,8 @@ def Generate(
     w2id,
     id2w,
     Title_len,
-    beam_size=20,
-    n_best=20
+    beam_size=5,
+    n_best=5
 ):
 	# input_sen is a list of wid
 	# Return: a list of n_best tuples with format (sen, avg_log_p)
@@ -28,10 +28,12 @@ def Generate(
 	best_open = [(init_title, 0)]							# (partial title, sum_log_p)
 	best_close = []											# (partial title, avg_log_p)
 
+	allstep_best_open = []
+
 	# pred_title = init_title
 	# p = 0.0
 
-	for step in range(Title_len):
+	for step in range(1, Title_len):
 
 	# 	DEBUG...
 	#	print 'Step %d' % step
@@ -52,6 +54,7 @@ def Generate(
 	# 	# print '------' + ' '.join([id2w[wid] for wid in pred_title]).encode('utf-8')
 
 	# return [(pred_title, p / 10)]
+		allstep_best_open.append(best_open)
 
 	#	GENERATE...
 		ref_batch = []
@@ -60,13 +63,14 @@ def Generate(
 			ref_batch.append(t)
 		ref_batch = np.array(ref_batch, dtype='int64')
 		in_batch = np.array([input_sen for _ in range(len(best_open))], dtype='int64')
-		step_batch = np.array([step for _ in range(len(best_open))], dtype='int64')
+		# step_batch = np.array([step for _ in range(len(best_open))], dtype='int64')
 
 		# print 'in_batch.shape = %s' % str(in_batch.shape)
 		# print 'ref_batch.shape = %s' % str(ref_batch.shape)
 		# print 'step_batch.shape = %s' % str(step_batch.shape)
 
-		distr_list = model.predict([in_batch, ref_batch, step_batch])
+		distr_list = model.predict([in_batch, ref_batch])[:, step]	
+		## shape = (batch, Title_len, vocab_size) -> (batch, vocab_size)
 
 		for i in range(len(best_open)):		# For each candidate partial sentence
 			t = best_open[i][0] 			# title (partial)
@@ -77,7 +81,7 @@ def Generate(
 			k_best_w = k_argmax(d, beam_size)
 			for wid in k_best_w:			# For k-top next words for this sentence
 				# print '------ %s: %.6f' % (id2w[wid].strip().encode('utf-8'), d[wid])
-				new_p = p + np.log(max(d[wid], 1e-6))
+				new_p = p + np.log(d[wid] + 1e-8)
 				new_t = t[:]
 				new_t[step] = wid
 				temp.append((new_t, new_p))
@@ -87,7 +91,7 @@ def Generate(
 		for (t, p) in temp:
 			if t[step] == ed_id:			# ended
 				best_close.append( (t, p / (step + 1)) )	# average log_p
-			elif t[step] == 0: 			# error
+			elif t[step] == 0: 				# error
 				continue
 			else:
 				best_open.append( (t, p) )					# sum log_p
@@ -101,6 +105,6 @@ def Generate(
 		best_close.append( (t + [ed_id], p / (Title_len - 1)) )		
 
 	best_close.sort(key=lambda x : -x[1])	# sort by p (big -> small)
-	return best_close[0 : n_best]
+	return best_close[0 : n_best], allstep_best_open
 
 
