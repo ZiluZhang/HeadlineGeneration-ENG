@@ -6,7 +6,7 @@ Steps to run the experiment on English News dataset:
 		get dictionary for this dataset
 	4. run ./ENGdatasets/data_f2id.py
 		convert each word to its index in the dictionary
-	5. run ./Paper-model-main.py (-mode train)
+	5. run ./Paper-model-main.py (-mode train) (-max_epochs xxx)
 
 Outputs:
 	1. ./log_output/ is the directory that keep log files for experiments.
