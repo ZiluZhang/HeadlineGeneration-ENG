@@ -1,0 +1,618 @@
+Title:
+BG the topic was the final attempt modify the american health care act before the house
+Teacher Forced Generated Title:
+the republican was not first meeting by the republican civil care act ED the house
+Distribution for each word in title:
+1:
+the: 0.186620
+trump: 0.095194
+in: 0.045564
+obama: 0.013639
+but: 0.012718
+is: 0.011955
+on: 0.011461
+will: 0.010471
+clinton: 0.009830
+s: 0.008628
+* the: 0.186620
+
+2:
+republican: 0.043253
+house: 0.027348
+former: 0.024354
+president: 0.021160
+white: 0.020860
+first: 0.018911
+trump: 0.018419
+new: 0.014820
+two: 0.011808
+move: 0.010952
+* topic: 0.000202
+
+3:
+was: 0.110901
+the: 0.062979
+is: 0.055208
+were: 0.051351
+came: 0.033241
+would: 0.017225
+had: 0.014866
+has: 0.013960
+will: 0.012503
+in: 0.011563
+* was: 0.110901
+
+4:
+not: 0.076441
+the: 0.047384
+that: 0.034041
+an: 0.021092
+first: 0.020619
+in: 0.015562
+also: 0.013060
+reported: 0.012929
+asked: 0.012136
+made: 0.011539
+* the: 0.047384
+
+5:
+first: 0.147134
+most: 0.028550
+latest: 0.017671
+case: 0.009363
+white: 0.008838
+same: 0.007020
+visit: 0.005386
+meeting: 0.005111
+republican: 0.004718
+second: 0.004501
+* final: 0.002474
+
+6:
+meeting: 0.045648
+decision: 0.029045
+time: 0.022988
+final: 0.017653
+vote: 0.017467
+day: 0.014046
+debate: 0.011160
+presidential: 0.007542
+two: 0.006843
+press: 0.006317
+* attempt: 0.001864
+
+7:
+by: 0.022839
+win: 0.021896
+that: 0.020213
+move: 0.012136
+stop: 0.011674
+vote: 0.010879
+make: 0.009902
+put: 0.009579
+in: 0.008542
+the: 0.008359
+* modify: 0.000001
+
+8:
+the: 0.245030
+its: 0.036650
+trump: 0.033221
+his: 0.033120
+their: 0.009614
+president: 0.006207
+evidence: 0.006155
+in: 0.005905
+that: 0.005209
+ED: 0.005170
+* the: 0.245030
+
+9:
+republican: 0.025290
+trump: 0.017949
+white: 0.015064
+american: 0.013653
+presidential: 0.011267
+obama: 0.010455
+law: 0.009899
+term: 0.009317
+fbi: 0.009033
+state: 0.008689
+* american: 0.013653
+
+10:
+civil: 0.041589
+health: 0.035725
+public: 0.024225
+people: 0.019988
+policy: 0.015487
+law: 0.013061
+government: 0.011575
+american: 0.011377
+military: 0.010492
+department: 0.009969
+* health: 0.035725
+
+11:
+care: 0.909763
+insurance: 0.006178
+health: 0.002395
+plan: 0.002390
+act: 0.002275
+policy: 0.002035
+department: 0.001527
+agency: 0.001510
+organization: 0.001449
+human: 0.001001
+* care: 0.909763
+
+12:
+act: 0.694445
+care: 0.022692
+system: 0.021045
+the: 0.013256
+from: 0.010261
+plan: 0.007788
+bill: 0.007612
+for: 0.007222
+law: 0.007201
+ED: 0.006661
+* act: 0.694445
+
+13:
+ED: 0.282976
+that: 0.061721
+the: 0.048768
+which: 0.035518
+as: 0.034491
+by: 0.024042
+in: 0.015732
+for: 0.009890
+before: 0.009873
+it: 0.009080
+* before: 0.009873
+
+14:
+the: 0.454839
+it: 0.054896
+they: 0.026393
+trump: 0.019452
+this: 0.015392
+that: 0.014008
+ED: 0.010608
+which: 0.009496
+NUM: 0.009301
+an: 0.007651
+* the: 0.454839
+
+15:
+house: 0.077521
+senate: 0.039976
+republican: 0.035275
+election: 0.026436
+trump: 0.025164
+vote: 0.017123
+first: 0.017002
+party: 0.014164
+democratic: 0.014067
+state: 0.013346
+* house: 0.077521
+
+
+Perplexity = 3.978514
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.01116943 -0.16308594  0.01373291 ...,  0.1796875   0.23828125
+   0.05664062]
+ ..., 
+ [ 0.04882812  0.16699219  0.16894531 ..., -0.22949219 -0.00970459
+  -0.09570312]
+ [-0.22851562 -0.08837891  0.12792969 ..., -0.21289062  0.18847656
+  -0.14550781]
+ [ 0.40039062 -0.18457031  0.11328125 ..., -0.21386719  0.15234375
+   0.13769531]]
+encode_h1:
+[[[  4.63769811e-06   4.23983829e-06   5.37573906e-05 ...,   9.67884830e-07
+     1.44868573e-05   1.68566858e-05]
+  [  1.36328163e-05   2.65739459e-06   2.19299272e-05 ...,   2.07198605e-06
+     2.07194771e-05   1.60373165e-05]
+  [  7.52348888e-06   7.33253864e-06   1.90552128e-05 ...,   9.74553132e-07
+     8.95205267e-06   5.49775405e-06]
+  ..., 
+  [  2.09466834e-03   4.55466006e-03   4.05468978e-03 ...,   1.25787186e-03
+     3.53175937e-03   2.83304998e-03]
+  [  2.32808804e-03   4.98247100e-03   4.24390752e-03 ...,   1.51080871e-03
+     3.65399593e-03   3.08370078e-03]
+  [  2.71222391e-03   5.11762779e-03   4.28778166e-03 ...,   1.81849790e-03
+     3.83671070e-03   3.39696789e-03]]
+
+ [[  1.02472013e-05   1.71020001e-05   5.86539281e-05 ...,   7.17257080e-07
+     1.44124366e-04   1.56464394e-05]
+  [  2.01091916e-05   1.64806188e-05   3.29831710e-05 ...,   1.10406734e-06
+     1.60722397e-04   1.33116073e-05]
+  [  2.84070029e-05   2.26301163e-05   2.77035797e-05 ...,   1.43143393e-06
+     1.75462003e-04   1.34840184e-05]
+  ..., 
+  [  1.81021786e-03   3.90654383e-03   4.16048197e-03 ...,   1.26009609e-03
+     3.25979339e-03   2.76435772e-03]
+  [  2.08491972e-03   4.39010654e-03   4.28162841e-03 ...,   1.51875243e-03
+     3.45007866e-03   3.01772915e-03]
+  [  2.49723531e-03   4.62518632e-03   4.28977935e-03 ...,   1.83060847e-03
+     3.68711376e-03   3.34080681e-03]]
+
+ [[  1.79516253e-04   2.26501914e-04   3.82061000e-03 ...,   3.28383721e-05
+     1.76092784e-03   1.06040679e-03]
+  [  2.01544608e-04   1.41156095e-04   1.29506981e-03 ...,   2.51705478e-05
+     1.26553827e-03   4.35501221e-04]
+  [  8.02804192e-04   3.01028602e-04   8.73883662e-04 ...,   2.44099225e-04
+     4.26011160e-03   2.83122598e-03]
+  ..., 
+  [  1.63614925e-03   3.48242186e-03   4.15996462e-03 ...,   1.25122676e-03
+     3.09652067e-03   2.71456828e-03]
+  [  1.93699461e-03   4.02569119e-03   4.26115794e-03 ...,   1.51418149e-03
+     3.33180535e-03   2.97468621e-03]
+  [  2.37105950e-03   4.34046239e-03   4.25859587e-03 ...,   1.83038972e-03
+     3.60621116e-03   3.30266170e-03]]
+
+ ..., 
+ [[  1.38514160e-08   8.35125986e-03   1.77714828e-04 ...,   6.82525370e-09
+     1.73068088e-06   2.52609084e-07]
+  [  4.06899012e-08   6.68556895e-03   1.20133773e-04 ...,   1.70216765e-08
+     4.14298484e-06   2.86967833e-07]
+  [  6.56245405e-08   1.11782551e-02   1.09133965e-04 ...,   1.60249698e-08
+     2.94047209e-06   1.94323206e-07]
+  ..., 
+  [  1.63247669e-03   3.47645651e-03   4.16898308e-03 ...,   1.25070661e-03
+     3.09195416e-03   2.71814899e-03]
+  [  1.93328713e-03   4.01937123e-03   4.26793657e-03 ...,   1.51371339e-03
+     3.32789309e-03   2.97752279e-03]
+  [  2.36734771e-03   4.33456665e-03   4.26354026e-03 ...,   1.83002453e-03
+     3.60299041e-03   3.30495113e-03]]
+
+ [[  2.59488911e-06   7.89099431e-05   7.14475056e-03 ...,   2.53883059e-06
+     1.37919033e-05   2.86371778e-05]
+  [  5.38354379e-06   3.57158679e-05   2.30570277e-03 ...,   3.57641784e-06
+     1.12708021e-05   2.03400814e-05]
+  [  3.03662227e-06   2.59544795e-05   2.04693084e-03 ...,   1.11626321e-06
+     5.39059374e-06   5.81027371e-06]
+  ..., 
+  [  1.62496686e-03   3.46969487e-03   4.20639152e-03 ...,   1.24939019e-03
+     3.08074779e-03   2.73439847e-03]
+  [  1.92436168e-03   4.00846126e-03   4.29713959e-03 ...,   1.51230069e-03
+     3.31705878e-03   2.99073965e-03]
+  [  2.35732994e-03   4.32195095e-03   4.28570807e-03 ...,   1.82873721e-03
+     3.59316403e-03   3.31592234e-03]]
+
+ [[  4.84549673e-07   7.75343578e-05   1.46205290e-04 ...,   1.81694702e-07
+     2.19833219e-05   4.62663411e-06]
+  [  1.94829045e-06   9.07652138e-05   9.36122160e-05 ...,   3.65145468e-07
+     2.85889928e-05   3.73598846e-06]
+  [  4.37274684e-05   4.93134321e-05   2.30740243e-05 ...,   4.73373984e-06
+     4.68846090e-04   2.83114659e-05]
+  ..., 
+  [  6.37408753e-04   1.05724600e-03   9.96814488e-05 ...,   1.25079299e-04
+     9.44889791e-04   3.12612363e-04]
+  [  6.45450375e-04   2.70623388e-03   1.84980803e-04 ...,   1.28882428e-04
+     8.96138838e-04   7.61768722e-04]
+  [  2.08997703e-03   1.08096218e-02   3.03981418e-04 ...,   8.47729971e-04
+     1.01101748e-03   2.22298945e-03]]]
+encode_h2:
+[[ 0.29276389 -0.27779022 -0.1244264  ..., -0.09139169 -0.08234695
+   0.39998594]
+ [ 0.37285116 -0.11852898 -0.11021352 ..., -0.15229733 -0.25740743
+   0.26340801]
+ [ 0.37750795  0.57259005 -0.62986779 ..., -0.47769454 -0.14622155
+  -0.00401597]
+ ..., 
+ [ 0.03718483  0.2162607  -0.77492797 ..., -0.79670173  0.48704493
+   0.20980442]
+ [ 0.11141596  0.0124487  -0.77492797 ..., -0.67334288  0.40652156
+   0.401108  ]
+ [ 0.00812425 -0.19731623 -0.77492797 ..., -0.5046289   0.26171589
+   0.44404784]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.14941406  0.01159668 -0.01330566 ..., -0.296875   -0.05957031
+  -0.02514648]
+ ..., 
+ [ 0.15039062  0.14648438  0.06396484 ...,  0.09423828  0.08398438
+  -0.05249023]
+ [ 0.04541016 -0.04711914  0.06738281 ..., -0.11914062 -0.10058594
+  -0.12597656]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]]
+decode_seq:
+[[ 0.58475953  0.5480485  -0.742118   ..., -0.44303495 -0.68041086
+   0.07546447]
+ [-0.85596484  0.3185614   0.46716037 ..., -0.99258965 -0.39633465
+   0.44447771]
+ [ 0.11230441  0.21074678  0.71630782 ..., -0.99086165  0.28457323
+   0.95909548]
+ ..., 
+ [-0.06735739  0.84286928  0.93272781 ..., -0.9333204   0.72010696
+   0.5983566 ]
+ [-0.4776409  -0.4373295   0.94838858 ..., -0.86595905  0.04289514
+   0.91320312]
+ [-0.56650311  0.40460685  0.90971202 ..., -0.92930394  0.11711002
+   0.92189103]]
+output_dstrb:
+[[  7.43340161e-06   9.53280477e-08   2.55843986e-07 ...,   5.40521263e-08
+    2.61476998e-06   1.00192985e-07]
+ [  1.57815375e-05   9.87358703e-07   6.42832219e-07 ...,   3.27815968e-07
+    2.51839879e-06   1.97006003e-07]
+ [  3.31206884e-09   6.29256135e-07   7.22008735e-07 ...,   2.28873574e-07
+    3.26243253e-06   1.91217154e-07]
+ ..., 
+ [  4.89505041e-08   3.34066158e-07   1.17846753e-07 ...,   2.58088704e-07
+    1.29946363e-06   4.16767314e-08]
+ [  2.43752698e-08   4.51406578e-07   1.02833184e-07 ...,   8.25020123e-08
+    2.32936628e-07   1.21092185e-08]
+ [  5.00283431e-06   7.64636866e-07   9.88762736e-07 ...,   3.85654658e-07
+    1.09935309e-06   1.16154304e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.678679
+No. 2
+BG trump             
+-2.351841
+No. 3
+BG in             
+-3.088641
+No. 4
+BG obama             
+-4.294807
+No. 5
+BG but             
+-4.364774
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG in the            
+-4.617326
+No. 2
+BG trump has            
+-4.739666
+No. 3
+BG the republican            
+-4.819369
+No. 4
+BG trump said            
+-4.852256
+No. 5
+BG trump is            
+-4.941084
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG trump said he           
+-6.469211
+No. 2
+BG the republican presidential           
+-6.581568
+No. 3
+BG the republican nominee           
+-6.693706
+No. 4
+BG trump said in           
+-6.844101
+No. 5
+BG in the first           
+-7.189535
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the republican presidential nominee          
+-7.270465
+No. 2
+BG trump said in statement          
+-8.039054
+No. 3
+BG trump said he would          
+-8.230508
+No. 4
+BG trump said he was          
+-8.672708
+No. 5
+BG the republican nominee for          
+-8.742435
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG trump said in statement that         
+-9.017425
+No. 2
+BG the republican presidential nominee was         
+-9.510234
+No. 3
+BG the republican presidential nominee has         
+-9.884250
+No. 4
+BG the republican presidential nominee said         
+-10.160247
+No. 5
+BG trump said he would not         
+-10.178598
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG trump said in statement that he        
+-10.257134
+No. 2
+BG trump said in statement that the        
+-10.647814
+No. 3
+BG trump said he would not be        
+-11.722657
+No. 4
+BG the republican presidential nominee said he        
+-11.903207
+No. 5
+BG the republican presidential nominee said the        
+-12.212557
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG trump said in statement that he would       
+-12.180406
+No. 2
+BG trump said in statement that he was       
+-12.229037
+No. 3
+BG trump said in statement that he had       
+-12.383728
+No. 4
+BG trump said in statement that he has       
+-13.511722
+No. 5
+BG trump said in statement that he will       
+-13.615048
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG trump said in statement that he would not      
+-13.988307
+No. 2
+BG trump said in statement that he would be      
+-14.700169
+No. 3
+BG trump said in statement that he will not      
+-15.034061
+No. 4
+BG trump said in statement that he had been      
+-15.155504
+No. 5
+BG trump said in statement that he was not      
+-15.161411
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG trump said in statement that he would not be     
+-15.593091
+No. 2
+BG trump said in statement that he will not be     
+-16.227466
+No. 3
+BG trump said in statement that he would not have     
+-17.397278
+No. 4
+BG trump said in statement that he would be the     
+-17.587418
+No. 5
+BG trump said in statement that he was not the     
+-18.375902
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG trump said in statement that he would not be able    
+-19.161775
+No. 2
+BG trump said in statement that he will not be able    
+-19.206991
+No. 3
+BG trump said in statement that he would be the first    
+-19.610426
+No. 4
+BG trump said in statement that he would not be the    
+-19.625432
+No. 5
+BG trump said in statement that he would not be allowed    
+-19.990914
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG trump said in statement that he would not be the first   
+-21.824605
+No. 2
+BG trump said in statement that he would be the first time   
+-22.715469
+No. 3
+BG trump said in statement that he will not be able use   
+-22.910484
+No. 4
+BG trump said in statement that he would be the first the   
+-23.051381
+No. 5
+BG trump said in statement that he would not be able use   
+-23.198174
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG trump said in statement that he will not be able use the  
+-24.402338
+No. 2
+BG trump said in statement that he would not be the first time  
+-24.779570
+No. 3
+BG trump said in statement that he would not be able use the  
+-24.809341
+No. 4
+BG trump said in statement that he will not be able use his  
+-24.855584
+No. 5
+BG trump said in statement that he would be the first time in  
+-25.289218
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG trump said in statement that he would be the first time in the 
+-26.202895
+No. 2
+BG trump said in statement that he will not be able use the term 
+-26.979906
+No. 3
+BG trump said in statement that he would not be able use the term 
+-27.500231
+No. 4
+BG trump said in statement that he would not be the first time for 
+-27.709022
+No. 5
+BG trump said in statement that he would not be the first time in 
+-27.736341
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG trump said in statement that he would be the first time in the white ED
+-2.053017
+No. 2
+BG trump said in statement that he would not be the first time in the ED
+-2.057824
+No. 3
+BG trump said in statement that he would be the first time in the u ED
+-2.070834
+No. 4
+BG trump said in statement that he would not be the first time for the ED
+-2.073218
+No. 5
+BG trump said in statement that he will not be able use the term for ED
+-2.078902
+Content:
+BG the chairman the house freedom caucus spoke news on thursday after his meeting with speaker paul ryan three senior aides president trump ED      
+
+BG the topic was the final attempt modify the american health care act before the house vote on friday ED          
+
+BG principles deal have been defined an ED                      
+
+BG the details the agreement are the most fundamental question that is what we are working said rep ED           
+
+BG mark meadows who met with stephen k ED                     
+
+BG president chief strategist his chief staff mick his budget director ED                  
+
+BG meadows said the house freedom caucus welcomed the compromise from the president that the essential health benefits provision in the NUM patient protection affordable care act will be stripped

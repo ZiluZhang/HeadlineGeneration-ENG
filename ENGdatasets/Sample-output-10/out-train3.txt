@@ -1,0 +1,617 @@
+Title:
+BG the revenant was about relationship the natural world world that we collectively felt in NUM
+Teacher Forced Generated Title:
+the new is the NUM with woman community ED ED the are have like the
+Distribution for each word in title:
+1:
+the: 0.301594
+in: 0.035361
+but: 0.030154
+it: 0.019706
+an: 0.018529
+on: 0.015159
+now: 0.012721
+this: 0.012616
+he: 0.012518
+his: 0.009804
+* the: 0.301594
+
+2:
+new: 0.019708
+film: 0.013746
+first: 0.013294
+story: 0.009311
+former: 0.009126
+singer: 0.008947
+hollywood: 0.008884
+show: 0.008454
+video: 0.006365
+most: 0.005819
+* revenant: 0.000015
+
+3:
+is: 0.098906
+the: 0.044487
+has: 0.040827
+was: 0.032617
+star: 0.015495
+which: 0.014571
+leader: 0.011161
+first: 0.010656
+new: 0.010422
+film: 0.009397
+* was: 0.032617
+
+4:
+the: 0.057585
+not: 0.036263
+as: 0.024737
+in: 0.019229
+released: 0.016813
+first: 0.015848
+an: 0.013243
+set: 0.011761
+one: 0.010016
+being: 0.009891
+* about: 0.006568
+
+5:
+NUM: 0.517800
+the: 0.087945
+an: 0.009192
+three: 0.008077
+her: 0.008075
+being: 0.007085
+about: 0.005532
+two: 0.005431
+in: 0.005413
+million: 0.004683
+* relationship: 0.000112
+
+6:
+with: 0.609232
+between: 0.226171
+in: 0.016985
+the: 0.011544
+ED: 0.010378
+on: 0.004495
+when: 0.003722
+for: 0.003532
+after: 0.003450
+her: 0.002960
+* the: 0.011544
+
+7:
+woman: 0.014260
+former: 0.011992
+man: 0.011377
+day: 0.010855
+story: 0.010577
+ED: 0.009005
+new: 0.008028
+young: 0.006774
+american: 0.006773
+same: 0.006442
+* natural: 0.000193
+
+8:
+community: 0.036716
+way: 0.008490
+world: 0.007469
+causes: 0.007400
+she: 0.007148
+family: 0.006960
+said: 0.006630
+resources: 0.006501
+says: 0.005619
+network: 0.005134
+* world: 0.007469
+
+9:
+ED: 0.163576
+the: 0.032094
+war: 0.023110
+that: 0.019197
+in: 0.018179
+is: 0.015726
+champion: 0.015118
+on: 0.014892
+was: 0.012566
+for: 0.012371
+* world: 0.003280
+
+10:
+ED: 0.169592
+in: 0.066589
+the: 0.040130
+where: 0.033213
+war: 0.024546
+on: 0.021945
+champion: 0.019589
+for: 0.017678
+that: 0.015166
+is: 0.014449
+* that: 0.015166
+
+11:
+the: 0.181739
+is: 0.073226
+has: 0.043029
+was: 0.039079
+it: 0.019648
+in: 0.018081
+we: 0.017384
+she: 0.012236
+her: 0.011875
+i: 0.010560
+* we: 0.017384
+
+12:
+are: 0.119905
+have: 0.111967
+know: 0.056745
+can: 0.049947
+should: 0.046074
+were: 0.024421
+want: 0.023434
+will: 0.020154
+had: 0.014765
+need: 0.009823
+* collectively: 0.000046
+
+13:
+have: 0.230930
+in: 0.081539
+do: 0.076514
+are: 0.067334
+know: 0.041056
+want: 0.019485
+get: 0.015583
+will: 0.014212
+ED: 0.013776
+say: 0.013646
+* felt: 0.000605
+
+14:
+like: 0.183579
+the: 0.123648
+that: 0.055763
+it: 0.030659
+in: 0.028452
+about: 0.023210
+this: 0.014993
+their: 0.013022
+be: 0.012221
+an: 0.012139
+* in: 0.028452
+
+15:
+the: 0.400972
+this: 0.068912
+their: 0.053980
+an: 0.039298
+my: 0.033161
+that: 0.022539
+his: 0.017020
+our: 0.015569
+what: 0.012007
+ED: 0.008692
+* NUM: 0.001573
+
+
+Perplexity = 5.940704
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09375    -0.05004883  0.17480469 ...,  0.00836182  0.06396484
+  -0.02636719]
+ [-0.00497437  0.04638672  0.00221252 ..., -0.26367188 -0.06201172
+  -0.11816406]
+ ..., 
+ [-0.01177979 -0.04736328  0.04467773 ...,  0.07128906 -0.03491211
+   0.02416992]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.02844238  0.01068115  0.10058594 ..., -0.01049805  0.33984375
+  -0.05834961]]
+encode_h1:
+[[[  2.61104361e-07   2.84461330e-05   7.13428672e-05 ...,   1.46201245e-07
+     9.90451736e-06   1.85775855e-06]
+  [  6.93114544e-07   3.15213620e-05   4.13488233e-05 ...,   2.49722859e-07
+     1.31485194e-05   1.45559909e-06]
+  [  5.63101139e-07   4.50078151e-05   4.75419438e-05 ...,   2.38697083e-07
+     1.04456112e-05   1.18651280e-06]
+  ..., 
+  [  2.79324083e-03   5.07232593e-03   2.65162555e-03 ...,   1.35269854e-03
+     3.62192956e-03   2.21650000e-03]
+  [  2.93261581e-03   5.52896643e-03   3.24264215e-03 ...,   1.58290507e-03
+     3.77656729e-03   2.71177408e-03]
+  [  3.24328942e-03   5.66499075e-03   3.61910625e-03 ...,   1.85522414e-03
+     3.96061689e-03   3.18109989e-03]]
+
+ [[  1.02851629e-07   7.39487632e-06   2.16844099e-04 ...,   2.59595851e-07
+     5.40990823e-06   1.52244966e-05]
+  [  2.38039817e-07   9.78390472e-06   1.56424794e-04 ...,   4.64190123e-07
+     6.81235679e-06   1.46956590e-05]
+  [  1.50191681e-07   8.53830443e-06   1.61200733e-04 ...,   2.89920081e-07
+     6.38387110e-06   1.18742428e-05]
+  ..., 
+  [  9.15801284e-05   3.64672858e-04   1.16155751e-03 ...,   1.77236416e-05
+     7.46303122e-04   2.17340945e-04]
+  [  2.76280061e-05   6.29567774e-04   4.64342127e-04 ...,   5.63292360e-06
+     3.79314733e-04   1.57998838e-05]
+  [  4.46738256e-03   6.61287550e-03   1.15386816e-03 ...,   2.99428427e-03
+     1.41507352e-03   2.54089572e-03]]
+
+ [[  4.10178387e-07   2.70708883e-03   8.90889423e-05 ...,   1.05349855e-07
+     3.34311306e-04   4.80579320e-06]
+  [  6.44846125e-07   2.12362199e-03   3.15276484e-05 ...,   1.28443631e-07
+     1.83553973e-04   2.65994618e-06]
+  [  2.42130091e-06   9.72490117e-04   6.60067371e-06 ...,   2.80177943e-07
+     1.22117146e-03   4.04758339e-06]
+  ..., 
+  [  1.67695992e-03   3.59330396e-03   4.20560362e-03 ...,   1.25451817e-03
+     3.12982406e-03   2.74473825e-03]
+  [  1.96815934e-03   4.11387440e-03   4.30389168e-03 ...,   1.51573028e-03
+     3.35163786e-03   3.00176744e-03]
+  [  2.39412836e-03   4.40369034e-03   4.29651747e-03 ...,   1.83035980e-03
+     3.61595140e-03   3.32716457e-03]]
+
+ ..., 
+ [[  1.11839254e-05   3.41096129e-05   1.63752309e-04 ...,   2.14752640e-06
+     1.10384182e-03   9.01379244e-05]
+  [  1.35740747e-05   1.62999550e-05   3.71570022e-05 ...,   1.62377603e-06
+     7.58304261e-04   2.80324130e-05]
+  [  4.00553199e-06   3.73628768e-06   6.92421327e-06 ...,   7.12986434e-07
+     2.85264367e-04   5.60971466e-06]
+  ..., 
+  [  1.63869315e-03   3.48810665e-03   4.15922934e-03 ...,   1.25161780e-03
+     3.09904851e-03   2.71470216e-03]
+  [  1.93918252e-03   4.03065467e-03   4.26095026e-03 ...,   1.51446403e-03
+     3.33363703e-03   2.97493115e-03]
+  [  2.37294077e-03   4.34439676e-03   4.25871415e-03 ...,   1.83056225e-03
+     3.60746728e-03   3.30297137e-03]]
+
+ [[  8.14845225e-06   1.24874327e-03   3.05981484e-05 ...,   1.85266993e-06
+     7.84069300e-04   4.85565724e-05]
+  [  1.03229986e-05   8.89806892e-04   1.74576744e-05 ...,   2.56918838e-06
+     5.28485107e-04   3.38442915e-05]
+  [  9.06948935e-06   1.12258003e-03   1.24030721e-05 ...,   8.49265348e-07
+     3.62366700e-04   1.94142449e-05]
+  ..., 
+  [  1.70704490e-03   3.65327182e-03   4.16702731e-03 ...,   1.25530525e-03
+     3.16197681e-03   2.72985315e-03]
+  [  1.99580984e-03   4.16942127e-03   4.27592453e-03 ...,   1.51653436e-03
+     3.37718125e-03   2.99013266e-03]
+  [  2.41976464e-03   4.45051631e-03   4.27710079e-03 ...,   1.83084363e-03
+     3.63547821e-03   3.31809907e-03]]
+
+ [[  5.14559679e-06   8.33768790e-05   8.55574835e-05 ...,   2.37300128e-06
+     3.49154085e-04   5.31095357e-05]
+  [  8.07810648e-06   7.72341955e-05   3.14353674e-05 ...,   2.00470322e-06
+     3.04951245e-04   2.25908425e-05]
+  [  2.03730233e-05   8.06489115e-05   4.96471803e-05 ...,   8.43696671e-06
+     1.04268407e-03   4.11841065e-05]
+  ..., 
+  [  6.65824846e-05   4.36729606e-04   9.20503007e-05 ...,   1.26275399e-05
+     1.12800940e-03   9.81242556e-05]
+  [  6.86666390e-05   5.89139352e-04   2.27490149e-04 ...,   1.40394413e-05
+     7.35350128e-04   1.37843366e-04]
+  [  9.54076459e-05   2.84159649e-03   1.14263990e-03 ...,   2.81295979e-05
+     5.19576715e-04   1.34751244e-04]]]
+encode_h2:
+[[  5.13408720e-01  -4.00771610e-02  -5.09226955e-02 ...,  -7.28711560e-02
+    8.69865544e-05   4.03575122e-01]
+ [  6.42087877e-01   2.27854811e-02  -2.39717960e-03 ...,  -1.80885568e-01
+    9.21534821e-02   4.13233340e-01]
+ [  5.53005457e-01   1.89863890e-01  -3.18204045e-01 ...,  -4.00586337e-01
+   -2.57202089e-01   1.45293474e-02]
+ ..., 
+ [  1.61516488e-01   1.37691468e-01  -3.90655369e-01 ...,  -6.05660200e-01
+   -1.22410553e-02   6.09062016e-02]
+ [  3.71658474e-01   3.73986661e-02  -3.21861386e-01 ...,  -5.07674098e-01
+   -1.41150340e-01   7.96883181e-02]
+ [  6.15301669e-01  -6.29313588e-02  -1.48075804e-01 ...,  -3.10038507e-01
+   -8.70636031e-02   3.38274062e-01]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.2578125   0.04223633  0.00872803 ...,  0.02600098  0.1796875
+   0.09814453]
+ ..., 
+ [-0.06787109 -0.20996094  0.265625   ...,  0.09619141  0.11230469
+  -0.10009766]
+ [-0.06689453  0.07958984 -0.08398438 ...,  0.02575684  0.31640625
+  -0.16796875]
+ [ 0.0703125   0.08691406  0.08789062 ..., -0.04760742  0.01446533 -0.0625    ]]
+decode_seq:
+[[ 0.11645211  0.51505893 -0.86291194 ...,  0.52169847 -0.48534164
+  -0.28596669]
+ [-0.46882933  0.41274652 -0.52986097 ..., -0.04712012 -0.32961351
+  -0.51777864]
+ [-0.621571    0.74751103  0.48365629 ...,  0.00540164 -0.0153975
+  -0.97896683]
+ ..., 
+ [ 0.64431965  0.45501852 -0.94813281 ..., -0.43147153  0.01872535
+   0.70707947]
+ [ 0.88059711  0.57013023 -0.45287064 ..., -0.43147153  0.97814691
+   0.40133044]
+ [-0.29798347 -0.58557707 -0.48838592 ..., -0.49281609  0.84662974
+  -0.48158088]]
+output_dstrb:
+[[  1.46231851e-05   1.38449792e-07   1.92452518e-07 ...,   7.27571035e-08
+    5.26956001e-06   4.84796239e-08]
+ [  6.22261780e-07   9.40420875e-07   8.65016489e-07 ...,   7.98689086e-07
+    1.91126910e-05   3.10442829e-07]
+ [  7.97759185e-07   2.29133647e-07   1.65001325e-07 ...,   4.48542750e-07
+    3.45264766e-06   1.04048262e-07]
+ ..., 
+ [  1.20432196e-05   3.28568213e-08   2.06414352e-08 ...,   3.60208325e-08
+    5.99831651e-07   1.54051776e-08]
+ [  4.39368009e-09   7.38000807e-08   1.16872918e-07 ...,   8.92667700e-08
+    1.60580248e-06   4.11424246e-08]
+ [  4.04351539e-08   2.94988070e-08   4.53446418e-08 ...,   2.22238885e-08
+    2.17561023e-06   1.44787196e-08]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.198674
+No. 2
+BG in             
+-3.342134
+No. 3
+BG but             
+-3.501421
+No. 4
+BG it             
+-3.926820
+No. 5
+BG an             
+-3.988438
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG in the            
+-4.603866
+No. 2
+BG but the            
+-4.957278
+No. 3
+BG it was            
+-4.989594
+No. 4
+BG the new            
+-5.125423
+No. 5
+BG the film            
+-5.485649
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the new york           
+-5.976745
+No. 2
+BG it was the           
+-6.596918
+No. 3
+BG in the video           
+-7.776484
+No. 4
+BG it was NUM           
+-8.000307
+No. 5
+BG it was an           
+-8.126004
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the new york times          
+-6.722567
+No. 2
+BG it was the first          
+-8.006884
+No. 3
+BG the new york daily          
+-9.305743
+No. 4
+BG the new york city          
+-9.310934
+No. 5
+BG it was the second          
+-9.585485
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the new york times the         
+-8.909935
+No. 2
+BG the new york times has         
+-9.406803
+No. 3
+BG it was the first time         
+-9.637015
+No. 4
+BG the new york times reported         
+-9.807119
+No. 5
+BG the new york daily news         
+-10.064953
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the new york times has been        
+-10.395078
+No. 2
+BG it was the first time the        
+-11.349144
+No. 3
+BG the new york times reported that        
+-11.564827
+No. 4
+BG the new york times reported the        
+-11.622079
+No. 5
+BG it was the first time in        
+-11.988791
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the new york times reported that the       
+-12.352552
+No. 2
+BG it was the first time in the       
+-12.812380
+No. 3
+BG the new york times has been in       
+-13.745975
+No. 4
+BG it was the first time in NUM       
+-14.141191
+No. 5
+BG the new york times has been the       
+-14.261631
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the new york times has been in the      
+-14.705062
+No. 2
+BG it was the first time in the history      
+-14.852977
+No. 3
+BG the new york times reported that the NUM      
+-15.295161
+No. 4
+BG the new york times reported that the new      
+-15.654464
+No. 5
+BG the new york times reported that the company      
+-15.686528
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG it was the first time in the history the     
+-16.127946
+No. 2
+BG the new york times reported that the new york     
+-16.224314
+No. 3
+BG the new york times reported that the NUM NUM     
+-16.875392
+No. 4
+BG the new york times reported that the company is     
+-17.417411
+No. 5
+BG the new york times reported that the company had     
+-17.622219
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the new york times reported that the new york times    
+-16.670975
+No. 2
+BG it was the first time in the history the first    
+-18.659138
+No. 3
+BG the new york times reported that the company had been    
+-19.607732
+No. 4
+BG it was the first time in the history the most    
+-19.701656
+No. 5
+BG the new york times reported that the new york post    
+-19.810209
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the new york times reported that the new york times reported   
+-19.192959
+No. 2
+BG the new york times reported that the new york times has   
+-19.972706
+No. 3
+BG the new york times reported that the new york times the   
+-20.015435
+No. 4
+BG the new york times reported that the new york times was   
+-20.118912
+No. 5
+BG it was the first time in the history the first time   
+-20.379610
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the new york times reported that the new york times has been  
+-20.757297
+No. 2
+BG the new york times reported that the new york times reported that  
+-20.764396
+No. 3
+BG the new york times reported that the new york times reported the  
+-21.401383
+No. 4
+BG it was the first time in the history the first time in  
+-22.127623
+No. 5
+BG it was the first time in the history the first time the  
+-22.457551
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the new york times reported that the new york times reported that the 
+-21.869453
+No. 2
+BG it was the first time in the history the first time in the 
+-22.741835
+No. 3
+BG the new york times reported that the new york times reported that he 
+-23.003176
+No. 4
+BG it was the first time in the history the first time in NUM 
+-24.128614
+No. 5
+BG the new york times reported that the new york times reported that it 
+-24.165014
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG the new york times reported that the new york times reported ED  
+-1.683857
+No. 2
+BG the new york times reported that the new york times reported that he was ED
+-1.732468
+No. 3
+BG the new york times reported that the new york times reported that he had ED
+-1.753147
+No. 4
+BG the new york times reported that the new york times reported that it was ED
+-1.768743
+No. 5
+BG it was the first time in the history the first time in the history ED
+-1.771006
+Content:
+BG after winning his first oscar at the academy awards in los angeles on sunday actor leonardo immediately launched into politically charged speech about climate change ED   
+
+BG the revenant was about relationship the natural world world that we collectively felt in NUM as the hottest year in recorded the frequent environmental activist told the audience ED
+
+BG production needed move the southern tip this planet just be able find snow ED               
+
+BG change is real ED                         
+
+BG it is happening right said ED                       
+
+BG is the most urgent threat facing our entire species we need work collectively together stop ED             
+
+BG he added we need support leaders around the world who do not speak for the big or the big corporations but who speak for all humanity for the indigenous

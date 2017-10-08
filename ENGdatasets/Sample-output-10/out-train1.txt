@@ -1,0 +1,614 @@
+Title:
+BG spokesman osama said donald campaign promise if implemented would chances for peace stability in the
+Teacher Forced Generated Title:
+in for said that trump manager was he would be that the with ED the
+Distribution for each word in title:
+1:
+in: 0.044655
+the: 0.043745
+said: 0.042605
+speaking: 0.036986
+will: 0.030442
+is: 0.030077
+s: 0.029121
+have: 0.012721
+are: 0.012454
+on: 0.011670
+* spokesman: 0.001301
+
+2:
+for: 0.261852
+said: 0.165626
+told: 0.077621
+sean: 0.035242
+john: 0.012614
+was: 0.010793
+confirmed: 0.007979
+josh: 0.006189
+is: 0.005776
+who: 0.005429
+* osama: 0.000004
+
+3:
+said: 0.411038
+told: 0.204772
+says: 0.026335
+has: 0.018734
+is: 0.017884
+the: 0.016714
+was: 0.016560
+who: 0.014813
+described: 0.006346
+that: 0.006182
+* said: 0.411038
+
+4:
+that: 0.127635
+in: 0.109648
+the: 0.085081
+on: 0.077912
+he: 0.056548
+it: 0.046833
+ED: 0.043732
+during: 0.039148
+friday: 0.016477
+was: 0.015767
+* donald: 0.000183
+
+5:
+trump: 0.292276
+j: 0.135047
+was: 0.022645
+administration: 0.012695
+comments: 0.012177
+who: 0.010817
+had: 0.009222
+said: 0.008546
+would: 0.007282
+is: 0.007101
+* campaign: 0.005791
+
+6:
+manager: 0.083696
+chairman: 0.041251
+had: 0.034370
+was: 0.024638
+is: 0.015166
+would: 0.011713
+has: 0.009360
+will: 0.008485
+russia: 0.007582
+director: 0.007406
+* promise: 0.002419
+
+7:
+was: 0.053522
+that: 0.040512
+be: 0.037016
+is: 0.031846
+had: 0.026743
+will: 0.018830
+could: 0.015401
+for: 0.014894
+has: 0.013637
+ED: 0.012821
+* if: 0.002427
+
+8:
+he: 0.235037
+the: 0.063004
+it: 0.060427
+president: 0.049876
+they: 0.037851
+would: 0.023832
+not: 0.021062
+you: 0.020587
+we: 0.018741
+that: 0.017538
+* implemented: 0.000005
+
+9:
+would: 0.216012
+in: 0.095466
+the: 0.064110
+was: 0.051286
+will: 0.026242
+could: 0.024698
+is: 0.021949
+had: 0.015726
+at: 0.014998
+from: 0.014420
+* would: 0.216012
+
+10:
+be: 0.210301
+not: 0.035526
+have: 0.019828
+would: 0.018929
+change: 0.012691
+allow: 0.011588
+make: 0.010789
+the: 0.009909
+end: 0.008727
+become: 0.007776
+* chances: 0.000043
+
+11:
+that: 0.107437
+the: 0.089442
+in: 0.088460
+for: 0.054577
+ED: 0.048531
+would: 0.029700
+on: 0.020867
+make: 0.020086
+as: 0.019782
+be: 0.011172
+* for: 0.054577
+
+12:
+the: 0.326370
+more: 0.020560
+his: 0.019403
+president: 0.014398
+NUM: 0.013547
+american: 0.010314
+people: 0.007648
+trump: 0.007225
+that: 0.007027
+donald: 0.006513
+* peace: 0.000228
+
+13:
+with: 0.192933
+deal: 0.099445
+in: 0.062476
+ED: 0.055830
+between: 0.028563
+on: 0.020559
+would: 0.018405
+for: 0.012704
+but: 0.010719
+or: 0.008304
+* stability: 0.000123
+
+14:
+ED: 0.275030
+in: 0.176758
+the: 0.039977
+with: 0.031300
+for: 0.013344
+but: 0.013292
+as: 0.010799
+president: 0.010276
+if: 0.009070
+between: 0.008977
+* in: 0.176758
+
+15:
+the: 0.379206
+NUM: 0.046117
+china: 0.018463
+american: 0.013580
+north: 0.012853
+his: 0.012330
+russia: 0.011138
+ED: 0.010502
+u: 0.010075
+an: 0.009751
+* the: 0.379206
+
+
+Perplexity = 6.171619
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.05786133  0.26171875 -0.03015137 ...,  0.0168457   0.00717163
+  -0.04931641]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  9.68497147e-07   8.65638231e-06   1.11956233e-05 ...,   1.69965759e-07
+     1.45610875e-05   6.53157622e-06]
+  [  2.88109504e-06   1.11385152e-05   8.58713156e-06 ...,   4.10065496e-07
+     2.24411688e-05   7.51649168e-06]
+  [  2.41079738e-06   6.61966942e-06   6.19999264e-06 ...,   3.05507996e-07
+     1.90202554e-05   5.12679026e-06]
+  ..., 
+  [  1.31025072e-03   3.30380921e-04   9.16162535e-05 ...,   7.76652887e-05
+     3.72710032e-03   2.54882820e-04]
+  [  2.08779587e-03   3.32195690e-04   1.02518956e-04 ...,   2.83977046e-04
+     4.00179904e-03   3.95397801e-04]
+  [  2.82465457e-03   1.19705056e-03   4.64587240e-04 ...,   3.95235606e-04
+     3.86876659e-03   2.01718463e-03]]
+
+ [[  1.78448420e-06   2.16831919e-04   3.71946662e-05 ...,   1.34191032e-06
+     3.42020612e-05   1.05189065e-05]
+  [  7.11149096e-06   2.85019196e-04   2.82165765e-05 ...,   2.88878186e-06
+     5.16031942e-05   9.96550443e-06]
+  [  7.91585421e-07   2.74574559e-04   2.37584809e-05 ...,   4.38359422e-07
+     1.34299835e-05   2.66025177e-06]
+  ..., 
+  [  2.30590883e-03   5.02105663e-03   3.99826420e-03 ...,   1.33768958e-03
+     3.59136402e-03   2.93412060e-03]
+  [  2.51314021e-03   5.42100891e-03   4.28649178e-03 ...,   1.57675194e-03
+     3.69241950e-03   3.22714797e-03]
+  [  2.87200673e-03   5.48982993e-03   4.37783170e-03 ...,   1.86688465e-03
+     3.85703589e-03   3.55193461e-03]]
+
+ [[  1.42661802e-05   1.08463049e-03   3.15518737e-05 ...,   6.02272257e-06
+     3.39246995e-04   1.05047315e-04]
+  [  3.23987442e-05   8.50226032e-04   1.27121411e-05 ...,   9.95932533e-06
+     3.92910209e-04   6.49884969e-05]
+  [  1.67271028e-05   1.34473172e-04   3.36302628e-06 ...,   2.32166894e-06
+     1.01736019e-04   3.06520997e-05]
+  ..., 
+  [  1.74405263e-03   3.75468051e-03   4.18434246e-03 ...,   1.25577173e-03
+     3.19799921e-03   2.75367405e-03]
+  [  2.02715094e-03   4.25539073e-03   4.29345667e-03 ...,   1.51588395e-03
+     3.40370508e-03   3.00914980e-03]
+  [  2.44628731e-03   4.51666070e-03   4.29357821e-03 ...,   1.82930194e-03
+     3.65374191e-03   3.33363842e-03]]
+
+ ..., 
+ [[  1.47126082e-06   4.83925251e-04   8.88048180e-06 ...,   1.23665870e-07
+     6.82430284e-04   6.26075007e-06]
+  [  1.97143436e-06   3.45502427e-04   3.05336766e-06 ...,   1.07577492e-07
+     4.27774416e-04   2.36520691e-06]
+  [  4.49690515e-06   4.07117506e-04   6.29900251e-06 ...,   2.80417254e-07
+     3.35219520e-04   3.76161825e-06]
+  ..., 
+  [  1.63868093e-03   3.49188154e-03   4.17232327e-03 ...,   1.25150429e-03
+     3.09747807e-03   2.72076554e-03]
+  [  1.93821569e-03   4.03202372e-03   4.27160040e-03 ...,   1.51420827e-03
+     3.33144446e-03   2.98008299e-03]
+  [  2.37120641e-03   4.34395764e-03   4.26712027e-03 ...,   1.83024071e-03
+     3.60503513e-03   3.30741075e-03]]
+
+ [[  3.89551788e-05   1.64919475e-04   1.50233231e-04 ...,   6.56256816e-06
+     7.43936514e-04   2.40554669e-04]
+  [  5.58421016e-05   1.41761338e-04   6.39875143e-05 ...,   6.64758818e-06
+     6.92036701e-04   1.41932251e-04]
+  [  6.29465721e-05   1.18053424e-04   2.69594893e-05 ...,   5.79062953e-06
+     7.40756630e-04   9.40297832e-05]
+  ..., 
+  [  2.20628851e-03   4.35255654e-03   3.25159309e-03 ...,   1.25811226e-03
+     3.50776291e-03   2.54071015e-03]
+  [  2.43930495e-03   4.89416439e-03   3.61949718e-03 ...,   1.49473210e-03
+     3.68530303e-03   2.86631007e-03]
+  [  2.83218408e-03   5.12812147e-03   3.81282764e-03 ...,   1.79093820e-03
+     3.90126137e-03   3.22018564e-03]]
+
+ [[  4.79267183e-05   1.51744127e-04   5.57527004e-04 ...,   7.03615615e-06
+     3.71289044e-03   3.12574935e-04]
+  [  1.04795297e-04   1.35786599e-04   2.73258076e-04 ...,   9.76385491e-06
+     4.15687682e-03   2.52251310e-04]
+  [  3.65654385e-04   3.47984198e-04   2.40655252e-04 ...,   2.59883509e-05
+     9.37359501e-03   2.63179245e-04]
+  ..., 
+  [  1.63719233e-03   3.48253222e-03   4.15259367e-03 ...,   1.25145016e-03
+     3.09838890e-03   2.71128397e-03]
+  [  1.93841150e-03   4.02684929e-03   4.25530225e-03 ...,   1.51443726e-03
+     3.33373016e-03   2.97194696e-03]
+  [  2.37276871e-03   4.34221886e-03   4.25407710e-03 ...,   1.83063489e-03
+     3.60803469e-03   3.30034015e-03]]]
+encode_h2:
+[[ 0.32442468 -0.18962893  0.038047   ..., -0.0243082   0.17033507
+   0.29982772]
+ [ 0.50177848 -0.03871196  0.12811148 ..., -0.03229599  0.22348015
+   0.2619805 ]
+ [ 0.34882557  0.4364531  -0.48515651 ..., -0.33019784  0.25816029
+   0.10186667]
+ ..., 
+ [-0.11945177  0.11724871 -0.64566636 ..., -0.78377968  0.45928782
+   0.14803028]
+ [ 0.06661341 -0.04907221 -0.64566636 ..., -0.61073887  0.32783914
+   0.30107361]
+ [ 0.23749571 -0.08179845 -0.64566636 ..., -0.605452    0.10619146
+   0.2041671 ]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.01470947 -0.05737305  0.14257812 ...,  0.08642578  0.22851562
+   0.01623535]
+ [-0.0859375  -0.02600098  0.06542969 ..., -0.27734375 -0.09082031
+   0.12792969]
+ ..., 
+ [ 0.15722656  0.26171875  0.27734375 ..., -0.21777344  0.08789062
+   0.04443359]
+ [-0.00817871  0.1328125  -0.20410156 ...,  0.00093079 -0.03759766
+  -0.17480469]
+ [ 0.0703125   0.08691406  0.08789062 ..., -0.04760742  0.01446533 -0.0625    ]]
+decode_seq:
+[[ 0.4013786   0.61553955 -0.74009055 ..., -0.01303115 -0.50509048
+  -0.07279756]
+ [-0.19733167 -0.02431048 -0.93881238 ..., -0.59632331  0.75583917
+  -0.88732499]
+ [-0.19780509  0.0479782  -0.0638574  ..., -0.51610792  0.6392076
+  -0.76443768]
+ ..., 
+ [-0.71090281 -0.76036203  0.72166955 ..., -0.64562398  0.38988206
+   0.95558876]
+ [-0.90459013 -0.17059897  0.31405869 ..., -0.7833457   0.34787717
+   0.07591301]
+ [ 0.01742212 -0.7043283   0.73193568 ..., -0.81222886  0.02487879
+  -0.20380685]]
+output_dstrb:
+[[  6.38736856e-06   3.43660503e-07   7.94312712e-07 ...,   5.99359680e-07
+    2.32360640e-06   2.05813677e-07]
+ [  2.11608182e-07   2.80710623e-07   2.68288773e-07 ...,   1.14649040e-07
+    6.13854763e-06   1.91108086e-07]
+ [  1.00015010e-08   1.24818328e-07   1.55514428e-07 ...,   2.61515339e-07
+    3.86898790e-07   6.04593637e-08]
+ ..., 
+ [  1.42702579e-08   5.88500541e-07   7.99170152e-07 ...,   3.93418169e-08
+    5.01191209e-07   3.60103023e-08]
+ [  1.81495459e-08   8.05322458e-08   1.60912421e-07 ...,   2.35022704e-08
+    1.08572699e-07   5.24845811e-09]
+ [  5.80902281e-07   1.76712849e-08   7.25352294e-08 ...,   1.95217904e-08
+    3.32704826e-06   4.44607835e-08]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG in             
+-3.108794
+No. 2
+BG the             
+-3.129370
+No. 3
+BG said             
+-3.155777
+No. 4
+BG speaking             
+-3.297225
+No. 5
+BG will             
+-3.491945
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG in an            
+-4.543788
+No. 2
+BG in the            
+-5.044868
+No. 3
+BG speaking in            
+-5.059386
+No. 4
+BG will be            
+-5.082752
+No. 5
+BG speaking at            
+-5.155370
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG in an interview           
+-4.844915
+No. 2
+BG speaking at the           
+-6.342471
+No. 3
+BG will be the           
+-6.891711
+No. 4
+BG speaking in the           
+-7.859213
+No. 5
+BG speaking at an           
+-8.152573
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG in an interview with          
+-5.170368
+No. 2
+BG in an interview on          
+-7.391352
+No. 3
+BG will be the first          
+-7.879680
+No. 4
+BG in an interview in          
+-8.921273
+No. 5
+BG in an interview published          
+-9.273110
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG in an interview with the         
+-7.109228
+No. 2
+BG in an interview with reuters         
+-8.151873
+No. 3
+BG in an interview on the         
+-9.005100
+No. 4
+BG in an interview with news         
+-9.082150
+No. 5
+BG in an interview with fox         
+-9.087906
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG in an interview with the guardian        
+-8.676532
+No. 2
+BG in an interview with fox news        
+-9.857173
+No. 3
+BG in an interview with the daily        
+-10.045632
+No. 4
+BG in an interview with the washington        
+-10.756370
+No. 5
+BG in an interview with news daily        
+-10.848969
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG in an interview with the daily beast       
+-11.208222
+No. 2
+BG in an interview with the washington post       
+-11.839492
+No. 3
+BG in an interview with the guardian the       
+-11.982923
+No. 4
+BG in an interview with the guardian said       
+-12.014153
+No. 5
+BG in an interview with the guardian who       
+-12.201383
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG in an interview with the daily beast said      
+-13.321518
+No. 2
+BG in an interview with the daily beast the      
+-13.418236
+No. 3
+BG in an interview with the guardian said he      
+-13.822786
+No. 4
+BG in an interview with the guardian who was      
+-13.933952
+No. 5
+BG in an interview with the guardian said that      
+-14.217440
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG in an interview with the daily beast said that     
+-14.784515
+No. 2
+BG in an interview with the daily beast said the     
+-15.162486
+No. 3
+BG in an interview with the daily beast said he     
+-15.609259
+No. 4
+BG in an interview with the guardian said he was     
+-15.701869
+No. 5
+BG in an interview with the guardian said he had     
+-15.703470
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG in an interview with the daily beast said that the    
+-17.212719
+No. 2
+BG in an interview with the daily beast said he had    
+-17.839964
+No. 3
+BG in an interview with the daily beast said that he    
+-17.868478
+No. 4
+BG in an interview with the daily beast said he would    
+-17.943585
+No. 5
+BG in an interview with the daily beast said that it    
+-18.095919
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG in an interview with the daily beast said that it was   
+-19.309060
+No. 2
+BG in an interview with the daily beast said that it would   
+-19.662003
+No. 3
+BG in an interview with the daily beast said that he had   
+-19.825824
+No. 4
+BG in an interview with the daily beast said that he would   
+-19.866700
+No. 5
+BG in an interview with the daily beast said that he was   
+-20.057129
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG in an interview with the daily beast said that it would be  
+-20.873023
+No. 2
+BG in an interview with the daily beast said that it was not  
+-21.759418
+No. 3
+BG in an interview with the daily beast said that it would not  
+-21.944731
+No. 4
+BG in an interview with the daily beast said that he would be  
+-22.072506
+No. 5
+BG in an interview with the daily beast said that it was the  
+-22.114596
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG in an interview with the daily beast said that it would not be 
+-22.925695
+No. 2
+BG in an interview with the daily beast said that it would be the 
+-23.359627
+No. 3
+BG in an interview with the daily beast said that it was the first 
+-23.689917
+No. 4
+BG in an interview with the daily beast said that it was not the 
+-24.258191
+No. 5
+BG in an interview with the daily beast said that it would be an 
+-24.264337
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG in an interview with reuters ED        
+-1.534072
+No. 2
+BG in an interview with the daily beast said that it would be the first ED
+-1.804274
+No. 3
+BG in an interview with the daily beast said that it was the first time ED
+-1.837166
+No. 4
+BG in an interview with the daily beast said that it would not be the ED
+-1.856466
+No. 5
+BG in an interview with the daily beast said that it would be the most ED
+-1.868048
+Content:
+BG the times israel reports the spokesman for palestinian authority president party on saturday warned that if the trump administration moves the us embassy from tel jerusalem it will the
+
+BG spokesman osama said donald campaign promise if implemented would chances for peace stability in the region palestinian people allow that according israel radio ED     
+
+BG move the embassy he said would be the gates hell in the region in the whole world ED           
+
+BG on friday abbas told le the palestinians might revoke their recognition israel if the embassy transfer takes place would be several options for us we would discuss them with
+
+BG our recognition the state israel is one them ED                    
+
+BG but we hope that it reach that point that on the contrary we will be able work with the next american he added ED     
+
+BG read more here ED                         

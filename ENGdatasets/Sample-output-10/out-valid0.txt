@@ -1,0 +1,615 @@
+Title:
+BG john mccain rebuked president donald remarks towards controversial foreign leaders that have been widely admonished
+Teacher Forced Generated Title:
+marco mccain said donald donald trump on the presidential policy in have been made considered
+Distribution for each word in title:
+1:
+marco: 0.111178
+jeff: 0.107331
+ted: 0.092405
+tim: 0.079811
+john: 0.069650
+bernie: 0.053409
+elizabeth: 0.034346
+lindsey: 0.016717
+ben: 0.013660
+chris: 0.012793
+* john: 0.069650
+
+2:
+mccain: 0.842898
+said: 0.005918
+lewis: 0.004602
+the: 0.003339
+is: 0.002811
+on: 0.002228
+johnson: 0.002004
+kelly: 0.001975
+announced: 0.001804
+sessions: 0.001613
+* mccain: 0.842898
+
+3:
+said: 0.323567
+is: 0.105392
+was: 0.060209
+has: 0.035774
+on: 0.019815
+says: 0.019511
+told: 0.015468
+who: 0.014641
+ED: 0.011729
+made: 0.009837
+* rebuked: 0.000000
+
+4:
+donald: 0.164864
+the: 0.104876
+his: 0.045057
+trump: 0.025791
+president: 0.024485
+hillary: 0.022043
+her: 0.021131
+sen: 0.018731
+republican: 0.014246
+on: 0.012421
+* president: 0.024485
+
+5:
+donald: 0.390599
+obama: 0.097382
+barack: 0.060837
+trump: 0.033017
+bill: 0.023116
+supreme: 0.006250
+the: 0.005933
+george: 0.005765
+john: 0.005645
+hillary: 0.005122
+* donald: 0.390599
+
+6:
+trump: 0.399923
+j: 0.055608
+nominee: 0.029291
+decision: 0.025964
+campaign: 0.024976
+presidential: 0.021836
+administration: 0.015119
+comments: 0.007844
+executive: 0.005453
+proposed: 0.005148
+* remarks: 0.000292
+
+7:
+on: 0.165410
+about: 0.160384
+at: 0.112126
+in: 0.038355
+wednesday: 0.036355
+that: 0.032560
+saying: 0.027017
+during: 0.025497
+monday: 0.022385
+he: 0.022234
+* towards: 0.000079
+
+8:
+the: 0.109403
+his: 0.060644
+house: 0.047006
+president: 0.037792
+him: 0.031870
+national: 0.021421
+security: 0.021333
+secretary: 0.017494
+immigration: 0.012736
+donald: 0.011891
+* controversial: 0.000681
+
+9:
+presidential: 0.029041
+immigration: 0.025985
+comments: 0.022068
+new: 0.017526
+speech: 0.012603
+convention: 0.008258
+decision: 0.007996
+president: 0.007355
+campaign: 0.006418
+republican: 0.006204
+* foreign: 0.001930
+
+10:
+policy: 0.599538
+trip: 0.009084
+minister: 0.006676
+immigration: 0.006429
+leaders: 0.005788
+affairs: 0.004213
+political: 0.003776
+leader: 0.003318
+policies: 0.003201
+relations: 0.003200
+* leaders: 0.005788
+
+11:
+in: 0.116887
+on: 0.115695
+at: 0.066284
+from: 0.048952
+as: 0.033849
+during: 0.032292
+including: 0.031597
+who: 0.018722
+with: 0.018223
+his: 0.017017
+* that: 0.011714
+
+12:
+have: 0.072821
+the: 0.037994
+he: 0.031934
+president: 0.016265
+they: 0.014836
+were: 0.014626
+are: 0.014448
+has: 0.013967
+his: 0.013549
+should: 0.012491
+* have: 0.072821
+
+13:
+been: 0.051815
+made: 0.024978
+called: 0.023047
+no: 0.007133
+received: 0.006467
+taken: 0.006138
+seen: 0.005091
+long: 0.004871
+done: 0.004480
+had: 0.004144
+* been: 0.051815
+
+14:
+made: 0.010380
+in: 0.010335
+called: 0.009359
+killed: 0.007624
+on: 0.007190
+with: 0.005942
+by: 0.005031
+taken: 0.004581
+accused: 0.004281
+trying: 0.004185
+* widely: 0.002651
+
+15:
+considered: 0.048436
+expected: 0.035547
+known: 0.029904
+reported: 0.028018
+criticized: 0.023017
+used: 0.020002
+seen: 0.011317
+the: 0.011183
+called: 0.009592
+made: 0.008594
+* admonished: 0.000004
+
+
+Perplexity = 5.849901
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.38867188 -0.11132812 -0.140625   ...,  0.0625      0.01068115
+   0.20410156]
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  2.68913620e-08   1.37863062e-05   3.45756416e-05 ...,   1.80073279e-09
+     3.01541149e-06   5.15145295e-08]
+  [  6.84210499e-06   1.24011212e-03   8.93987482e-04 ...,   7.07346487e-07
+     2.14553904e-04   4.44414036e-06]
+  [  3.27598397e-03   5.65962400e-03   3.07830377e-03 ...,   2.58642202e-03
+     2.26436788e-03   4.27950686e-03]
+  ..., 
+  [  1.63877453e-03   3.48481396e-03   4.14806837e-03 ...,   1.25171011e-03
+     3.10043432e-03   2.70941504e-03]
+  [  1.94006681e-03   4.02944628e-03   4.25184937e-03 ...,   1.51467544e-03
+     3.33553599e-03   2.97044474e-03]
+  [  2.37447117e-03   4.34475532e-03   4.25151829e-03 ...,   1.83082686e-03
+     3.60955810e-03   3.29911010e-03]]
+
+ [[  2.54653560e-08   3.46811385e-06   7.33881188e-06 ...,   6.35309805e-09
+     1.42201395e-06   1.39436253e-07]
+  [  3.90626447e-08   3.18166394e-06   3.41892019e-06 ...,   5.22333998e-09
+     1.27739997e-06   7.06056724e-08]
+  [  6.81074965e-08   3.63019740e-06   1.56454644e-06 ...,   6.45580478e-09
+     8.66078892e-07   5.32214450e-08]
+  ..., 
+  [  1.72759546e-03   3.77273373e-03   4.51250002e-03 ...,   1.26846810e-03
+     3.14134196e-03   2.90627824e-03]
+  [  1.99172692e-03   4.23080288e-03   4.55597276e-03 ...,   1.52275490e-03
+     3.33960680e-03   3.13498499e-03]
+  [  2.39535794e-03   4.46399394e-03   4.49731480e-03 ...,   1.83218229e-03
+     3.58856632e-03   3.43895727e-03]]
+
+ [[  1.33489311e-06   1.23613136e-04   8.71822067e-06 ...,   1.12929158e-07
+     6.26976616e-05   4.65158928e-06]
+  [  2.32981074e-06   1.21937643e-04   4.62757953e-06 ...,   1.42546128e-07
+     6.77693679e-05   3.04845116e-06]
+  [  8.90698800e-07   1.13544440e-04   5.67495408e-06 ...,   4.47790107e-08
+     1.46275761e-05   9.29523310e-07]
+  ..., 
+  [  2.40768888e-03   4.83884942e-03   4.18600766e-03 ...,   1.38315512e-03
+     3.54414736e-03   3.04358848e-03]
+  [  2.56239390e-03   5.25665097e-03   4.43398021e-03 ...,   1.60829537e-03
+     3.65785253e-03   3.28906020e-03]
+  [  2.88335793e-03   5.34186652e-03   4.49165097e-03 ...,   1.88866642e-03
+     3.82812135e-03   3.58486874e-03]]
+
+ ..., 
+ [[  1.47599712e-06   3.03545003e-05   7.73761985e-06 ...,   1.61664943e-07
+     6.33199816e-05   9.00639679e-06]
+  [  2.87937087e-06   2.46472573e-05   2.44942794e-06 ...,   1.63659166e-07
+     5.76609600e-05   4.22528728e-06]
+  [  3.91057620e-06   2.55473806e-05   2.80709514e-06 ...,   2.76277831e-07
+     5.85460584e-05   7.14837915e-06]
+  ..., 
+  [  7.28986706e-05   5.22137270e-04   6.41896913e-05 ...,   3.72642353e-06
+     8.62409011e-04   1.03564555e-04]
+  [  3.88849003e-04   1.05017079e-02   6.75719493e-05 ...,   4.07475090e-05
+     3.27125017e-04   1.29930428e-04]
+  [  5.00200829e-03   6.71963906e-03   8.95997451e-04 ...,   2.79710605e-03
+     1.41545606e-03   2.13761628e-03]]
+
+ [[  3.08794802e-06   1.60152979e-06   3.33180014e-06 ...,   1.86458479e-07
+     2.83119996e-04   5.41334521e-06]
+  [  4.59643024e-06   1.43286411e-06   1.49660912e-06 ...,   2.04944655e-07
+     2.31789876e-04   3.28801070e-06]
+  [  4.05337460e-06   1.20205743e-06   6.88135458e-07 ...,   1.76120110e-07
+     2.52493192e-04   2.64727578e-06]
+  ..., 
+  [  1.66907848e-03   3.57909268e-03   4.22296161e-03 ...,   1.25443796e-03
+     3.12120770e-03   2.74955109e-03]
+  [  1.96035369e-03   4.09936020e-03   4.31688363e-03 ...,   1.51573075e-03
+     3.34405736e-03   3.00565921e-03]
+  [  2.38641654e-03   4.39047348e-03   4.30595176e-03 ...,   1.83048833e-03
+     3.60960420e-03   3.33040697e-03]]
+
+ [[  5.04654872e-06   2.78048501e-05   5.49109518e-06 ...,   5.87068428e-07
+     3.11445736e-04   6.44401871e-06]
+  [  7.87978206e-06   1.93992892e-05   1.90373498e-06 ...,   5.81550125e-07
+     2.54915591e-04   3.36731910e-06]
+  [  7.43661667e-06   1.32920422e-05   9.14025009e-07 ...,   6.93351012e-07
+     2.02816052e-04   2.33177047e-06]
+  ..., 
+  [  1.92787522e-03   4.12254222e-03   3.98520008e-03 ...,   1.26076932e-03
+     3.36618139e-03   2.73971376e-03]
+  [  2.19577621e-03   4.60921973e-03   4.15331265e-03 ...,   1.51710073e-03
+     3.54122696e-03   2.99660466e-03]
+  [  2.60330434e-03   4.82257223e-03   4.19705128e-03 ...,   1.82697235e-03
+     3.76264262e-03   3.32091399e-03]]]
+encode_h2:
+[[ 0.50111228 -0.06933129 -0.35614461 ..., -0.16981339  0.25246099
+   0.73918188]
+ [ 0.47051322  0.02467501 -0.14471224 ..., -0.06388608 -0.21901305
+   0.25421503]
+ [ 0.32542431  0.37508777 -0.3743121  ..., -0.23218986 -0.08450199
+   0.09788009]
+ ..., 
+ [-0.03973931  0.12818801 -0.59032637 ..., -0.68871439  0.31845361
+   0.21448949]
+ [ 0.00479893 -0.0599326  -0.59032637 ..., -0.56383824  0.27918956
+   0.3343339 ]
+ [ 0.37673876 -0.10525712 -0.59032637 ..., -0.49281454  0.08353709
+   0.2968967 ]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.25390625  0.14746094 -0.08154297 ..., -0.12451172 -0.12792969
+   0.30664062]
+ [ 0.03540039  0.0013504   0.04443359 ..., -0.16015625 -0.18164062
+   0.17480469]
+ ..., 
+ [-0.13964844 -0.03466797 -0.05371094 ..., -0.11816406 -0.00245667
+  -0.07226562]
+ [-0.10107422  0.0177002   0.01470947 ..., -0.08349609  0.00558472
+  -0.01782227]
+ [ 0.04882812 -0.12353516 -0.08105469 ..., -0.08984375  0.13769531
+  -0.00689697]]
+decode_seq:
+[[  7.18533993e-04   6.96639299e-01  -5.17248631e-01 ...,  -9.99987364e-01
+   -9.72194016e-01  -1.05218720e+00]
+ [ -3.06743860e-01  -8.73963118e-01  -2.47853175e-01 ...,  -9.28755403e-01
+   -9.72194016e-01  -9.47443470e-02]
+ [ -2.94037402e-01  -6.24067783e-01   6.69030190e-01 ...,  -9.06821311e-01
+   -9.72194016e-01   9.52628136e-01]
+ ..., 
+ [  4.12010729e-01   7.20560551e-01  -3.32245380e-01 ...,  -5.29357076e-01
+   -1.18933208e-01   7.23874688e-01]
+ [ -6.03840724e-02  -5.15254855e-01  -4.41157341e-01 ...,  -6.49688363e-01
+   -9.16772932e-02   8.16235423e-01]
+ [  7.47388378e-02  -2.82483906e-01  -4.14968669e-01 ...,  -8.38553429e-01
+   -7.23011434e-01   4.05859292e-01]]
+output_dstrb:
+[[  3.08842791e-05   3.43062595e-07   5.40686869e-07 ...,   2.72180813e-07
+    1.53058663e-05   5.52041286e-07]
+ [  8.57560110e-07   4.84046936e-08   3.97779765e-08 ...,   2.79606756e-08
+    5.77189167e-06   4.47301503e-08]
+ [  9.19136045e-10   5.63617490e-08   2.65338628e-07 ...,   1.26623476e-07
+    8.98719463e-07   5.79898121e-08]
+ ..., 
+ [  3.35894271e-07   5.90675745e-06   1.96010342e-06 ...,   3.18988469e-07
+    9.70654310e-06   2.33447054e-07]
+ [  1.44857313e-06   3.14662998e-06   5.82867415e-06 ...,   7.11197742e-07
+    1.19450215e-05   6.71217322e-07]
+ [  6.05149398e-06   1.62272943e-06   4.95204586e-06 ...,   5.65971675e-07
+    1.05205290e-05   7.42902216e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG marco             
+-2.196620
+No. 2
+BG jeff             
+-2.231838
+No. 3
+BG ted             
+-2.381576
+No. 4
+BG tim             
+-2.528100
+No. 5
+BG john             
+-2.664267
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG marco rubio            
+-2.218097
+No. 2
+BG jeff sessions            
+-2.332015
+No. 3
+BG ted cruz            
+-2.422641
+No. 4
+BG john mccain            
+-2.835176
+No. 5
+BG tim said            
+-4.388448
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG marco rubio said           
+-3.805197
+No. 2
+BG john mccain said           
+-3.963524
+No. 3
+BG ted cruz said           
+-4.580292
+No. 4
+BG marco rubio is           
+-4.876865
+No. 5
+BG john mccain is           
+-5.085240
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG john mccain said he          
+-5.639724
+No. 2
+BG marco rubio said he          
+-5.924320
+No. 3
+BG marco rubio said tuesday          
+-6.140792
+No. 4
+BG ted cruz said he          
+-6.150705
+No. 5
+BG john mccain said in          
+-6.185258
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG marco rubio said tuesday that         
+-6.536082
+No. 2
+BG john mccain said he would         
+-7.418999
+No. 3
+BG john mccain said he was         
+-7.431074
+No. 4
+BG ted cruz said he would         
+-7.576714
+No. 5
+BG marco rubio said he was         
+-7.649128
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG marco rubio said tuesday that he        
+-7.319526
+No. 2
+BG marco rubio said tuesday that the        
+-8.815618
+No. 3
+BG john mccain said he would not        
+-9.274944
+No. 4
+BG marco rubio said tuesday that his        
+-9.405732
+No. 5
+BG ted cruz said he would not        
+-9.564350
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG marco rubio said tuesday that he would       
+-8.963448
+No. 2
+BG marco rubio said tuesday that he will       
+-9.764740
+No. 3
+BG marco rubio said tuesday that he was       
+-10.205191
+No. 4
+BG marco rubio said tuesday that he is       
+-10.303456
+No. 5
+BG marco rubio said tuesday that he had       
+-10.411694
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG marco rubio said tuesday that he would not      
+-11.143238
+No. 2
+BG marco rubio said tuesday that he will not      
+-11.302949
+No. 3
+BG marco rubio said tuesday that he would be      
+-11.338950
+No. 4
+BG marco rubio said tuesday that he will be      
+-11.968150
+No. 5
+BG marco rubio said tuesday that he would vote      
+-12.195675
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG marco rubio said tuesday that he will not be     
+-12.515002
+No. 2
+BG marco rubio said tuesday that he would not be     
+-12.899625
+No. 3
+BG marco rubio said tuesday that he would vote for     
+-12.905574
+No. 4
+BG marco rubio said tuesday that he would be the     
+-13.603640
+No. 5
+BG marco rubio said tuesday that he will be the     
+-13.800891
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG marco rubio said tuesday that he would vote for donald    
+-14.951759
+No. 2
+BG marco rubio said tuesday that he would vote for hillary    
+-15.009309
+No. 3
+BG marco rubio said tuesday that he will not be able    
+-15.202857
+No. 4
+BG marco rubio said tuesday that he would vote for the    
+-15.279303
+No. 5
+BG marco rubio said tuesday that he would vote for president    
+-15.417967
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG marco rubio said tuesday that he would vote for donald trump   
+-15.285897
+No. 2
+BG marco rubio said tuesday that he would vote for hillary clinton   
+-15.753000
+No. 3
+BG marco rubio said tuesday that he would vote for the republican   
+-16.964792
+No. 4
+BG marco rubio said tuesday that he would vote for president donald   
+-17.264558
+No. 5
+BG marco rubio said tuesday that he would vote for president the   
+-17.683440
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG marco rubio said tuesday that he would vote for donald trump on  
+-17.350389
+No. 2
+BG marco rubio said tuesday that he would vote for donald trump in  
+-17.395939
+No. 3
+BG marco rubio said tuesday that he would vote for donald trump for  
+-17.487108
+No. 4
+BG marco rubio said tuesday that he would vote for president donald trump  
+-17.819945
+No. 5
+BG marco rubio said tuesday that he would vote for donald trump the  
+-17.912922
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG marco rubio said tuesday that he would vote for donald trump in the 
+-18.247446
+No. 2
+BG marco rubio said tuesday that he would vote for donald trump for the 
+-18.995048
+No. 3
+BG marco rubio said tuesday that he would vote for donald trump on the 
+-19.153054
+No. 4
+BG marco rubio said tuesday that he would vote for donald trump on tuesday 
+-19.291507
+No. 5
+BG marco rubio said tuesday that he would vote for donald trump for his 
+-19.435342
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG marco rubio said tuesday that he would vote for donald trump ED  
+-1.348626
+No. 2
+BG marco rubio said tuesday that he would vote for president ED   
+-1.470480
+No. 3
+BG marco rubio said tuesday that he would vote for donald trump in the republican ED
+-1.486092
+No. 4
+BG marco rubio said tuesday that he would vote for donald trump for the republican ED
+-1.499470
+No. 5
+BG marco rubio said tuesday that he would vote for donald trump for the first ED
+-1.505643
+Content:
+BG sen ED                           
+
+BG john mccain rebuked president donald remarks towards controversial foreign leaders that have been widely admonished by lawmakers ED           
+
+BG speaking joe scarborough on on tuesday mccain said that latest attempts side with leaders like kim jong un north korea were beyond ED      
+
+BG understand it i think that the president appreciates the fact that when he says things like that it helps the credibility prestige this really outrageous mccain said referring kim
+
+BG wish the president would consider much more carefully his trump sent in the national security community after calling jong un acknowledging that he would be meet with him ED
+
+BG date no sitting us president has ever held meeting with current north korean leader ED              
+
+BG it would be appropriate for me meet with him i would absolutely i would be honored do trump on monday ED        
