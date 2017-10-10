@@ -1,0 +1,615 @@
+Title:
+BG police said imam his associate were shot in the back the head as they left
+Teacher Forced Generated Title:
+the officers they was son was arrested killed the head the city the the were
+Distribution for each word in title:
+1:
+the: 0.411021
+police: 0.060252
+NUM: 0.040463
+in: 0.014708
+was: 0.012462
+an: 0.010906
+it: 0.010817
+officers: 0.010470
+authorities: 0.009528
+two: 0.008203
+* police: 0.060252
+
+2:
+officers: 0.162168
+said: 0.098468
+chief: 0.089454
+were: 0.062128
+officer: 0.059968
+found: 0.019579
+responded: 0.015846
+say: 0.014550
+are: 0.013102
+spokesman: 0.012754
+* said: 0.098468
+
+3:
+they: 0.191178
+the: 0.139131
+that: 0.034668
+in: 0.034360
+police: 0.031014
+on: 0.028711
+it: 0.019786
+ED: 0.017520
+she: 0.017392
+NUM: 0.016682
+* imam: 0.000005
+
+4:
+was: 0.476102
+had: 0.085911
+were: 0.034944
+NUM: 0.033547
+in: 0.028441
+who: 0.026652
+the: 0.023779
+is: 0.017507
+an: 0.016217
+said: 0.010211
+* his: 0.000705
+
+5:
+son: 0.049423
+wife: 0.026408
+mother: 0.015660
+family: 0.009173
+body: 0.008203
+parents: 0.007098
+name: 0.005411
+home: 0.005233
+was: 0.004164
+dallas: 0.004157
+* associate: 0.000259
+
+6:
+was: 0.163320
+died: 0.040070
+at: 0.030934
+were: 0.027546
+had: 0.024787
+ED: 0.023380
+is: 0.022018
+with: 0.010941
+as: 0.010326
+professor: 0.008812
+* were: 0.027546
+
+7:
+arrested: 0.114970
+found: 0.062738
+killed: 0.052771
+charged: 0.019098
+the: 0.018220
+shot: 0.018197
+not: 0.013390
+among: 0.012165
+released: 0.010792
+injured: 0.010633
+* shot: 0.018197
+
+8:
+killed: 0.245769
+dead: 0.145142
+in: 0.075479
+at: 0.052158
+ED: 0.039366
+by: 0.036166
+on: 0.017072
+from: 0.016912
+when: 0.012764
+death: 0.012043
+* in: 0.075479
+
+9:
+the: 0.359158
+NUM: 0.033229
+on: 0.031267
+police: 0.013388
+in: 0.013037
+front: 0.010783
+an: 0.008977
+early: 0.008448
+his: 0.008361
+car: 0.007897
+* the: 0.359158
+
+10:
+head: 0.040456
+car: 0.016372
+attack: 0.015732
+incident: 0.013755
+city: 0.012395
+police: 0.011903
+suspect: 0.010771
+fire: 0.010253
+capital: 0.009544
+hospital: 0.009469
+* back: 0.003827
+
+11:
+the: 0.068190
+home: 0.034275
+on: 0.032708
+in: 0.032382
+sunday: 0.024415
+with: 0.022317
+while: 0.017761
+after: 0.017527
+at: 0.017245
+hours: 0.016648
+* the: 0.068190
+
+12:
+city: 0.029682
+street: 0.019791
+capital: 0.011584
+road: 0.010642
+area: 0.008834
+night: 0.008778
+day: 0.007741
+car: 0.007009
+water: 0.007009
+streets: 0.006737
+* head: 0.005365
+
+13:
+the: 0.301058
+at: 0.037554
+ED: 0.035425
+on: 0.026614
+according: 0.026036
+in: 0.021335
+capital: 0.013316
+around: 0.011514
+state: 0.011005
+her: 0.010290
+* as: 0.005735
+
+14:
+the: 0.345432
+he: 0.036709
+she: 0.033755
+they: 0.022724
+her: 0.021979
+an: 0.017841
+police: 0.013789
+in: 0.010438
+as: 0.009225
+it: 0.008426
+* they: 0.022724
+
+15:
+were: 0.213118
+saw: 0.027009
+found: 0.024843
+have: 0.018617
+said: 0.010961
+had: 0.008753
+went: 0.008699
+walked: 0.008439
+as: 0.007338
+are: 0.007317
+* left: 0.006761
+
+
+Perplexity = 4.770300
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0112915   0.02893066  0.08349609 ...,  0.08154297 -0.04589844
+  -0.04638672]
+ [-0.5625      0.10107422 -0.02648926 ...,  0.03393555 -0.31445312
+  -0.09277344]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  2.66965312e-08   1.24931103e-04   2.68015560e-06 ...,   2.52606327e-08
+     5.76746629e-07   3.98686950e-07]
+  [  1.21863877e-07   2.19483773e-04   3.61609864e-06 ...,   1.00185140e-07
+     1.15123783e-06   7.65109462e-07]
+  [  1.46350402e-07   3.06461268e-04   2.92610093e-06 ...,   3.49953027e-08
+     8.00168209e-07   3.95121191e-07]
+  ..., 
+  [  2.53951061e-03   5.35424240e-03   3.91754881e-03 ...,   1.37113209e-03
+     3.72321904e-03   3.00126662e-03]
+  [  2.71190284e-03   5.72421448e-03   4.22783755e-03 ...,   1.60183490e-03
+     3.80835729e-03   3.29786818e-03]
+  [  3.04410304e-03   5.74360881e-03   4.33667377e-03 ...,   1.88407081e-03
+     3.95056419e-03   3.61122587e-03]]
+
+ [[  2.91031088e-09   1.40813725e-07   4.16150579e-06 ...,   1.24726918e-09
+     3.15724236e-07   3.71074719e-07]
+  [  1.90424352e-08   1.78365582e-07   1.83737734e-06 ...,   4.35995196e-09
+     4.49409811e-07   6.26841768e-07]
+  [  1.55069500e-07   4.80066205e-07   3.66527229e-06 ...,   3.33549579e-08
+     6.33821946e-06   1.79432732e-06]
+  ..., 
+  [  2.22620787e-03   4.96442392e-02   3.81588563e-03 ...,   4.62646392e-04
+     4.60296171e-03   1.51398825e-03]
+  [  4.97340783e-03   9.69938748e-03   9.39205405e-04 ...,   2.93522282e-03
+     1.54033466e-03   1.96555653e-03]
+  [  3.87499714e-03   6.63239090e-03   2.20477465e-03 ...,   1.96299306e-03
+     3.96099174e-03   2.36367807e-03]]
+
+ [[  3.53748328e-05   9.75454785e-03   1.58038363e-03 ...,   8.86409907e-06
+     8.41582776e-04   1.53988396e-04]
+  [  1.11075479e-03   7.29211420e-02   1.96914887e-03 ...,   4.13343398e-04
+     6.36991393e-03   5.06227661e-04]
+  [  2.67261779e-03   4.95774765e-03   3.48605495e-03 ...,   2.56847893e-03
+     1.98140903e-03   4.11209883e-03]
+  ..., 
+  [  1.63955672e-03   3.48651921e-03   4.14775033e-03 ...,   1.25182513e-03
+     3.10121663e-03   2.70940154e-03]
+  [  1.94074365e-03   4.03094571e-03   4.25170688e-03 ...,   1.51475822e-03
+     3.33610806e-03   2.97047431e-03]
+  [  2.37505743e-03   4.34595253e-03   4.25149081e-03 ...,   1.83087680e-03
+     3.60995554e-03   3.29916575e-03]]
+
+ ..., 
+ [[  1.17163466e-07   5.64108377e-05   2.21403138e-06 ...,   1.45202534e-07
+     1.50030451e-06   1.33846625e-05]
+  [  5.67639916e-07   1.21267323e-04   2.52469135e-06 ...,   3.98162257e-07
+     2.87673174e-06   1.57677387e-05]
+  [  9.33506453e-06   7.31713881e-05   1.02870681e-05 ...,   5.84695681e-06
+     7.87412646e-05   1.24133614e-04]
+  ..., 
+  [  1.94103131e-03   4.17671213e-03   4.16379515e-03 ...,   1.28809933e-03
+     3.32926540e-03   2.82084313e-03]
+  [  2.19688099e-03   4.64235712e-03   4.31031873e-03 ...,   1.53673021e-03
+     3.50699085e-03   3.07266857e-03]
+  [  2.59430124e-03   4.83515393e-03   4.32765624e-03 ...,   1.84021425e-03
+     3.73021024e-03   3.39066167e-03]]
+
+ [[  8.88321097e-07   1.56844815e-03   2.23323499e-04 ...,   2.23191660e-06
+     1.38516145e-04   5.91355434e-04]
+  [  6.05970581e-06   1.68029731e-03   2.41148678e-04 ...,   1.13073265e-05
+     2.31313592e-04   8.59873369e-04]
+  [  1.19459964e-05   2.37789261e-03   4.88212652e-04 ...,   1.43018233e-05
+     3.19015497e-04   6.01867156e-04]
+  ..., 
+  [  1.63707498e-03   3.48413060e-03   4.15873993e-03 ...,   1.25140359e-03
+     3.09755467e-03   2.71416479e-03]
+  [  1.93786819e-03   4.02733916e-03   4.26029600e-03 ...,   1.51432515e-03
+     3.33263772e-03   2.97438633e-03]
+  [  2.37188232e-03   4.34189057e-03   4.25801240e-03 ...,   1.83049391e-03
+     3.60685377e-03   3.30243492e-03]]
+
+ [[  1.13812170e-07   3.10391079e-05   1.32235746e-05 ...,   1.12003235e-07
+     1.12846492e-05   8.35964875e-06]
+  [  5.50200298e-07   6.12821896e-05   1.03550674e-05 ...,   2.81714875e-07
+     2.38552639e-05   8.43621183e-06]
+  [  6.27861539e-07   1.16629475e-04   1.12316302e-05 ...,   5.11801431e-07
+     1.57244522e-05   6.75946285e-06]
+  ..., 
+  [  2.08440307e-03   4.39825887e-03   4.09467798e-03 ...,   1.30275113e-03
+     3.44748655e-03   2.85055651e-03]
+  [  2.31979787e-03   4.85040434e-03   4.26857593e-03 ...,   1.54950691e-03
+     3.59580852e-03   3.09618749e-03]
+  [  2.70184153e-03   5.01427241e-03   4.30551078e-03 ...,   1.84973329e-03
+     3.79651925e-03   3.40863457e-03]]]
+encode_h2:
+[[ 0.2684612  -0.07446574 -0.27095467 ..., -0.17683445  0.4072119
+   0.42167476]
+ [ 0.40415892  0.09740474  0.12703252 ..., -0.44514415 -0.11376352
+   0.61660397]
+ [ 0.40739924  0.0399263   0.00530888 ..., -0.5117259  -0.11076815
+   0.48737866]
+ ..., 
+ [-0.04618447  0.42586231 -0.70279247 ..., -0.7364369   0.49797371
+   0.22775215]
+ [-0.21064016  0.2209523  -0.70709872 ..., -0.8266235   0.60992688
+   0.20406355]
+ [-0.14152107  0.06292505 -0.70709872 ..., -0.65740371  0.62472343
+   0.39437625]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09277344  0.08007812  0.13671875 ..., -0.23632812  0.01635742
+  -0.14941406]
+ [-0.00909424 -0.04418945  0.09960938 ...,  0.14453125  0.18066406
+  -0.08691406]
+ ..., 
+ [-0.07128906 -0.07373047  0.19921875 ...,  0.05053711  0.0177002
+   0.11523438]
+ [-0.03149414  0.06445312 -0.06054688 ...,  0.03881836  0.15234375
+  -0.02685547]
+ [ 0.06445312  0.03613281  0.03857422 ..., -0.16308594  0.12890625
+  -0.06030273]]
+decode_seq:
+[[ 0.25488037  0.52541971 -0.71660805 ...,  5.06160355 -0.95273799
+  -0.13064785]
+ [ 0.9761616  -0.98090863 -0.05764714 ...,  5.06160355 -0.97282475
+   0.11399272]
+ [ 0.70935142  0.2364018  -0.64444613 ...,  5.06160355 -0.54406822
+   0.49085447]
+ ..., 
+ [ 0.82920176 -0.8238222   0.45567906 ...,  5.06160355  0.42262352
+  -0.91525781]
+ [ 0.59392089  0.72051722  0.42224479 ...,  5.06160355 -0.82372534
+  -0.90923083]
+ [ 0.79187959  0.60413265  0.39160717 ...,  5.06160355 -0.74612045
+   0.6705724 ]]
+output_dstrb:
+[[  4.97068413e-06   6.10768183e-08   1.42079529e-07 ...,   4.17560422e-08
+    4.96603616e-06   5.16833367e-08]
+ [  1.25168720e-08   1.67353036e-07   1.98776618e-07 ...,   7.25300637e-08
+    4.95243148e-06   9.77170345e-08]
+ [  1.65567329e-07   1.08072193e-07   2.62807504e-07 ...,   1.06795589e-07
+    2.85306925e-07   6.49058975e-08]
+ ..., 
+ [  4.18973940e-07   4.04351965e-08   3.95560811e-08 ...,   7.00882152e-09
+    1.74604941e-06   2.71258926e-08]
+ [  7.22252480e-08   1.88673781e-07   2.67047202e-08 ...,   2.00788115e-08
+    9.30369310e-07   6.65433308e-09]
+ [  3.06048332e-06   9.94111019e-07   5.73863304e-07 ...,   3.73373545e-08
+    7.32039416e-06   2.04061891e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-0.889111
+No. 2
+BG police             
+-2.809224
+No. 3
+BG NUM             
+-3.207364
+No. 4
+BG in             
+-4.219377
+No. 5
+BG was             
+-4.385084
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG the suspect            
+-3.462302
+No. 2
+BG the man            
+-3.585594
+No. 3
+BG the shooting            
+-4.490143
+No. 4
+BG the woman            
+-4.538664
+No. 5
+BG the video            
+-4.602826
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the man was           
+-4.991968
+No. 2
+BG the suspect was           
+-5.114393
+No. 3
+BG the woman was           
+-5.613195
+No. 4
+BG the man who           
+-5.826710
+No. 5
+BG the video was           
+-6.221069
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the man who was          
+-7.076940
+No. 2
+BG the man was found          
+-7.438134
+No. 3
+BG the suspect was found          
+-7.778721
+No. 4
+BG the man was killed          
+-7.900737
+No. 5
+BG the suspect was killed          
+-7.915621
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the man was found dead         
+-8.211401
+No. 2
+BG the suspect was found dead         
+-8.970913
+No. 3
+BG the man was killed in         
+-9.715227
+No. 4
+BG the man who was found         
+-9.741256
+No. 5
+BG the man who was killed         
+-9.759865
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the man was found dead in        
+-9.544432
+No. 2
+BG the man was found dead at        
+-10.022033
+No. 3
+BG the suspect was found dead in        
+-10.414944
+No. 4
+BG the man was found dead after        
+-10.543738
+No. 5
+BG the man who was found dead        
+-10.583293
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the man was found dead in the       
+-10.897280
+No. 2
+BG the man who was found dead in       
+-11.547265
+No. 3
+BG the man was found dead at the       
+-11.582745
+No. 4
+BG the man was found dead at NUM       
+-11.599764
+No. 5
+BG the suspect was found dead in the       
+-11.647295
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the man who was found dead in the      
+-12.704790
+No. 2
+BG the man was found dead at NUM p      
+-13.319774
+No. 3
+BG the man was found dead at the scene      
+-14.240894
+No. 4
+BG the man who was found dead in his      
+-14.252703
+No. 5
+BG the man was found dead in the head      
+-14.374542
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the man who was found dead in his home     
+-16.159989
+No. 2
+BG the man was found dead at the scene in     
+-16.185574
+No. 3
+BG the man who was found dead in the head     
+-16.256825
+No. 4
+BG the man was found dead in the head the     
+-16.415408
+No. 5
+BG the man who was found dead in the city     
+-16.480152
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the man was found dead at the scene in the    
+-17.510525
+No. 2
+BG the man who was found dead in his home in    
+-17.755257
+No. 3
+BG the man who was found dead in the head the    
+-18.197938
+No. 4
+BG the man who was found dead in the city in    
+-18.320148
+No. 5
+BG the man who was found dead in his home on    
+-18.420964
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the man who was found dead in his home in the   
+-18.982492
+No. 2
+BG the man who was found dead in the city in the   
+-19.312031
+No. 3
+BG the man who was found dead in his home on sunday   
+-20.288174
+No. 4
+BG the man who was found dead in his home on tuesday   
+-20.655786
+No. 5
+BG the man who was found dead in his home on saturday   
+-20.674176
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the man who was found dead in his home in the city  
+-21.274975
+No. 2
+BG the man who was found dead in the city in the city  
+-21.848257
+No. 3
+BG the man who was found dead in the city in the town  
+-21.891196
+No. 4
+BG the man who was found dead in the city in the capital  
+-21.898937
+No. 5
+BG the man who was found dead in his home in the town  
+-21.933859
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the man who was found dead in his home in the city in 
+-23.363262
+No. 2
+BG the man who was found dead in his home in the town in 
+-23.760290
+No. 3
+BG the man who was found dead in the city in the capital city 
+-23.837970
+No. 4
+BG the man who was found dead in his home in the city on 
+-23.924988
+No. 5
+BG the man who was found dead in the city in the town in 
+-24.293273
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG the man was found dead at NUM p ED     
+-1.333518
+No. 2
+BG the man was found dead at NUM ED      
+-1.349371
+No. 3
+BG the man who was found dead in his home in the city in the ED
+-1.735340
+No. 4
+BG the man who was found dead in his home in the town in the ED
+-1.776945
+No. 5
+BG the man who was found dead in his home in the city on the ED
+-1.808109
+Content:
+BG new york the leader new york city mosque an associate were fatally shot in brazen daylight attack as they left afternoon prayers saturday ED     
+
+BG police said imam his associate were shot in the back the head as they left the mosque in the ozone park section queens shortly before NUM p ED 
+
+BG m ED                           
+
+BG both men were pronounced dead later saturday an administrator at jamaica hospital said ED               
+
+BG police said no motive has been established there is no reason believe the men were shot because they were muslim ED        
+
+BG no suspects are in custody ED                       
+
+BG nothing in the preliminary investigation indicate that they were targeted because their said deputy inspector henry the new york police department ED       

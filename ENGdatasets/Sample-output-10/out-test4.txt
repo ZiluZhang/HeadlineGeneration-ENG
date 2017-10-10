@@ -1,0 +1,618 @@
+Title:
+BG is set testify before the senate intelligence committee after memorial day the main question around
+Teacher Forced Generated Title:
+the not up in the senate judiciary committee said the service ED former intelligence for
+Distribution for each word in title:
+1:
+the: 0.086288
+in: 0.056554
+trump: 0.045353
+said: 0.027653
+is: 0.022429
+obama: 0.022284
+he: 0.021688
+speaking: 0.018319
+will: 0.016025
+on: 0.014419
+* is: 0.022429
+
+2:
+not: 0.159549
+the: 0.105781
+going: 0.039624
+an: 0.034876
+very: 0.019621
+no: 0.017641
+what: 0.016442
+that: 0.014411
+also: 0.014073
+one: 0.013807
+* set: 0.002596
+
+3:
+up: 0.070956
+out: 0.024124
+clear: 0.020878
+be: 0.018527
+for: 0.012189
+take: 0.008333
+that: 0.008307
+fire: 0.008157
+very: 0.007877
+the: 0.007023
+* testify: 0.000180
+
+4:
+in: 0.297984
+before: 0.072588
+about: 0.054724
+for: 0.047434
+if: 0.045487
+on: 0.038894
+at: 0.031251
+with: 0.030015
+as: 0.026374
+the: 0.024929
+* before: 0.072588
+
+5:
+the: 0.406384
+he: 0.053415
+this: 0.042145
+we: 0.025487
+trump: 0.018946
+his: 0.016975
+senate: 0.014611
+president: 0.012408
+an: 0.010846
+it: 0.008273
+* the: 0.406384
+
+6:
+senate: 0.087766
+house: 0.063443
+republican: 0.025456
+first: 0.024767
+white: 0.014385
+office: 0.013088
+department: 0.012660
+trump: 0.011486
+next: 0.011047
+fbi: 0.010522
+* senate: 0.087766
+
+7:
+judiciary: 0.182305
+intelligence: 0.090543
+committee: 0.075281
+voted: 0.025429
+majority: 0.013838
+floor: 0.013397
+republican: 0.011820
+the: 0.010370
+race: 0.008529
+house: 0.007323
+* intelligence: 0.090543
+
+8:
+committee: 0.798004
+agency: 0.008428
+services: 0.007128
+agencies: 0.006010
+director: 0.004985
+officials: 0.004070
+service: 0.002727
+intelligence: 0.002260
+unit: 0.002094
+group: 0.001665
+* committee: 0.798004
+
+9:
+said: 0.174824
+chairman: 0.103062
+on: 0.057223
+told: 0.046311
+in: 0.032085
+which: 0.029954
+ED: 0.017909
+committee: 0.016591
+that: 0.014259
+for: 0.011610
+* after: 0.003255
+
+10:
+the: 0.333388
+he: 0.051923
+it: 0.034079
+an: 0.026943
+his: 0.021946
+president: 0.021320
+they: 0.017668
+all: 0.010524
+this: 0.009780
+having: 0.009740
+* memorial: 0.000037
+
+11:
+service: 0.128053
+was: 0.096926
+day: 0.038997
+in: 0.038536
+is: 0.037057
+for: 0.031328
+on: 0.023161
+have: 0.023024
+which: 0.022102
+the: 0.013250
+* day: 0.038997
+
+12:
+ED: 0.061011
+the: 0.033827
+before: 0.031826
+was: 0.031777
+NUM: 0.020703
+in: 0.019528
+that: 0.018440
+at: 0.018239
+after: 0.015165
+for: 0.013132
+* the: 0.033827
+
+13:
+former: 0.039182
+president: 0.028352
+american: 0.021859
+new: 0.018064
+white: 0.017539
+government: 0.013668
+group: 0.012656
+department: 0.012129
+united: 0.011921
+washington: 0.010529
+* main: 0.000556
+
+14:
+intelligence: 0.027371
+republican: 0.026103
+american: 0.024668
+white: 0.021834
+national: 0.019678
+political: 0.018409
+group: 0.016543
+black: 0.009160
+the: 0.008862
+foreign: 0.008856
+* question: 0.002282
+
+15:
+for: 0.085405
+was: 0.080904
+in: 0.050420
+is: 0.045037
+on: 0.041178
+the: 0.028012
+ED: 0.025514
+that: 0.020745
+who: 0.020664
+whether: 0.015144
+* around: 0.000080
+
+
+Perplexity = 4.836172
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.02062988  0.16796875  0.1875     ..., -0.09375    -0.06591797
+   0.13183594]
+ [-0.00411987  0.1171875   0.18945312 ..., -0.28515625 -0.03613281
+   0.09814453]
+ ..., 
+ [-0.02490234  0.02197266 -0.03540039 ...,  0.01080322 -0.01879883
+  -0.06884766]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.01348877 -0.12011719  0.14453125 ...,  0.26757812  0.24023438
+   0.07910156]]
+encode_h1:
+[[[  5.27853786e-07   3.20059407e-05   8.22048387e-05 ...,   1.29308532e-07
+     3.23009090e-06   4.38752204e-06]
+  [  8.82849065e-07   2.00483028e-05   4.39386931e-05 ...,   1.70815468e-07
+     3.52572624e-06   3.31068941e-06]
+  [  8.54434347e-07   2.26070970e-05   3.69677255e-05 ...,   1.12212810e-07
+     8.58221256e-07   1.48599065e-06]
+  ..., 
+  [  2.15141824e-03   4.62194299e-03   4.47531510e-03 ...,   1.35107106e-03
+     3.45431641e-03   3.03059933e-03]
+  [  2.35076575e-03   5.00598596e-03   4.60182969e-03 ...,   1.58458191e-03
+     3.57628148e-03   3.25921760e-03]
+  [  2.70294212e-03   5.09965327e-03   4.58180811e-03 ...,   1.87332486e-03
+     3.75859812e-03   3.55409761e-03]]
+
+ [[  7.12135545e-07   8.74151283e-06   7.90713329e-06 ...,   3.83905700e-07
+     1.39999047e-05   9.57374687e-06]
+  [  1.54037889e-06   1.16552183e-05   6.46501985e-06 ...,   9.36803076e-07
+     1.89300717e-05   1.07273509e-05]
+  [  1.75900709e-06   2.18873247e-05   5.03872934e-06 ...,   4.85879127e-07
+     5.51929861e-06   4.76027026e-06]
+  ..., 
+  [  9.53423441e-04   1.37998490e-03   1.77303358e-04 ...,   2.26679520e-04
+     1.35266199e-03   9.16298770e-04]
+  [  3.61300888e-03   6.00356935e-03   5.98559971e-04 ...,   3.66940885e-03
+     3.21951011e-05   2.81031313e-03]
+  [  4.89621330e-03   6.65101083e-03   9.99443815e-04 ...,   3.02267866e-03
+     1.45364134e-03   2.53757043e-03]]
+
+ [[  4.02404658e-05   2.31425068e-03   1.41578785e-03 ...,   9.53415511e-05
+     7.58343667e-05   1.56161259e-03]
+  [  1.07515960e-04   1.11808558e-03   7.55510759e-04 ...,   1.86043500e-04
+     8.99024526e-05   1.21142366e-03]
+  [  9.86357263e-05   7.50825275e-04   1.38215881e-04 ...,   1.60320982e-04
+     2.62730784e-04   1.28854241e-03]
+  ..., 
+  [  1.64821511e-03   3.52254556e-03   4.20100801e-03 ...,   1.25239382e-03
+     3.10376589e-03   2.73594679e-03]
+  [  1.94420537e-03   4.05429071e-03   4.29630373e-03 ...,   1.51444646e-03
+     3.33357416e-03   2.99333083e-03]
+  [  2.37425719e-03   4.35805507e-03   4.28763777e-03 ...,   1.82997109e-03
+     3.60434805e-03   3.31911747e-03]]
+
+ ..., 
+ [[  9.62911372e-07   7.16027498e-05   1.13904709e-04 ...,   2.86463290e-07
+     2.63996280e-05   1.12214784e-05]
+  [  2.34097615e-06   6.61685044e-05   6.73940158e-05 ...,   4.84757948e-07
+     3.26031368e-05   9.64521132e-06]
+  [  1.31654713e-06   6.03214139e-05   5.67228417e-05 ...,   1.98006418e-07
+     1.68865354e-05   4.34342701e-06]
+  ..., 
+  [  2.02677283e-03   4.41598520e-03   4.04456723e-03 ...,   1.26745470e-03
+     3.45093128e-03   2.85913516e-03]
+  [  2.27415888e-03   4.85342043e-03   4.22256161e-03 ...,   1.52282242e-03
+     3.59541085e-03   3.09447665e-03]
+  [  2.66614254e-03   5.00721438e-03   4.26651677e-03 ...,   1.83106051e-03
+     3.79396509e-03   3.40068713e-03]]
+
+ [[  7.30768625e-06   3.46959532e-05   2.97692736e-06 ...,   9.24451001e-07
+     1.40196295e-04   2.50690446e-05]
+  [  1.23307218e-05   2.47281514e-05   9.73217311e-07 ...,   8.88394709e-07
+     1.43992511e-04   1.17853515e-05]
+  [  1.62537799e-05   1.88541053e-05   7.80574453e-07 ...,   6.52536528e-07
+     7.71906634e-05   5.88753801e-06]
+  ..., 
+  [  1.70877588e-03   3.66753386e-03   4.18834528e-03 ...,   1.25566381e-03
+     3.16314446e-03   2.74388748e-03]
+  [  1.99631741e-03   4.17906186e-03   4.29379055e-03 ...,   1.51658442e-03
+     3.37682408e-03   3.00173718e-03]
+  [  2.41910876e-03   4.45585558e-03   4.29152278e-03 ...,   1.83064374e-03
+     3.63407377e-03   3.32775060e-03]]
+
+ [[  3.55507359e-06   8.67265317e-06   2.37265103e-05 ...,   1.09716643e-06
+     4.75711240e-05   4.71792264e-05]
+  [  7.84377244e-06   7.35384174e-06   9.54098687e-06 ...,   1.36044321e-06
+     5.85503476e-05   2.82763212e-05]
+  [  1.28776001e-05   8.14552823e-06   1.12795624e-05 ...,   2.40976624e-06
+     5.80562082e-05   2.73233072e-05]
+  ..., 
+  [  2.47499760e-04   2.46465170e-05   6.60993028e-05 ...,   2.85463211e-05
+     1.24276185e-03   2.44746974e-04]
+  [  6.26006513e-04   4.83815566e-05   1.30422253e-04 ...,   6.35777906e-05
+     6.43719395e-04   2.77077517e-04]
+  [  6.71461050e-04   2.63049762e-04   5.34578343e-04 ...,   1.32330300e-04
+     2.93519406e-04   2.39970439e-04]]]
+encode_h2:
+[[ 0.37946948 -0.19611099 -0.02573727 ..., -0.02654042  0.0403105
+   0.36019751]
+ [ 0.57373583 -0.07765642  0.03253692 ..., -0.07919519 -0.12336259
+   0.29429466]
+ [ 0.43499625  0.46001682 -0.63505763 ..., -0.37670052  0.1890014
+   0.17702101]
+ ..., 
+ [-0.18183136  0.06812054 -0.77811646 ..., -0.76089776  0.50236899
+   0.27195412]
+ [-0.08903225 -0.12372621 -0.77811646 ..., -0.60938329  0.32877654
+   0.37328428]
+ [ 0.09385385 -0.23975149 -0.77811646 ..., -0.51717216  0.33940381
+   0.44363064]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.00704956 -0.07324219  0.171875   ...,  0.01123047  0.1640625
+   0.10693359]
+ [ 0.02954102  0.25976562  0.19335938 ..., -0.01287842  0.08935547
+  -0.32421875]
+ ..., 
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.1640625  -0.06835938  0.16796875 ..., -0.11083984  0.07470703
+  -0.04272461]
+ [ 0.10107422  0.09912109 -0.03759766 ..., -0.265625   -0.0703125
+   0.06738281]]
+decode_seq:
+[[ 0.54194647  0.62971884 -0.78048301 ..., -0.5305512  -0.57628191
+  -0.1663356 ]
+ [ 0.01776151  0.58061934 -0.01058736 ..., -0.98338503 -0.02861521
+   0.65673387]
+ [-0.99449623  0.19646184  0.04544732 ..., -0.99194634  0.1512444
+   0.53751552]
+ ..., 
+ [ 0.1591787   0.40988797  0.82708943 ..., -0.53553295  0.51237595
+   0.40763468]
+ [-0.45453408 -0.63649571  0.30164045 ..., -0.5307281  -0.00417594
+  -0.87231076]
+ [-0.32635981  0.5832566   0.92925471 ..., -0.5307281   0.85304481
+  -0.95003104]]
+output_dstrb:
+[[  3.46103388e-06   1.35007568e-07   3.57615932e-07 ...,   9.93381803e-08
+    1.86072759e-06   1.09213445e-07]
+ [  7.91553321e-05   4.37593997e-07   4.04229922e-07 ...,   3.42634564e-07
+    9.47262208e-07   9.76822392e-08]
+ [  3.21832907e-08   6.32384513e-07   8.88275792e-07 ...,   4.11401174e-07
+    1.18055159e-05   1.50243523e-06]
+ ..., 
+ [  3.52113170e-06   4.56206351e-07   9.28129509e-07 ...,   1.57769989e-06
+    1.96584347e-06   3.42981139e-07]
+ [  3.79655921e-06   4.02350508e-07   5.71911016e-07 ...,   7.50852905e-07
+    9.20594448e-06   2.29142458e-07]
+ [  7.75493565e-04   3.46630515e-07   1.41407170e-07 ...,   1.84345666e-07
+    6.49888875e-07   5.67310074e-08]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.450059
+No. 2
+BG in             
+-2.872552
+No. 3
+BG trump             
+-3.093268
+No. 4
+BG said             
+-3.588017
+No. 5
+BG is             
+-3.797407
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG in the            
+-4.535209
+No. 2
+BG in an            
+-4.553868
+No. 3
+BG trump said            
+-4.876312
+No. 4
+BG in his            
+-5.346918
+No. 5
+BG trump is            
+-5.357719
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG in an interview           
+-4.699822
+No. 2
+BG trump said he           
+-6.749028
+No. 3
+BG trump said in           
+-6.900764
+No. 4
+BG in his first           
+-7.245415
+No. 5
+BG trump said that           
+-7.366231
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG in an interview with          
+-5.111069
+No. 2
+BG in an interview on          
+-7.213302
+No. 3
+BG trump said in statement          
+-8.235030
+No. 4
+BG trump said that he          
+-8.445831
+No. 5
+BG in an interview published          
+-8.732648
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG in an interview with the         
+-7.213238
+No. 2
+BG in an interview with fox         
+-8.166337
+No. 3
+BG in an interview with reuters         
+-8.803582
+No. 4
+BG in an interview with cnn         
+-8.813194
+No. 5
+BG in an interview with news         
+-8.935581
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG in an interview with the guardian        
+-8.712255
+No. 2
+BG in an interview with fox news        
+-9.086401
+No. 3
+BG in an interview with the washington        
+-10.106570
+No. 4
+BG in an interview with the daily        
+-10.174762
+No. 5
+BG in an interview with news daily        
+-10.428347
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG in an interview with the washington post       
+-11.162227
+No. 2
+BG in an interview with fox news host       
+-11.237193
+No. 3
+BG in an interview with the daily beast       
+-11.298755
+No. 4
+BG in an interview with news daily host       
+-11.629040
+No. 5
+BG in an interview with fox news sunday       
+-11.977241
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG in an interview with news daily host stephen      
+-12.983683
+No. 2
+BG in an interview with the daily beast the      
+-13.229240
+No. 3
+BG in an interview with fox news host chris      
+-13.753934
+No. 4
+BG in an interview with the daily beast said      
+-13.930822
+No. 5
+BG in an interview with fox news sunday trump      
+-13.979482
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG in an interview with news daily host stephen k     
+-13.404072
+No. 2
+BG in an interview with fox news host chris wallace     
+-14.559288
+No. 3
+BG in an interview with fox news sunday trump said     
+-14.805662
+No. 4
+BG in an interview with the daily beast said that     
+-15.401207
+No. 5
+BG in an interview with the daily beast said he     
+-15.954685
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG in an interview with fox news host chris wallace said    
+-16.338725
+No. 2
+BG in an interview with fox news sunday trump said that    
+-16.400787
+No. 3
+BG in an interview with fox news host chris wallace asked    
+-16.551829
+No. 4
+BG in an interview with news daily host stephen k in    
+-16.725785
+No. 5
+BG in an interview with fox news sunday trump said he    
+-17.207066
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG in an interview with fox news host chris wallace said that   
+-17.320590
+No. 2
+BG in an interview with fox news sunday trump said that he   
+-18.291272
+No. 3
+BG in an interview with fox news host chris wallace asked if   
+-18.372679
+No. 4
+BG in an interview with fox news sunday trump said that the   
+-18.448654
+No. 5
+BG in an interview with fox news host chris wallace asked trump   
+-18.905170
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG in an interview with fox news host chris wallace said that he  
+-19.141638
+No. 2
+BG in an interview with fox news host chris wallace asked if he  
+-19.290992
+No. 3
+BG in an interview with fox news host chris wallace said that the  
+-19.403664
+No. 4
+BG in an interview with fox news host chris wallace said that trump  
+-19.941199
+No. 5
+BG in an interview with fox news sunday trump said that he would  
+-20.250060
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG in an interview with fox news host chris wallace said that he would 
+-20.933671
+No. 2
+BG in an interview with fox news host chris wallace asked if he would 
+-21.186542
+No. 3
+BG in an interview with fox news host chris wallace said that he was 
+-21.514437
+No. 4
+BG in an interview with fox news host chris wallace asked if he thought 
+-21.631228
+No. 5
+BG in an interview with fox news host chris wallace said that trump would 
+-21.771685
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG in an interview with news daily host stephen k ED    
+-1.237562
+No. 2
+BG in an interview with fox news host chris wallace said that he would be ED
+-1.631321
+No. 3
+BG in an interview with fox news host chris wallace said that he would not ED
+-1.637623
+No. 4
+BG in an interview with fox news host chris wallace said that trump would be ED
+-1.648081
+No. 5
+BG in an interview with fox news host chris wallace asked if he would be ED
+-1.677143
+Content:
+BG former fbi director james believes that president trump was trying influence him the investigation into the trump ties russia on saturday ED       
+
+BG is set testify before the senate intelligence committee after memorial day the main question around his hearing will be whether believes trump was trying intervene in the investigation ED
+
+BG source added that still unclear whether attempts influence amounted obstruction justice ED                 
+
+BG trump fired who was the russia probe at the time two weeks ago ED               
+
+BG initially the white house said that trump acted entirely based on the advice deputy attorney general rod attorney general jeff sessions ED       
+
+BG later however trump said that he had already made the decision fire before getting input ED             
+
+BG he also said that russia had been factor in his decision later calling nut after was fired it emerged that he had kept detailed memos encounters with the president

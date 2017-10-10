@@ -1,0 +1,615 @@
+Title:
+BG former house speaker john boehner filed lawsuit last july contending that the white house had
+Teacher Forced Generated Title:
+the secretary speaker paul the was lawsuit against week in that the law house was
+Distribution for each word in title:
+1:
+the: 0.612122
+in: 0.063143
+u: 0.019736
+federal: 0.012491
+on: 0.012151
+s: 0.011972
+but: 0.010055
+an: 0.005620
+it: 0.005617
+state: 0.005453
+* former: 0.002940
+
+2:
+secretary: 0.064089
+u: 0.055101
+federal: 0.043735
+chairman: 0.043650
+house: 0.035917
+fbi: 0.034938
+attorney: 0.030879
+state: 0.022264
+officials: 0.017678
+president: 0.017423
+* house: 0.035917
+
+3:
+speaker: 0.381403
+chief: 0.043814
+officials: 0.038048
+intelligence: 0.029012
+the: 0.021930
+members: 0.015308
+in: 0.012967
+majority: 0.010346
+was: 0.009703
+staff: 0.009213
+* speaker: 0.381403
+
+4:
+paul: 0.267030
+the: 0.022750
+met: 0.017760
+former: 0.016049
+was: 0.015840
+john: 0.013293
+will: 0.011235
+made: 0.008449
+had: 0.008257
+speaker: 0.007286
+* john: 0.013293
+
+5:
+the: 0.036847
+secretary: 0.029696
+who: 0.024549
+NUM: 0.020988
+was: 0.020688
+kerry: 0.020688
+d: 0.017975
+ryan: 0.017916
+j: 0.017063
+kelly: 0.014952
+* boehner: 0.000033
+
+6:
+was: 0.108384
+the: 0.052588
+in: 0.038950
+told: 0.028088
+who: 0.025517
+NUM: 0.024768
+were: 0.020155
+made: 0.018929
+said: 0.014609
+is: 0.014323
+* filed: 0.001990
+
+7:
+lawsuit: 0.219713
+in: 0.107929
+the: 0.066194
+against: 0.056089
+on: 0.029586
+for: 0.023499
+an: 0.019356
+federal: 0.018980
+by: 0.014341
+complaint: 0.012696
+* lawsuit: 0.219713
+
+8:
+against: 0.271199
+in: 0.171941
+filed: 0.156828
+on: 0.028363
+for: 0.021124
+lawsuit: 0.020349
+by: 0.016531
+over: 0.011850
+that: 0.010977
+last: 0.008388
+* last: 0.008388
+
+9:
+week: 0.403172
+month: 0.195036
+year: 0.112645
+summer: 0.033103
+friday: 0.017498
+thursday: 0.012332
+this: 0.006976
+in: 0.006808
+monday: 0.006710
+weekend: 0.006345
+* july: 0.000727
+
+10:
+in: 0.108673
+NUM: 0.074091
+that: 0.040410
+with: 0.028961
+on: 0.026845
+after: 0.024392
+ED: 0.023487
+last: 0.018103
+was: 0.017868
+the: 0.017610
+* contending: 0.000001
+
+11:
+that: 0.363137
+the: 0.084430
+in: 0.028554
+it: 0.013842
+against: 0.013565
+government: 0.012781
+with: 0.012647
+federal: 0.010951
+this: 0.009891
+he: 0.008029
+* that: 0.363137
+
+12:
+the: 0.392589
+president: 0.016795
+it: 0.015701
+law: 0.015175
+he: 0.011665
+federal: 0.009239
+u: 0.008785
+they: 0.007674
+had: 0.006583
+an: 0.006218
+* the: 0.392589
+
+13:
+law: 0.031816
+u: 0.030720
+fbi: 0.023954
+government: 0.021705
+state: 0.021316
+united: 0.020694
+court: 0.014423
+federal: 0.013255
+decision: 0.009943
+american: 0.009898
+* white: 0.003264
+
+14:
+house: 0.697552
+white: 0.013002
+lives: 0.012213
+community: 0.011009
+black: 0.004826
+american: 0.004691
+men: 0.004126
+man: 0.003790
+student: 0.003591
+woman: 0.003380
+* house: 0.697552
+
+15:
+was: 0.048383
+is: 0.044927
+had: 0.035172
+has: 0.034510
+should: 0.020970
+will: 0.019862
+have: 0.017288
+would: 0.014322
+intelligence: 0.011041
+officials: 0.009124
+* had: 0.035172
+
+
+Perplexity = 4.663555
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.06005859 -0.1875      0.18066406 ..., -0.03051758  0.09277344
+  -0.15429688]
+ [-0.08349609  0.01782227  0.04492188 ..., -0.09179688  0.15917969
+   0.01904297]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  5.22124083e-07   1.24738781e-05   2.44979219e-05 ...,   1.34058808e-07
+     4.46390550e-06   3.08713038e-06]
+  [  2.43033060e-06   1.62444176e-05   1.83632037e-05 ...,   4.48666043e-07
+     6.65474090e-06   4.42770624e-06]
+  [  4.26353563e-06   8.92596290e-05   3.62000901e-05 ...,   8.51433697e-07
+     1.30876924e-05   5.68485757e-06]
+  ..., 
+  [  2.51937867e-03   5.13891689e-03   3.66693689e-03 ...,   1.33644103e-03
+     3.73230712e-03   2.62457924e-03]
+  [  2.71720276e-03   5.54624433e-03   4.03399300e-03 ...,   1.57771097e-03
+     3.81876901e-03   2.99795321e-03]
+  [  3.06896912e-03   5.62969316e-03   4.19089664e-03 ...,   1.86680746e-03
+     3.96231236e-03   3.38439085e-03]]
+
+ [[  5.91396883e-06   5.00976421e-05   1.12108875e-03 ...,   1.42930617e-06
+     4.13296257e-05   3.98222292e-05]
+  [  8.93653578e-06   4.75763009e-05   6.88157743e-04 ...,   1.92967968e-06
+     4.59761904e-05   3.66387794e-05]
+  [  3.65651431e-05   1.05371000e-04   4.57287126e-04 ...,   3.11977283e-06
+     6.93326801e-05   3.39135004e-05]
+  ..., 
+  [  4.50685108e-03   9.26478300e-03   1.71910564e-03 ...,   2.44923239e-03
+     1.72794273e-03   2.58988445e-03]
+  [  3.30523704e-03   6.20056177e-03   3.19070858e-03 ...,   1.58589112e-03
+     3.92800570e-03   2.64857290e-03]
+  [  3.63199646e-03   6.20133756e-03   3.61366896e-03 ...,   1.88710459e-03
+     4.06152196e-03   3.21981893e-03]]
+
+ [[  1.65518145e-07   2.72100206e-05   8.96804922e-05 ...,   5.69167931e-08
+     1.42700819e-05   3.04483706e-06]
+  [  5.11413759e-07   2.77791896e-05   5.64584079e-05 ...,   1.02814177e-07
+     1.84802757e-05   3.53829478e-06]
+  [  8.66354583e-07   2.05284323e-05   2.65018207e-05 ...,   1.55812643e-07
+     2.16791213e-05   3.92857555e-06]
+  ..., 
+  [  5.82509500e-04   5.50970761e-03   5.92017430e-04 ...,   9.76631709e-05
+     5.98311704e-03   6.26429974e-04]
+  [  9.64872306e-04   4.38646553e-03   7.04519800e-04 ...,   1.54406502e-04
+     6.74695242e-03   8.98451544e-04]
+  [  6.46137225e-04   1.57639198e-03   1.98435329e-04 ...,   9.12077594e-05
+     3.38765746e-03   8.10975384e-04]]
+
+ ..., 
+ [[  2.30030219e-06   7.58205215e-06   2.09374539e-05 ...,   1.86395667e-07
+     6.69563524e-05   3.95133020e-06]
+  [  6.43777867e-06   1.03811581e-05   1.28115644e-05 ...,   3.32391295e-07
+     7.74611181e-05   3.11651365e-06]
+  [  9.62619379e-06   2.24061496e-05   1.84425407e-05 ...,   2.08929077e-06
+     3.03724461e-04   2.73993883e-05]
+  ..., 
+  [  1.28729414e-04   1.47201106e-04   5.03864358e-05 ...,   1.56720398e-05
+     2.66241538e-03   9.23003754e-05]
+  [  5.23685827e-04   6.55662850e-04   2.00713577e-04 ...,   7.10851746e-05
+     2.29765777e-03   2.03688978e-04]
+  [  2.22013402e-03   4.12633119e-04   1.89521626e-04 ...,   2.29613113e-04
+     6.70979405e-03   7.21923250e-04]]
+
+ [[  4.50579091e-06   2.52669910e-04   9.19232625e-05 ...,   1.29551120e-06
+     2.32223101e-04   8.70763542e-05]
+  [  9.84876169e-06   3.16611346e-04   6.53888419e-05 ...,   2.10583221e-06
+     2.78982538e-04   7.54826542e-05]
+  [  8.79635627e-06   2.42363749e-04   3.24361972e-05 ...,   1.32632726e-06
+     2.17301742e-04   4.49705840e-05]
+  ..., 
+  [  4.64607961e-04   5.64401131e-03   2.83434842e-04 ...,   4.94946544e-05
+     7.34970090e-04   3.87353561e-04]
+  [  7.95602915e-04   5.46870660e-03   2.46170413e-04 ...,   7.64332653e-05
+     1.56174158e-03   3.71501403e-04]
+  [  1.04473159e-03   1.64692663e-02   1.83947821e-04 ...,   1.44123667e-04
+     1.93722581e-03   3.17959901e-04]]
+
+ [[  4.73280807e-06   9.10782328e-05   8.00462964e-04 ...,   9.50984315e-07
+     3.10798961e-04   2.79269116e-05]
+  [  1.32935484e-05   7.24090642e-05   3.95545270e-04 ...,   1.63800235e-06
+     2.37929591e-04   1.65212114e-05]
+  [  5.88643961e-05   1.21572935e-04   5.54499682e-04 ...,   7.48466755e-06
+     2.21732841e-03   7.01019453e-05]
+  ..., 
+  [  1.88947469e-03   4.11172537e-03   4.37532598e-03 ...,   1.28371269e-03
+     3.29137291e-03   2.91028083e-03]
+  [  2.14410317e-03   4.55687242e-03   4.47093323e-03 ...,   1.53473008e-03
+     3.46676866e-03   3.14818579e-03]
+  [  2.53837672e-03   4.74374415e-03   4.44790302e-03 ...,   1.83986046e-03
+     3.69033427e-03   3.45497555e-03]]]
+encode_h2:
+[[ 0.36091781 -0.43716449 -0.12219828 ..., -0.05821771 -0.07845283
+   0.34879744]
+ [ 0.60383385 -0.05285195 -0.18032011 ..., -0.16655165 -0.05982222
+   0.35836306]
+ [ 0.29927868  0.28685722 -0.75532329 ..., -0.42735681  0.00263539
+   0.21435514]
+ ..., 
+ [-0.25596938  0.0764477  -0.82251513 ..., -0.79561329  0.3731226
+   0.20200282]
+ [-0.18806538 -0.15688121 -0.82251513 ..., -0.66317344  0.24918792
+   0.30566928]
+ [-0.12147692 -0.26221824 -0.82251513 ..., -0.61329073  0.12282155
+   0.30571562]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.02062988  0.16796875  0.1875     ..., -0.09375    -0.06591797
+   0.13183594]
+ [ 0.15722656 -0.07080078  0.05395508 ...,  0.00982666 -0.00494385
+  -0.03295898]
+ ..., 
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.02697754  0.06933594  0.02416992 ...,  0.06933594  0.06982422
+  -0.03369141]
+ [ 0.15722656 -0.07080078  0.05395508 ...,  0.00982666 -0.00494385
+  -0.03295898]]
+decode_seq:
+[[ 0.46767294  0.46267948 -0.69230324 ...,  0.40588835 -0.16924323
+   0.36703292]
+ [-0.71148449  0.49565551  0.5541988  ..., -0.37686434 -0.62220842
+  -0.66861397]
+ [-0.09729237 -0.34647796  0.92595834 ..., -0.45287877 -0.450398
+  -0.91151941]
+ ..., 
+ [ 0.38107792  0.44001609 -0.1734703  ..., -0.2637431  -0.45060349
+   0.53838348]
+ [ 0.82865953  0.82154202  0.97896469 ..., -0.22610052  0.31599686
+  -0.53982615]
+ [-0.12071264  0.43514594  0.93140095 ..., -0.26827002  0.26035878
+  -0.62304723]]
+output_dstrb:
+[[  3.75721271e-07   1.91971630e-08   3.02739345e-08 ...,   5.00295316e-09
+    3.20861204e-07   4.65851846e-09]
+ [  7.61038507e-07   7.21170579e-07   4.56338995e-07 ...,   7.08316691e-07
+    4.62711569e-06   9.91152476e-08]
+ [  1.01119397e-07   1.50496277e-07   1.83596654e-07 ...,   1.16963200e-07
+    1.76929041e-06   6.97271858e-08]
+ ..., 
+ [  9.06895195e-07   1.50710412e-06   1.08315510e-06 ...,   8.57567272e-07
+    2.58106593e-06   1.36315506e-07]
+ [  1.33951517e-05   5.66244125e-07   6.81275424e-07 ...,   8.05687890e-08
+    4.97084284e-06   1.15639715e-07]
+ [  7.81390440e-07   1.02173328e-06   3.04119112e-06 ...,   6.14735654e-07
+    1.58386320e-05   3.77329570e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-0.490824
+No. 2
+BG in             
+-2.762357
+No. 3
+BG u             
+-3.925286
+No. 4
+BG federal             
+-4.382767
+No. 5
+BG on             
+-4.410315
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG the decision            
+-3.447950
+No. 2
+BG the order            
+-3.656756
+No. 3
+BG the ruling            
+-3.675559
+No. 4
+BG the court            
+-4.059874
+No. 5
+BG in the            
+-4.229309
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the decision by           
+-5.457779
+No. 2
+BG the ruling by           
+-5.830447
+No. 3
+BG the decision was           
+-5.942863
+No. 4
+BG the decision comes           
+-5.983254
+No. 5
+BG the ruling was           
+-6.004805
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the decision by the          
+-6.108105
+No. 2
+BG the ruling by the          
+-6.424650
+No. 3
+BG the decision comes after          
+-7.169876
+No. 4
+BG the decision comes in          
+-8.549786
+No. 5
+BG the decision comes on          
+-8.576455
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the decision comes after the         
+-8.410694
+No. 2
+BG the decision by the department         
+-9.015296
+No. 3
+BG the decision by the court         
+-9.184595
+No. 4
+BG the ruling by the u         
+-9.264780
+No. 5
+BG the decision by the u         
+-9.318375
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the decision by the department justice        
+-9.973387
+No. 2
+BG the decision by the department homeland        
+-11.407993
+No. 3
+BG the decision by the court in        
+-11.784979
+No. 4
+BG the decision by the department government        
+-12.290494
+No. 5
+BG the decision by the court judge        
+-12.312940
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the decision by the department homeland security       
+-11.623143
+No. 2
+BG the decision by the department justice is       
+-12.638912
+No. 3
+BG the decision by the department justice system       
+-13.029543
+No. 4
+BG the decision by the department justice which       
+-13.056948
+No. 5
+BG the decision by the department justice has       
+-13.213401
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the decision by the department justice which has      
+-14.599421
+No. 2
+BG the decision by the department homeland security secretary      
+-14.718025
+No. 3
+BG the decision by the department homeland security has      
+-14.759393
+No. 4
+BG the decision by the department homeland security officials      
+-14.802131
+No. 5
+BG the decision by the department homeland security the      
+-15.102102
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the decision by the department homeland security has been     
+-16.406919
+No. 2
+BG the decision by the department justice which has been     
+-16.624857
+No. 3
+BG the decision by the department homeland security secretary john     
+-16.859287
+No. 4
+BG the decision by the department homeland security officials said     
+-17.467733
+No. 5
+BG the decision by the department homeland security officials are     
+-17.748200
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the decision by the department homeland security officials said the    
+-19.076016
+No. 2
+BG the decision by the department homeland security secretary john kelly    
+-19.117703
+No. 3
+BG the decision by the department homeland security secretary john kerry    
+-19.274198
+No. 4
+BG the decision by the department homeland security officials said on    
+-19.540441
+No. 5
+BG the decision by the department homeland security officials said that    
+-19.775432
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the decision by the department homeland security secretary john kelly said   
+-20.961281
+No. 2
+BG the decision by the department homeland security officials said on tuesday   
+-21.170568
+No. 3
+BG the decision by the department homeland security officials said that the   
+-21.573169
+No. 4
+BG the decision by the department homeland security officials said on thursday   
+-21.662092
+No. 5
+BG the decision by the department homeland security officials said on friday   
+-21.666626
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the decision by the department homeland security officials said on tuesday that  
+-22.064545
+No. 2
+BG the decision by the department homeland security officials said on thursday that  
+-22.391986
+No. 3
+BG the decision by the department homeland security officials said on friday that  
+-22.482461
+No. 4
+BG the decision by the department homeland security secretary john kelly said he  
+-23.353965
+No. 5
+BG the decision by the department homeland security secretary john kelly said the  
+-23.619455
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the decision by the department homeland security officials said on tuesday that the 
+-23.556935
+No. 2
+BG the decision by the department homeland security officials said on thursday that the 
+-23.735678
+No. 3
+BG the decision by the department homeland security officials said on friday that the 
+-23.749790
+No. 4
+BG the decision by the department homeland security officials said on tuesday that it 
+-24.621250
+No. 5
+BG the decision by the department homeland security officials said on thursday that it 
+-24.737922
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG u ED            
+-1.314225
+No. 2
+BG the ruling by the u ED        
+-1.325953
+No. 3
+BG the decision by the u ED        
+-1.334200
+No. 4
+BG the decision by the department homeland security officials said on thursday that it would ED
+-1.870558
+No. 5
+BG the decision by the department homeland security officials said on tuesday that it would ED
+-1.872237
+Content:
+BG federal judge sided with house lawsuit against obamacare on thursday significant victory for one the last remaining legal challenges the president barack health law ED    
+
+BG former house speaker john boehner filed lawsuit last july contending that the white house had broken the law by giving insurance companies money that congress authorized ED  
+
+BG dc district court judge rosemary ruled thursday that the house republicans were right the obama administration does not have legal authority provide obamacare enrollees with subsidies help pay their
+
+BG authorized reduced cost sharing but did not appropriate for it in the fy NUM budget or since ED           
+
+BG congress is the only source for such an appropriation no public money can be spent without the ruling is not final the obama administration will near certainly appeal this
+
+BG but if other courts were find in the favor the decision hold it would have sweeping implications significantly reshaping the relationship between the executive legislative branches striking significant blow
+
+BG subsidies explained the main way obamacare helps people buy insurance is with subsidies that cover some portion their monthly premium ED        

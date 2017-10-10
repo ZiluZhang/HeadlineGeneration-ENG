@@ -1,0 +1,609 @@
+Title:
+BG lynch said that clinton then walked her plane say hi ED    
+Teacher Forced Generated Title:
+the was she he was her into up in she ED    
+Distribution for each word in title:
+1:
+the: 0.125400
+in: 0.041799
+he: 0.040461
+it: 0.022053
+was: 0.020094
+clinton: 0.018381
+trump: 0.018025
+but: 0.015814
+is: 0.014726
+she: 0.014151
+* lynch: 0.000059
+
+2:
+was: 0.094239
+said: 0.072307
+is: 0.041551
+told: 0.040476
+president: 0.024278
+who: 0.020021
+the: 0.018291
+has: 0.017324
+in: 0.013334
+as: 0.013291
+* said: 0.072307
+
+3:
+she: 0.090994
+he: 0.081025
+that: 0.050395
+in: 0.047166
+the: 0.039167
+during: 0.033683
+it: 0.026928
+on: 0.020679
+they: 0.019967
+trump: 0.017727
+* that: 0.050395
+
+4:
+he: 0.134414
+she: 0.087778
+the: 0.066377
+was: 0.024875
+while: 0.022210
+clinton: 0.019937
+trump: 0.018014
+they: 0.015934
+his: 0.012200
+it: 0.012009
+* clinton: 0.019937
+
+5:
+was: 0.254253
+is: 0.053253
+had: 0.051023
+has: 0.040376
+campaign: 0.036318
+did: 0.034209
+would: 0.028261
+made: 0.023927
+her: 0.021466
+NUM: 0.011134
+* then: 0.001865
+
+6:
+her: 0.060099
+the: 0.054732
+she: 0.049104
+president: 0.027414
+in: 0.025620
+NUM: 0.023702
+had: 0.019643
+he: 0.019477
+trump: 0.017129
+his: 0.017067
+* walked: 0.000238
+
+7:
+into: 0.191662
+down: 0.157180
+the: 0.138929
+in: 0.063453
+up: 0.061161
+out: 0.040847
+through: 0.040471
+back: 0.034586
+on: 0.023205
+over: 0.019756
+* her: 0.015035
+
+8:
+up: 0.050658
+in: 0.045560
+office: 0.020781
+head: 0.020412
+back: 0.019691
+into: 0.015020
+party: 0.013974
+with: 0.013793
+through: 0.012253
+side: 0.011727
+* plane: 0.000350
+
+9:
+in: 0.105866
+out: 0.089851
+on: 0.056411
+the: 0.039956
+ED: 0.031955
+was: 0.018545
+NUM: 0.017210
+down: 0.016454
+that: 0.016123
+after: 0.014218
+* say: 0.000364
+
+10:
+she: 0.089369
+he: 0.072974
+the: 0.061011
+that: 0.059789
+they: 0.054346
+it: 0.044101
+ED: 0.029992
+was: 0.020729
+there: 0.014367
+when: 0.013014
+* hi: 0.000001
+
+11:
+ED: 0.292541
+was: 0.058559
+him: 0.046253
+the: 0.042058
+had: 0.019838
+at: 0.017392
+who: 0.016827
+trump: 0.016529
+it: 0.016356
+is: 0.016109
+* ED: 0.292541
+
+12:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+who: 0.000000
+on: 0.000000
+with: 0.000000
+was: 0.000000
+her: 0.000000
+he: 0.000000
+she: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+who: 0.000000
+on: 0.000000
+with: 0.000000
+was: 0.000000
+her: 0.000000
+he: 0.000000
+she: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+who: 0.000000
+on: 0.000000
+with: 0.000000
+was: 0.000000
+her: 0.000000
+he: 0.000000
+she: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+who: 0.000000
+on: 0.000000
+with: 0.000000
+was: 0.000000
+her: 0.000000
+he: 0.000000
+she: 0.000000
+* : 1.000000
+
+
+Perplexity = 4.617038
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0267334  -0.09082031  0.02783203 ..., -0.11669922 -0.02941895
+  -0.07080078]
+ [-0.15136719 -0.0324707   0.14257812 ..., -0.21582031  0.06176758
+  -0.18457031]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  9.58335249e-07   5.30942089e-05   1.26299434e-04 ...,   2.20841699e-07
+     1.51639051e-05   5.44895693e-06]
+  [  2.72989951e-06   6.84889892e-05   9.03538385e-05 ...,   5.32453043e-07
+     2.40032023e-05   6.46372700e-06]
+  [  1.75730293e-06   9.58765377e-05   4.69936822e-05 ...,   2.80225919e-07
+     5.74557362e-06   2.11316637e-06]
+  ..., 
+  [  1.98304048e-03   4.31245333e-03   4.29229997e-03 ...,   1.27672160e-03
+     3.37968650e-03   2.90084188e-03]
+  [  2.22517061e-03   4.74183401e-03   4.41565877e-03 ...,   1.52887148e-03
+     3.53296427e-03   3.13337892e-03]
+  [  2.61167111e-03   4.89895931e-03   4.41200798e-03 ...,   1.83511572e-03
+     3.73984128e-03   3.43775447e-03]]
+
+ [[  1.91202005e-07   1.74804486e-03   3.71117421e-05 ...,   5.77118300e-08
+     1.62918441e-05   2.69682437e-06]
+  [  7.04444801e-07   2.23606382e-03   1.97413410e-05 ...,   1.03742344e-07
+     2.11238366e-05   2.51718166e-06]
+  [  1.58744467e-06   7.91679311e-04   9.76335195e-06 ...,   4.14257784e-07
+     4.45282712e-05   3.43314036e-06]
+  ..., 
+  [  1.63254759e-03   3.48989433e-03   4.22006287e-03 ...,   1.25049532e-03
+     3.08634131e-03   2.74174311e-03]
+  [  1.92972727e-03   4.02390352e-03   4.30926820e-03 ...,   1.51287904e-03
+     3.31984414e-03   2.99730920e-03]
+  [  2.36085686e-03   4.33244556e-03   4.29603318e-03 ...,   1.82888343e-03
+     3.59396311e-03   3.32184322e-03]]
+
+ [[  6.46725255e-07   8.58666681e-06   2.52936002e-06 ...,   9.69272264e-07
+     2.53241215e-05   1.29146974e-05]
+  [  1.52513951e-06   1.01831092e-05   1.27712917e-06 ...,   1.90612070e-06
+     3.20824329e-05   1.06360931e-05]
+  [  1.04550782e-06   1.31957831e-05   1.31817774e-06 ...,   8.91601303e-07
+     2.80640197e-05   4.48361880e-06]
+  ..., 
+  [  4.93879998e-06   2.07685502e-04   2.68720260e-06 ...,   2.46221725e-06
+     4.27460356e-04   1.50381975e-05]
+  [  2.87374542e-06   6.58354780e-04   1.02419308e-05 ...,   1.24764756e-06
+     3.09700001e-04   1.10985384e-05]
+  [  3.58081434e-06   3.43817682e-03   4.49000472e-05 ...,   1.48534684e-06
+     1.68744111e-04   2.08612146e-05]]
+
+ ..., 
+ [[  1.14304748e-06   3.29490722e-05   3.86315878e-05 ...,   3.61319195e-07
+     3.39719772e-05   5.11321196e-06]
+  [  1.91435788e-06   2.28635909e-05   1.71458887e-05 ...,   4.38411774e-07
+     2.67436353e-05   2.87303237e-06]
+  [  5.11918813e-07   4.50244988e-05   1.04732580e-05 ...,   1.15827383e-07
+     4.69556380e-06   4.73597822e-07]
+  ..., 
+  [  1.63006224e-03   3.47719854e-03   4.19106381e-03 ...,   1.25031779e-03
+     3.08697252e-03   2.72782939e-03]
+  [  1.92968419e-03   4.01692279e-03   4.28549340e-03 ...,   1.51316344e-03
+     3.32261086e-03   2.98559293e-03]
+  [  2.36280309e-03   4.33017313e-03   4.27710731e-03 ...,   1.82944548e-03
+     3.59788700e-03   3.31179565e-03]]
+
+ [[  6.37131507e-06   3.13856326e-05   3.17676568e-05 ...,   1.53286931e-06
+     9.39141901e-05   4.62903045e-05]
+  [  2.54434235e-05   4.27076047e-05   2.59893313e-05 ...,   4.11193287e-06
+     1.48886291e-04   5.54182116e-05]
+  [  1.34908923e-05   3.28178867e-05   3.52719726e-05 ...,   6.90588786e-06
+     1.84430042e-04   1.21899073e-04]
+  ..., 
+  [  1.63731677e-03   3.48823564e-03   4.17046389e-03 ...,   1.25138171e-03
+     3.09641333e-03   2.71968427e-03]
+  [  1.93722034e-03   4.02919762e-03   4.26989375e-03 ...,   1.51415635e-03
+     3.33087379e-03   2.97908811e-03]
+  [  2.37051561e-03   4.34199767e-03   4.26562969e-03 ...,   1.83024839e-03
+     3.60481697e-03   3.30649666e-03]]
+
+ [[  2.26534151e-08   5.44198156e-05   2.53892836e-06 ...,   2.38372078e-09
+     1.45398485e-06   3.35823174e-08]
+  [  3.23888152e-08   6.00253297e-05   1.48920731e-06 ...,   3.11324433e-09
+     1.08796360e-06   2.66168687e-08]
+  [  8.17428285e-04   5.15579022e-02   2.40979902e-03 ...,   1.22070487e-04
+     4.97763045e-03   3.96526564e-04]
+  ..., 
+  [  1.63676764e-03   3.48036713e-03   4.14872169e-03 ...,   1.25141547e-03
+     3.09842592e-03   2.70937057e-03]
+  [  1.93833990e-03   4.02555708e-03   4.25207801e-03 ...,   1.51446508e-03
+     3.33407894e-03   2.97030108e-03]
+  [  2.37298477e-03   4.34166752e-03   4.25147871e-03 ...,   1.83070148e-03
+     3.60855646e-03   3.29890638e-03]]]
+encode_h2:
+[[ 0.3684521  -0.10695751 -0.07707788 ..., -0.07139833  0.07678407
+   0.35584453]
+ [ 0.60632896  0.05558727  0.03232131 ..., -0.14611378  0.01096378
+   0.23941621]
+ [ 0.54719555  0.29248953 -0.20982499 ..., -0.31584278  0.02597451
+   0.17766452]
+ ..., 
+ [ 0.0384895   0.04008669 -0.50036514 ..., -0.62706745  0.19440073
+   0.20983385]
+ [ 0.20871443 -0.06869135 -0.49098733 ..., -0.52432638  0.1150566
+   0.25897315]
+ [ 0.34887636 -0.21333775 -0.47895348 ..., -0.38272768  0.21332708
+   0.49085873]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.18066406  0.13574219  0.19042969 ..., -0.22753906 -0.43359375
+   0.08154297]
+ [-0.00909424 -0.04418945  0.09960938 ...,  0.14453125  0.18066406
+  -0.08691406]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.55204111  0.60963464 -0.75775576 ...,  0.05302411 -0.62907517
+  -0.15962034]
+ [-0.62442762  0.11761272  0.88154417 ..., -0.75543809 -0.77916074
+  -0.95526004]
+ [ 0.47689506  0.74758971  0.07650433 ..., -0.80272943  0.13574517
+  -0.16960701]
+ ..., 
+ [-0.00393805  0.01555562 -0.45819262 ..., -0.14853397 -0.568425    0.364842  ]
+ [-0.00393805  0.01555562 -0.45819262 ..., -0.14853397 -0.568425    0.364842  ]
+ [-0.00393805  0.01555562 -0.45819262 ..., -0.14853397 -0.568425    0.364842  ]]
+output_dstrb:
+[[  2.83765075e-06   1.11409392e-07   3.32628247e-07 ...,   6.71292497e-08
+    4.11929523e-06   1.23457696e-07]
+ [  6.13041280e-08   1.00925483e-07   3.58827492e-07 ...,   1.97879316e-07
+    1.59146532e-06   2.57381316e-07]
+ [  4.10946814e-06   3.91917837e-07   8.80395135e-07 ...,   1.20167115e-07
+    1.28785621e-06   2.18352000e-07]
+ ..., 
+ [  9.99999762e-01   2.95342516e-15   3.73618610e-15 ...,   4.76902123e-15
+    2.95693401e-13   1.99218422e-15]
+ [  9.99999762e-01   2.95342516e-15   3.73618610e-15 ...,   4.76902123e-15
+    2.95693401e-13   1.99218422e-15]
+ [  9.99999762e-01   2.95342516e-15   3.73618610e-15 ...,   4.76902123e-15
+    2.95693401e-13   1.99218422e-15]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.076247
+No. 2
+BG in             
+-3.174871
+No. 3
+BG he             
+-3.207424
+No. 4
+BG it             
+-3.814308
+No. 5
+BG was             
+-3.907319
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG it was            
+-4.549702
+No. 2
+BG in the            
+-4.692195
+No. 3
+BG he was            
+-5.104001
+No. 4
+BG in an            
+-5.336621
+No. 5
+BG the former            
+-5.361448
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG in an interview           
+-5.450300
+No. 2
+BG the former secretary           
+-6.986243
+No. 3
+BG it was the           
+-7.226689
+No. 4
+BG in the interview           
+-7.376100
+No. 5
+BG the former president           
+-7.864471
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG in an interview with          
+-6.134420
+No. 2
+BG the former secretary state          
+-7.283504
+No. 3
+BG in an interview on          
+-7.836911
+No. 4
+BG it was the first          
+-8.814919
+No. 5
+BG in an interview interview          
+-9.043399
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG in an interview with the         
+-8.660605
+No. 2
+BG in an interview with fox         
+-9.053047
+No. 3
+BG the former secretary state john         
+-9.774476
+No. 4
+BG in an interview with jake         
+-9.803150
+No. 5
+BG in an interview with news         
+-9.814195
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG in an interview with jake tapper        
+-9.836581
+No. 2
+BG in an interview with fox news        
+-9.897606
+No. 3
+BG the former secretary state john kerry        
+-10.135123
+No. 4
+BG in an interview with the guardian        
+-10.378792
+No. 5
+BG in an interview with news daily        
+-11.080133
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG in an interview with jake tapper said       
+-11.429601
+No. 2
+BG in an interview with fox news host       
+-11.704831
+No. 3
+BG in an interview with jake tapper on       
+-11.979928
+No. 4
+BG the former secretary state john kerry was       
+-12.048634
+No. 5
+BG in an interview with news daily host       
+-12.372170
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG in an interview with jake tapper said that      
+-13.078438
+No. 2
+BG in an interview with jake tapper said the      
+-13.185213
+No. 3
+BG in an interview with news daily host stephen      
+-13.647671
+No. 4
+BG in an interview with jake tapper on the      
+-13.790012
+No. 5
+BG in an interview with jake tapper said he      
+-13.956911
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG in an interview with news daily host stephen k     
+-13.959033
+No. 2
+BG in an interview with jake tapper said that he     
+-15.347793
+No. 3
+BG in an interview with jake tapper said that trump     
+-15.680191
+No. 4
+BG in an interview with jake tapper said that the     
+-15.684873
+No. 5
+BG in an interview with jake tapper said he would     
+-15.781686
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG in an interview with jake tapper said that he would    
+-17.038823
+No. 2
+BG in an interview with news daily host stephen k in    
+-17.217750
+No. 3
+BG in an interview with jake tapper said that trump was    
+-17.294645
+No. 4
+BG in an interview with jake tapper said that he was    
+-17.453696
+No. 5
+BG in an interview with jake tapper said that trump would    
+-17.529739
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG in an interview with jake tapper said that trump would be   
+-18.602247
+No. 2
+BG in an interview with jake tapper said that he would be   
+-18.763121
+No. 3
+BG in an interview with jake tapper said that he would not   
+-19.128684
+No. 4
+BG in an interview with news daily host stephen k in the   
+-19.633805
+No. 5
+BG in an interview with jake tapper said that he was not   
+-20.038078
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG in an interview with jake tapper said that he would not be  
+-20.340630
+No. 2
+BG in an interview with jake tapper said that he would be the  
+-21.083776
+No. 3
+BG in an interview with jake tapper said that trump would be the  
+-21.356966
+No. 4
+BG in an interview with jake tapper said that trump would be able  
+-22.045691
+No. 5
+BG in an interview with jake tapper said that he would not have  
+-22.322380
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG in an interview with jake tapper said that he would be the first 
+-23.216937
+No. 2
+BG in an interview with jake tapper said that trump would be the first 
+-23.646760
+No. 3
+BG in an interview with jake tapper said that he would not be able 
+-23.880555
+No. 4
+BG in an interview with jake tapper said that he would not be the 
+-24.008017
+No. 5
+BG in an interview with jake tapper said that he would be the most 
+-24.167639
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG in an interview with news daily host stephen k ED    
+-1.287470
+No. 2
+BG in an interview with jake tapper said that trump would be the first time ED
+-1.847347
+No. 3
+BG in an interview with jake tapper said that he would be the first time ED
+-1.854943
+No. 4
+BG in an interview with jake tapper said that he would be the first the ED
+-1.856667
+No. 5
+BG in an interview with jake tapper said that trump would be the first the ED
+-1.882183
+Content:
+BG on monday night attorney general lynch former president bill clinton were both at the phoenix airport waiting on the tarmac ED        
+
+BG lynch said that clinton then walked her plane say hi ED                  
+
+BG did come over say she said at news conference on wednesday speak my husband myself talk about his grandchildren his travels things like the whole incident might be banal
+
+BG even though lynch others present for the conversation say the two discuss any department justice cases certainly not the clinton case doing nothing calm criticism from republicans ED 
+
+BG as bernie sanders said hillary clinton has bad ED                    
+
+BG meeting was probably initiated demanded by hillary ED                     
+
+BG donald j ED                          

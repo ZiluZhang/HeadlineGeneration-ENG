@@ -1,0 +1,615 @@
+Title:
+BG while his claim have secret plan that keeping it secret was good strategy was national
+Teacher Forced Generated Title:
+the the wife that been service for the the ED ED the ED ED not
+Distribution for each word in title:
+1:
+the: 0.160864
+it: 0.059004
+but: 0.056085
+in: 0.051861
+this: 0.031155
+as: 0.018507
+they: 0.016868
+on: 0.016664
+he: 0.014729
+we: 0.013969
+* while: 0.005629
+
+2:
+the: 0.183862
+many: 0.035829
+it: 0.023853
+they: 0.015662
+he: 0.013803
+some: 0.013504
+that: 0.012173
+most: 0.012024
+those: 0.011876
+NUM: 0.010769
+* his: 0.009382
+
+3:
+wife: 0.020296
+son: 0.012803
+office: 0.011452
+presidency: 0.011250
+administration: 0.011076
+speech: 0.010289
+first: 0.010021
+family: 0.009952
+visit: 0.007969
+comments: 0.007515
+* claim: 0.000485
+
+4:
+that: 0.101395
+was: 0.081560
+has: 0.041915
+is: 0.038017
+the: 0.036272
+had: 0.024275
+have: 0.014867
+he: 0.013247
+it: 0.009264
+be: 0.009177
+* have: 0.014867
+
+5:
+been: 0.212150
+no: 0.019280
+had: 0.016531
+long: 0.016119
+made: 0.013321
+left: 0.011611
+the: 0.010182
+an: 0.008483
+come: 0.008025
+always: 0.006503
+* secret: 0.000092
+
+6:
+service: 0.034872
+that: 0.023225
+the: 0.009966
+intelligence: 0.009155
+information: 0.005952
+been: 0.005335
+has: 0.004626
+military: 0.004586
+their: 0.004422
+on: 0.004282
+* plan: 0.001460
+
+7:
+for: 0.090299
+the: 0.041560
+that: 0.038768
+on: 0.027223
+is: 0.019719
+was: 0.016032
+in: 0.015775
+which: 0.014170
+he: 0.012829
+ED: 0.012674
+* that: 0.038768
+
+8:
+the: 0.073206
+he: 0.048680
+would: 0.047831
+have: 0.037830
+are: 0.037819
+is: 0.033905
+has: 0.029719
+was: 0.029307
+had: 0.028179
+were: 0.021899
+* keeping: 0.000028
+
+9:
+the: 0.244940
+up: 0.033922
+them: 0.032522
+his: 0.027641
+in: 0.025434
+with: 0.024930
+him: 0.023720
+us: 0.015278
+their: 0.015092
+on: 0.011516
+* it: 0.008526
+
+10:
+ED: 0.075909
+is: 0.032511
+in: 0.021004
+up: 0.018835
+has: 0.018807
+from: 0.018774
+out: 0.015708
+the: 0.015041
+on: 0.011275
+can: 0.011255
+* secret: 0.000386
+
+11:
+ED: 0.203334
+that: 0.138883
+in: 0.099226
+the: 0.059450
+for: 0.021207
+service: 0.021100
+on: 0.017809
+or: 0.014565
+not: 0.012473
+has: 0.010505
+* was: 0.001718
+
+12:
+the: 0.021705
+not: 0.016681
+also: 0.010533
+made: 0.009214
+an: 0.006428
+no: 0.005830
+one: 0.005730
+still: 0.004678
+used: 0.004582
+meant: 0.004497
+* good: 0.000375
+
+13:
+ED: 0.331517
+for: 0.070473
+but: 0.021756
+news: 0.017701
+because: 0.014988
+place: 0.009588
+about: 0.008215
+in: 0.008078
+on: 0.007692
+before: 0.007530
+* strategy: 0.000026
+
+14:
+ED: 0.506609
+for: 0.113644
+but: 0.041352
+or: 0.028212
+on: 0.013361
+that: 0.011998
+because: 0.009314
+in: 0.006266
+the: 0.005670
+even: 0.005213
+* was: 0.002637
+
+15:
+not: 0.033973
+the: 0.018928
+going: 0.016102
+no: 0.010163
+told: 0.009897
+one: 0.009814
+in: 0.008267
+also: 0.007683
+ED: 0.006759
+part: 0.006578
+* national: 0.000252
+
+
+Perplexity = 6.859854
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.109375    0.140625   -0.03173828 ...,  0.00765991  0.12011719
+  -0.1796875 ]
+ [ 0.19140625 -0.08105469 -0.2890625  ..., -0.31835938 -0.09472656
+  -0.02819824]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  1.46062348e-05   1.46144012e-05   3.28895185e-05 ...,   1.59631304e-06
+     2.78947322e-04   7.71174746e-05]
+  [  2.08575184e-05   1.21629737e-05   1.36741028e-05 ...,   1.88300191e-06
+     2.28990175e-04   4.76152854e-05]
+  [  2.32715174e-05   1.33312496e-05   1.18901698e-05 ...,   1.39409167e-06
+     1.75538153e-04   3.77645083e-05]
+  ..., 
+  [  2.51655537e-03   4.51547932e-03   2.37308838e-03 ...,   1.29007630e-03
+     3.41217523e-03   2.02707085e-03]
+  [  2.70410208e-03   5.09106508e-03   2.95273098e-03 ...,   1.51299452e-03
+     3.65921902e-03   2.53166910e-03]
+  [  3.05532501e-03   5.34667540e-03   3.34813329e-03 ...,   1.78531278e-03
+     3.91200325e-03   3.01584136e-03]]
+
+ [[  2.08108631e-05   2.65840150e-04   1.94517386e-04 ...,   4.81751113e-06
+     3.53621726e-04   4.34280548e-04]
+  [  3.17901176e-05   2.54630373e-04   1.02380654e-04 ...,   4.83803660e-06
+     3.54757882e-04   2.52639293e-04]
+  [  3.45379849e-05   2.16851491e-04   6.62198072e-05 ...,   3.20988056e-06
+     2.49355653e-04   2.02522002e-04]
+  ..., 
+  [  2.17476813e-03   4.43455484e-03   3.51912831e-03 ...,   1.29123090e-03
+     3.40373977e-03   2.63436767e-03]
+  [  2.40556826e-03   4.93838685e-03   3.85257090e-03 ...,   1.52625632e-03
+     3.59601341e-03   2.95180338e-03]
+  [  2.79422011e-03   5.13359392e-03   4.00097668e-03 ...,   1.82074739e-03
+     3.82312783e-03   3.29957111e-03]]
+
+ [[  5.41698864e-05   6.99494791e-04   8.82223190e-04 ...,   3.81514428e-06
+     1.80152722e-03   5.53883146e-05]
+  [  1.19429133e-04   4.99645306e-04   5.10202488e-04 ...,   4.54493329e-06
+     1.42417103e-03   2.58680247e-05]
+  [  3.32720811e-04   4.13604866e-04   1.19347627e-04 ...,   4.82258110e-05
+     4.57702484e-03   1.40812655e-04]
+  ..., 
+  [  1.62678724e-03   3.47194984e-03   4.20015771e-03 ...,   1.24970532e-03
+     3.08309216e-03   2.73139309e-03]
+  [  1.92629092e-03   4.01119655e-03   4.29234561e-03 ...,   1.51259732e-03
+     3.31914774e-03   2.98837526e-03]
+  [  2.35934136e-03   4.32472769e-03   4.28212015e-03 ...,   1.82898308e-03
+     3.59495007e-03   3.31401872e-03]]
+
+ ..., 
+ [[  1.38795021e-05   1.94628461e-04   2.63900100e-03 ...,   1.57639738e-06
+     7.20819051e-04   4.13299022e-05]
+  [  2.60196230e-05   1.25024919e-04   1.11127645e-03 ...,   1.85471504e-06
+     5.67246811e-04   2.55926370e-05]
+  [  4.67370483e-05   1.03990438e-04   9.67487344e-04 ...,   1.17159971e-05
+     1.25613518e-03   6.60190126e-05]
+  ..., 
+  [  1.64211937e-03   3.50336521e-03   4.18335758e-03 ...,   1.25181465e-03
+     3.09962383e-03   2.72642379e-03]
+  [  1.94030721e-03   4.04027244e-03   4.28109337e-03 ...,   1.51427160e-03
+     3.33202956e-03   2.98506021e-03]
+  [  2.37218593e-03   4.34910087e-03   4.27499413e-03 ...,   1.83011719e-03
+     3.60458577e-03   3.31183732e-03]]
+
+ [[  1.22793263e-05   1.65100850e-04   1.24894388e-04 ...,   4.11413566e-07
+     5.65954600e-04   1.25130382e-05]
+  [  1.93187934e-05   1.26287268e-04   6.65381522e-05 ...,   3.73859336e-07
+     5.48594631e-04   6.74496869e-06]
+  [  5.07963938e-04   2.85896385e-04   6.07394846e-04 ...,   5.43343485e-05
+     4.35874797e-03   6.17357204e-04]
+  ..., 
+  [  1.63157820e-03   3.47259082e-03   4.16322751e-03 ...,   1.25058484e-03
+     3.09178885e-03   2.71522836e-03]
+  [  1.93293649e-03   4.01685992e-03   4.26310068e-03 ...,   1.51370000e-03
+     3.32823745e-03   2.97498633e-03]
+  [  2.36744923e-03   4.33326419e-03   4.25961195e-03 ...,   1.83008472e-03
+     3.60364071e-03   3.30272666e-03]]
+
+ [[  5.47338414e-06   6.90757064e-04   2.88270476e-05 ...,   2.74447143e-06
+     4.75840061e-04   4.94561609e-05]
+  [  8.56024599e-06   5.58060827e-04   8.98843609e-06 ...,   2.28830208e-06
+     3.66307911e-04   2.16016142e-05]
+  [  2.38435987e-05   9.58673307e-04   2.17685993e-05 ...,   7.86905548e-06
+     7.18354248e-04   5.06368269e-05]
+  ..., 
+  [  1.66618160e-03   3.56480572e-03   4.19802638e-03 ...,   1.25390652e-03
+     3.12080071e-03   2.73724669e-03]
+  [  1.95946870e-03   4.09054803e-03   4.29640431e-03 ...,   1.51552365e-03
+     3.34564061e-03   2.99530150e-03]
+  [  2.38721166e-03   4.38636541e-03   4.28960752e-03 ...,   1.83052034e-03
+     3.61237302e-03   3.32152750e-03]]]
+encode_h2:
+[[  3.60576272e-01  -6.42490312e-02  -3.56813818e-02 ...,  -1.40915483e-01
+    9.38283000e-03   2.92184204e-01]
+ [  5.91707110e-01  -2.13261694e-04   3.25251594e-02 ...,  -2.14116096e-01
+   -1.21336453e-01   3.64780664e-01]
+ [  4.03061122e-01   2.76969939e-01  -3.38026583e-01 ...,  -4.06732470e-01
+   -1.66561097e-01   1.41180068e-01]
+ ..., 
+ [ -2.25063458e-01   1.51564911e-01  -7.02970803e-01 ...,  -8.24145257e-01
+    3.41257095e-01   1.31602347e-01]
+ [ -5.78211918e-02  -4.22047451e-02  -7.02970803e-01 ...,  -6.32002354e-01
+    3.16121131e-01   3.10937703e-01]
+ [  2.27992028e-01  -1.25273734e-01  -7.02970803e-01 ...,  -5.39186120e-01
+    2.59280324e-01   3.04710597e-01]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.14453125  0.08349609  0.01037598 ...,  0.10839844  0.06054688
+   0.07421875]
+ [ 0.31835938  0.17675781  0.05859375 ..., -0.09814453  0.05249023
+  -0.00233459]
+ ..., 
+ [ 0.04052734  0.0625     -0.01745605 ..., -0.15625     0.00193024
+  -0.06982422]
+ [ 0.13769531  0.13378906  0.02368164 ..., -0.08203125 -0.04174805
+   0.06591797]
+ [ 0.02600098 -0.00189209  0.18554688 ..., -0.12158203  0.22167969
+  -0.02197266]]
+decode_seq:
+[[ 0.56098348  0.59284794 -0.59838295 ...,  0.37790158 -0.55655813
+   0.08246122]
+ [-0.00321713  0.3000733   0.73080575 ...,  0.11688675 -0.3646208
+   0.01918769]
+ [-0.8628543   0.24265742  0.96628404 ..., -0.56402576 -0.8266325
+   0.87553632]
+ ..., 
+ [-0.22510295  0.4919247  -0.47343415 ..., -0.74334294  0.97939759
+  -0.33731845]
+ [-0.34295124  0.40518281 -0.37626854 ..., -0.74665743  0.70699418
+  -0.04124314]
+ [ 0.25556812  0.05656762 -0.2925767  ..., -0.74882883  0.87144315
+   0.90984172]]
+output_dstrb:
+[[  7.72184740e-06   9.71338423e-08   2.54486196e-07 ...,   5.92232432e-08
+    3.40229326e-06   8.61387477e-08]
+ [  2.40381087e-06   2.45798333e-07   6.37434368e-07 ...,   1.28971564e-07
+    1.41551272e-05   2.25839187e-07]
+ [  4.89511187e-08   2.07704829e-06   3.68885958e-06 ...,   6.76067202e-07
+    7.73564443e-06   6.64563288e-07]
+ ..., 
+ [  7.65088828e-07   2.69906650e-07   2.12901512e-07 ...,   1.37860354e-07
+    1.60526736e-06   4.21326938e-08]
+ [  2.97085336e-07   7.77861189e-08   3.20218930e-07 ...,   3.77507554e-08
+    1.95782786e-06   3.91366015e-08]
+ [  1.47981052e-06   2.84880571e-07   8.73419651e-07 ...,   1.54494771e-07
+    1.92310108e-05   3.32741649e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.827196
+No. 2
+BG it             
+-2.830142
+No. 3
+BG but             
+-2.880892
+No. 4
+BG in             
+-2.959197
+No. 5
+BG this             
+-3.468768
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG it was            
+-3.765135
+No. 2
+BG in the            
+-4.396560
+No. 3
+BG it is            
+-4.630136
+No. 4
+BG but the            
+-4.831131
+No. 5
+BG this is            
+-5.106403
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG it was the           
+-5.742974
+No. 2
+BG it is the           
+-6.948706
+No. 3
+BG this is the           
+-7.034076
+No. 4
+BG it was an           
+-7.057589
+No. 5
+BG it was also           
+-7.300057
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG it was the first          
+-7.394335
+No. 2
+BG it is the first          
+-8.891415
+No. 3
+BG it was the most          
+-9.103596
+No. 4
+BG this is the first          
+-9.374532
+No. 5
+BG it was also the          
+-9.413828
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG it was the first time         
+-8.870333
+No. 2
+BG it is the first time         
+-10.244507
+No. 3
+BG this is the first time         
+-10.380809
+No. 4
+BG it was the first day         
+-11.575466
+No. 5
+BG it was the first lady         
+-11.688408
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG it was the first time the        
+-10.322495
+No. 2
+BG it was the first time that        
+-11.547023
+No. 3
+BG this is the first time the        
+-11.590136
+No. 4
+BG it was the first time since        
+-11.662641
+No. 5
+BG it was the first time in        
+-11.686794
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG it was the first time in the       
+-12.598714
+No. 2
+BG it was the first time since the       
+-12.731815
+No. 3
+BG it was the first time the u       
+-13.045123
+No. 4
+BG it was the first time the president       
+-13.076165
+No. 5
+BG it was the first time since NUM       
+-13.618311
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG it was the first time in the history      
+-13.804670
+No. 2
+BG it was the first time since the election      
+-15.041439
+No. 3
+BG it was the first time since the u      
+-15.043226
+No. 4
+BG it was the first time the president the      
+-15.261209
+No. 5
+BG it was the first time the president has      
+-15.330270
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG it was the first time in the history the     
+-15.115585
+No. 2
+BG it was the first time the president the united     
+-15.565028
+No. 3
+BG it was the first time since the election the     
+-16.498945
+No. 4
+BG it was the first time in the history history     
+-16.940723
+No. 5
+BG it was the first time the president has been     
+-17.492852
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG it was the first time the president the united states    
+-15.674934
+No. 2
+BG it was the first time in the history the u    
+-17.997241
+No. 3
+BG it was the first time in the history the united    
+-17.998036
+No. 4
+BG it was the first time in the history the most    
+-18.426168
+No. 5
+BG it was the first time in the history history the    
+-18.428642
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG it was the first time in the history the united states   
+-18.253826
+No. 2
+BG it was the first time the president the united states in   
+-18.835764
+No. 3
+BG it was the first time the president the united states has   
+-18.906733
+No. 4
+BG it was the first time the president the united states is   
+-19.287774
+No. 5
+BG it was the first time the president the united states russia   
+-19.330816
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG it was the first time the president the united states in the  
+-20.016648
+No. 2
+BG it was the first time the president the united states has been  
+-20.914273
+No. 3
+BG it was the first time in the history the united states the  
+-21.108694
+No. 4
+BG it was the first time in the history the united states that  
+-21.421454
+No. 5
+BG it was the first time in the history the united states its  
+-21.453872
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG it was the first time the president the united states in the united 
+-21.992883
+No. 2
+BG it was the first time in the history the united states the united 
+-22.726584
+No. 3
+BG it was the first time the president the united states in the u 
+-22.790469
+No. 4
+BG it was the first time the president the united states in the middle 
+-23.411621
+No. 5
+BG it was the first time the president the united states in the european 
+-23.458457
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG it was the first time the u ED      
+-1.450479
+No. 2
+BG it was the first time in the history the u ED   
+-1.500712
+No. 3
+BG it was the first time since the u ED     
+-1.504641
+No. 4
+BG it was the first time the president the united states in the u ED
+-1.519902
+No. 5
+BG it was the first time the president the united states ED   
+-1.555848
+Content:
+BG this article originally appeared in foreign policy defeating the islamic state was candidate top priority one the few policy issues on which he was consistent ED   
+
+BG while his claim have secret plan that keeping it secret was good strategy was national security experts his policy goals were are consistent ED     
+
+BG american effort should focus on fighting the islamic state ED                   
+
+BG regime change push out power was not only lesser objective but counterproductive stable for syria that prevents terrorism too costly given russia support for the regime ED  
+
+BG stability is be prioritized over humanitarian relief or democracy promotion ED                  
+
+BG russia is be their interests supported ED                      
+
+BG he proclaimed that are going convey my top generals give them simple instruction ED               

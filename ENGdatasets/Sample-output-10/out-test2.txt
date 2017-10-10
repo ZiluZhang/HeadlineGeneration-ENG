@@ -1,0 +1,613 @@
+Title:
+BG earlier in NUM intel had announced that its annual idf conference in china would not
+Teacher Forced Generated Title:
+the this the the officials been that the members report will in the had be
+Distribution for each word in title:
+1:
+the: 0.344606
+in: 0.041798
+but: 0.035038
+on: 0.023602
+it: 0.019204
+s: 0.010744
+while: 0.010527
+this: 0.010260
+is: 0.009684
+an: 0.009677
+* earlier: 0.001260
+
+2:
+this: 0.706583
+in: 0.041296
+the: 0.038981
+week: 0.018681
+that: 0.017746
+month: 0.010009
+an: 0.008636
+friday: 0.006103
+it: 0.006019
+on: 0.004856
+* in: 0.041296
+
+3:
+the: 0.586518
+NUM: 0.034357
+an: 0.026042
+which: 0.009013
+recent: 0.006964
+week: 0.006481
+his: 0.006478
+response: 0.006297
+new: 0.006139
+january: 0.005461
+* NUM: 0.034357
+
+4:
+the: 0.068216
+day: 0.053362
+ED: 0.052678
+years: 0.036130
+hours: 0.027987
+days: 0.022450
+minutes: 0.022143
+when: 0.019582
+report: 0.017945
+that: 0.016981
+* intel: 0.000001
+
+5:
+officials: 0.045092
+briefing: 0.022960
+said: 0.018001
+had: 0.014894
+director: 0.012701
+agencies: 0.009948
+report: 0.009817
+the: 0.008461
+has: 0.008222
+community: 0.007683
+* had: 0.014894
+
+6:
+been: 0.143033
+the: 0.025933
+no: 0.019008
+made: 0.016174
+not: 0.015349
+an: 0.013581
+reported: 0.012328
+said: 0.010511
+decided: 0.009644
+announced: 0.008077
+* announced: 0.008077
+
+7:
+that: 0.414596
+the: 0.184550
+it: 0.075989
+its: 0.019109
+on: 0.017655
+new: 0.015809
+an: 0.015736
+plans: 0.014827
+NUM: 0.013393
+his: 0.011266
+* that: 0.414596
+
+8:
+the: 0.241977
+it: 0.181525
+they: 0.037714
+he: 0.032078
+there: 0.028353
+had: 0.021270
+would: 0.018940
+obama: 0.014461
+we: 0.014002
+that: 0.009185
+* its: 0.005921
+
+9:
+members: 0.042536
+would: 0.019869
+first: 0.018693
+had: 0.018004
+plans: 0.017081
+NUM: 0.012406
+will: 0.011937
+decision: 0.011193
+government: 0.010302
+executive: 0.008648
+* annual: 0.002043
+
+10:
+report: 0.067353
+information: 0.018605
+speech: 0.007344
+release: 0.006492
+press: 0.006186
+use: 0.004759
+gathering: 0.004624
+meeting: 0.004615
+intelligence: 0.004525
+pay: 0.004419
+* idf: 0.000001
+
+11:
+will: 0.026716
+has: 0.013631
+would: 0.013567
+the: 0.010441
+had: 0.010281
+is: 0.009731
+was: 0.006863
+its: 0.006112
+which: 0.005401
+that: 0.005370
+* conference: 0.000898
+
+12:
+in: 0.074813
+will: 0.057929
+is: 0.034146
+was: 0.032101
+has: 0.028015
+the: 0.023988
+at: 0.022418
+that: 0.021203
+it: 0.020335
+call: 0.016057
+* in: 0.074813
+
+13:
+the: 0.051854
+which: 0.017853
+NUM: 0.016652
+washington: 0.014800
+december: 0.013683
+an: 0.013637
+january: 0.011983
+response: 0.011944
+new: 0.011126
+europe: 0.010322
+* china: 0.002526
+
+14:
+had: 0.053742
+will: 0.050342
+has: 0.049603
+the: 0.049205
+ED: 0.044702
+is: 0.042863
+was: 0.033616
+on: 0.028392
+made: 0.025905
+which: 0.016865
+* would: 0.005362
+
+15:
+be: 0.219771
+have: 0.063964
+not: 0.016228
+allow: 0.013177
+take: 0.012003
+help: 0.011825
+make: 0.011042
+soon: 0.008298
+begin: 0.007578
+come: 0.006824
+* not: 0.016228
+
+
+Perplexity = 5.843544
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.06396484  0.0067749  -0.08984375 ..., -0.22558594  0.03344727
+   0.24707031]
+ [-0.04492188 -0.03039551  0.00234985 ...,  0.01226807 -0.08837891
+  -0.015625  ]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  6.97416135e-06   3.17227459e-05   1.54644833e-04 ...,   6.28869259e-07
+     2.77936379e-05   1.08076656e-05]
+  [  1.61976659e-05   3.46225424e-05   9.59500176e-05 ...,   8.20359560e-07
+     3.70344897e-05   8.40392750e-06]
+  [  4.36219707e-05   3.35166878e-05   1.42203586e-04 ...,   3.50717164e-06
+     1.83474433e-04   3.07527407e-05]
+  ..., 
+  [  3.73600051e-04   3.14859702e-04   1.66508689e-04 ...,   2.73637161e-05
+     3.55811324e-04   1.39932163e-04]
+  [  9.82192927e-04   4.43623983e-04   8.96218233e-04 ...,   1.20163881e-04
+     8.63417285e-04   4.91984480e-04]
+  [  2.37455196e-03   8.75596597e-04   2.32085097e-03 ...,   4.10293898e-04
+     1.91129651e-03   1.50910090e-03]]
+
+ [[  4.12929239e-06   1.35884939e-05   9.15214514e-06 ...,   4.90976049e-07
+     8.00152702e-05   1.60597738e-05]
+  [  9.43520172e-06   2.04692860e-05   7.42516613e-06 ...,   9.04811088e-07
+     1.12050504e-04   1.55429243e-05]
+  [  9.24998130e-06   2.30250134e-05   8.39420318e-06 ...,   7.53796996e-07
+     1.21216595e-04   9.03111322e-06]
+  ..., 
+  [  1.84821151e-03   4.01377911e-03   4.14814241e-03 ...,   1.26154022e-03
+     3.27239442e-03   2.78263865e-03]
+  [  2.11992441e-03   4.48918482e-03   4.27731685e-03 ...,   1.51942391e-03
+     3.46448855e-03   3.03353393e-03]
+  [  2.52975943e-03   4.70700115e-03   4.28968016e-03 ...,   1.83047890e-03
+     3.70045938e-03   3.35368607e-03]]
+
+ [[  2.21615028e-06   4.26274200e-05   1.69816733e-04 ...,   4.00454041e-07
+     1.46982362e-04   8.64760841e-06]
+  [  2.76409082e-06   3.00699394e-05   1.00028337e-04 ...,   3.61412305e-07
+     1.41663651e-04   5.75254307e-06]
+  [  4.27870418e-06   3.52488860e-05   8.86488342e-05 ...,   7.66531173e-07
+     2.49156321e-04   8.04250340e-06]
+  ..., 
+  [  1.08120737e-04   1.16656488e-03   2.32963881e-04 ...,   1.40268467e-05
+     1.14363548e-03   6.48591158e-05]
+  [  6.52701565e-05   1.36642158e-03   4.55969304e-04 ...,   9.68087716e-06
+     6.05249370e-04   5.43123388e-05]
+  [  1.94682099e-03   5.70972497e-03   2.52810190e-04 ...,   2.88068783e-04
+     5.38328569e-03   6.97228941e-04]]
+
+ ..., 
+ [[  1.95165467e-06   1.86089110e-05   6.39098071e-05 ...,   2.42679533e-07
+     4.02802034e-05   5.95443362e-06]
+  [  3.36856056e-06   2.16473036e-05   4.56586058e-05 ...,   2.75695442e-07
+     4.79893715e-05   4.46015792e-06]
+  [  5.55000997e-06   1.82507210e-05   2.91425513e-05 ...,   3.41365620e-07
+     3.38130085e-05   2.92851814e-06]
+  ..., 
+  [  2.51992868e-04   2.51740188e-04   5.76888386e-04 ...,   1.49900543e-05
+     7.48052495e-04   6.82379250e-05]
+  [  2.37801563e-04   2.42989947e-04   2.34707448e-04 ...,   1.64140820e-05
+     6.29892456e-04   4.46202721e-05]
+  [  1.05893321e-03   2.01048376e-03   1.83665240e-03 ...,   1.24915299e-04
+     1.91058975e-03   2.14336469e-04]]
+
+ [[  4.29305510e-05   7.06146457e-05   5.88430703e-05 ...,   3.92428728e-06
+     8.85599817e-04   9.72536218e-05]
+  [  4.98037953e-05   4.75530833e-05   2.29004963e-05 ...,   3.30469948e-06
+     6.80755067e-04   5.15561005e-05]
+  [  5.49311371e-05   5.25858886e-05   1.48482268e-05 ...,   3.07232699e-06
+     7.91477330e-04   4.27689884e-05]
+  ..., 
+  [  9.51103109e-04   3.68365814e-04   2.09531630e-04 ...,   2.15015498e-05
+     3.64894018e-04   6.88354776e-05]
+  [  4.59460495e-03   3.12203862e-04   1.02552716e-04 ...,   3.01175838e-04
+     1.09569775e-03   5.74207457e-04]
+  [  4.77031013e-03   6.50177803e-03   1.01482670e-03 ...,   2.91255792e-03
+     1.42198487e-03   2.43352982e-03]]
+
+ [[  2.08690832e-03   2.78008729e-03   3.63353291e-03 ...,   1.48807943e-03
+     3.37286526e-03   3.08619137e-03]
+  [  2.04874319e-03   2.77744397e-03   3.76448734e-03 ...,   1.50580006e-03
+     3.31921899e-03   3.08359158e-03]
+  [  2.03192863e-03   2.70090136e-03   3.97942541e-03 ...,   1.52182288e-03
+     3.32145113e-03   3.10240453e-03]
+  ..., 
+  [  1.64003065e-03   3.48777953e-03   4.14828630e-03 ...,   1.25189044e-03
+     3.10160778e-03   2.70973425e-03]
+  [  1.94110116e-03   4.03194595e-03   4.25221631e-03 ...,   1.51479652e-03
+     3.33633693e-03   2.97078281e-03]
+  [  2.37531774e-03   4.34666593e-03   4.25194530e-03 ...,   1.83089147e-03
+     3.61006474e-03   3.29945213e-03]]]
+encode_h2:
+[[ 0.29051659 -0.05346416 -0.06375404 ..., -0.14043878 -0.08275858
+   0.26039639]
+ [ 0.37399995  0.04736393 -0.14813629 ..., -0.20493981  0.08877248
+   0.30603051]
+ [ 0.30149856  0.33557725 -0.41144565 ..., -0.44084966 -0.16375117
+   0.11263394]
+ ..., 
+ [-0.04247769  0.09401324 -0.61363298 ..., -0.65901411  0.27069396
+   0.21085978]
+ [ 0.2524294  -0.01716391 -0.61363298 ..., -0.56532311  0.10805416
+   0.29786173]
+ [ 0.3411288  -0.04544412 -0.60558569 ..., -0.497437    0.11654289
+   0.23955032]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.04272461 -0.09179688 -0.01416016 ..., -0.10546875 -0.01647949
+  -0.16210938]
+ [ 0.0703125   0.08691406  0.08789062 ..., -0.04760742  0.01446533 -0.0625    ]
+ ..., 
+ [ 0.0703125   0.08691406  0.08789062 ..., -0.04760742  0.01446533 -0.0625    ]
+ [-0.29492188  0.08447266  0.01031494 ...,  0.11474609  0.22167969
+  -0.05834961]
+ [ 0.08935547  0.12988281  0.21289062 ..., -0.15234375  0.00552368
+  -0.10058594]]
+decode_seq:
+[[ 0.47786745  0.47013557 -0.75923169 ...,  0.9610942  -0.71116471
+  -0.1628626 ]
+ [-0.96672416 -0.53028589 -0.50046474 ...,  0.542602   -0.88043797
+   0.96426886]
+ [-0.38588899 -0.90441585  0.44866386 ...,  0.50274795  0.30198348
+   0.05697433]
+ ..., 
+ [-0.07634961 -0.68198043  0.74734724 ...,  0.5693233  -0.07070511
+  -0.33807406]
+ [-0.45949095  0.32747903  0.1649456  ...,  0.5693233   0.69735837
+  -0.96929157]
+ [-0.14597492 -0.11609707 -0.2799378  ...,  0.52188647 -0.41015029
+   0.97704822]]
+output_dstrb:
+[[  1.35860273e-05   1.48127953e-07   2.21204772e-07 ...,   7.28374232e-08
+    3.15402758e-06   5.79145443e-08]
+ [  1.12317498e-08   1.75606942e-08   2.21150369e-08 ...,   6.92213575e-09
+    2.42853162e-07   5.97586469e-09]
+ [  3.68057442e-08   3.36098225e-08   1.48761359e-07 ...,   3.91008257e-08
+    3.15017451e-06   7.38836334e-08]
+ ..., 
+ [  6.14761484e-06   2.25693469e-07   7.97786242e-07 ...,   5.30796910e-07
+    3.93675000e-05   4.73081286e-07]
+ [  4.21563371e-08   5.39506111e-08   1.31182858e-07 ...,   1.31738872e-07
+    8.35355308e-07   5.00163644e-08]
+ [  4.80415838e-06   3.34057461e-07   4.12568852e-07 ...,   5.42686109e-07
+    3.74170886e-05   4.66187032e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.065354
+No. 2
+BG in             
+-3.174916
+No. 3
+BG but             
+-3.351326
+No. 4
+BG on             
+-3.746441
+No. 5
+BG it             
+-3.952650
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG but the            
+-4.749518
+No. 2
+BG the move            
+-4.954216
+No. 3
+BG the company            
+-5.178596
+No. 4
+BG in the            
+-5.213980
+No. 5
+BG the u            
+-5.271045
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the move comes           
+-6.618968
+No. 2
+BG the move is           
+-7.135063
+No. 3
+BG the company has           
+-7.617152
+No. 4
+BG the move came           
+-7.765599
+No. 5
+BG the move would           
+-7.849275
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the move comes as          
+-8.042834
+No. 2
+BG the move comes after          
+-8.330489
+No. 3
+BG the move came as          
+-9.035438
+No. 4
+BG the move comes amid          
+-9.329357
+No. 5
+BG the move came after          
+-9.330365
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the move comes as the         
+-9.092311
+No. 2
+BG the move comes after the         
+-9.925749
+No. 3
+BG the move came as the         
+-10.056142
+No. 4
+BG the move comes as an         
+-10.865329
+No. 5
+BG the move came after the         
+-10.972853
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the move comes as the first        
+-12.648211
+No. 2
+BG the move comes as the new        
+-12.738770
+No. 3
+BG the move comes as the government        
+-12.919606
+No. 4
+BG the move comes after the u        
+-13.147936
+No. 5
+BG the move comes as the united        
+-13.334787
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the move comes as the united states       
+-13.517577
+No. 2
+BG the move comes as the new york       
+-14.473774
+No. 3
+BG the move comes as the government has       
+-15.267165
+No. 4
+BG the move comes as the first time       
+-15.350910
+No. 5
+BG the move comes as the first reported       
+-15.861111
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the move comes as the new york times      
+-15.440118
+No. 2
+BG the move comes as the united states has      
+-15.503397
+No. 3
+BG the move comes as the united states is      
+-15.698137
+No. 4
+BG the move comes as the united states will      
+-16.504486
+No. 5
+BG the move comes as the new york city      
+-16.845187
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the move comes as the new york times reported     
+-17.453371
+No. 2
+BG the move comes as the united states is now     
+-18.153405
+No. 3
+BG the move comes as the united states has been     
+-18.208588
+No. 4
+BG the move comes as the new york times has     
+-18.273919
+No. 5
+BG the move comes as the new york times the     
+-18.626934
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the move comes as the new york times reported that    
+-18.937645
+No. 2
+BG the move comes as the new york times has been    
+-19.321508
+No. 3
+BG the move comes as the new york times reported the    
+-19.823373
+No. 4
+BG the move comes as the new york times reported in    
+-19.824066
+No. 5
+BG the move comes as the new york times reported on    
+-19.935477
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the move comes as the new york times reported that the   
+-19.945205
+No. 2
+BG the move comes as the new york times reported on the   
+-21.626891
+No. 3
+BG the move comes as the new york times reported in the   
+-21.783184
+No. 4
+BG the move comes as the new york times reported on thursday   
+-21.901319
+No. 5
+BG the move comes as the new york times reported on tuesday   
+-22.072236
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the move comes as the new york times reported that the company  
+-22.810042
+No. 2
+BG the move comes as the new york times reported on thursday that  
+-23.047338
+No. 3
+BG the move comes as the new york times reported that the NUM  
+-23.190144
+No. 4
+BG the move comes as the new york times reported on tuesday that  
+-23.264311
+No. 5
+BG the move comes as the new york times reported that the u  
+-23.427953
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the move comes as the new york times reported on thursday that the 
+-24.505136
+No. 2
+BG the move comes as the new york times reported that the company had 
+-24.507304
+No. 3
+BG the move comes as the new york times reported that the NUM NUM 
+-24.727669
+No. 4
+BG the move comes as the new york times reported on tuesday that the 
+-24.962812
+No. 5
+BG the move comes as the new york times reported that the company has 
+-24.987183
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG the u ED           
+-1.321007
+No. 2
+BG the move comes after the u ED       
+-1.646129
+No. 3
+BG the move comes as the new york times reported that the u ED 
+-1.675125
+No. 4
+BG the move comes as the new york times reported that the company had been ED
+-1.906140
+No. 5
+BG the move comes as the new york times reported that the company has been ED
+-1.933250
+Content:
+BG intel has discontinued the intel developers forum idf its annual in san francisco citing the difficulties getting across unified message as it moves past just into bold new cancellation
+
+BG earlier in NUM intel had announced that its annual idf conference in china would not be held this year ED         
+
+BG idf is where the company makes new product announcements including the unveiling new intel tells the idea is that the company is moving beyond just focusing on servers into
+
+BG so an intel spokesperson tells business insider the company will be looking host smaller more focused events as well as increasing its presence at trade shows other events ED
+
+BG while the intel developers forum was at the time publication intel says that this cancellation has been in the works for some time as the company its events strategy
+
+BG as much as anything you can take the idf as another victim the pc market which has been another sign intel trying reinvent itself under those intel has ED
+
+                             

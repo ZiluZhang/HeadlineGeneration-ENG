@@ -1,0 +1,614 @@
+Title:
+BG here are the details so far from local news station fox news time magazine seven
+Teacher Forced Generated Title:
+the is the latest the the as the news reports the news reported reported reported
+Distribution for each word in title:
+1:
+the: 0.440930
+police: 0.055117
+NUM: 0.040565
+in: 0.015865
+an: 0.011087
+was: 0.010187
+officers: 0.009816
+it: 0.009479
+authorities: 0.008395
+two: 0.007284
+* here: 0.000169
+
+2:
+is: 0.179109
+are: 0.162349
+was: 0.113918
+were: 0.059806
+ED: 0.036296
+had: 0.014473
+in: 0.011987
+officials: 0.011092
+the: 0.010838
+police: 0.009380
+* are: 0.162349
+
+3:
+the: 0.351725
+some: 0.116658
+NUM: 0.031706
+two: 0.020941
+no: 0.013832
+not: 0.011330
+five: 0.009231
+three: 0.008890
+being: 0.008846
+an: 0.008845
+* the: 0.351725
+
+4:
+latest: 0.062732
+first: 0.062451
+most: 0.030522
+two: 0.015912
+case: 0.011279
+second: 0.011052
+third: 0.009902
+the: 0.009017
+words: 0.008751
+best: 0.008198
+* details: 0.002443
+
+5:
+the: 0.240286
+about: 0.149560
+on: 0.039850
+that: 0.035048
+how: 0.031310
+what: 0.026552
+in: 0.021943
+ED: 0.014497
+for: 0.013728
+but: 0.010515
+* so: 0.000592
+
+6:
+the: 0.275319
+far: 0.069756
+we: 0.026466
+how: 0.021711
+they: 0.019845
+many: 0.017090
+ED: 0.016954
+i: 0.012423
+this: 0.011532
+an: 0.011529
+* far: 0.069756
+
+7:
+as: 0.121226
+from: 0.086404
+ED: 0.070331
+in: 0.042195
+the: 0.034946
+about: 0.030405
+but: 0.027281
+for: 0.023031
+been: 0.020210
+is: 0.018752
+* from: 0.086404
+
+8:
+the: 0.413537
+their: 0.019155
+an: 0.018372
+this: 0.011590
+any: 0.008340
+some: 0.008154
+police: 0.006762
+that: 0.006664
+it: 0.006600
+you: 0.006448
+* local: 0.000808
+
+9:
+news: 0.328046
+media: 0.095242
+police: 0.026004
+residents: 0.011946
+district: 0.011819
+officials: 0.007430
+area: 0.006754
+hospital: 0.006722
+investigation: 0.006520
+university: 0.006094
+* news: 0.328046
+
+10:
+reports: 0.090493
+the: 0.056427
+that: 0.055681
+agency: 0.049654
+reported: 0.038874
+news: 0.032238
+media: 0.019617
+ED: 0.019111
+report: 0.016841
+investigation: 0.015391
+* station: 0.001290
+
+11:
+the: 0.113475
+that: 0.083736
+reported: 0.034212
+in: 0.029924
+with: 0.024432
+ED: 0.017568
+at: 0.017025
+said: 0.016369
+on: 0.012295
+investigation: 0.011880
+* fox: 0.000478
+
+12:
+news: 0.671674
+NUM: 0.020425
+the: 0.016341
+friends: 0.011670
+said: 0.010212
+reported: 0.008026
+who: 0.007506
+was: 0.006091
+killed: 0.005243
+investigation: 0.004735
+* news: 0.671674
+
+13:
+reported: 0.120384
+network: 0.078066
+reports: 0.048838
+agency: 0.026960
+ED: 0.019153
+has: 0.016259
+report: 0.015633
+the: 0.013670
+host: 0.013307
+service: 0.011158
+* time: 0.000304
+
+14:
+reported: 0.090637
+was: 0.031366
+has: 0.015972
+is: 0.014241
+the: 0.014139
+at: 0.009658
+ED: 0.008714
+after: 0.008057
+have: 0.008053
+attack: 0.007821
+* magazine: 0.005321
+
+15:
+reported: 0.199830
+which: 0.021591
+is: 0.020753
+was: 0.020417
+found: 0.018128
+have: 0.017727
+for: 0.012064
+in: 0.011438
+has: 0.011284
+released: 0.010455
+* seven: 0.000037
+
+
+Perplexity = 5.105500
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.515625   -0.21582031  0.38867188 ..., -0.07861328  0.14941406
+   0.02380371]
+ [ 0.0234375  -0.140625    0.16113281 ..., -0.15625    -0.00209045
+   0.07958984]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  1.81477247e-07   8.58592743e-04   6.73772956e-05 ...,   3.02650363e-07
+     5.05845628e-06   2.16477092e-05]
+  [  3.45166598e-07   6.21232728e-04   3.55710981e-05 ...,   3.85556888e-07
+     7.65678669e-06   1.61864773e-05]
+  [  3.64403809e-06   6.98085176e-04   6.61366284e-05 ...,   2.70170449e-06
+     6.90097586e-05   5.04230302e-05]
+  ..., 
+  [  2.34741694e-03   4.78044990e-03   3.62318731e-03 ...,   1.31915894e-03
+     3.52415326e-03   2.79078516e-03]
+  [  2.55062128e-03   5.25167864e-03   3.95037513e-03 ...,   1.55190076e-03
+     3.67502519e-03   3.08777345e-03]
+  [  2.91704317e-03   5.39188180e-03   4.09357343e-03 ...,   1.84231088e-03
+     3.86904995e-03   3.41752591e-03]]
+
+ [[  3.91397498e-06   1.78861723e-04   6.82587197e-05 ...,   3.94050676e-06
+     1.13072725e-04   4.44173202e-05]
+  [  9.09818118e-06   1.80926319e-04   3.91405847e-05 ...,   6.74670719e-06
+     1.49410480e-04   3.39755861e-05]
+  [  7.03807063e-06   1.21757810e-04   1.79916879e-05 ...,   7.06246419e-06
+     1.06322746e-04   2.34902582e-05]
+  ..., 
+  [  1.93658017e-03   4.15943051e-03   4.05136263e-03 ...,   1.26348715e-03
+     3.35475197e-03   2.78772018e-03]
+  [  2.19800719e-03   4.63263923e-03   4.21068259e-03 ...,   1.51891052e-03
+     3.53224645e-03   3.03983619e-03]
+  [  2.60079862e-03   4.83336532e-03   4.24507027e-03 ...,   1.82819751e-03
+     3.75441764e-03   3.35918833e-03]]
+
+ [[  1.47350283e-06   1.05903940e-02   4.97194633e-05 ...,   9.17515536e-07
+     2.09790203e-04   9.41608378e-05]
+  [  5.76743787e-06   1.40753295e-02   3.72157010e-05 ...,   2.13744920e-06
+     2.54556478e-04   8.39786953e-05]
+  [  5.05985827e-06   2.14701612e-02   1.98064809e-05 ...,   1.57953741e-06
+     2.88838404e-04   5.53276041e-05]
+  ..., 
+  [  1.64542207e-03   3.51209543e-03   4.18769009e-03 ...,   1.25223014e-03
+     3.10201384e-03   2.72940053e-03]
+  [  1.94275938e-03   4.04706364e-03   4.28506732e-03 ...,   1.51450024e-03
+     3.33334785e-03   2.98765465e-03]
+  [  2.37392914e-03   4.35384084e-03   4.27846005e-03 ...,   1.83018250e-03
+     3.60511756e-03   3.31412489e-03]]
+
+ ..., 
+ [[  2.46219633e-06   7.30239262e-05   1.64056528e-05 ...,   1.72635828e-06
+     7.17137209e-06   5.44003560e-05]
+  [  1.19294191e-05   1.25198378e-04   1.33708563e-05 ...,   4.69045335e-06
+     1.10134906e-05   5.71567252e-05]
+  [  7.08367952e-05   1.47703016e-04   3.38382051e-05 ...,   2.46413274e-05
+     2.45979842e-04   1.98156456e-04]
+  ..., 
+  [  8.99869556e-05   3.02596862e-04   5.51188314e-05 ...,   6.84235101e-06
+     1.15588300e-04   6.03311310e-05]
+  [  1.47443090e-03   1.07005960e-03   9.19283630e-05 ...,   1.94463442e-04
+     5.53146296e-04   5.43206406e-04]
+  [  1.70135370e-03   2.33257553e-04   7.65443401e-05 ...,   5.04352211e-04
+     9.32705996e-04   1.61228632e-03]]
+
+ [[  2.42136848e-05   5.74966652e-05   1.31830193e-05 ...,   1.14896857e-05
+     3.92719638e-04   4.68561688e-04]
+  [  4.31159460e-05   4.58459399e-05   6.13648854e-06 ...,   1.40509301e-05
+     3.94404575e-04   2.35307671e-04]
+  [  5.51729718e-05   1.58156763e-05   4.34343747e-06 ...,   3.15837387e-05
+     2.52394762e-04   2.59194960e-04]
+  ..., 
+  [  1.64480472e-03   3.50680179e-03   4.17284900e-03 ...,   1.25221792e-03
+     3.10330256e-03   2.72211363e-03]
+  [  1.94328255e-03   4.04459704e-03   4.27298434e-03 ...,   1.51468790e-03
+     3.33543727e-03   2.98154564e-03]
+  [  2.37537874e-03   4.35358612e-03   4.26890980e-03 ...,   1.83048309e-03
+     3.60757811e-03   3.30891786e-03]]
+
+ [[  1.06898440e-07   2.85829119e-05   2.37831409e-05 ...,   4.37249895e-07
+     4.80235394e-06   1.15167777e-05]
+  [  3.95515400e-07   3.91544418e-05   1.96184228e-05 ...,   1.75089372e-06
+     8.95964877e-06   1.49911284e-05]
+  [  3.12978216e-07   4.93923180e-05   2.52359841e-05 ...,   5.39590928e-07
+     5.56860914e-06   3.66602831e-06]
+  ..., 
+  [  1.64819881e-03   3.51992762e-03   4.18893527e-03 ...,   1.25262898e-03
+     3.10462154e-03   2.73012999e-03]
+  [  1.94504519e-03   4.05356148e-03   4.28657001e-03 ...,   1.51479861e-03
+     3.33508896e-03   2.98852636e-03]
+  [  2.37578223e-03   4.35873447e-03   4.28000931e-03 ...,   1.83036912e-03
+     3.60617111e-03   3.31506878e-03]]]
+encode_h2:
+[[ 0.26355356 -0.09415543 -0.2742438  ..., -0.17777061  0.3876735
+   0.41467911]
+ [ 0.5322274  -0.03603914 -0.08327028 ..., -0.23690937  0.19617459
+   0.44191167]
+ [ 0.4391554   0.14885108 -0.32797405 ..., -0.38938022  0.08293878
+   0.21692204]
+ ..., 
+ [ 0.00208137  0.03137887 -0.53322142 ..., -0.64642024  0.54729772
+   0.32507476]
+ [ 0.18753286 -0.02496854 -0.4840979  ..., -0.51677263  0.36114603
+   0.33315814]
+ [ 0.52647054 -0.03951357 -0.3610388  ..., -0.38065881  0.34181139
+   0.40453622]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.02734375  0.04492188  0.07666016 ..., -0.125       0.10888672
+  -0.14355469]
+ [-0.09667969 -0.02636719  0.09033203 ..., -0.01965332  0.21386719
+   0.13671875]
+ ..., 
+ [-0.13867188  0.04370117 -0.13085938 ...,  0.08251953  0.22949219
+   0.05932617]
+ [-0.04736328  0.1875      0.0022583  ..., -0.0035553  -0.0625     -0.05566406]
+ [ 0.18554688  0.08349609 -0.125      ...,  0.24316406  0.06689453
+   0.25390625]]
+decode_seq:
+[[ 0.25363335  0.50330555 -0.71424508 ...,  4.98608017 -0.95395333
+  -0.15705623]
+ [ 0.89758801 -0.11308546 -0.41098839 ...,  4.98608017 -0.04601519
+  -0.30066147]
+ [ 0.9049173   0.36659828 -0.21008839 ...,  4.98608017  0.72200775
+  -0.97175992]
+ ..., 
+ [ 0.81444526 -0.97022551 -0.8129375  ...,  4.98608017 -0.94155741
+  -0.59541339]
+ [ 0.94567496 -0.47507012 -0.46423805 ...,  4.98608017 -0.73775703
+  -0.46157867]
+ [ 0.88026971 -0.68822408 -0.80125773 ...,  4.98608017 -0.8376531
+  -0.62924588]]
+output_dstrb:
+[[  3.14181602e-06   5.48400330e-08   1.11601295e-07 ...,   3.30962919e-08
+    4.86209501e-06   4.26159623e-08]
+ [  4.70983696e-06   1.16988765e-07   5.14159098e-08 ...,   9.82843584e-09
+    1.76796016e-06   1.79738091e-08]
+ [  7.29364820e-06   1.46276051e-07   1.16109845e-07 ...,   2.09831388e-08
+    3.76177979e-07   2.21269669e-08]
+ ..., 
+ [  5.33889363e-07   5.46539241e-07   7.68011432e-07 ...,   1.29528352e-08
+    1.67773919e-06   1.25867643e-07]
+ [  3.80740097e-08   1.07269250e-06   3.43930168e-07 ...,   8.35948057e-08
+    1.39099529e-06   2.51329737e-07]
+ [  1.72860905e-06   1.30031333e-06   3.87643013e-07 ...,   2.21284935e-07
+    1.11830718e-06   1.85786448e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-0.818868
+No. 2
+BG police             
+-2.898293
+No. 3
+BG NUM             
+-3.204841
+No. 4
+BG in             
+-4.143656
+No. 5
+BG an             
+-4.502003
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG the suspect            
+-3.403302
+No. 2
+BG the man            
+-3.683144
+No. 3
+BG the shooting            
+-4.421116
+No. 4
+BG the woman            
+-4.580265
+No. 5
+BG the police            
+-4.613566
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the suspect was           
+-5.122177
+No. 2
+BG the man was           
+-5.123046
+No. 3
+BG the police department           
+-5.571678
+No. 4
+BG the woman was           
+-5.732547
+No. 5
+BG the man who           
+-5.767899
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the man who was          
+-7.019138
+No. 2
+BG the police department said          
+-7.348996
+No. 3
+BG the man was found          
+-7.584979
+No. 4
+BG the suspect was found          
+-7.835314
+No. 5
+BG the suspect was killed          
+-7.862214
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the man was found dead         
+-8.365803
+No. 2
+BG the suspect was found dead         
+-9.017280
+No. 3
+BG the police department said the         
+-9.157566
+No. 4
+BG the police department said in         
+-9.260699
+No. 5
+BG the man who was found         
+-9.669218
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the man was found dead in        
+-9.687376
+No. 2
+BG the police department said in statement        
+-9.857388
+No. 3
+BG the man was found dead at        
+-10.199523
+No. 4
+BG the suspect was found dead in        
+-10.477194
+No. 5
+BG the man who was found dead        
+-10.529548
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the police department said in statement that       
+-10.967923
+No. 2
+BG the man was found dead in the       
+-11.037595
+No. 3
+BG the man who was found dead in       
+-11.471116
+No. 4
+BG the suspect was found dead in the       
+-11.694717
+No. 5
+BG the man was found dead at the       
+-11.767385
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the police department said in statement that the      
+-11.628961
+No. 2
+BG the man who was found dead in the      
+-12.609620
+No. 3
+BG the police department said in statement that it      
+-13.980169
+No. 4
+BG the police department said in statement that they      
+-14.042703
+No. 5
+BG the man who was found dead in his      
+-14.142424
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the police department said in statement that it was     
+-14.361961
+No. 2
+BG the police department said in statement that the suspect     
+-14.895860
+No. 3
+BG the police department said in statement that they were     
+-14.942211
+No. 4
+BG the police department said in statement that the death     
+-15.161981
+No. 5
+BG the police department said in statement that the police     
+-15.314297
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the police department said in statement that the suspect was    
+-15.977372
+No. 2
+BG the police department said in statement that the death toll    
+-16.310603
+No. 3
+BG the police department said in statement that the death was    
+-16.834148
+No. 4
+BG the police department said in statement that the suspect had    
+-17.072845
+No. 5
+BG the police department said in statement that it was found    
+-17.103481
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the police department said in statement that the death toll was   
+-17.341998
+No. 2
+BG the police department said in statement that the suspect was found   
+-17.796982
+No. 3
+BG the police department said in statement that it was found dead   
+-18.189219
+No. 4
+BG the police department said in statement that the suspect had been   
+-18.220885
+No. 5
+BG the police department said in statement that the death was found   
+-18.452031
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the police department said in statement that the suspect was found dead  
+-18.963205
+No. 2
+BG the police department said in statement that the death toll was found  
+-19.376743
+No. 3
+BG the police department said in statement that the death toll was killed  
+-19.651876
+No. 4
+BG the police department said in statement that it was found dead in  
+-19.696445
+No. 5
+BG the police department said in statement that the death was found dead  
+-19.763106
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the police department said in statement that the suspect was found dead in 
+-20.491798
+No. 2
+BG the police department said in statement that the death toll was found dead 
+-20.597932
+No. 3
+BG the police department said in statement that the suspect was found dead at 
+-20.632663
+No. 4
+BG the police department said in statement that it was found dead in the 
+-20.837287
+No. 5
+BG the police department said in statement that the death toll was found in 
+-21.202014
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG the police department said in statement that the death toll was killed ED 
+-1.487147
+No. 2
+BG the police department said in statement that the suspect was found dead in the ED
+-1.563357
+No. 3
+BG the police department said in statement that the death toll was found dead in ED
+-1.565589
+No. 4
+BG the police department said in statement that the suspect was found dead at the ED
+-1.577688
+No. 5
+BG the police department said in statement that the suspect was found dead at NUM ED
+-1.598396
+Content:
+BG shooter or shooters may be at large after killing eight people in in several pike county ohio homes according local law enforcement officials ED     
+
+BG here are the details so far from local news station fox news time magazine seven adults teenage boy are dead ED        
+
+BG one or more shooters are believed be alive armed dangerous ED                  
+
+BG the victims were from the same family ED                     
+
+BG authorities said they found three marijuana grow operations at the homes although they cautioned that they know if the shooting was still an anonymous official told cnn operation was
+
+BG it was very sophisticated officials said the shooting was ED                   
+
+BG was execution eight ohio attorney general mike said at press conference ED                 

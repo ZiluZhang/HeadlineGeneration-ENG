@@ -1,0 +1,616 @@
+Title:
+BG sunday night with kelly anchor had been scheduled host the promise champions gala an event
+Teacher Forced Generated Title:
+said the the the who the been asked for for news for ED in event
+Distribution for each word in title:
+1:
+said: 0.057681
+the: 0.049399
+is: 0.038513
+will: 0.038125
+who: 0.033543
+in: 0.029800
+on: 0.015607
+was: 0.015455
+speaking: 0.015027
+statement: 0.010949
+* sunday: 0.000514
+
+2:
+the: 0.101082
+said: 0.058385
+that: 0.055592
+morning: 0.045348
+news: 0.027141
+ED: 0.024739
+night: 0.021782
+who: 0.016837
+on: 0.016485
+was: 0.014961
+* night: 0.021782
+
+3:
+the: 0.032336
+said: 0.023126
+host: 0.017299
+news: 0.014514
+was: 0.010176
+talk: 0.008397
+trump: 0.007688
+i: 0.007442
+asked: 0.007436
+on: 0.006847
+* with: 0.003750
+
+4:
+the: 0.123224
+an: 0.053761
+host: 0.022479
+former: 0.020965
+fox: 0.015556
+news: 0.012985
+his: 0.012273
+trump: 0.007005
+asked: 0.006438
+president: 0.005813
+* kelly: 0.005062
+
+5:
+who: 0.099551
+trump: 0.030926
+said: 0.025222
+j: 0.021739
+told: 0.018443
+ED: 0.010505
+the: 0.010363
+news: 0.009836
+former: 0.008567
+washington: 0.008359
+* anchor: 0.000127
+
+6:
+the: 0.110862
+who: 0.095757
+host: 0.050180
+chris: 0.024676
+david: 0.019462
+on: 0.017683
+news: 0.015266
+michael: 0.014388
+minister: 0.013511
+chairman: 0.012689
+* had: 0.001032
+
+7:
+been: 0.092862
+asked: 0.020469
+the: 0.009147
+an: 0.007695
+received: 0.004586
+not: 0.004408
+no: 0.004382
+decided: 0.004238
+made: 0.003836
+host: 0.003249
+* been: 0.092862
+
+8:
+asked: 0.014576
+the: 0.011645
+an: 0.008050
+given: 0.006673
+called: 0.006541
+taken: 0.005148
+reported: 0.004891
+suspended: 0.004734
+working: 0.004338
+fired: 0.003978
+* scheduled: 0.002907
+
+9:
+for: 0.106088
+be: 0.085244
+take: 0.052607
+meet: 0.029577
+visit: 0.021614
+sign: 0.018321
+appear: 0.016624
+leave: 0.016451
+give: 0.013505
+begin: 0.010080
+* host: 0.002971
+
+10:
+for: 0.098787
+at: 0.098680
+the: 0.076530
+in: 0.065336
+on: 0.038674
+with: 0.034095
+ED: 0.015173
+stephen: 0.011490
+alex: 0.010378
+as: 0.009808
+* the: 0.076530
+
+11:
+news: 0.030384
+event: 0.028426
+u: 0.025873
+national: 0.020816
+upcoming: 0.013813
+first: 0.011362
+daily: 0.010963
+next: 0.010945
+host: 0.010175
+presidential: 0.010146
+* promise: 0.000124
+
+12:
+for: 0.212881
+the: 0.113428
+in: 0.052591
+at: 0.044650
+by: 0.036380
+on: 0.034054
+ED: 0.030437
+with: 0.021394
+that: 0.013882
+speech: 0.012448
+* champions: 0.000017
+
+13:
+ED: 0.123566
+the: 0.119378
+in: 0.108887
+at: 0.083842
+for: 0.031270
+will: 0.021139
+were: 0.019281
+from: 0.018662
+against: 0.015064
+on: 0.014228
+* gala: 0.000005
+
+14:
+in: 0.229828
+at: 0.194365
+ED: 0.056192
+on: 0.048363
+for: 0.042483
+event: 0.020369
+the: 0.016752
+with: 0.011898
+will: 0.010737
+ceremony: 0.006847
+* an: 0.000346
+
+15:
+event: 0.051651
+american: 0.035849
+end: 0.028886
+international: 0.023854
+open: 0.017051
+economic: 0.012204
+hour: 0.009779
+effort: 0.008164
+old: 0.007386
+annual: 0.005441
+* event: 0.051651
+
+
+Perplexity = 6.526183
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.20800781  0.07128906 -0.12890625 ..., -0.21289062 -0.16796875
+  -0.00714111]
+ [-0.04492188 -0.03039551  0.00234985 ...,  0.01226807 -0.08837891
+  -0.015625  ]
+ ..., 
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  2.48216381e-08   3.84535051e-05   5.76618950e-05 ...,   3.99321358e-08
+     2.16978208e-07   2.02878809e-07]
+  [  1.14010660e-07   7.96078020e-05   4.26248844e-05 ...,   1.01399884e-07
+     5.42197029e-07   2.26941040e-07]
+  [  3.05037929e-07   6.92674366e-05   1.64706998e-05 ...,   4.41291462e-07
+     2.75716684e-06   1.62489755e-06]
+  ..., 
+  [  2.28526951e-05   1.27081107e-03   1.80461816e-03 ...,   1.04779829e-05
+     2.61007488e-04   4.92614163e-05]
+  [  4.60821866e-06   7.84011499e-04   1.92991109e-03 ...,   1.99691112e-06
+     5.67841053e-05   1.43812431e-05]
+  [  3.24319444e-05   1.67852025e-02   2.02250062e-03 ...,   5.63893491e-06
+     1.29585082e-04   8.14135819e-06]]
+
+ [[  2.81265989e-06   3.49397829e-04   9.10412346e-05 ...,   8.89832052e-07
+     7.40392943e-06   4.17971933e-06]
+  [  8.18082390e-06   4.03458980e-04   5.60699227e-05 ...,   1.89866500e-06
+     9.69024495e-06   4.03726881e-06]
+  [  8.41814472e-06   3.01654160e-04   4.84256198e-05 ...,   2.60599973e-06
+     3.96568175e-05   1.40558550e-05]
+  ..., 
+  [  1.95390792e-04   5.22314687e-04   1.37132229e-05 ...,   4.21489203e-05
+     9.03486391e-04   1.66737023e-04]
+  [  1.13895207e-04   1.28617603e-03   3.91112699e-05 ...,   6.01403117e-05
+     3.44431523e-04   3.40406434e-04]
+  [  2.75175378e-04   4.22838237e-03   9.41973631e-05 ...,   1.69047154e-04
+     3.76380602e-04   3.76458862e-04]]
+
+ [[  6.89909575e-06   1.77425239e-03   3.75100388e-03 ...,   2.95206451e-06
+     1.19426259e-04   2.43183633e-04]
+  [  4.60889249e-04   4.96964380e-02   1.29288007e-02 ...,   2.42456154e-04
+     1.94512331e-03   2.45788973e-03]
+  [  2.62666703e-03   5.28719462e-03   3.71802645e-03 ...,   2.36780802e-03
+     2.05502775e-03   4.44553792e-03]
+  ..., 
+  [  1.63949491e-03   3.48622841e-03   4.14725719e-03 ...,   1.25181815e-03
+     3.10121174e-03   2.70915451e-03]
+  [  1.94072758e-03   4.03076829e-03   4.25129524e-03 ...,   1.51475996e-03
+     3.33614484e-03   2.97026150e-03]
+  [  2.37507932e-03   4.34587244e-03   4.25115833e-03 ...,   1.83088414e-03
+     3.61001748e-03   3.29898158e-03]]
+
+ ..., 
+ [[  9.32426985e-07   1.44158577e-04   1.70158735e-03 ...,   6.75253659e-07
+     9.44007697e-05   2.10528542e-05]
+  [  1.67691883e-06   1.18527540e-04   7.42002332e-04 ...,   7.10698373e-07
+     1.19624070e-04   1.51446666e-05]
+  [  3.76374624e-06   4.28823041e-05   5.98885061e-04 ...,   9.46526541e-07
+     9.66475054e-05   1.66343725e-05]
+  ..., 
+  [  3.23070781e-05   3.77811230e-04   1.39588341e-02 ...,   1.15352732e-05
+     6.40331418e-05   1.04393548e-04]
+  [  2.94683014e-05   2.80337222e-03   3.84057388e-02 ...,   8.88500836e-06
+     2.56299536e-04   9.26321809e-05]
+  [  1.33662799e-03   2.51806760e-03   7.26449070e-03 ...,   3.21308617e-04
+     3.62030370e-03   2.26175203e-03]]
+
+ [[  1.48276229e-06   7.27817605e-05   8.78082588e-04 ...,   1.00466025e-06
+     2.41894508e-04   3.52932366e-05]
+  [  1.61398816e-06   5.27609191e-05   4.23918798e-04 ...,   1.26361829e-06
+     1.70074272e-04   2.00833347e-05]
+  [  2.07064977e-06   9.55900541e-05   6.09772920e-04 ...,   1.03214506e-06
+     1.36956529e-04   1.86952166e-05]
+  ..., 
+  [  1.64561346e-03   3.51004512e-03   4.17704415e-03 ...,   1.25229498e-03
+     3.10342247e-03   2.72409199e-03]
+  [  1.94365543e-03   4.04675538e-03   4.27654898e-03 ...,   1.51469512e-03
+     3.33515205e-03   2.98332446e-03]
+  [  2.37538991e-03   4.35476471e-03   4.27183416e-03 ...,   1.83043827e-03
+     3.60705075e-03   3.31052253e-03]]
+
+ [[  8.14950312e-08   1.51972208e-05   8.91362433e-05 ...,   9.67871614e-08
+     3.10984046e-06   8.67977178e-07]
+  [  2.98549367e-07   2.01705043e-05   4.01490470e-05 ...,   1.94446613e-07
+     3.43907732e-06   5.68845905e-07]
+  [  5.09364327e-07   5.08649100e-06   3.49288825e-06 ...,   2.89244497e-07
+     1.20882132e-05   1.32313505e-06]
+  ..., 
+  [  5.08757168e-03   1.04237134e-02   1.49083498e-03 ...,   2.56392988e-03
+     1.94722891e-03   2.54008011e-03]
+  [  3.72114312e-03   6.74804440e-03   2.87936651e-03 ...,   1.68550876e-03
+     4.28590784e-03   2.64510955e-03]
+  [  4.03419929e-03   6.57241186e-03   3.34167364e-03 ...,   1.99260795e-03
+     4.29981342e-03   3.23061086e-03]]]
+encode_h2:
+[[ 0.48012188 -0.10536791  0.01421596 ..., -0.04183859  0.1262296
+   0.40092772]
+ [ 0.58552361  0.01652434 -0.08395042 ..., -0.09782189  0.06027722
+   0.36086124]
+ [ 0.41421917  0.29388666 -0.41850331 ..., -0.53561443  0.1706112
+   0.30798411]
+ ..., 
+ [ 0.15635988  0.04892235 -0.55135226 ..., -0.65845287  0.33044589
+   0.31897596]
+ [ 0.24976453 -0.00225682 -0.55077404 ..., -0.59724402 -0.20383318
+   0.18902265]
+ [ 0.39386538 -0.11381431 -0.51469326 ..., -0.36155951  0.07039886
+   0.39698398]]
+ref_emb:
+[[ -4.62890625e-01  -5.12695312e-02  -2.35351562e-01 ...,  -1.13525391e-02
+   -3.51562500e-02  -5.17578125e-02]
+ [ -5.32226562e-02  -4.11987305e-04   3.36914062e-02 ...,  -2.37304688e-01
+   -1.70898438e-01   2.33154297e-02]
+ [  1.57470703e-02   7.66601562e-02  -3.22265625e-02 ...,  -1.17187500e-01
+    1.68945312e-01  -5.12695312e-02]
+ ..., 
+ [ -7.56835938e-02   2.07031250e-01   1.99218750e-01 ...,  -3.86718750e-01
+    2.55859375e-01   5.76782227e-03]
+ [ -5.37109375e-02   2.50244141e-02  -1.40625000e-01 ...,   3.71093750e-02
+   -6.25000000e-02   8.54492188e-02]
+ [  1.25976562e-01   1.90429688e-01   6.98242188e-02 ...,   6.12792969e-02
+    1.72851562e-01  -7.86132812e-02]]
+decode_seq:
+[[ 0.08746278  0.57010669 -0.91701871 ..., -0.16517729 -0.72659427
+  -0.64866829]
+ [-0.69517857 -0.97323483 -0.75792974 ..., -0.63956857 -0.71374226
+  -0.39407876]
+ [-0.56462246 -0.57939851  0.42179304 ..., -0.73135573 -0.60799909
+  -0.47317427]
+ ..., 
+ [ 0.18048137 -0.94380915  0.97839159 ..., -0.98349553  0.85363877
+  -0.17722638]
+ [ 0.09549437 -0.90872175  0.99384308 ..., -0.96425354 -0.37587693
+  -0.81053543]
+ [-0.56806666 -0.02076865  0.83419251 ..., -0.91788089  0.57741064
+  -0.96465486]]
+output_dstrb:
+[[  1.36509598e-05   3.54013764e-07   4.64511402e-07 ...,   5.61185800e-07
+    4.24529617e-06   2.03173798e-07]
+ [  3.06527340e-06   4.13725530e-07   5.88726209e-07 ...,   2.74227830e-07
+    6.19442972e-07   6.85906443e-08]
+ [  4.12666225e-07   5.98298357e-07   8.08611048e-07 ...,   8.02720194e-07
+    1.06722464e-05   8.72574446e-07]
+ ..., 
+ [  1.25292781e-08   4.23154880e-08   1.74978823e-07 ...,   2.35949198e-08
+    1.02729109e-06   3.06456513e-08]
+ [  7.86232704e-07   1.90948001e-07   2.39127445e-07 ...,   5.15336147e-08
+    1.01297985e-06   2.96607396e-08]
+ [  1.60803156e-05   9.54644861e-07   2.67553241e-06 ...,   1.67506573e-06
+    1.90850951e-05   1.09759549e-06]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG said             
+-2.852819
+No. 2
+BG the             
+-3.007815
+No. 3
+BG is             
+-3.256748
+No. 4
+BG will             
+-3.266893
+No. 5
+BG who             
+-3.394918
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG said that            
+-4.637802
+No. 2
+BG will be            
+-4.892170
+No. 3
+BG said the            
+-5.068551
+No. 4
+BG who is            
+-5.110593
+No. 5
+BG will not            
+-5.186298
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG will not be           
+-5.761554
+No. 2
+BG will be the           
+-6.712586
+No. 3
+BG said that the           
+-6.752048
+No. 4
+BG said that he           
+-6.783706
+No. 5
+BG who is also           
+-7.510041
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG will be the first          
+-7.916439
+No. 2
+BG will not be the          
+-8.349536
+No. 3
+BG who is also the          
+-8.891655
+No. 4
+BG said that he was          
+-9.080340
+No. 5
+BG said that he is          
+-9.316380
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG will be the first time         
+-9.776140
+No. 2
+BG will not be the first         
+-10.699304
+No. 3
+BG said that he is not         
+-10.891316
+No. 4
+BG will be the first the         
+-11.364081
+No. 5
+BG said that he was not         
+-11.453447
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG will be the first time in        
+-11.471037
+No. 2
+BG will be the first time for        
+-12.098572
+No. 3
+BG will be the first time i        
+-12.377611
+No. 4
+BG will be the first time since        
+-12.410240
+No. 5
+BG will be the first time the        
+-12.600016
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG will be the first time in the       
+-12.069124
+No. 2
+BG will be the first time for the       
+-12.905262
+No. 3
+BG will be the first time since the       
+-13.403171
+No. 4
+BG will be the first time i am       
+-15.307721
+No. 5
+BG will be the first time i wrote       
+-15.335423
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG will be the first time in the history      
+-12.929598
+No. 2
+BG will be the first time in the united      
+-14.877057
+No. 3
+BG will be the first time in the u      
+-15.551598
+No. 4
+BG will be the first time in the world      
+-15.662614
+No. 5
+BG will be the first time in the middle      
+-15.927451
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG will be the first time in the history the     
+-14.596078
+No. 2
+BG will be the first time in the united states     
+-15.222717
+No. 3
+BG will be the first time in the history history     
+-16.310397
+No. 4
+BG will be the first time in the history american     
+-16.442386
+No. 5
+BG will be the first time in the history in     
+-16.455663
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG will be the first time in the history the united    
+-16.805888
+No. 2
+BG will be the first time in the history in the    
+-17.093971
+No. 3
+BG will be the first time in the history the world    
+-17.609567
+No. 4
+BG will be the first time in the history the u    
+-17.808110
+No. 5
+BG will be the first time in the united states america    
+-18.075495
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG will be the first time in the history the united states   
+-17.105002
+No. 2
+BG will be the first time in the history in the history   
+-18.614225
+No. 3
+BG will be the first time in the history in the united   
+-19.188197
+No. 4
+BG will be the first time in the history in the world   
+-19.845385
+No. 5
+BG will be the first time in the history the world the   
+-20.002768
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG will be the first time in the history in the united states  
+-19.393077
+No. 2
+BG will be the first time in the history in the history the  
+-19.846414
+No. 3
+BG will be the first time in the history the united states in  
+-19.993847
+No. 4
+BG will be the first time in the history the united states since  
+-20.177830
+No. 5
+BG will be the first time in the history the united states the  
+-20.207272
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG will be the first time in the history the united states in the 
+-20.907920
+No. 2
+BG will be the first time in the history the united states since the 
+-21.613440
+No. 3
+BG will be the first time in the history the united states the united 
+-21.720620
+No. 4
+BG will be the first time in the history the united states since NUM 
+-21.763983
+No. 5
+BG will be the first time in the history in the history the united 
+-22.016104
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG will be the first time in the history the u ED   
+-1.485844
+No. 2
+BG will be the first time in the history the united states ED  
+-1.531482
+No. 3
+BG will be the first time in the history in the united states ED 
+-1.538150
+No. 4
+BG will be the first time in the u ED     
+-1.556783
+No. 5
+BG will be the first time in the history the united states the united states ED
+-1.559039
+Content:
+BG kelly has agreed step down as host gun violence prevention fundraiser related the NUM sandy hook elementary massacre after receiving heavy backlash over an upcoming interview with founder alex
+
+BG sunday night with kelly anchor had been scheduled host the promise champions gala an event organized by sandy hook promise gun control nonprofit formed in the wake the horrific
+
+BG c ED                           
+
+BG but the nbc news interview with jones set air on day june NUM has prompted the group kelly from appearing at the event according variety ED   
+
+BG hook promise cannot support the decision by or nbc give any form voice or platform alex jones have asked kelly step down as our promise champion gala nicole managing
+
+BG is our hope that nbc reconsider not broadcast this interview ED                  
+
+BG kelly who left fox news earlier this year lead two news programs at nbc shared preview clip her interview with jones on her twitter account sunday ED  

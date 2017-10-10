@@ -1,0 +1,614 @@
+Title:
+BG according report released by the united refugee agency this morning the number people displaced by
+Teacher Forced Generated Title:
+the the the by the new states center in week the u the who in
+Distribution for each word in title:
+1:
+the: 0.343067
+in: 0.033176
+it: 0.026378
+but: 0.024392
+on: 0.015982
+this: 0.011936
+an: 0.009453
+as: 0.009358
+new: 0.009296
+NUM: 0.009190
+* according: 0.005500
+
+2:
+the: 0.304401
+report: 0.066626
+new: 0.052367
+its: 0.028669
+an: 0.025759
+statement: 0.024209
+two: 0.011211
+NUM: 0.010811
+that: 0.010645
+reports: 0.010015
+* report: 0.066626
+
+3:
+the: 0.279111
+from: 0.113372
+on: 0.095813
+by: 0.068286
+that: 0.047261
+released: 0.038718
+about: 0.029490
+in: 0.027947
+this: 0.016723
+which: 0.015238
+* released: 0.038718
+
+4:
+by: 0.322744
+on: 0.104781
+wednesday: 0.075914
+monday: 0.064594
+tuesday: 0.056912
+friday: 0.052884
+the: 0.037381
+thursday: 0.035126
+this: 0.032857
+from: 0.022158
+* by: 0.322744
+
+5:
+the: 0.712435
+NUM: 0.013633
+news: 0.013486
+this: 0.009732
+an: 0.007859
+new: 0.007459
+local: 0.007013
+u: 0.006575
+by: 0.005078
+federal: 0.005019
+* the: 0.712435
+
+6:
+new: 0.033597
+washington: 0.025149
+guardian: 0.020618
+website: 0.019842
+department: 0.016918
+u: 0.013277
+associated: 0.010435
+agency: 0.009903
+newspaper: 0.009857
+report: 0.009774
+* united: 0.001817
+
+7:
+states: 0.692785
+nations: 0.040542
+on: 0.015091
+the: 0.014946
+research: 0.004056
+which: 0.003499
+daily: 0.003065
+in: 0.002918
+march: 0.002830
+times: 0.002749
+* refugee: 0.000062
+
+8:
+center: 0.195343
+group: 0.043071
+program: 0.022307
+policy: 0.017963
+camp: 0.017480
+agency: 0.016856
+team: 0.016138
+organization: 0.012546
+network: 0.012492
+groups: 0.010832
+* agency: 0.016856
+
+9:
+in: 0.056174
+for: 0.053456
+the: 0.052402
+after: 0.044290
+which: 0.031661
+on: 0.026353
+agency: 0.021441
+said: 0.021359
+at: 0.020779
+that: 0.018269
+* this: 0.001805
+
+10:
+week: 0.507580
+year: 0.210997
+month: 0.053736
+weekend: 0.026862
+NUM: 0.006456
+summer: 0.005939
+morning: 0.004867
+past: 0.004096
+international: 0.003232
+article: 0.002979
+* morning: 0.004867
+
+11:
+the: 0.101238
+in: 0.054048
+after: 0.039021
+ED: 0.021937
+was: 0.018571
+on: 0.012736
+that: 0.010756
+as: 0.010422
+is: 0.010117
+group: 0.009463
+* the: 0.101238
+
+12:
+u: 0.044304
+new: 0.023753
+state: 0.022624
+european: 0.015859
+first: 0.014771
+government: 0.009765
+united: 0.008296
+largest: 0.007109
+national: 0.007023
+department: 0.006891
+* number: 0.001363
+
+13:
+the: 0.032882
+students: 0.010925
+migrants: 0.008149
+cases: 0.007639
+reports: 0.006705
+guests: 0.006605
+major: 0.006480
+those: 0.006143
+people: 0.005975
+NUM: 0.005972
+* people: 0.005975
+
+14:
+who: 0.079084
+were: 0.075528
+have: 0.043461
+in: 0.023996
+reported: 0.012698
+also: 0.012225
+including: 0.011889
+the: 0.011362
+received: 0.011188
+are: 0.010106
+* displaced: 0.000002
+
+15:
+in: 0.123920
+by: 0.122318
+NUM: 0.052704
+have: 0.045418
+for: 0.044260
+from: 0.038904
+the: 0.037488
+with: 0.036853
+at: 0.026448
+were: 0.014924
+* by: 0.122318
+
+
+Perplexity = 4.906030
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.08056641 -0.04296875 -0.09716797 ...,  0.36914062  0.14746094
+  -0.12792969]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  1.81837531e-04   1.21204437e-04   1.60797057e-03 ...,   1.51516597e-05
+     5.15514170e-04   3.20065010e-04]
+  [  2.56578525e-04   8.80363805e-05   8.42697802e-04 ...,   1.42839244e-05
+     4.12423513e-04   1.92791616e-04]
+  [  1.54264912e-04   7.39654643e-05   1.21011306e-03 ...,   8.23989103e-06
+     2.31064289e-04   1.03134240e-04]
+  ..., 
+  [  1.63835345e-03   3.48934811e-03   4.16653277e-03 ...,   1.25152478e-03
+     3.09777306e-03   2.71805446e-03]
+  [  1.93836610e-03   4.03069425e-03   4.26682224e-03 ...,   1.51430431e-03
+     3.33213340e-03   2.97776214e-03]
+  [  2.37174379e-03   4.34359815e-03   4.26329998e-03 ...,   1.83037727e-03
+     3.60592362e-03   3.30539560e-03]]
+
+ [[  2.26969587e-06   1.16792398e-04   1.28858039e-04 ...,   9.05734112e-07
+     2.65819253e-05   2.76472892e-05]
+  [  6.47174375e-06   1.51091604e-04   9.48345842e-05 ...,   1.78000289e-06
+     3.58016478e-05   2.95193695e-05]
+  [  1.39177255e-05   2.66078423e-04   1.10123423e-04 ...,   3.97935037e-06
+     6.58376157e-05   4.06652034e-05]
+  ..., 
+  [  1.71472075e-05   6.94157963e-04   4.62628523e-05 ...,   1.24432981e-05
+     3.54407501e-04   1.02369362e-04]
+  [  2.44800412e-05   2.18701875e-03   8.50672513e-05 ...,   2.18263049e-05
+     1.53069734e-04   8.07942706e-05]
+  [  2.39435485e-05   4.21581138e-03   2.33116603e-04 ...,   1.41233804e-05
+     7.44720310e-05   4.79579139e-05]]
+
+ [[  2.43581053e-05   1.22082871e-04   4.15992830e-03 ...,   9.60315629e-06
+     1.91586674e-03   1.35027908e-03]
+  [  6.06770118e-05   8.75099067e-05   1.81926554e-03 ...,   1.85926001e-05
+     2.18223711e-03   9.19430633e-04]
+  [  5.04592390e-05   2.07070785e-04   7.82603107e-04 ...,   1.74705892e-05
+     3.03819473e-03   4.57758288e-04]
+  ..., 
+  [  1.63937977e-03   3.49225290e-03   4.16759914e-03 ...,   1.25171233e-03
+     3.09871533e-03   2.71877646e-03]
+  [  1.93915935e-03   4.03301744e-03   4.26789047e-03 ...,   1.51442492e-03
+     3.33272433e-03   2.97843409e-03]
+  [  2.37233820e-03   4.34527500e-03   4.26428625e-03 ...,   1.83043967e-03
+     3.60624539e-03   3.30601842e-03]]
+
+ ..., 
+ [[  8.04620231e-06   1.29322680e-05   6.27889123e-04 ...,   1.92109587e-06
+     4.77135851e-04   3.50220274e-04]
+  [  2.29995221e-05   1.53201509e-05   3.37599224e-04 ...,   4.69286670e-06
+     7.18282477e-04   3.35448334e-04]
+  [  3.41040140e-05   1.16092287e-05   3.08063725e-04 ...,   6.34553635e-06
+     4.65901801e-04   3.60696780e-04]
+  ..., 
+  [  1.64068700e-03   3.49567621e-03   4.16851789e-03 ...,   1.25183328e-03
+     3.09979031e-03   2.71942187e-03]
+  [  1.94018241e-03   4.03579511e-03   4.26883576e-03 ...,   1.51449523e-03
+     3.33338883e-03   2.97906110e-03]
+  [  2.37312354e-03   4.34731273e-03   4.26517799e-03 ...,   1.83046109e-03
+     3.60660045e-03   3.30661843e-03]]
+
+ [[  6.00123531e-06   6.45490491e-06   5.54519356e-04 ...,   2.95929817e-06
+     2.24220479e-04   1.85183046e-04]
+  [  2.74419835e-05   1.01338283e-05   4.02547303e-04 ...,   6.45850423e-06
+     3.06771806e-04   1.33438647e-04]
+  [  1.95407105e-04   2.72105499e-05   2.80598382e-04 ...,   5.42444905e-05
+     5.88983763e-04   7.35562353e-04]
+  ..., 
+  [  1.63356785e-03   3.48582538e-03   4.19347454e-03 ...,   1.25086587e-03
+     3.09006311e-03   2.72949296e-03]
+  [  1.93245080e-03   4.02393844e-03   4.28793114e-03 ...,   1.51351350e-03
+     3.32458271e-03   2.98711332e-03]
+  [  2.36494909e-03   4.33533639e-03   4.27938718e-03 ...,   1.82961742e-03
+     3.59900552e-03   3.31319752e-03]]
+
+ [[  1.34090044e-06   3.58922807e-05   8.59092142e-06 ...,   2.97502396e-07
+     7.45609635e-04   6.11498945e-06]
+  [  1.82609404e-06   2.83704212e-05   3.42565772e-06 ...,   2.97221646e-07
+     6.00711850e-04   3.32579407e-06]
+  [  1.64418020e-06   4.35388247e-05   3.20374374e-06 ...,   4.16993203e-07
+     8.76783801e-04   2.81326720e-06]
+  ..., 
+  [  1.84784143e-03   3.96760274e-03   4.06318577e-03 ...,   1.24940020e-03
+     3.29261948e-03   2.73897033e-03]
+  [  2.12196447e-03   4.45949705e-03   4.20450931e-03 ...,   1.50981988e-03
+     3.48234642e-03   2.99396575e-03]
+  [  2.53455970e-03   4.69225692e-03   4.23047645e-03 ...,   1.82329654e-03
+     3.71669861e-03   3.31857149e-03]]]
+encode_h2:
+[[ 0.27340317 -0.00661653 -0.1159561  ..., -0.21230574 -0.04265462
+   0.22750463]
+ [ 0.34855366 -0.02409285 -0.1860763  ..., -0.249993    0.06387489
+   0.33374622]
+ [ 0.38335112  0.40561312 -0.35812527 ..., -0.52378982  0.08858548
+   0.14160487]
+ ..., 
+ [-0.12754178  0.2899223  -0.63889903 ..., -0.83543646  0.36483321
+   0.21984726]
+ [-0.05954797  0.16930903 -0.6339646  ..., -0.6388216   0.18386741
+   0.22194315]
+ [ 0.202879    0.07209374 -0.58050823 ..., -0.52069849 -0.04828763
+   0.13469002]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.05541992 -0.19628906 -0.06835938 ...,  0.04736328  0.0625      0.14160156]
+ [-0.14257812 -0.1640625  -0.09033203 ..., -0.10546875  0.08447266
+  -0.14160156]
+ ..., 
+ [ 0.13964844 -0.04101562  0.09277344 ...,  0.02185059 -0.10791016
+  -0.06030273]
+ [ 0.26367188 -0.01916504  0.02893066 ..., -0.06689453  0.20703125
+  -0.13867188]
+ [ 0.24902344  0.1640625  -0.09960938 ...,  0.06201172  0.0378418
+  -0.28515625]]
+decode_seq:
+[[ 0.49919936  0.4301478  -0.65142083 ...,  2.11061192 -0.81959844
+  -0.31189233]
+ [-0.52651024 -0.40884507 -0.78185177 ...,  1.86609495 -0.84777284
+  -0.00710177]
+ [-0.96325606 -0.8592335  -0.17125028 ...,  1.80785966  0.41552827
+  -0.22357605]
+ ..., 
+ [ 0.22629984 -0.04338132  0.15597884 ...,  1.56146812 -0.76660198
+  -0.81599629]
+ [ 0.95541793 -0.16556942 -0.18763368 ...,  1.56146812 -0.44138977
+   0.70227152]
+ [ 0.67314363  0.01528527  0.38513389 ...,  1.54443812 -0.80891746
+  -0.33195391]]
+output_dstrb:
+[[  5.35371964e-06   1.57938942e-07   2.26566158e-07 ...,   4.87823506e-08
+    4.74944272e-06   6.36230340e-08]
+ [  6.33686739e-08   6.88759059e-08   1.97369573e-07 ...,   4.07008152e-08
+    3.75732452e-06   5.02347000e-08]
+ [  6.69255371e-07   3.55108973e-08   2.36800535e-08 ...,   2.65850737e-08
+    1.33526584e-07   4.36566427e-09]
+ ..., 
+ [  1.90270771e-06   7.71471321e-07   7.94943901e-07 ...,   6.97814187e-07
+    4.43567878e-05   4.75927862e-07]
+ [  1.06407401e-06   5.19156345e-07   4.83142344e-07 ...,   5.82364237e-07
+    1.15005632e-05   3.28249456e-07]
+ [  3.87481904e-08   3.66303574e-08   1.57094121e-07 ...,   2.51365933e-08
+    2.23871496e-07   1.74673911e-08]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.069831
+No. 2
+BG in             
+-3.405940
+No. 3
+BG it             
+-3.635209
+No. 4
+BG but             
+-3.713513
+No. 5
+BG on             
+-4.136322
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG but the            
+-4.831866
+No. 2
+BG the company            
+-5.163083
+No. 3
+BG it was            
+-5.342926
+No. 4
+BG in the            
+-5.368242
+No. 5
+BG it is            
+-5.517707
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the company has           
+-7.153341
+No. 2
+BG it was the           
+-7.298179
+No. 3
+BG the company is           
+-7.449580
+No. 4
+BG it is the           
+-7.742794
+No. 5
+BG it was also           
+-7.999255
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG it was the first          
+-8.215904
+No. 2
+BG it is the first          
+-9.109837
+No. 3
+BG the company has been          
+-9.235506
+No. 4
+BG it was also the          
+-10.124619
+No. 5
+BG it is the latest          
+-10.151138
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG it was the first time         
+-9.444888
+No. 2
+BG it is the first time         
+-9.962848
+No. 3
+BG it was the first major         
+-11.619852
+No. 4
+BG it was the first day         
+-12.062469
+No. 5
+BG it was the first step         
+-12.126955
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG it was the first time the        
+-10.838333
+No. 2
+BG it was the first time since        
+-11.330066
+No. 3
+BG it is the first time the        
+-11.520243
+No. 4
+BG it was the first time in        
+-11.849843
+No. 5
+BG it is the first time in        
+-12.241976
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG it was the first time in the       
+-12.753701
+No. 2
+BG it was the first time since the       
+-12.835970
+No. 3
+BG it was the first time since NUM       
+-12.990099
+No. 4
+BG it is the first time in the       
+-13.346652
+No. 5
+BG it was the first time the u       
+-13.525230
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG it was the first time in the united      
+-14.899756
+No. 2
+BG it was the first time since NUM the      
+-15.215926
+No. 3
+BG it was the first time since the united      
+-15.232850
+No. 4
+BG it is the first time in the united      
+-15.336748
+No. 5
+BG it was the first time since the u      
+-15.344482
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG it was the first time in the united states     
+-15.032255
+No. 2
+BG it is the first time in the united states     
+-15.418536
+No. 3
+BG it was the first time since the united states     
+-15.675603
+No. 4
+BG it was the first time since the united nations     
+-17.528610
+No. 5
+BG it was the first time since NUM the u     
+-17.551957
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG it was the first time since the united states has    
+-17.779895
+No. 2
+BG it was the first time in the united states since    
+-17.824805
+No. 3
+BG it was the first time in the united states in    
+-17.857091
+No. 4
+BG it was the first time in the united states the    
+-18.076466
+No. 5
+BG it was the first time in the united states its    
+-18.217137
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG it was the first time in the united states since NUM   
+-18.703978
+No. 2
+BG it was the first time in the united states in the   
+-18.837438
+No. 3
+BG it was the first time in the united states since the   
+-19.375854
+No. 4
+BG it was the first time since the united states has been   
+-19.971683
+No. 5
+BG it was the first time in the united states the united   
+-20.046537
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG it was the first time in the united states the united states  
+-20.144720
+No. 2
+BG it was the first time in the united states in the united  
+-20.866230
+No. 3
+BG it was the first time in the united states since NUM the  
+-20.913349
+No. 4
+BG it was the first time in the united states in the past  
+-21.561376
+No. 5
+BG it was the first time in the united states since the NUM  
+-21.574890
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG it was the first time in the united states in the united states 
+-20.937996
+No. 2
+BG it was the first time in the united states the united states has 
+-22.993099
+No. 3
+BG it was the first time in the united states since NUM the u 
+-23.111792
+No. 4
+BG it was the first time in the united states the united states is 
+-23.273676
+No. 5
+BG it was the first time in the united states the united states in 
+-23.388773
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG it was the first time the u ED      
+-1.503913
+No. 2
+BG it was the first time since the u ED     
+-1.534901
+No. 3
+BG it was the first time in the united states since NUM the u ED
+-1.541125
+No. 4
+BG it was the first time in the united states in the united states ED
+-1.547396
+No. 5
+BG it is the first time in the united states ED    
+-1.566976
+Content:
+BG the global community has reached devastating new milestone ED                    
+
+BG according report released by the united refugee agency this morning the number people displaced by conflict at the end NUM was the highest ever even greater than the refugee
+
+BG by the end NUM some NUM ED                      
+
+BG NUM million people were forcibly displaced from their homes globally ED                  
+
+BG in that year alone an estimated NUM ED                     
+
+BG NUM million people were newly displaced according the report ED                   
+
+BG this means that for every minute in NUM an average NUM people left their communities because violence or persecution ED         
