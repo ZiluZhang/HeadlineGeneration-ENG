@@ -131,19 +131,19 @@ def train_lstm(
 			for i in range(0, blocks):
 				print 'Block %d/%d' % (i + e * blocks, blocks * max_epochs)
 				f_log.write('Block %d/%d\n' % (i + e * blocks, blocks * max_epochs))
-				model.fit(x=get_input_data(b, b[:, Sen_len : Sen_len + Title_len], i*block_size, (i+1)*block_size),\
-						  y=get_labels(b[:, Sen_len : Sen_len + Title_len + 1], i*block_size, (i+1)*block_size),\
+				model.fit(x=get_input_data(b, t, i*block_size, (i+1)*block_size),\
+						  y=get_labels(t, i*block_size, (i+1)*block_size),\
 						  batch_size=batch_size,\
-						  validation_data=[get_input_data(v_b, v_b[:, Sen_len : Sen_len + Title_len + 1], i*v_block_size, (i+1)*v_block_size), get_labels(v_b[:, Sen_len: Sen_len + Title_len + 1], i*v_block_size, (i+1)*v_block_size)],\
+						  validation_data=[get_input_data(v_b, v_t, i*v_block_size, (i+1)*v_block_size), get_labels(v_t, i*v_block_size, (i+1)*v_block_size)],\
 						  epochs=1)
 
 				Saveweights(model, model_file_name)
 				Saveweights(model_show, model_show_file_name)
 		f_log.close()
 
-	elif options['mode'] == 'debug':	### DEBUGGING: Try to generate the 2nd sentence in body
-		train_input_data = get_input_data(b, b[:, Sen_len : Sen_len + Title_len])
-		train_labels = get_labels(b[:, Sen_len: Sen_len + Title_len + 1])
+	elif options['mode'] == 'debug':
+		train_input_data = get_input_data(b, t)
+		train_labels = get_labels(t)
 		print 'input shape = %s' % str((train_input_data[0].shape, train_input_data[1].shape))
 		print 'labels shape = %s' % str(train_labels.shape)
 		# model.fit(x=train_input_data,\
@@ -215,7 +215,7 @@ def train_lstm(
 				os.mkdir('%s/Sample-output-Keras' % data_dir)
 
 			fout = open('%s/Sample-output-Keras/out-%s%d.txt' % (data_dir, dataset_name, i), 'w')
-			fout.write(('Title:\n%s\nTeacher Forced Generated Title:\n%s\n' % (org_title, tcf_gen_title)))
+			fout.write(('Title:\n%s\nTeacher Forced Generated Title:\n%s\n' % (org_title, tcf_gen_title)).encode('utf-8'))
 			ppl = 0
 			fout.write('Distribution for each word in title:\n')
 			for j in range(Title_len):
@@ -223,8 +223,8 @@ def train_lstm(
 				k_argm = k_argmax(dst, 10)
 				fout.write('%d:\n' % (j+1))
 				for k in k_argm:	# k is the word_id
-					fout.write(('%s: %.6lf\n' % (id2w[k], dst[k])))
-				fout.write(('* %s: %.6lf\n' % (id2w[ref_data[i][j+1]], dst[ref_data[i][j+1]])))
+					fout.write(('%s: %.6lf\n' % (id2w[k], dst[k])).encode('utf-8'))
+				fout.write(('* %s: %.6lf\n' % (id2w[ref_data[i][j+1]], dst[ref_data[i][j+1]])).encode('utf-8'))
 				ppl += -np.log(dst[ref_data[i][j+1]])
 				fout.write('\n')
 
@@ -243,21 +243,21 @@ def train_lstm(
 				for k in range(len(allstep_best_open[step])):
 					(t, p) = allstep_best_open[step][k]
 					_title = ' '.join(id2w[wid] for wid in t)
-					fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title, p))
+					fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title.encode('utf-8'), p))
 				fout.write('--- End of Step %d ---\n' % (step + 1))
 
 			fout.write('\nGenerated Titles:\n')
 			for k in range(len(best_gen_title_list)):
 				(t, p) = best_gen_title_list[k]
 				_title = ' '.join(id2w[wid] for wid in t)
-				fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title, p))
-			fout.write('Content:\n%s\n' % body)
+				fout.write('No. %d\n%s\n%.6f\n' % (k+1, _title.encode('utf-8'), p))
+			fout.write('Content:\n%s\n' % body.encode('utf-8'))
 
 			fout.close()
 
-	get_output(train[0], list(zip(train[0]))[1], b, b[:, Sen_len : Sen_len + Title_len + 1], show_cnt, 'train')
-	get_output(valid[0], list(zip(valid[0]))[1], v_b, v_b[:, Sen_len : Sen_len + Title_len + 1], show_cnt, 'valid')
-	get_output(test[0], list(zip(test[0]))[1], ts_b, ts_b[:, Sen_len : Sen_len + Title_len + 1], show_cnt, 'test')
+	get_output(train[0], list(zip(train[0]))[1], b, t, show_cnt, 'train')
+	get_output(valid[0], list(zip(valid[0]))[1], v_b, v_t, show_cnt, 'valid')
+	get_output(test[0], list(zip(test[0]))[1], ts_b, ts_t, show_cnt, 'test')
 
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
