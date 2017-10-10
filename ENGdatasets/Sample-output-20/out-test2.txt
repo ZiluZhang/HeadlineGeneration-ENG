@@ -1,0 +1,609 @@
+Title:
+BG intel cancels its biggest event the year as the world moves past the pc ED
+Teacher Forced Generated Title:
+the community talks show us in ED ED ED great ED ED ED ED ED
+Distribution for each word in title:
+1:
+the: 0.110030
+trump: 0.040463
+how: 0.032652
+donald: 0.028263
+why: 0.024818
+hillary: 0.014731
+clinton: 0.011044
+what: 0.009969
+in: 0.009587
+us: 0.007826
+* intel: 0.000031
+
+2:
+community: 0.074999
+officials: 0.062530
+chief: 0.025704
+report: 0.025057
+says: 0.021136
+the: 0.015829
+chair: 0.015786
+ED: 0.014418
+agencies: 0.014033
+panel: 0.013091
+* cancels: 0.000388
+
+3:
+talks: 0.049811
+campaign: 0.039352
+its: 0.037490
+north: 0.036094
+us: 0.027070
+meeting: 0.027020
+nuclear: 0.022805
+white: 0.019625
+travel: 0.010693
+flights: 0.010154
+* its: 0.037490
+
+4:
+show: 0.025475
+new: 0.023904
+own: 0.023669
+us: 0.022180
+talks: 0.020339
+over: 0.019011
+trump: 0.018313
+NUM: 0.015744
+deal: 0.012536
+eu: 0.011748
+* biggest: 0.001031
+
+5:
+us: 0.030791
+deal: 0.027282
+threat: 0.025416
+ED: 0.023196
+NUM: 0.020099
+oil: 0.014731
+north: 0.012764
+problem: 0.010009
+syria: 0.009820
+bid: 0.008695
+* event: 0.003054
+
+6:
+in: 0.403478
+ED: 0.173087
+since: 0.055449
+with: 0.053232
+as: 0.038597
+at: 0.033463
+on: 0.028633
+for: 0.027149
+after: 0.023990
+from: 0.022546
+* the: 0.001963
+
+7:
+ED: 0.362754
+year: 0.084163
+us: 0.038616
+NUM: 0.016807
+week: 0.016607
+from: 0.013475
+last: 0.012171
+in: 0.012100
+iran: 0.009943
+first: 0.008344
+* year: 0.084163
+
+8:
+ED: 0.509131
+in: 0.100855
+as: 0.068278
+after: 0.038814
+with: 0.024742
+NUM: 0.022475
+since: 0.021490
+for: 0.020099
+from: 0.012243
+is: 0.007384
+* as: 0.068278
+
+9:
+ED: 0.144565
+it: 0.059489
+part: 0.026271
+president: 0.015869
+writing: 0.014931
+much: 0.014305
+many: 0.009576
+we: 0.007792
+ceo: 0.007732
+as: 0.007414
+* the: 0.003004
+
+10:
+great: 0.033212
+president: 0.030190
+ED: 0.027934
+us: 0.024553
+worst: 0.016280
+gop: 0.014184
+happened: 0.012251
+islamic: 0.009940
+new: 0.008030
+man: 0.007399
+* world: 0.002451
+
+11:
+ED: 0.105943
+president: 0.053646
+economy: 0.052221
+war: 0.017729
+bomb: 0.011597
+the: 0.009774
+bank: 0.009501
+series: 0.006072
+its: 0.005883
+continues: 0.005686
+* moves: 0.000217
+
+12:
+ED: 0.783853
+in: 0.018103
+home: 0.008392
+on: 0.007772
+into: 0.007400
+as: 0.006172
+the: 0.005253
+its: 0.004171
+for: 0.003362
+down: 0.003243
+* past: 0.000282
+
+13:
+ED: 0.260136
+NUM: 0.026372
+made: 0.010835
+week: 0.009806
+the: 0.009430
+policy: 0.009064
+life: 0.007747
+office: 0.007715
+flight: 0.005092
+west: 0.004275
+* the: 0.009430
+
+14:
+ED: 0.170074
+the: 0.022655
+gop: 0.017923
+worst: 0.010517
+past: 0.007142
+our: 0.007114
+iran: 0.006763
+us: 0.006410
+crisis: 0.005916
+trump: 0.005321
+* pc: 0.000003
+
+15:
+ED: 0.418433
+the: 0.012066
+it: 0.008034
+has: 0.007322
+did: 0.007108
+campaign: 0.005661
+into: 0.005406
+its: 0.005019
+debate: 0.004689
+industry: 0.004608
+* ED: 0.418433
+
+
+Perplexity = 6.150202
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.06396484  0.0067749  -0.08984375 ..., -0.22558594  0.03344727
+   0.24707031]
+ [-0.04492188 -0.03039551  0.00234985 ...,  0.01226807 -0.08837891
+  -0.015625  ]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ -8.94627154e-01   1.45943081e+00   4.32281113e+00 ...,  -2.99057990e-01
+    -7.88648307e-01  -1.40175557e+00]
+  [ -1.01527262e+00   9.63194728e-01   3.65252495e+00 ...,  -3.54741693e-01
+    -1.00975263e+00  -1.27104068e+00]
+  [ -9.65682745e-01   5.51432550e-01   3.41127515e+00 ...,  -3.62603426e-01
+    -1.03375936e+00  -1.23418224e+00]
+  ..., 
+  [  7.18187690e-02  -6.47859871e-02   7.35199898e-02 ...,  -3.60405371e-02
+    -5.31296492e-01  -2.69182533e-01]
+  [  5.85499331e-02  -6.21328354e-02  -5.25071397e-02 ...,   1.75709501e-02
+    -4.10561264e-01  -2.11199045e-01]
+  [ -6.53035343e-02  -8.76531079e-02  -1.11442946e-01 ...,   9.72571969e-03
+    -3.15796822e-01  -8.08606371e-02]]
+
+ [[ -9.14904118e-01   1.44438100e+00   4.29430389e+00 ...,  -2.83144563e-01
+    -7.87958980e-01  -1.41129386e+00]
+  [ -1.01337719e+00   9.17383850e-01   3.68638921e+00 ...,  -4.27972227e-01
+    -9.01404798e-01  -1.37649047e+00]
+  [ -1.01052248e+00   5.31331360e-01   3.31441545e+00 ...,  -3.78212988e-01
+    -1.06436086e+00  -1.29834306e+00]
+  ..., 
+  [  2.28449441e-02  -7.03801885e-02  -3.76373157e-02 ...,   4.02276926e-02
+    -8.65729339e-03  -2.66828872e-02]
+  [ -8.85496940e-03  -2.73297634e-02  -3.02768499e-02 ...,   3.88521142e-02
+     1.31644309e-02  -2.01385859e-02]
+  [ -2.81772949e-02   3.38329980e-03  -2.31290422e-02 ...,   3.19050848e-02
+     1.82698015e-02  -1.65405851e-02]]
+
+ [[ -8.97256970e-01   1.48136210e+00   4.32203865e+00 ...,  -2.88981766e-01
+    -7.83823252e-01  -1.41016376e+00]
+  [ -1.01436067e+00   9.68183339e-01   3.66338325e+00 ...,  -3.92778486e-01
+    -9.48021770e-01  -1.30603945e+00]
+  [ -9.46521342e-01   6.26521885e-01   3.39998913e+00 ...,  -3.90740693e-01
+    -1.02231550e+00  -1.26280463e+00]
+  ..., 
+  [ -3.01851220e-02  -1.41313877e-02   2.56893873e-01 ...,   6.74698651e-02
+    -5.32111287e-01  -3.52229655e-01]
+  [  1.13488793e-01  -6.88482597e-02  -2.52793892e-03 ...,   8.13500807e-02
+    -4.70973909e-01  -1.67100340e-01]
+  [  1.88145533e-01  -8.43195096e-02  -1.44804880e-01 ...,   3.30398344e-02
+    -4.69728082e-01  -8.67516175e-02]]
+
+ ..., 
+ [[ -9.03360724e-01   1.46258116e+00   4.29497910e+00 ...,  -2.61911333e-01
+    -7.76934266e-01  -1.41565704e+00]
+  [ -9.77711022e-01   8.76968205e-01   3.60300589e+00 ...,  -3.35638195e-01
+    -9.34386134e-01  -1.34083033e+00]
+  [ -9.65880394e-01   5.38712800e-01   3.32096791e+00 ...,  -3.16500366e-01
+    -1.05610549e+00  -1.29786479e+00]
+  ..., 
+  [ -1.53349042e-01   3.85714769e-02   3.15890580e-01 ...,   1.10602565e-02
+    -4.92758930e-01  -2.23588362e-01]
+  [ -5.52790239e-02  -1.26314638e-02   9.89413112e-02 ...,   3.71277286e-03
+    -3.55579466e-01  -1.66121274e-01]
+  [  7.31640868e-03   1.95333555e-01   3.32187749e-02 ...,   7.01523246e-03
+    -3.44566584e-01  -1.85663983e-01]]
+
+ [[ -9.22363579e-01   1.46784961e+00   4.32493305e+00 ...,  -2.99234271e-01
+    -7.83061862e-01  -1.39217043e+00]
+  [ -1.03333032e+00   8.90501499e-01   3.63085127e+00 ...,  -3.33701581e-01
+    -9.49941278e-01  -1.31509984e+00]
+  [ -1.02545118e+00   5.72213888e-01   3.35975647e+00 ...,  -3.12222958e-01
+    -1.07882047e+00  -1.27511811e+00]
+  ..., 
+  [ -3.72560859e-01   1.88072920e-01   8.85382891e-01 ...,  -9.32921171e-02
+    -7.69818127e-01  -4.59391415e-01]
+  [ -1.29383102e-01  -2.21233373e-03   4.99124140e-01 ...,  -8.55405927e-02
+    -4.49124128e-01  -3.43007892e-01]
+  [  1.22690775e-01   1.98795840e-01   5.42031229e-01 ...,  -1.32139310e-01
+    -5.24208188e-01  -3.95287842e-01]]
+
+ [[ -1.13344622e+00   3.92658412e-01   3.26318169e+00 ...,  -2.12313607e-01
+    -7.60854542e-01  -1.07940149e+00]
+  [ -1.12994766e+00   3.90250355e-01   3.25958633e+00 ...,  -2.13811725e-01
+    -7.66983867e-01  -1.08262467e+00]
+  [ -1.12555552e+00   3.84918511e-01   3.25581408e+00 ...,  -2.15673059e-01
+    -7.72470832e-01  -1.08493662e+00]
+  ..., 
+  [  2.39100903e-02  -1.28865531e-02   9.22348443e-03 ...,  -8.99549108e-03
+    -6.69575706e-02  -4.95700762e-02]
+  [  2.82593817e-02  -1.44832442e-02  -6.30389526e-03 ...,  -7.03249685e-03
+    -6.06264099e-02  -4.26776856e-02]
+  [  2.87960730e-02  -1.54384710e-02  -1.72095727e-02 ...,  -4.27200506e-03
+    -5.27230799e-02  -3.52783762e-02]]]
+encode_h2:
+[[-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]
+ ..., 
+ [-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.06396484  0.0067749  -0.08984375 ..., -0.22558594  0.03344727
+   0.24707031]
+ [ 0.2578125   0.2734375   0.25976562 ...,  0.11914062  0.10546875
+   0.09326172]
+ ..., 
+ [ 0.01049805  0.09277344 -0.17773438 ..., -0.05859375 -0.10205078
+  -0.02148438]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.125      -0.08496094 -0.12890625 ..., -0.15039062 -0.22167969
+  -0.1796875 ]]
+decode_seq:
+[[ 0.99560636  0.70216739 -0.47294748 ..., -0.59472281  0.42934787
+  -0.19951132]
+ [-0.44687107  0.71092767  0.98403901 ...,  0.60403049  0.60264742
+  -0.19951132]
+ [-0.68038452  0.88877499 -0.2483304  ...,  0.87727159 -0.73206735
+   0.8967135 ]
+ ..., 
+ [-0.994398    0.21374203 -0.30960396 ..., -0.52168602 -0.90628886
+   0.32561779]
+ [-0.99749112  0.21374203 -0.25658759 ..., -0.99268317 -0.87808985
+  -0.79778129]
+ [-0.99957931  0.37802607  0.06568402 ..., -0.96252996 -0.49706215
+  -0.92604411]]
+output_dstrb:
+[[  5.31659801e-08   4.94218932e-09   3.72608220e-08 ...,   5.25383381e-09
+    5.22929040e-05   4.93928676e-09]
+ [  1.32708795e-08   9.09895270e-09   3.91281567e-08 ...,   1.26965007e-08
+    3.57663594e-05   9.11080544e-09]
+ [  1.74309511e-09   8.89144225e-09   9.87475630e-08 ...,   1.70898709e-08
+    8.44114948e-06   8.89488661e-09]
+ ..., 
+ [  4.57581137e-07   1.07471134e-08   6.21901819e-08 ...,   3.45428504e-08
+    3.40036831e-06   1.07871791e-08]
+ [  5.99913790e-08   1.87068743e-08   2.33631212e-07 ...,   2.71117617e-08
+    2.02677347e-06   1.87741822e-08]
+ [  4.43363513e-10   1.73049841e-08   2.01746928e-07 ...,   1.59244138e-08
+    4.20258402e-06   1.72966690e-08]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.207000
+No. 2
+BG trump             
+-3.207366
+No. 3
+BG how             
+-3.421859
+No. 4
+BG donald             
+-3.566214
+No. 5
+BG why             
+-3.696181
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG donald trump            
+-3.799366
+No. 2
+BG the edge            
+-4.820170
+No. 3
+BG the atlantic            
+-4.923310
+No. 4
+BG trump campaign            
+-5.735382
+No. 5
+BG how the            
+-5.786324
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the atlantic daily           
+-4.961855
+No. 2
+BG donald trump is           
+-6.245462
+No. 3
+BG the edge the           
+-6.906347
+No. 4
+BG donald trump the           
+-7.419324
+No. 5
+BG donald trump just           
+-7.491572
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the atlantic daily the          
+-7.247148
+No. 2
+BG the atlantic daily day          
+-8.933117
+No. 3
+BG the atlantic daily new          
+-9.010985
+No. 4
+BG donald trump is the          
+-9.066644
+No. 5
+BG the atlantic daily refugee          
+-9.195041
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the atlantic daily refugee crisis         
+-11.233935
+No. 2
+BG the atlantic daily the house         
+-11.294032
+No. 3
+BG the atlantic daily the orlando         
+-11.372831
+No. 4
+BG the atlantic daily the new         
+-11.459871
+No. 5
+BG the atlantic daily the the         
+-11.485131
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the atlantic daily the orlando gunman        
+-13.443513
+No. 2
+BG the atlantic daily refugee crisis is        
+-13.891414
+No. 3
+BG the atlantic daily refugee crisis in        
+-13.913374
+No. 4
+BG the atlantic daily the house in        
+-13.941726
+No. 5
+BG the atlantic daily the orlando shooter        
+-14.421721
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the atlantic daily the orlando gunman in       
+-15.999307
+No. 2
+BG the atlantic daily the house in the       
+-16.287144
+No. 3
+BG the atlantic daily the orlando gunman was       
+-16.403476
+No. 4
+BG the atlantic daily the orlando gunman had       
+-16.476570
+No. 5
+BG the atlantic daily refugee crisis in syria       
+-16.843754
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the atlantic daily the orlando gunman in the      
+-19.091908
+No. 2
+BG the atlantic daily the orlando gunman in orlando      
+-19.281967
+No. 3
+BG the atlantic daily the house in the us      
+-19.589372
+No. 4
+BG the atlantic daily the orlando gunman in michigan      
+-19.591506
+No. 5
+BG the atlantic daily the orlando gunman was killed      
+-19.730492
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by     
+-20.828433
+No. 2
+BG the atlantic daily the orlando gunman was killed in     
+-21.210648
+No. 3
+BG the atlantic daily the orlando gunman in orlando shooting     
+-21.362811
+No. 4
+BG the atlantic daily the orlando gunman in orlando police     
+-21.510322
+No. 5
+BG the atlantic daily the orlando gunman in the us     
+-21.797903
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police    
+-22.974753
+No. 2
+BG the atlantic daily the orlando gunman in orlando police shooting    
+-23.294707
+No. 3
+BG the atlantic daily the orlando gunman was killed by the    
+-23.901396
+No. 4
+BG the atlantic daily the orlando gunman was killed in the    
+-24.287668
+No. 5
+BG the atlantic daily the orlando gunman in orlando shooting police    
+-24.366884
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police say   
+-24.888280
+No. 2
+BG the atlantic daily the orlando gunman in orlando shooting police say   
+-25.759120
+No. 3
+BG the atlantic daily the orlando gunman was killed by the police   
+-25.991623
+No. 4
+BG the atlantic daily the orlando gunman was killed by police officers   
+-26.046281
+No. 5
+BG the atlantic daily the orlando gunman was killed by police in   
+-26.172646
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police officers in  
+-28.467521
+No. 2
+BG the atlantic daily the orlando gunman was killed by the police say  
+-28.942181
+No. 3
+BG the atlantic daily the orlando gunman was killed by police officers say  
+-29.031433
+No. 4
+BG the atlantic daily the orlando gunman was killed by police in shooting  
+-29.469122
+No. 5
+BG the atlantic daily the orlando gunman was killed by the police officers  
+-29.565617
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police officers in shooting 
+-31.705531
+No. 2
+BG the atlantic daily the orlando gunman was killed by police officers in NUM 
+-31.749970
+No. 3
+BG the atlantic daily the orlando gunman was killed by police officers in the 
+-32.569894
+No. 4
+BG the atlantic daily the orlando gunman was killed by police officers in custody 
+-32.611067
+No. 5
+BG the atlantic daily the orlando gunman was killed by the police officers in 
+-32.805375
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG donald trump ED           
+-1.827601
+No. 2
+BG the edge ED           
+-1.854313
+No. 3
+BG the atlantic daily refugee crisis ED        
+-1.869413
+No. 4
+BG the atlantic daily the orlando gunman was killed by police say ED  
+-1.917156
+No. 5
+BG the atlantic daily the orlando gunman in orlando police shooting ED   
+-1.958945
+Content:
+BG intel has discontinued the intel developers forum idf its annual in san francisco citing the difficulties getting across unified message as it moves past just into bold new cancellation
+
+BG earlier in NUM intel had announced that its annual idf conference in china would not be held this year ED         
+
+BG idf is where the company makes new product announcements including the unveiling new intel tells the idea is that the company is moving beyond just focusing on servers into
+
+BG so an intel spokesperson tells business insider the company will be looking host smaller more focused events as well as increasing its presence at trade shows other events ED
+
+BG while the intel developers forum was at the time publication intel says that this cancellation has been in the works for some time as the company its events strategy
+
+BG as much as anything you can take the idf as another victim the pc market which has been another sign intel trying reinvent itself under those intel has ED
+
+                             

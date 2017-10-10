@@ -1,0 +1,609 @@
+Title:
+BG leo pushes climate change during oscar acceptance speech ED      
+Teacher Forced Generated Title:
+the ED back change in trump speech speech ED      
+Distribution for each word in title:
+1:
+the: 0.110030
+trump: 0.040463
+how: 0.032652
+donald: 0.028263
+why: 0.024818
+hillary: 0.014731
+clinton: 0.011044
+what: 0.009969
+in: 0.009587
+us: 0.007826
+* leo: 0.000000
+
+2:
+ED: 0.166167
+calls: 0.022611
+is: 0.021417
+warns: 0.016965
+johnson: 0.016474
+says: 0.011799
+was: 0.011472
+ceo: 0.011014
+campaign: 0.009371
+may: 0.007695
+* pushes: 0.001642
+
+3:
+back: 0.077733
+on: 0.053370
+down: 0.052317
+the: 0.044558
+new: 0.038013
+out: 0.035677
+trump: 0.035302
+NUM: 0.031806
+for: 0.028177
+into: 0.016736
+* climate: 0.000917
+
+4:
+change: 0.396727
+deal: 0.078582
+for: 0.018284
+back: 0.011465
+talk: 0.011110
+plan: 0.010172
+ED: 0.006218
+after: 0.005682
+agreement: 0.005658
+into: 0.005337
+* change: 0.396727
+
+5:
+in: 0.060221
+on: 0.054579
+as: 0.040970
+before: 0.037066
+lead: 0.034636
+after: 0.033429
+deal: 0.022803
+ED: 0.021865
+ahead: 0.018324
+for: 0.017535
+* during: 0.002855
+
+6:
+trump: 0.040034
+meeting: 0.033880
+week: 0.021427
+ED: 0.020098
+speech: 0.018236
+us: 0.016399
+policy: 0.016121
+new: 0.014184
+latest: 0.011551
+obama: 0.011132
+* oscar: 0.000564
+
+7:
+speech: 0.080618
+awards: 0.046990
+cup: 0.016504
+climate: 0.015028
+win: 0.011585
+nominations: 0.011090
+last: 0.009517
+move: 0.008786
+visit: 0.007881
+let: 0.007535
+* acceptance: 0.000120
+
+8:
+speech: 0.596401
+ED: 0.042091
+case: 0.009181
+trump: 0.008296
+the: 0.007659
+rally: 0.007328
+his: 0.005750
+donald: 0.005496
+report: 0.004972
+he: 0.004650
+* speech: 0.596401
+
+9:
+ED: 0.932824
+speech: 0.004351
+at: 0.003727
+with: 0.001708
+trump: 0.001342
+his: 0.000841
+on: 0.000817
+congress: 0.000666
+he: 0.000618
+donald: 0.000598
+* ED: 0.932824
+
+10:
+: 1.000000
+ED: 0.000000
+johnson: 0.000000
+visit: 0.000000
+sanders: 0.000000
+victims: 0.000000
+show: 0.000000
+poll: 0.000000
+supporters: 0.000000
+video: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+johnson: 0.000000
+visit: 0.000000
+sanders: 0.000000
+victims: 0.000000
+show: 0.000000
+poll: 0.000000
+supporters: 0.000000
+video: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+johnson: 0.000000
+visit: 0.000000
+sanders: 0.000000
+victims: 0.000000
+show: 0.000000
+poll: 0.000000
+supporters: 0.000000
+video: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+johnson: 0.000000
+visit: 0.000000
+sanders: 0.000000
+victims: 0.000000
+show: 0.000000
+poll: 0.000000
+supporters: 0.000000
+video: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+johnson: 0.000000
+visit: 0.000000
+sanders: 0.000000
+victims: 0.000000
+show: 0.000000
+poll: 0.000000
+supporters: 0.000000
+video: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+johnson: 0.000000
+visit: 0.000000
+sanders: 0.000000
+victims: 0.000000
+show: 0.000000
+poll: 0.000000
+supporters: 0.000000
+video: 0.000000
+* : 1.000000
+
+
+Perplexity = 3.521760
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09375    -0.05004883  0.17480469 ...,  0.00836182  0.06396484
+  -0.02636719]
+ [-0.00497437  0.04638672  0.00221252 ..., -0.26367188 -0.06201172
+  -0.11816406]
+ ..., 
+ [-0.01177979 -0.04736328  0.04467773 ...,  0.07128906 -0.03491211
+   0.02416992]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.02844238  0.01068115  0.10058594 ..., -0.01049805  0.33984375
+  -0.05834961]]
+encode_h1:
+[[[ -9.09494221e-01   1.47857749e+00   4.33004999e+00 ...,  -2.71165848e-01
+    -7.86204517e-01  -1.43007302e+00]
+  [ -1.01037455e+00   8.67515683e-01   3.64662719e+00 ...,  -3.47614288e-01
+    -9.27644312e-01  -1.34529877e+00]
+  [ -9.93785620e-01   5.39635360e-01   3.29082060e+00 ...,  -2.88661659e-01
+    -1.03547645e+00  -1.16529155e+00]
+  ..., 
+  [  2.54066914e-01  -1.05648138e-01  -2.91156229e-02 ...,  -1.07432485e-01
+    -4.61828768e-01  -1.83403566e-01]
+  [  2.94853032e-01  -2.38827467e-01  -1.21938884e-01 ...,  -9.20225531e-02
+    -4.16983455e-01  -1.35337293e-01]
+  [  2.91664124e-01  -2.87699372e-01  -1.59792528e-01 ...,  -5.08970208e-02
+    -3.19880664e-01  -8.76943469e-02]]
+
+ [[ -9.15037990e-01   1.47295332e+00   4.31442308e+00 ...,  -2.71536052e-01
+    -7.72017002e-01  -1.41096807e+00]
+  [ -1.00733995e+00   9.04319823e-01   3.61198425e+00 ...,  -3.36909354e-01
+    -9.41244543e-01  -1.32301962e+00]
+  [ -1.05249143e+00   6.20769560e-01   3.37001681e+00 ...,  -3.57951283e-01
+    -1.05926597e+00  -1.27632403e+00]
+  ..., 
+  [ -2.78149754e-01   1.40137315e-01   7.83659697e-01 ...,  -4.66990359e-02
+    -4.29880172e-01  -5.08803844e-01]
+  [  1.28404163e-02   2.20836878e-01   5.46235025e-01 ...,  -6.17799796e-02
+    -3.77714217e-01  -4.00544077e-01]
+  [  1.83264479e-01   3.15451920e-01   5.40689826e-01 ...,  -1.05292663e-01
+    -5.85574031e-01  -4.31667238e-01]]
+
+ [[ -9.17756617e-01   1.44344962e+00   4.31308889e+00 ...,  -2.81469852e-01
+    -7.73512363e-01  -1.40923011e+00]
+  [ -9.38387752e-01   9.49057937e-01   3.69497752e+00 ...,  -3.61267149e-01
+    -9.30773377e-01  -1.30800521e+00]
+  [ -9.76226211e-01   5.98460913e-01   3.28948569e+00 ...,  -2.66067773e-01
+    -1.11122727e+00  -1.30994856e+00]
+  ..., 
+  [ -2.33665854e-03   1.81508306e-02   2.46781539e-02 ...,  -1.88212190e-02
+    -7.21929222e-02  -5.24841845e-02]
+  [  2.08161324e-02   1.74493506e-03   4.39407676e-03 ...,  -2.12265998e-02
+    -7.99679831e-02  -4.81486171e-02]
+  [  3.60489264e-02  -1.29392939e-02  -1.19871497e-02 ...,  -1.90330390e-02
+    -7.87390023e-02  -4.15007249e-02]]
+
+ ..., 
+ [[ -9.14268851e-01   1.44028044e+00   4.32057524e+00 ...,  -2.75229454e-01
+    -7.79526830e-01  -1.40997171e+00]
+  [ -9.81535435e-01   9.23448682e-01   3.66665673e+00 ...,  -3.22240263e-01
+    -9.94446397e-01  -1.34281397e+00]
+  [ -9.18939948e-01   5.66820562e-01   3.38554072e+00 ...,  -3.73924762e-01
+    -1.08980155e+00  -1.27310634e+00]
+  ..., 
+  [  2.30852365e-02  -1.55779244e-02   6.73139561e-03 ...,  -4.22826409e-03
+    -5.91520965e-02  -4.74153087e-02]
+  [  2.38279589e-02  -1.32685481e-02  -7.06096645e-03 ...,  -2.65303720e-03
+    -5.20053804e-02  -4.06387597e-02]
+  [  2.25746222e-02  -1.16459392e-02  -1.65877938e-02 ...,  -9.63874161e-04
+    -4.50715795e-02  -3.36833782e-02]]
+
+ [[ -9.08542097e-01   1.44496894e+00   4.33088875e+00 ...,  -2.89361805e-01
+    -7.74316251e-01  -1.40760088e+00]
+  [ -9.63673234e-01   8.88427019e-01   3.64519858e+00 ...,  -4.02230233e-01
+    -9.16772604e-01  -1.29138637e+00]
+  [ -9.45680976e-01   5.39864361e-01   3.35212302e+00 ...,  -3.48984748e-01
+    -1.06808531e+00  -1.28636050e+00]
+  ..., 
+  [ -3.13537717e-02   3.02073136e-02   2.33313162e-02 ...,   3.69507819e-04
+    -3.30550000e-02  -4.31087650e-02]
+  [ -1.16989883e-02   2.29732636e-02   9.04869847e-03 ...,  -8.61100294e-03
+    -4.86409366e-02  -4.14991453e-02]
+  [  6.63150568e-03   1.08354092e-02  -4.08632122e-03 ...,  -1.32934228e-02
+    -5.87541014e-02  -3.79629359e-02]]
+
+ [[ -9.04591441e-01   1.48679185e+00   4.32477570e+00 ...,  -2.67391413e-01
+    -7.70448387e-01  -1.40875828e+00]
+  [ -9.58706439e-01   9.57306206e-01   3.66805458e+00 ...,  -3.36465478e-01
+    -9.51219857e-01  -1.35319388e+00]
+  [ -8.95448208e-01   5.79011858e-01   3.35631251e+00 ...,  -3.34815949e-01
+    -1.06465912e+00  -1.30261683e+00]
+  ..., 
+  [ -6.09241948e-02   3.24557126e-02   3.09912026e-01 ...,   4.94626500e-02
+    -3.87818724e-01  -3.85997117e-01]
+  [ -7.64598791e-03  -1.59532130e-02   8.78949165e-02 ...,  -1.74315181e-02
+    -3.76187354e-01  -2.68642575e-01]
+  [  3.25371176e-02   7.13209510e-02   4.78381887e-02 ...,  -7.08686411e-02
+    -3.54448646e-01  -1.08429417e-01]]]
+encode_h2:
+[[-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]
+ ..., 
+ [-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]
+ [-1.  1.  0. ..., -1.  0. -1.]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.24023438  0.10986328 -0.03613281 ..., -0.17285156 -0.08056641
+   0.08056641]
+ [ 0.0267334   0.19433594 -0.04785156 ...,  0.16015625  0.14355469
+   0.15039062]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.99560636  0.70216739 -0.47294748 ..., -0.59472281  0.42934787
+  -0.19951132]
+ [-0.9612906   0.45314503  0.85486639 ..., -0.74193871  0.42934787
+  -0.19951132]
+ [-0.49907121  0.85929441  0.76656801 ...,  0.7666074  -0.40287259
+  -0.97448915]
+ ..., 
+ [-0.31716895 -0.61058795  0.90049744 ...,  0.05763295  0.99808091
+   0.74819148]
+ [-0.31716895 -0.61058795  0.90049744 ...,  0.05763295  0.99808091
+   0.74819148]
+ [-0.31716895 -0.61058795  0.90049744 ...,  0.05763295  0.99808091
+   0.74819148]]
+output_dstrb:
+[[  5.31659872e-08   4.94219021e-09   3.72608255e-08 ...,   5.25383426e-09
+    5.22929113e-05   4.93928720e-09]
+ [  9.77252554e-08   2.57984212e-09   6.31763353e-09 ...,   3.28999028e-09
+    1.12178132e-04   2.58645438e-09]
+ [  5.06048120e-11   2.20367746e-09   2.35694309e-09 ...,   2.32843544e-09
+    1.93999858e-05   2.19594898e-09]
+ ..., 
+ [  1.00000000e+00   8.29422789e-20   4.78506769e-19 ...,   6.65372711e-20
+    2.69164810e-16   8.29859579e-20]
+ [  1.00000000e+00   8.29422789e-20   4.78506769e-19 ...,   6.65372711e-20
+    2.69164810e-16   8.29859579e-20]
+ [  1.00000000e+00   8.29422789e-20   4.78506769e-19 ...,   6.65372711e-20
+    2.69164810e-16   8.29859579e-20]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.207000
+No. 2
+BG trump             
+-3.207366
+No. 3
+BG how             
+-3.421859
+No. 4
+BG donald             
+-3.566214
+No. 5
+BG why             
+-3.696181
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG donald trump            
+-3.799366
+No. 2
+BG the edge            
+-4.820170
+No. 3
+BG the atlantic            
+-4.923310
+No. 4
+BG trump campaign            
+-5.735382
+No. 5
+BG how the            
+-5.786324
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the atlantic daily           
+-4.961854
+No. 2
+BG donald trump is           
+-6.245462
+No. 3
+BG the edge the           
+-6.906347
+No. 4
+BG donald trump the           
+-7.419324
+No. 5
+BG donald trump just           
+-7.491572
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the atlantic daily the          
+-7.247148
+No. 2
+BG the atlantic daily day          
+-8.933117
+No. 3
+BG the atlantic daily new          
+-9.010984
+No. 4
+BG donald trump is the          
+-9.066644
+No. 5
+BG the atlantic daily refugee          
+-9.195040
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the atlantic daily refugee crisis         
+-11.233935
+No. 2
+BG the atlantic daily the house         
+-11.294031
+No. 3
+BG the atlantic daily the orlando         
+-11.372831
+No. 4
+BG the atlantic daily the new         
+-11.459870
+No. 5
+BG the atlantic daily the the         
+-11.485130
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the atlantic daily the orlando gunman        
+-13.443513
+No. 2
+BG the atlantic daily refugee crisis is        
+-13.891414
+No. 3
+BG the atlantic daily refugee crisis in        
+-13.913374
+No. 4
+BG the atlantic daily the house in        
+-13.941726
+No. 5
+BG the atlantic daily the orlando shooter        
+-14.421721
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the atlantic daily the orlando gunman in       
+-15.999307
+No. 2
+BG the atlantic daily the house in the       
+-16.287144
+No. 3
+BG the atlantic daily the orlando gunman was       
+-16.403476
+No. 4
+BG the atlantic daily the orlando gunman had       
+-16.476570
+No. 5
+BG the atlantic daily refugee crisis in syria       
+-16.843754
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the atlantic daily the orlando gunman in the      
+-19.091908
+No. 2
+BG the atlantic daily the orlando gunman in orlando      
+-19.281967
+No. 3
+BG the atlantic daily the house in the us      
+-19.589372
+No. 4
+BG the atlantic daily the orlando gunman in michigan      
+-19.591506
+No. 5
+BG the atlantic daily the orlando gunman was killed      
+-19.730492
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by     
+-20.828433
+No. 2
+BG the atlantic daily the orlando gunman was killed in     
+-21.210648
+No. 3
+BG the atlantic daily the orlando gunman in orlando shooting     
+-21.362811
+No. 4
+BG the atlantic daily the orlando gunman in orlando police     
+-21.510322
+No. 5
+BG the atlantic daily the orlando gunman in the us     
+-21.797903
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police    
+-22.974753
+No. 2
+BG the atlantic daily the orlando gunman in orlando police shooting    
+-23.294707
+No. 3
+BG the atlantic daily the orlando gunman was killed by the    
+-23.901395
+No. 4
+BG the atlantic daily the orlando gunman was killed in the    
+-24.287668
+No. 5
+BG the atlantic daily the orlando gunman in orlando shooting police    
+-24.366884
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police say   
+-24.888280
+No. 2
+BG the atlantic daily the orlando gunman in orlando shooting police say   
+-25.759120
+No. 3
+BG the atlantic daily the orlando gunman was killed by the police   
+-25.991623
+No. 4
+BG the atlantic daily the orlando gunman was killed by police officers   
+-26.046280
+No. 5
+BG the atlantic daily the orlando gunman was killed by police in   
+-26.172646
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police officers in  
+-28.467521
+No. 2
+BG the atlantic daily the orlando gunman was killed by the police say  
+-28.942181
+No. 3
+BG the atlantic daily the orlando gunman was killed by police officers say  
+-29.031433
+No. 4
+BG the atlantic daily the orlando gunman was killed by police in shooting  
+-29.469122
+No. 5
+BG the atlantic daily the orlando gunman was killed by the police officers  
+-29.565617
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the atlantic daily the orlando gunman was killed by police officers in shooting 
+-31.705531
+No. 2
+BG the atlantic daily the orlando gunman was killed by police officers in NUM 
+-31.749970
+No. 3
+BG the atlantic daily the orlando gunman was killed by police officers in the 
+-32.569894
+No. 4
+BG the atlantic daily the orlando gunman was killed by police officers in custody 
+-32.611066
+No. 5
+BG the atlantic daily the orlando gunman was killed by the police officers in 
+-32.805375
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG donald trump ED           
+-1.827601
+No. 2
+BG the edge ED           
+-1.854313
+No. 3
+BG the atlantic daily refugee crisis ED        
+-1.869413
+No. 4
+BG the atlantic daily the orlando gunman was killed by police say ED  
+-1.917156
+No. 5
+BG the atlantic daily the orlando gunman in orlando police shooting ED   
+-1.958945
+Content:
+BG after winning his first oscar at the academy awards in los angeles on sunday actor leonardo immediately launched into politically charged speech about climate change ED   
+
+BG the revenant was about relationship the natural world world that we collectively felt in NUM as the hottest year in recorded the frequent environmental activist told the audience ED
+
+BG production needed move the southern tip this planet just be able find snow ED               
+
+BG change is real ED                         
+
+BG it is happening right said ED                       
+
+BG is the most urgent threat facing our entire species we need work collectively together stop ED             
+
+BG he added we need support leaders around the world who do not speak for the big or the big corporations but who speak for all humanity for the indigenous
