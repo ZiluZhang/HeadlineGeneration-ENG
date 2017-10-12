@@ -1,0 +1,611 @@
+Title:
+BG can you really rebuild out whole ED        
+Teacher Forced Generated Title:
+the be be ED ED ED ED        
+Distribution for each word in title:
+1:
+the: 0.094764
+review: 0.028555
+is: 0.020856
+in: 0.015321
+how: 0.010222
+rio: 0.008231
+la: 0.006954
+why: 0.006696
+on: 0.006589
+NUM: 0.005654
+* can: 0.002410
+
+2:
+be: 0.034474
+the: 0.027037
+get: 0.009043
+not: 0.008385
+help: 0.007063
+have: 0.006282
+make: 0.005912
+win: 0.005607
+you: 0.005429
+an: 0.005310
+* you: 0.005429
+
+3:
+be: 0.025727
+get: 0.022498
+have: 0.022163
+know: 0.016644
+need: 0.014466
+ED: 0.008992
+see: 0.008772
+make: 0.007644
+go: 0.007066
+love: 0.007010
+* really: 0.001840
+
+4:
+ED: 0.034574
+know: 0.020564
+like: 0.019662
+be: 0.012856
+about: 0.009919
+the: 0.008613
+get: 0.007134
+watch: 0.006083
+good: 0.006064
+we: 0.005622
+* rebuild: 0.000018
+
+5:
+ED: 0.078220
+the: 0.068287
+from: 0.027470
+their: 0.019123
+in: 0.016050
+with: 0.012921
+up: 0.011295
+for: 0.008650
+an: 0.008092
+at: 0.006909
+* out: 0.002256
+
+6:
+ED: 0.167651
+the: 0.072491
+with: 0.019741
+from: 0.016889
+in: 0.015033
+their: 0.012306
+at: 0.010873
+this: 0.008153
+his: 0.005748
+as: 0.005347
+* whole: 0.000122
+
+7:
+ED: 0.199950
+world: 0.004103
+like: 0.003672
+the: 0.003568
+in: 0.003513
+but: 0.003483
+happened: 0.003038
+year: 0.002976
+man: 0.002868
+at: 0.002514
+* ED: 0.199950
+
+8:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+9:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+10:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+11:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+12:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+13:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+14:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+15:
+: 0.999999
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+cruz: 0.000000
+happened: 0.000000
+ali: 0.000000
+like: 0.000000
+longer: 0.000000
+* : 0.999999
+
+
+Perplexity = 3.010746
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.24511719  0.05664062 -0.01916504 ..., -0.22460938 -0.11181641
+   0.20214844]
+ [-0.06884766  0.38476562 -0.11230469 ..., -0.00964355  0.11328125  0.375     ]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ 0.18195327  0.14259282  0.15386416 ..., -0.53786576  0.0689951
+   -0.18231641]
+  [ 0.19429232  0.036087    0.13204679 ..., -0.44340485  0.16802201
+   -0.25010368]
+  [ 0.04893683  0.11779992  0.13428923 ..., -0.57719755  0.06303804
+   -0.34400266]
+  ..., 
+  [ 0.24495456  0.16094661  0.07441057 ..., -0.4455784   0.24170496
+   -0.34752452]
+  [ 0.35723421  0.12350913 -0.09883341 ..., -0.33820808  0.15354775
+   -0.33089557]
+  [ 0.23555541  0.20519085 -0.23672183 ..., -0.28952649  0.14050619
+   -0.19578773]]
+
+ [[-0.08155225  0.14200771  0.19835031 ..., -0.28787592 -0.12512085
+   -0.151006  ]
+  [ 0.04705884  0.03284574  0.05570348 ..., -0.27495468 -0.18447496
+   -0.17134045]
+  [ 0.20576017  0.1371531   0.05554695 ..., -0.2505435  -0.14600752
+   -0.27754465]
+  ..., 
+  [ 0.15564129 -0.18479937 -0.08067874 ..., -0.20189713  0.01511529
+    0.0767068 ]
+  [ 0.14391805 -0.17855304 -0.07473821 ..., -0.17559679  0.0207233
+    0.07095082]
+  [ 0.1353725  -0.17068134 -0.06868054 ..., -0.15304002  0.02410652
+    0.06720477]]
+
+ [[-0.11123915 -0.16743119 -0.3488183  ...,  0.3145465  -0.05744056
+    0.08927082]
+  [-0.12214176 -0.16214453 -0.55971575 ...,  0.14083827  0.1277031
+    0.09559856]
+  [-0.0588671  -0.04997799 -0.40146798 ...,  0.08071796  0.19988103
+    0.15855393]
+  ..., 
+  [-0.0311515   0.090684   -0.34192634 ..., -0.09960487 -0.01446412
+    0.10660114]
+  [-0.027404    0.08954399 -0.34006053 ..., -0.09665123 -0.01687029
+    0.10939199]
+  [-0.02247822  0.08848614 -0.33863801 ..., -0.09472793 -0.01848573
+    0.11170264]]
+
+ ..., 
+ [[ 0.24102794 -0.29290038  0.27068955 ..., -0.41660804  0.0148338
+    0.20529236]
+  [ 0.36965457 -0.27116245  0.1735967  ..., -0.37908152  0.04219661
+    0.2314675 ]
+  [ 0.34535614 -0.34834504  0.19670178 ..., -0.21727863  0.20223056
+    0.20528571]
+  ..., 
+  [-0.02462475  0.01030806 -0.00922925 ...,  0.00554247 -0.02127174
+   -0.00210522]
+  [-0.02681312  0.00745805 -0.00714683 ...,  0.01650573 -0.02836713
+   -0.01293487]
+  [-0.02754694  0.00521647 -0.00492481 ...,  0.02667673 -0.03527749
+   -0.02332936]]
+
+ [[ 0.08701673 -0.03346349  0.13471268 ..., -0.19006495  0.04784618
+    0.18180883]
+  [ 0.16174506 -0.03216697  0.0212126  ..., -0.16518617  0.00130286
+    0.18082236]
+  [ 0.18231516  0.10583636  0.1746951  ..., -0.18804921  0.13429619
+    0.23870334]
+  ..., 
+  [-0.08012988  0.23833664 -0.00133679 ..., -0.00287387 -0.02119057
+    0.12281831]
+  [-0.08173469  0.23294427 -0.0071264  ...,  0.0048585  -0.02990801
+    0.11024868]
+  [-0.08164264  0.2278681  -0.01172701 ...,  0.01210539 -0.03793324
+    0.09786562]]
+
+ [[ 0.36308551 -0.23871367  0.12259655 ..., -0.22090037  0.04863134
+    0.49569532]
+  [ 0.42046285 -0.36501563  0.12621441 ..., -0.04082315  0.21069835
+    0.43948039]
+  [ 0.4920826  -0.25625187 -0.07304943 ..., -0.14715797  0.08074085
+    0.37153757]
+  ..., 
+  [-0.00630417  0.03747018 -0.12369789 ..., -0.03657743 -0.023391
+   -0.03229845]
+  [-0.01370499  0.03922605 -0.11923346 ..., -0.02312958 -0.03119181
+   -0.04032352]
+  [-0.01891347  0.04116341 -0.11415955 ..., -0.01061972 -0.03860418
+   -0.04832708]]]
+encode_h2:
+[[-4.49802971 -1.36667955  0.46589032 ...,  1.1153543  -0.50627923
+   2.74602628]
+ [-4.47490454 -0.95908725  0.74730873 ...,  1.68024647  0.70471859
+   1.66046298]
+ [-4.68166256 -2.19701672  1.64609599 ...,  1.30386698  0.35141021
+   1.32803464]
+ ..., 
+ [-4.47837305 -1.97611511  4.09060192 ..., -0.09059192  0.66303933
+  -2.24356341]
+ [-4.33922243 -2.7811408   3.80179191 ..., -0.52384305  0.69240105
+  -1.4844023 ]
+ [-3.14991522 -2.43111205  4.18878317 ..., -1.04724002  0.63139391
+  -1.66556764]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09765625 -0.03564453  0.09179688 ..., -0.19335938 -0.11767578
+   0.05078125]
+ [ 0.20410156  0.01318359  0.07568359 ..., -0.21191406 -0.1328125
+   0.10839844]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 1.24513423  0.87767202 -0.44831353 ..., -0.99906546 -0.86850125
+   1.41732669]
+ [ 0.78188211 -0.81176978 -0.74711549 ..., -0.60330141 -0.6084342
+  -0.86316919]
+ [ 0.37546259 -0.87896729 -0.7596845  ..., -0.68248075 -0.59171796
+  -0.9976036 ]
+ ..., 
+ [-0.24877785  0.76761585 -0.69218111 ...,  0.22264053 -0.23700166
+  -0.8507787 ]
+ [-0.24877785  0.76761585 -0.69218111 ...,  0.22264053 -0.23700166
+  -0.8507787 ]
+ [-0.24877785  0.76761585 -0.69218111 ...,  0.22264053 -0.23700166
+  -0.8507787 ]]
+output_dstrb:
+[[  1.56501265e-08   6.44745484e-08   7.60215428e-08 ...,   8.20356902e-08
+    9.30830356e-05   5.47040173e-08]
+ [  1.27591011e-06   4.84722136e-07   1.88103087e-07 ...,   2.95464105e-07
+    1.08100867e-04   3.92148223e-07]
+ [  6.06103924e-07   9.95692972e-07   3.82414441e-07 ...,   4.35287291e-07
+    9.12525429e-05   8.34398918e-07]
+ ..., 
+ [  9.99999046e-01   8.99181164e-12   8.87749943e-12 ...,   5.20240448e-12
+    5.47186983e-11   8.49423483e-12]
+ [  9.99999046e-01   8.99181164e-12   8.87749943e-12 ...,   5.20240448e-12
+    5.47186983e-11   8.49423483e-12]
+ [  9.99999046e-01   8.99181164e-12   8.87749943e-12 ...,   5.20240448e-12
+    5.47186983e-11   8.49423483e-12]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.356371
+No. 2
+BG review             
+-3.555911
+No. 3
+BG is             
+-3.870094
+No. 4
+BG in             
+-4.178568
+No. 5
+BG how             
+-4.583192
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG in the            
+-6.106503
+No. 2
+BG is the            
+-6.302840
+No. 3
+BG the the            
+-6.890966
+No. 4
+BG the review            
+-7.030521
+No. 5
+BG the best            
+-7.281850
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG is the best           
+-10.140097
+No. 2
+BG is the most           
+-10.745634
+No. 3
+BG is the the           
+-10.880733
+No. 4
+BG in the world           
+-11.070210
+No. 5
+BG the review the           
+-11.311180
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG in the world the          
+-14.687081
+No. 2
+BG is the the best          
+-14.842837
+No. 3
+BG is the the most          
+-15.181596
+No. 4
+BG is the best the          
+-15.269544
+No. 5
+BG is the most the          
+-15.294563
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG is the most the most         
+-19.500822
+No. 2
+BG is the most the best         
+-19.592142
+No. 3
+BG is the the most the         
+-19.699320
+No. 4
+BG in the world the best         
+-19.708991
+No. 5
+BG in the world the most         
+-19.833968
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG is the the most the most        
+-23.808903
+No. 2
+BG is the most the most ever        
+-23.878944
+No. 3
+BG is the most the most than        
+-23.894556
+No. 4
+BG is the the most the best        
+-24.028014
+No. 5
+BG is the most the most the        
+-24.164889
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG is the most the most ever ever       
+-26.901968
+No. 2
+BG is the most the most than ever       
+-26.920651
+No. 3
+BG is the most the most than than       
+-27.115458
+No. 4
+BG is the most the most than NUM       
+-27.553561
+No. 5
+BG is the most the most than the       
+-27.792379
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG is the most the most than than than      
+-29.189884
+No. 2
+BG is the most the most than NUM years      
+-29.582274
+No. 3
+BG is the most the most than than NUM      
+-30.047739
+No. 4
+BG is the most the most than than ever      
+-30.092755
+No. 5
+BG is the most the most than ever ever      
+-30.203158
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG is the most the most than than than than     
+-30.901936
+No. 2
+BG is the most the most than than than NUM     
+-31.889738
+No. 3
+BG is the most the most than than NUM years     
+-31.971877
+No. 4
+BG is the most the most than than than ever     
+-32.330238
+No. 5
+BG is the most the most than NUM years ago     
+-32.457179
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG is the most the most than than than than than    
+-32.531302
+No. 2
+BG is the most the most than than than than NUM    
+-33.382190
+No. 3
+BG is the most the most than than than NUM years    
+-33.771494
+No. 4
+BG is the most the most than than than than ever    
+-34.196232
+No. 5
+BG is the most the most than than NUM years ago    
+-34.990667
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG is the most the most than than than than than than   
+-34.172245
+No. 2
+BG is the most the most than than than than than NUM   
+-34.837437
+No. 3
+BG is the most the most than than than than NUM years   
+-35.260859
+No. 4
+BG is the most the most than than than than than ever   
+-35.976307
+No. 5
+BG is the most the most than than than NUM years ago   
+-36.977709
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG is the most the most than than than than than than than  
+-35.859839
+No. 2
+BG is the most the most than than than than than than NUM  
+-36.357562
+No. 3
+BG is the most the most than than than than than NUM years  
+-36.740542
+No. 4
+BG is the most the most than than than than than than ever  
+-37.761046
+No. 5
+BG is the most the most than than than than NUM years ago  
+-38.659147
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG is the most the most than than than than than than than than 
+-37.603198
+No. 2
+BG is the most the most than than than than than than than NUM 
+-37.970635
+No. 3
+BG is the most the most than than than than than than NUM years 
+-38.301680
+No. 4
+BG is the most the most than than than than than than than ever 
+-39.577570
+No. 5
+BG is the most the most than than than than than NUM years in 
+-40.288221
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG is the ED           
+-2.503677
+No. 2
+BG is the most the most than than than than than than NUM years ED
+-2.571770
+No. 3
+BG is the most the most than than than than than than than NUM ED
+-2.575080
+No. 4
+BG is the most the most than than than than than than than than ED
+-2.576933
+No. 5
+BG is the most the most than than than than than than than ED 
+-2.643642
+Content:
+BG edgar rice published the first his stories in NUM just four years after as the opening title cards the the legend inform us king ii was forced cede control
+
+BG spent the prior couple decades millions residents the congo using their forced labor extract the rubber diamonds other resources for his personal enrichment ED     
+
+BG film versions the story have numbered in the hundreds the earliest ones arriving almost decade before the movies got recorded sound ED       
+
+BG clearly you drop new gloss this archaic material without some by which i mean existential rethink ED            
+
+BG so craig brewer adam have the story as indictment colonialism made jane so often hostage marion type ED           
+
+BG still hostage though the filmmakers even attempt dodge the white savior problem by casting samuel l ED            
+
+BG jackson as journalist historian george washington williams who began reporting on the atrocities committed by in NUM ED           

@@ -1,0 +1,612 @@
+Title:
+BG imam associate fatally shot after leaving nyc mosque ED      
+Teacher Forced Generated Title:
+gunman gunman in shot at NUM ED ED ED      
+Distribution for each word in title:
+1:
+gunman: 0.105503
+dallas: 0.059867
+police: 0.024995
+san: 0.022118
+orlando: 0.015371
+man: 0.010681
+texas: 0.010019
+suspect: 0.008465
+london: 0.008043
+chicago: 0.008000
+* imam: 0.001094
+
+2:
+gunman: 0.054729
+shot: 0.050875
+in: 0.024487
+arrested: 0.019111
+killed: 0.018841
+shooting: 0.016715
+dallas: 0.015654
+orlando: 0.014481
+who: 0.013596
+suspect: 0.012409
+* associate: 0.000015
+
+3:
+in: 0.124943
+killed: 0.037631
+shot: 0.030036
+gunman: 0.028867
+after: 0.023759
+dead: 0.017546
+says: 0.016111
+with: 0.014033
+who: 0.013900
+as: 0.013342
+* fatally: 0.006482
+
+4:
+shot: 0.270299
+in: 0.039999
+killed: 0.025386
+dead: 0.016049
+NUM: 0.015546
+at: 0.015442
+shooting: 0.014003
+shoots: 0.009405
+after: 0.009068
+as: 0.008391
+* shot: 0.270299
+
+5:
+at: 0.130414
+in: 0.114621
+by: 0.088487
+dead: 0.055449
+as: 0.025399
+during: 0.018299
+for: 0.016703
+on: 0.015792
+ED: 0.015783
+after: 0.015565
+* after: 0.015565
+
+6:
+NUM: 0.020802
+orlando: 0.017406
+shooting: 0.016622
+dallas: 0.014419
+police: 0.013091
+ED: 0.011536
+paris: 0.010287
+attack: 0.008351
+shot: 0.007986
+gunman: 0.007148
+* leaving: 0.000416
+
+7:
+ED: 0.026519
+NUM: 0.017223
+home: 0.015307
+paris: 0.011418
+shooting: 0.011184
+the: 0.009488
+police: 0.008933
+dallas: 0.008472
+orlando: 0.008272
+us: 0.007239
+* nyc: 0.000470
+
+8:
+ED: 0.340543
+shooting: 0.023663
+police: 0.021342
+after: 0.016983
+in: 0.013190
+attack: 0.012640
+gunman: 0.008466
+city: 0.007285
+airport: 0.005955
+home: 0.005762
+* mosque: 0.004793
+
+9:
+ED: 0.478105
+in: 0.051600
+attack: 0.026337
+shooting: 0.019860
+at: 0.010944
+after: 0.010903
+says: 0.006851
+police: 0.006247
+as: 0.005805
+kills: 0.005339
+* ED: 0.478105
+
+10:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+shooting: 0.000000
+sanders: 0.000000
+say: 0.000000
+bomber: 0.000000
+gunman: 0.000000
+police: 0.000000
+bombing: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+shooting: 0.000000
+sanders: 0.000000
+say: 0.000000
+bomber: 0.000000
+gunman: 0.000000
+police: 0.000000
+bombing: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+shooting: 0.000000
+sanders: 0.000000
+say: 0.000000
+bomber: 0.000000
+gunman: 0.000000
+police: 0.000000
+bombing: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+shooting: 0.000000
+sanders: 0.000000
+say: 0.000000
+bomber: 0.000000
+gunman: 0.000000
+police: 0.000000
+bombing: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+shooting: 0.000000
+sanders: 0.000000
+say: 0.000000
+bomber: 0.000000
+gunman: 0.000000
+police: 0.000000
+bombing: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+shooting: 0.000000
+sanders: 0.000000
+say: 0.000000
+bomber: 0.000000
+gunman: 0.000000
+police: 0.000000
+bombing: 0.000000
+* : 1.000000
+
+
+Perplexity = 3.331080
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0112915   0.02893066  0.08349609 ...,  0.08154297 -0.04589844
+  -0.04638672]
+ [-0.5625      0.10107422 -0.02648926 ...,  0.03393555 -0.31445312
+  -0.09277344]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  1.05027109e-01   1.72483027e-01  -3.45698357e-01 ...,   3.50816429e-01
+    -6.06531017e-02   4.64717776e-01]
+  [  2.13648513e-01   1.47493094e-01  -4.21835780e-01 ...,   3.47609073e-01
+    -7.56483898e-03   6.26177967e-01]
+  [  3.88874173e-01   1.00228705e-01  -5.32684445e-01 ...,   2.76448816e-01
+     2.37508073e-01   5.71485400e-01]
+  ..., 
+  [ -1.75778732e-01   5.68901420e-01   5.70129752e-01 ...,   5.08008599e-02
+    -5.80024570e-02   9.75064784e-02]
+  [ -1.72200099e-01   5.87091446e-01   5.80851316e-01 ...,   5.18963188e-02
+    -6.41455650e-02   1.07619673e-01]
+  [ -1.69794545e-01   6.02735937e-01   5.87910235e-01 ...,   5.42909727e-02
+    -7.10342079e-02   1.13687545e-01]]
+
+ [[ -1.96298391e-01  -1.30609676e-01  -2.32186392e-01 ...,   6.66149184e-02
+    -1.11896694e-01   4.00435954e-01]
+  [ -1.07311919e-01  -2.37122193e-01  -1.72615573e-01 ...,  -2.33715534e-01
+    -3.24791111e-02   4.11065012e-01]
+  [ -6.16744794e-02  -1.50612369e-01  -3.26677524e-02 ...,  -2.42422774e-01
+    -1.68048128e-01   3.83363903e-01]
+  ..., 
+  [ -5.06561100e-01   3.59172761e-01   6.34126008e-01 ...,   5.46469688e-02
+    -1.48656711e-01   6.36548579e-01]
+  [ -4.91669387e-01   4.57414746e-01   5.49437702e-01 ...,  -4.83818427e-02
+    -1.65033609e-01   4.45822567e-01]
+  [ -1.06115803e-01   4.84726071e-01   5.39670646e-01 ...,  -1.24593683e-01
+     8.90663564e-02   2.95667052e-01]]
+
+ [[ -4.25696433e-01   1.02982603e-01   1.02939360e-01 ...,   6.34851530e-02
+    -2.54646271e-01   3.53369750e-02]
+  [ -4.24134731e-01   5.09117432e-02   1.86372831e-01 ...,   1.24845780e-01
+    -1.16466731e-01   8.01002011e-02]
+  [ -5.48216939e-01   1.02936424e-01   1.84693351e-01 ...,   1.92278415e-01
+    -1.43898576e-01   1.88848615e-01]
+  ..., 
+  [ -1.20716080e-01   1.40019665e-02   1.17734838e-02 ...,   1.29966095e-01
+    -8.58923718e-02  -1.61604837e-01]
+  [ -1.18755862e-01   8.33936408e-03   9.87556670e-03 ...,   1.31501406e-01
+    -8.78688991e-02  -1.72269404e-01]
+  [ -1.15043759e-01   3.78450751e-03   8.59590434e-03 ...,   1.32920146e-01
+    -9.01829302e-02  -1.81674615e-01]]
+
+ ..., 
+ [[ -2.34554321e-01   2.26800330e-04  -1.12063542e-01 ...,  -7.65006915e-02
+    -7.52786174e-04   5.72601616e-01]
+  [ -1.18774846e-01  -6.81167543e-02  -4.39233705e-02 ...,  -3.79340976e-01
+     1.04470149e-01   6.23710871e-01]
+  [ -7.31194615e-02   8.62720236e-02   1.81974381e-01 ...,  -4.07301962e-01
+    -3.14160250e-02   5.05296767e-01]
+  ..., 
+  [ -2.36210629e-01   7.41445780e-01   7.45129049e-01 ...,   2.73434781e-02
+    -3.23170982e-02   3.91697079e-01]
+  [ -2.28848219e-01   7.56308138e-01   7.59765208e-01 ...,   2.82407794e-02
+    -3.28145474e-02   3.96047860e-01]
+  [ -2.21143290e-01   7.69147396e-01   7.71534443e-01 ...,   3.04637309e-02
+    -3.56487595e-02   3.98169249e-01]]
+
+ [[ -8.95007700e-02   3.17210674e-01  -1.92683227e-02 ...,  -9.81527120e-02
+    -1.65470332e-01   3.07338983e-01]
+  [ -3.01499981e-02   2.78500497e-01  -5.89331985e-02 ...,   3.96562554e-03
+    -2.13654667e-01   3.69971544e-01]
+  [ -1.99780121e-01   2.31855229e-01  -3.05911563e-02 ...,  -5.41476011e-02
+    -2.01932251e-01   2.99994737e-01]
+  ..., 
+  [ -1.39685720e-01   1.46046802e-01   3.68038774e-01 ...,   1.10867426e-01
+    -1.50741497e-02   9.28511377e-03]
+  [ -1.35741264e-01   1.39061928e-01   3.60018432e-01 ...,   1.12556092e-01
+    -1.93457492e-02   4.38043103e-03]
+  [ -1.29992694e-01   1.32865518e-01   3.52172375e-01 ...,   1.14078172e-01
+    -2.40397640e-02   2.55002640e-04]]
+
+ [[  6.89820945e-02   4.23481584e-01  -1.05952874e-01 ...,  -2.68770438e-02
+    -2.30341613e-01   2.49036960e-02]
+  [  1.82678312e-01   4.65803921e-01  -1.93009153e-01 ...,   3.09170373e-02
+    -2.70163953e-01   9.05533955e-02]
+  [  1.42455637e-01   3.47946167e-01  -2.56360114e-01 ...,   5.39773554e-02
+    -1.86140850e-01   8.52618273e-03]
+  ..., 
+  [  1.16699804e-02  -8.96959305e-02   2.76848137e-01 ...,  -6.20682910e-02
+     7.46662319e-02  -6.11723168e-03]
+  [  1.39723737e-02  -9.01657790e-02   2.75965333e-01 ...,  -5.24037927e-02
+     6.94401562e-02  -8.26123543e-03]
+  [  1.75925400e-02  -9.04837698e-02   2.74116874e-01 ...,  -4.42442670e-02
+     6.30838722e-02  -1.01088332e-02]]]
+encode_h2:
+[[-1.75699663 -0.79123664  2.94011617 ..., -2.9571712   0.20767318
+  -3.78689671]
+ [-2.50668168  0.03854633  2.646173   ..., -1.86955714  2.15255904
+  -2.05663395]
+ [-2.33412886  0.66752845  3.20982289 ..., -2.22326159  2.5803709
+  -2.08638382]
+ ..., 
+ [-2.71351886  0.9559868   3.73124027 ..., -2.12269139  4.53763485
+  -2.30150199]
+ [-2.18761158  2.73946857  3.18620253 ..., -2.6333847   5.33263683
+  -2.03286719]
+ [-1.90394759  3.12811852  2.76639056 ..., -2.35692954  5.62304401
+  -1.7335037 ]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.14648438 -0.24902344  0.32421875 ..., -0.10595703  0.20996094
+   0.05712891]
+ [ 0.02246094 -0.2109375  -0.06396484 ..., -0.03222656  0.27148438
+   0.30273438]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 1.82910824 -1.44066119 -0.99972761 ..., -0.99966758 -0.22290206
+  -0.75850672]
+ [ 0.8162747  -0.75566804 -0.52668798 ..., -0.70773989  0.2113516
+  -0.5928961 ]
+ [ 0.0871509  -0.14430968  0.0082204  ..., -0.8124516   0.00515212
+   0.10718778]
+ ..., 
+ [-0.99316657  0.729963    0.7654134  ...,  0.32187641 -0.62713778
+  -0.13685252]
+ [-0.99316657  0.729963    0.7654134  ...,  0.32187641 -0.62713778
+  -0.13685252]
+ [-0.99316657  0.729963    0.7654134  ...,  0.32187641 -0.62713778
+  -0.13685252]]
+output_dstrb:
+[[  1.37524111e-07   9.83643247e-08   2.19622109e-07 ...,   3.18606226e-07
+    6.92670437e-06   9.39981888e-08]
+ [  9.78915438e-09   5.50955939e-08   1.68059401e-07 ...,   1.27820428e-07
+    1.12386442e-05   5.84643871e-08]
+ [  1.40000084e-05   8.25783104e-08   2.65283035e-07 ...,   1.58119164e-07
+    1.89327275e-05   7.96265951e-08]
+ ..., 
+ [  9.99999642e-01   6.06550739e-14   8.73923384e-13 ...,   1.08209198e-13
+    2.14722554e-12   5.60901355e-14]
+ [  9.99999642e-01   6.06550739e-14   8.73923384e-13 ...,   1.08209198e-13
+    2.14722554e-12   5.60901355e-14]
+ [  9.99999642e-01   6.06550739e-14   8.73923384e-13 ...,   1.08209198e-13
+    2.14722554e-12   5.60901355e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG gunman             
+-2.249018
+No. 2
+BG dallas             
+-2.815639
+No. 3
+BG police             
+-3.689080
+No. 4
+BG san             
+-3.811369
+No. 5
+BG orlando             
+-4.175289
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG dallas police            
+-3.935340
+No. 2
+BG dallas gunman            
+-4.773901
+No. 3
+BG gunman in            
+-4.860609
+No. 4
+BG gunman shot            
+-4.987503
+No. 5
+BG gunman at            
+-5.185331
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG dallas police officer           
+-6.257903
+No. 2
+BG dallas police shooting           
+-6.925157
+No. 3
+BG dallas police shot           
+-7.019333
+No. 4
+BG dallas police officers           
+-7.027696
+No. 5
+BG dallas gunman shot           
+-7.216137
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG dallas police officer killed          
+-8.343428
+No. 2
+BG dallas police officer shot          
+-8.392011
+No. 3
+BG dallas police shooting suspect          
+-9.048945
+No. 4
+BG dallas gunman shot dead          
+-9.481100
+No. 5
+BG dallas police officers say          
+-9.547001
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG dallas police officer killed in         
+-9.775948
+No. 2
+BG dallas police officer killed NUM         
+-10.257686
+No. 3
+BG dallas police officer shot dead         
+-10.546985
+No. 4
+BG dallas police officer killed by         
+-10.696660
+No. 5
+BG dallas gunman shot dead in         
+-10.987409
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG dallas police officer shot dead in        
+-11.916236
+No. 2
+BG dallas police officer shot dead at        
+-12.196540
+No. 3
+BG dallas police officer killed NUM dead        
+-12.719507
+No. 4
+BG dallas police officer shot dead after        
+-13.062447
+No. 5
+BG dallas police officer killed NUM in        
+-13.134025
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG dallas police officer killed NUM dead in       
+-13.802473
+No. 2
+BG dallas police officer shot dead at least       
+-15.026143
+No. 3
+BG dallas police officer killed NUM dead after       
+-15.159939
+No. 4
+BG dallas police officer killed NUM dead at       
+-15.419134
+No. 5
+BG dallas police officer shot dead at NUM       
+-15.575201
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG dallas police officer shot dead at least NUM      
+-16.032138
+No. 2
+BG dallas police officer killed NUM dead in NUM      
+-17.293518
+No. 3
+BG dallas police officer killed NUM dead in shooting      
+-17.391861
+No. 4
+BG dallas police officer killed NUM dead in london      
+-17.958701
+No. 5
+BG dallas police officer killed NUM dead in dallas      
+-18.005463
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG dallas police officer shot dead at least NUM dead     
+-18.810025
+No. 2
+BG dallas police officer shot dead at least NUM in     
+-19.061998
+No. 3
+BG dallas police officer shot dead at least NUM people     
+-19.384039
+No. 4
+BG dallas police officer killed NUM dead in shooting at     
+-19.460448
+No. 5
+BG dallas police officer shot dead at least NUM killed     
+-19.675485
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG dallas police officer shot dead at least NUM dead in    
+-20.271129
+No. 2
+BG dallas police officer shot dead at least NUM killed in    
+-20.732471
+No. 3
+BG dallas police officer shot dead at least NUM in NUM    
+-21.570454
+No. 4
+BG dallas police officer shot dead at least NUM people in    
+-21.580499
+No. 5
+BG dallas police officer shot dead at least NUM dead NUM    
+-21.672861
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG dallas police officer shot dead at least NUM dead in NUM   
+-22.936711
+No. 2
+BG dallas police officer shot dead at least NUM killed in NUM   
+-23.429076
+No. 3
+BG dallas police officer shot dead at least NUM dead in shooting   
+-23.757088
+No. 4
+BG dallas police officer shot dead at least NUM dead in the   
+-24.010899
+No. 5
+BG dallas police officer shot dead at least NUM killed in shooting   
+-24.139746
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG dallas police officer shot dead at least NUM dead in shooting at  
+-26.144027
+No. 2
+BG dallas police officer shot dead at least NUM killed in shooting at  
+-26.319345
+No. 3
+BG dallas police officer shot dead at least NUM dead in shooting in  
+-26.814194
+No. 4
+BG dallas police officer shot dead at least NUM dead in shooting NUM  
+-26.911670
+No. 5
+BG dallas police officer shot dead at least NUM killed in shooting in  
+-26.988749
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG dallas police officer shot dead at least NUM dead in shooting at least 
+-28.715249
+No. 2
+BG dallas police officer shot dead at least NUM dead in shooting at NUM 
+-28.769888
+No. 3
+BG dallas police officer shot dead at least NUM killed in shooting at least 
+-28.943681
+No. 4
+BG dallas police officer shot dead at least NUM killed in shooting at NUM 
+-29.034456
+No. 5
+BG dallas police officer shot dead at least NUM dead in shooting at the 
+-29.179426
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG dallas police officer shot dead at least NUM ED     
+-1.703415
+No. 2
+BG dallas police officer shot dead at least NUM dead in NUM ED  
+-1.775227
+No. 3
+BG dallas police officer shot dead at least NUM dead ED    
+-1.788918
+No. 4
+BG dallas police officer shot dead at NUM ED      
+-1.799478
+No. 5
+BG dallas police officer killed NUM dead in NUM ED     
+-1.799891
+Content:
+BG new york the leader new york city mosque an associate were fatally shot in brazen daylight attack as they left afternoon prayers saturday ED     
+
+BG police said imam his associate were shot in the back the head as they left the mosque in the ozone park section queens shortly before NUM p ED 
+
+BG m ED                           
+
+BG both men were pronounced dead later saturday an administrator at jamaica hospital said ED               
+
+BG police said no motive has been established there is no reason believe the men were shot because they were muslim ED        
+
+BG no suspects are in custody ED                       
+
+BG nothing in the preliminary investigation indicate that they were targeted because their said deputy inspector henry the new york police department ED       

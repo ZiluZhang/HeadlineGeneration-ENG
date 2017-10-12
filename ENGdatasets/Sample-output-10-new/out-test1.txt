@@ -1,0 +1,613 @@
+Title:
+BG kelly dropped as host hook gala over alex jones interview ED    
+Teacher Forced Generated Title:
+fox apologizes by fox fox for at ED ED ED ED    
+Distribution for each word in title:
+1:
+fox: 0.188187
+kelly: 0.032982
+exclusive: 0.028994
+cruz: 0.028426
+texas: 0.024457
+ted: 0.024174
+report: 0.015526
+watch: 0.015024
+news: 0.014683
+black: 0.011673
+* kelly: 0.032982
+
+2:
+apologizes: 0.038203
+fox: 0.034096
+fires: 0.017576
+news: 0.015414
+calls: 0.013931
+reporter: 0.011578
+says: 0.011367
+kelly: 0.011189
+stone: 0.010677
+slams: 0.009794
+* dropped: 0.000180
+
+3:
+by: 0.102201
+on: 0.093430
+out: 0.086807
+in: 0.073879
+from: 0.049673
+fox: 0.046471
+after: 0.039030
+off: 0.026496
+for: 0.025886
+at: 0.022658
+* as: 0.009325
+
+4:
+fox: 0.083692
+after: 0.030277
+for: 0.023848
+at: 0.015927
+as: 0.013910
+in: 0.009501
+black: 0.008479
+trump: 0.007733
+protesters: 0.007258
+over: 0.007017
+* host: 0.000775
+
+5:
+fox: 0.053006
+after: 0.030882
+at: 0.029899
+in: 0.018432
+over: 0.014583
+as: 0.012070
+for: 0.011630
+with: 0.010925
+campaign: 0.010381
+university: 0.008526
+* hook: 0.000029
+
+6:
+for: 0.105636
+with: 0.063369
+at: 0.054119
+over: 0.048392
+on: 0.040583
+in: 0.026285
+out: 0.023668
+after: 0.019301
+off: 0.018175
+against: 0.017230
+* gala: 0.000006
+
+7:
+at: 0.109646
+ED: 0.058824
+for: 0.053256
+in: 0.045092
+over: 0.044211
+after: 0.041460
+with: 0.035168
+as: 0.021361
+during: 0.015300
+event: 0.009586
+* over: 0.044211
+
+8:
+ED: 0.036663
+fox: 0.016823
+trump: 0.008586
+sexual: 0.008464
+protesters: 0.008462
+video: 0.007274
+event: 0.007070
+rally: 0.006559
+university: 0.005584
+protest: 0.005425
+* alex: 0.000160
+
+9:
+ED: 0.034590
+event: 0.019237
+after: 0.016193
+rally: 0.015984
+over: 0.015970
+university: 0.007583
+protest: 0.006296
+attack: 0.005712
+video: 0.005293
+protesters: 0.004824
+* jones: 0.002560
+
+10:
+ED: 0.399691
+over: 0.033308
+for: 0.031843
+after: 0.017675
+at: 0.015231
+on: 0.014441
+as: 0.011592
+in: 0.008828
+university: 0.008445
+event: 0.008248
+* interview: 0.001893
+
+11:
+ED: 0.858507
+with: 0.013781
+on: 0.006329
+in: 0.006089
+at: 0.006064
+after: 0.005409
+video: 0.004924
+over: 0.004431
+says: 0.003068
+for: 0.002908
+* ED: 0.858507
+
+12:
+: 1.000000
+ED: 0.000000
+assault: 0.000000
+sanders: 0.000000
+harassment: 0.000000
+cruz: 0.000000
+claims: 0.000000
+video: 0.000000
+says: 0.000000
+than: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+assault: 0.000000
+sanders: 0.000000
+harassment: 0.000000
+cruz: 0.000000
+claims: 0.000000
+video: 0.000000
+says: 0.000000
+than: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+assault: 0.000000
+sanders: 0.000000
+harassment: 0.000000
+cruz: 0.000000
+claims: 0.000000
+video: 0.000000
+says: 0.000000
+than: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+assault: 0.000000
+sanders: 0.000000
+harassment: 0.000000
+cruz: 0.000000
+claims: 0.000000
+video: 0.000000
+says: 0.000000
+than: 0.000000
+* : 1.000000
+
+
+Perplexity = 4.708839
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.20800781  0.07128906 -0.12890625 ..., -0.21289062 -0.16796875
+  -0.00714111]
+ [-0.04492188 -0.03039551  0.00234985 ...,  0.01226807 -0.08837891
+  -0.015625  ]
+ ..., 
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ 0.09813447 -0.13204868  0.16034183 ..., -0.08577646  0.21315616
+    0.36231124]
+  [ 0.26073077 -0.2118091   0.1358317  ...,  0.0637197   0.34170768
+    0.31508365]
+  [ 0.07471302 -0.08799873  0.05679223 ..., -0.0428217  -0.07328358
+    0.09574635]
+  ..., 
+  [ 0.53947377  0.02919508  0.5534206  ..., -0.56184059  0.43732148
+    0.72865796]
+  [ 0.57990187  0.05963577  0.44578767 ..., -0.6310547   0.47455063
+    0.68748236]
+  [ 0.56058437  0.29869461  0.46114486 ..., -0.52000934  0.40746719
+    0.84527922]]
+
+ [[ 0.26527813 -0.18058397  0.28426278 ..., -0.1134242   0.19681138
+    0.19188096]
+  [ 0.34074113 -0.18361157  0.29233319 ...,  0.00290541  0.37209439
+    0.19766535]
+  [ 0.29560375 -0.28791052  0.32497513 ..., -0.06025371  0.2422265
+    0.15056595]
+  ..., 
+  [ 0.47721243  0.38877767 -0.47783118 ..., -0.53372997 -0.00544022
+    0.75793135]
+  [ 0.38594237  0.2766239  -0.51066118 ..., -0.41351721  0.02785809
+    0.65308392]
+  [ 0.24415293  0.14782448 -0.62019366 ..., -0.45299047  0.08323374
+    0.59325117]]
+
+ [[-0.53003353  0.08120591  0.11116786 ...,  0.35372701 -0.30481899
+    0.25393134]
+  [-0.4400332  -0.07719003  0.0370844  ...,  0.46738687 -0.19372781
+    0.23263477]
+  [-0.45353818  0.01127961  0.04036668 ...,  0.17304489 -0.15556534
+    0.13089919]
+  ..., 
+  [-0.09103629 -0.07115959 -0.03228357 ...,  0.12032799 -0.07600257
+   -0.1875623 ]
+  [-0.08958575 -0.07409491 -0.03158435 ...,  0.12194777 -0.07804361
+   -0.19637029]
+  [-0.08637159 -0.07599467 -0.03038059 ...,  0.12344742 -0.08043616
+   -0.20396081]]
+
+ ..., 
+ [[ 0.37233883 -0.18252367  0.70922178 ..., -0.65506768  0.20081235
+   -0.3186675 ]
+  [ 0.47981143 -0.16411945  0.6528247  ..., -0.63934958  0.21025938
+   -0.24681373]
+  [ 0.49067247 -0.05241241  0.59017617 ..., -0.59399021  0.22406423
+   -0.18911873]
+  ..., 
+  [ 0.09724565 -0.41810036 -0.41979647 ...,  0.00259689  0.04395473
+    0.29159212]
+  [-0.0248141  -0.20381302 -0.26579118 ...,  0.0289885   0.15087968
+    0.21290664]
+  [ 0.16014439 -0.04761871 -0.40467811 ...,  0.02137383  0.01881446
+    0.08408131]]
+
+ [[ 0.34404114 -0.14186877  0.35966277 ..., -0.13796988 -0.01676106
+   -0.06792115]
+  [ 0.44598833 -0.09556483  0.35802835 ..., -0.14902884  0.0053643
+   -0.01827928]
+  [ 0.46982995  0.01585365  0.30471098 ..., -0.09251818 -0.08693725
+    0.03498825]
+  ..., 
+  [-0.08230725  0.03231706 -0.02158549 ...,  0.08072735 -0.05955506
+   -0.05471944]
+  [-0.08268034  0.02674261 -0.02252713 ...,  0.08523154 -0.06316812
+   -0.06827331]
+  [-0.0811671   0.02210366 -0.02280493 ...,  0.0894345  -0.06697597
+   -0.08074789]]
+
+ [[ 0.37213334 -0.56752235  0.26806435 ...,  0.17252317  0.26915255
+    0.40332034]
+  [ 0.5456534  -0.62255913  0.26672131 ...,  0.302315    0.36621201
+    0.3789883 ]
+  [ 0.47184291 -0.59116077  0.11243505 ...,  0.2944943   0.04153987
+    0.26961035]
+  ..., 
+  [-0.17728847 -0.29487973 -0.32990187 ...,  0.00761844 -0.06360649
+    0.31844988]
+  [ 0.19871247 -0.28659695 -0.35768199 ..., -0.14427112  0.14920413
+    0.15525717]
+  [ 0.20575546 -0.27717018 -0.35569412 ..., -0.1751803   0.13973358
+    0.17619908]]]
+encode_h2:
+[[-2.97009444  0.8599143   2.27541614 ..., -5.72177982  2.11228943
+  -4.12297869]
+ [-4.29348707 -1.77579069  5.55775213 ..., -4.97918749  1.80683887
+  -4.61674261]
+ [-3.79630542 -1.45247459  6.2183404  ..., -4.19791889  0.99076635
+  -5.25364494]
+ ..., 
+ [-4.36336565 -3.63355613  6.30372763 ..., -2.80090714  0.94881415
+  -3.98548579]
+ [-4.08719873 -1.7208252   5.88153076 ..., -3.95334029  1.35223722
+  -4.88789225]
+ [-3.8238461  -1.59744     4.29849672 ..., -3.85094786  1.76452434
+  -2.92486286]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.20800781  0.07128906 -0.12890625 ..., -0.21289062 -0.16796875
+  -0.00714111]
+ [-0.05639648 -0.02368164  0.06103516 ..., -0.06884766  0.00778198
+   0.09765625]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.67438537 -0.75390244  0.21128851 ..., -0.99996358 -0.99362731
+  -1.02292132]
+ [ 0.05181254 -0.53221083  0.82440943 ..., -0.99782503 -0.77757323
+  -0.72048056]
+ [ 0.41396132 -0.01710813  0.22150297 ..., -0.98564065  0.80996931
+  -0.12736967]
+ ..., 
+ [-0.69917476  0.90573996  0.3441036  ..., -0.90365958 -0.30693406
+   0.37224284]
+ [-0.69917476  0.90573996  0.3441036  ..., -0.90365958 -0.30693406
+   0.37224284]
+ [-0.69917476  0.90573996  0.3441036  ..., -0.90365958 -0.30693406
+   0.37224284]]
+output_dstrb:
+[[  4.96492419e-07   2.44578668e-08   4.25860776e-07 ...,   9.35199367e-08
+    3.90926398e-05   2.80332753e-08]
+ [  2.70242026e-06   1.17232261e-07   3.32410627e-06 ...,   3.80101739e-07
+    1.12694026e-04   1.45857697e-07]
+ [  7.59058594e-07   9.03546571e-09   4.89686101e-07 ...,   3.14834452e-08
+    2.60020715e-05   1.04735891e-08]
+ ..., 
+ [  9.99999881e-01   4.03416212e-14   1.12321079e-12 ...,   4.33165771e-14
+    1.87331552e-12   3.78503449e-14]
+ [  9.99999881e-01   4.03416212e-14   1.12321079e-12 ...,   4.33165771e-14
+    1.87331552e-12   3.78503449e-14]
+ [  9.99999881e-01   4.03416212e-14   1.12321079e-12 ...,   4.33165771e-14
+    1.87331552e-12   3.78503449e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG fox             
+-1.670316
+No. 2
+BG kelly             
+-3.411787
+No. 3
+BG exclusive             
+-3.540680
+No. 4
+BG cruz             
+-3.560440
+No. 5
+BG texas             
+-3.710836
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG fox news            
+-2.158590
+No. 2
+BG fox apologizes            
+-6.268017
+No. 3
+BG fox fires            
+-6.381257
+No. 4
+BG exclusive fox            
+-6.508698
+No. 5
+BG fox fox            
+-6.527978
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG fox news fox           
+-5.513838
+No. 2
+BG fox news daily           
+-5.519509
+No. 3
+BG fox news apologizes           
+-5.838264
+No. 4
+BG fox news reporter           
+-6.025591
+No. 5
+BG fox news host           
+-6.258259
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG fox news fox news          
+-5.769562
+No. 2
+BG fox news apologizes for          
+-6.814473
+No. 3
+BG fox news apologizes after          
+-8.469321
+No. 4
+BG fox news daily fox          
+-8.521917
+No. 5
+BG fox news apologizes fox          
+-8.664458
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG fox news daily fox news         
+-8.723045
+No. 2
+BG fox news apologizes fox news         
+-9.028533
+No. 3
+BG fox news fox news after         
+-9.782534
+No. 4
+BG fox news fox news video         
+-9.833534
+No. 5
+BG fox news fox news for         
+-9.853169
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG fox news apologizes fox news after        
+-12.089480
+No. 2
+BG fox news apologizes fox news for        
+-12.290519
+No. 3
+BG fox news daily fox news video        
+-12.311085
+No. 4
+BG fox news daily fox news after        
+-12.354439
+No. 5
+BG fox news apologizes fox news at        
+-12.578234
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG fox news daily fox news video video       
+-14.936852
+No. 2
+BG fox news daily fox news video show       
+-15.681195
+No. 3
+BG fox news apologizes fox news at fox       
+-15.699607
+No. 4
+BG fox news daily fox news after fox       
+-15.867788
+No. 5
+BG fox news apologizes fox news after fox       
+-15.927115
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG fox news apologizes fox news at fox news      
+-16.010009
+No. 2
+BG fox news daily fox news after fox news      
+-16.071051
+No. 3
+BG fox news apologizes fox news after fox news      
+-16.284405
+No. 4
+BG fox news daily fox news video video video      
+-17.379228
+No. 5
+BG fox news daily fox news video video show      
+-18.391938
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG fox news apologizes fox news at fox news video     
+-19.099329
+No. 2
+BG fox news daily fox news after fox news video     
+-19.291414
+No. 3
+BG fox news apologizes fox news after fox news video     
+-19.530124
+No. 4
+BG fox news daily fox news video video video video     
+-19.725938
+No. 5
+BG fox news apologizes fox news at fox news after     
+-20.459178
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG fox news apologizes fox news at fox news video video    
+-21.349850
+No. 2
+BG fox news daily fox news after fox news video video    
+-21.662858
+No. 3
+BG fox news apologizes fox news after fox news video video    
+-21.833094
+No. 4
+BG fox news daily fox news video video video video video    
+-22.015711
+No. 5
+BG fox news daily fox news after fox news video show    
+-22.897396
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG fox news apologizes fox news at fox news video video video   
+-23.546033
+No. 2
+BG fox news daily fox news after fox news video video video   
+-23.930586
+No. 3
+BG fox news apologizes fox news after fox news video video video   
+-24.014330
+No. 4
+BG fox news daily fox news video video video video video video   
+-24.265185
+No. 5
+BG fox news daily fox news after fox news video video show   
+-25.361965
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG fox news apologizes fox news at fox news video video video video  
+-25.780523
+No. 2
+BG fox news daily fox news after fox news video video video video  
+-26.161978
+No. 3
+BG fox news apologizes fox news after fox news video video video video  
+-26.230828
+No. 4
+BG fox news daily fox news video video video video video video video  
+-26.494163
+No. 5
+BG fox news daily fox news after fox news video video video shows  
+-27.739882
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG fox news apologizes fox news at fox news video video video video video 
+-28.086242
+No. 2
+BG fox news daily fox news after fox news video video video video video 
+-28.391966
+No. 3
+BG fox news apologizes fox news after fox news video video video video video 
+-28.528512
+No. 4
+BG fox news daily fox news video video video video video video video video 
+-28.729805
+No. 5
+BG fox news daily fox news after fox news video video video video shows 
+-30.081756
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG fox news daily fox news ED        
+-1.684116
+No. 2
+BG fox news apologizes fox news at fox news ED     
+-1.821934
+No. 3
+BG fox news daily fox news after fox news ED     
+-1.836403
+No. 4
+BG fox news apologizes fox news at fox news video video ED   
+-1.856251
+No. 5
+BG fox news apologizes fox news at fox news video ED    
+-1.860571
+Content:
+BG kelly has agreed step down as host gun violence prevention fundraiser related the NUM sandy hook elementary massacre after receiving heavy backlash over an upcoming interview with founder alex
+
+BG sunday night with kelly anchor had been scheduled host the promise champions gala an event organized by sandy hook promise gun control nonprofit formed in the wake the horrific
+
+BG c ED                           
+
+BG but the nbc news interview with jones set air on day june NUM has prompted the group kelly from appearing at the event according variety ED   
+
+BG hook promise cannot support the decision by or nbc give any form voice or platform alex jones have asked kelly step down as our promise champion gala nicole managing
+
+BG is our hope that nbc reconsider not broadcast this interview ED                  
+
+BG kelly who left fox news earlier this year lead two news programs at nbc shared preview clip her interview with jones on her twitter account sunday ED  

@@ -1,0 +1,613 @@
+Title:
+BG foreign policy trump has strategy for destroying the islamic state working ED   
+Teacher Forced Generated Title:
+the policy is is been ED the the ED state ED ED   
+Distribution for each word in title:
+1:
+the: 0.025581
+why: 0.015809
+how: 0.011159
+putin: 0.010525
+saudi: 0.010235
+obama: 0.007865
+nuclear: 0.007850
+syria: 0.006714
+what: 0.006061
+in: 0.005904
+* foreign: 0.003722
+
+2:
+policy: 0.346969
+minister: 0.039306
+leaders: 0.015135
+arabia: 0.009626
+security: 0.009468
+war: 0.005485
+secretary: 0.005441
+president: 0.005401
+is: 0.004985
+media: 0.004578
+* policy: 0.346969
+
+3:
+is: 0.083869
+in: 0.053779
+ED: 0.037810
+on: 0.023056
+daily: 0.014137
+has: 0.013418
+policy: 0.012753
+for: 0.012002
+will: 0.011831
+could: 0.011435
+* trump: 0.000254
+
+4:
+is: 0.071055
+has: 0.025615
+in: 0.025104
+will: 0.024129
+the: 0.019556
+ED: 0.014099
+could: 0.013800
+says: 0.010397
+should: 0.008369
+may: 0.008136
+* has: 0.025615
+
+5:
+been: 0.084772
+no: 0.015749
+the: 0.010146
+arabia: 0.009249
+saudi: 0.009214
+ED: 0.009110
+iran: 0.007757
+an: 0.006375
+NUM: 0.005009
+more: 0.004982
+* strategy: 0.000480
+
+6:
+ED: 0.273741
+for: 0.047401
+on: 0.028002
+in: 0.026499
+is: 0.025202
+the: 0.012875
+will: 0.010855
+that: 0.009770
+but: 0.008154
+up: 0.006331
+* for: 0.047401
+
+7:
+the: 0.071711
+ED: 0.068548
+iran: 0.022460
+syria: 0.017915
+islamic: 0.017535
+isis: 0.013537
+his: 0.012018
+israel: 0.010005
+saudi: 0.009726
+putin: 0.008672
+* destroying: 0.000023
+
+8:
+the: 0.138351
+ED: 0.037974
+his: 0.030859
+syria: 0.027055
+isis: 0.022054
+us: 0.021169
+islamic: 0.018340
+iran: 0.017402
+terrorism: 0.015955
+america: 0.014693
+* the: 0.138351
+
+9:
+ED: 0.177738
+us: 0.043761
+world: 0.042304
+islamic: 0.023825
+war: 0.013583
+middle: 0.011706
+isis: 0.010176
+state: 0.009726
+iran: 0.009707
+terror: 0.009479
+* islamic: 0.023825
+
+10:
+state: 0.736206
+ED: 0.085785
+war: 0.007543
+terror: 0.005566
+in: 0.004395
+terrorism: 0.004025
+leaders: 0.003304
+world: 0.002718
+attack: 0.002606
+policy: 0.002481
+* state: 0.736206
+
+11:
+ED: 0.615046
+in: 0.029598
+is: 0.011832
+department: 0.006598
+the: 0.005643
+for: 0.005567
+war: 0.005446
+says: 0.004780
+by: 0.004281
+state: 0.003844
+* working: 0.000077
+
+12:
+ED: 0.313872
+in: 0.073094
+with: 0.060066
+for: 0.048400
+the: 0.017370
+on: 0.017029
+us: 0.013809
+out: 0.009148
+at: 0.008856
+isis: 0.007502
+* ED: 0.313872
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+attacks: 0.000000
+in: 0.000000
+than: 0.000000
+islamic: 0.000000
+says: 0.000000
+cruz: 0.000000
+terror: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+attacks: 0.000000
+in: 0.000000
+than: 0.000000
+islamic: 0.000000
+says: 0.000000
+cruz: 0.000000
+terror: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+attacks: 0.000000
+in: 0.000000
+than: 0.000000
+islamic: 0.000000
+says: 0.000000
+cruz: 0.000000
+terror: 0.000000
+* : 1.000000
+
+
+Perplexity = 3.774737
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.109375    0.140625   -0.03173828 ...,  0.00765991  0.12011719
+  -0.1796875 ]
+ [ 0.19140625 -0.08105469 -0.2890625  ..., -0.31835938 -0.09472656
+  -0.02819824]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  2.88359940e-01   3.09389949e-01   2.03644469e-01 ...,  -2.13720933e-01
+     2.66100354e-02   2.45520845e-01]
+  [  4.13012415e-01   3.73226821e-01   1.71483666e-01 ...,  -1.89545363e-01
+     9.13550556e-02   2.71180630e-01]
+  [  3.99259597e-01   2.42705658e-01   1.28807306e-01 ...,  -3.24392319e-01
+     1.86356142e-01   4.15813953e-01]
+  ..., 
+  [ -2.32902348e-01   6.86315119e-01   5.93290329e-01 ...,  -7.58565664e-02
+    -1.80672780e-01   9.29403007e-02]
+  [ -2.25533009e-01   6.76586986e-01   6.14458203e-01 ...,  -5.87247089e-02
+    -1.69536859e-01   7.74435475e-02]
+  [ -2.22495586e-01   6.77324712e-01   6.28325701e-01 ...,  -4.25340682e-02
+    -1.64793596e-01   6.10325746e-02]]
+
+ [[  7.17410892e-02   3.11049353e-02   4.11565781e-01 ...,  -2.61974305e-01
+     8.85258466e-02   1.15641169e-01]
+  [  2.39270806e-01   5.26461750e-04   3.19709599e-01 ...,  -2.66477108e-01
+     1.03606537e-01   1.40061453e-01]
+  [  3.11252892e-01   3.70729715e-04   3.21597040e-01 ...,  -3.83948028e-01
+     1.58953637e-01   4.49123047e-02]
+  ..., 
+  [ -3.33892182e-02  -1.66185662e-01   8.46988857e-02 ...,  -2.87585799e-02
+    -5.35019524e-02  -3.00224483e-01]
+  [ -2.24153996e-02  -1.63506895e-01   9.42536965e-02 ...,  -2.14325208e-02
+    -4.18557487e-02  -2.94514149e-01]
+  [ -1.40371863e-02  -1.58244625e-01   1.02051817e-01 ...,  -1.48201566e-02
+    -3.62422541e-02  -2.88542300e-01]]
+
+ [[  1.12100676e-01   3.99790823e-01  -3.42201255e-02 ...,  -1.59788847e-01
+    -6.71914667e-02   5.99103458e-02]
+  [  1.17023274e-01   4.80211675e-01   4.34101447e-02 ...,  -1.41891673e-01
+     1.22519538e-01   3.56360264e-02]
+  [ -2.00234354e-04   4.07691956e-01   9.48820859e-02 ...,  -3.31287920e-01
+    -1.28612548e-01  -7.67908804e-03]
+  ..., 
+  [ -3.24888229e-01   7.85738468e-01   8.67082000e-01 ...,   1.46779925e-01
+    -1.91386029e-01   3.94606330e-02]
+  [ -3.25421959e-01   7.84862757e-01   8.66693079e-01 ...,   1.53152972e-01
+    -1.98333144e-01   2.95331404e-02]
+  [ -3.24384481e-01   7.84725130e-01   8.66432011e-01 ...,   1.59315452e-01
+    -2.05398187e-01   2.11640932e-02]]
+
+ ..., 
+ [[  2.91922577e-02   3.77477825e-01   2.49785706e-01 ...,  -4.69879806e-01
+    -1.49456471e-01  -3.27859223e-01]
+  [  1.67466238e-01   4.34463918e-01   1.56423479e-01 ...,  -4.57532883e-01
+    -2.10695669e-01  -5.29488385e-01]
+  [  6.62958920e-02   4.65747297e-01   1.97963610e-01 ...,  -3.67885649e-01
+    -2.36263990e-01  -1.96628869e-01]
+  ..., 
+  [ -2.13286385e-01   3.71530533e-01   4.20717061e-01 ...,   1.37310922e-01
+    -9.42446440e-02  -8.44936073e-02]
+  [ -2.12965563e-01   3.66758287e-01   4.16019142e-01 ...,   1.42897427e-01
+    -1.00237474e-01  -9.04995874e-02]
+  [ -2.10674122e-01   3.62515450e-01   4.11403537e-01 ...,   1.48074299e-01
+    -1.06288821e-01  -9.59258378e-02]]
+
+ [[  3.11023057e-01   2.14799598e-01   3.35153580e-01 ...,  -5.04730165e-01
+     1.04806542e-01  -3.12788010e-01]
+  [  2.80951142e-01   2.86480248e-01   6.56364441e-01 ...,  -4.07341838e-01
+     2.65133232e-01  -5.67328870e-01]
+  [ -1.15383238e-01   4.80861425e-01   7.97330916e-01 ...,  -2.30020210e-01
+    -8.63818079e-02  -3.02830040e-01]
+  ..., 
+  [ -1.77812815e-01   2.76245438e-02   3.63122642e-01 ...,   3.95840853e-02
+    -1.91789746e-01  -6.22956395e-01]
+  [ -1.75481901e-01   2.53483355e-02   3.58094573e-01 ...,   4.26452458e-02
+    -1.91637546e-01  -6.24219477e-01]
+  [ -1.71389908e-01   2.44411174e-02   3.53699386e-01 ...,   4.56936434e-02
+    -1.91808313e-01  -6.23874009e-01]]
+
+ [[  3.76867596e-03   1.33621842e-01   3.08030665e-01 ...,  -4.41928566e-01
+    -1.72048926e-01   1.68761946e-02]
+  [  9.82101560e-02   9.57424715e-02   2.51126528e-01 ...,  -4.54341441e-01
+    -1.94522128e-01  -5.70424870e-02]
+  [  1.62193283e-01   2.06050768e-01   2.62056828e-01 ...,  -4.56811935e-01
+    -1.26936585e-01  -1.41698748e-01]
+  ..., 
+  [ -1.13404959e-01  -9.29794088e-03   1.47510037e-01 ...,   1.14489593e-01
+    -8.27193856e-02  -2.59739727e-01]
+  [ -1.11887932e-01  -1.19682495e-02   1.42646968e-01 ...,   1.18329883e-01
+    -8.58252719e-02  -2.62842566e-01]
+  [ -1.08582392e-01  -1.39959175e-02   1.38223380e-01 ...,   1.21722594e-01
+    -8.90630335e-02  -2.65097558e-01]]]
+encode_h2:
+[[ 1.75758624 -1.6947906   3.75302339 ...,  2.07751584 -1.99521911
+  -5.50605488]
+ [ 1.57790828 -1.06320584  3.82419229 ...,  2.0409596  -1.92606282
+  -5.79706049]
+ [ 0.9181143  -1.07889736  4.14382648 ...,  2.54152322 -1.35719061
+  -5.5947547 ]
+ ..., 
+ [ 0.77462357  0.5029282   3.69838548 ...,  2.03321171 -0.59498405
+  -3.9478066 ]
+ [ 0.51030344  1.16885781  3.01111627 ...,  0.88779479 -0.16715284
+  -3.29286933]
+ [ 0.20988506  1.74880719  2.91136265 ...,  0.29924658  1.08092439
+  -1.84651434]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.20117188  0.11425781  0.11425781 ...,  0.046875    0.11279297
+   0.28710938]
+ [-0.09179688  0.06982422  0.10009766 ..., -0.06005859 -0.01251221
+   0.24804688]
+ ..., 
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[  3.97272062e+00   5.66835523e-01  -9.99350727e-01 ...,  -9.97106969e-01
+   -9.43788230e-01   1.18102443e+00]
+ [  3.44321465e+00  -2.03174084e-01  -5.56892276e-01 ...,   5.33026099e-01
+    3.94746512e-01   5.73499322e-01]
+ [  2.55678916e+00  -9.66800377e-04  -1.15420058e-01 ...,   3.21073472e-01
+    4.57667321e-01   5.11690974e-01]
+ ..., 
+ [ -8.08110386e-02   7.31240690e-01  -2.69525945e-01 ...,   7.95920193e-01
+   -9.24391389e-01  -3.85044694e-01]
+ [ -8.08110386e-02   7.31240690e-01  -2.69525945e-01 ...,   7.95920193e-01
+   -9.24391389e-01  -3.85044694e-01]
+ [ -8.08110386e-02   7.31240690e-01  -2.69525945e-01 ...,   7.95920193e-01
+   -9.24391389e-01  -3.85044694e-01]]
+output_dstrb:
+[[  1.09946791e-06   1.17574507e-06   1.11747977e-06 ...,   7.43338603e-07
+    2.78110994e-04   1.20149616e-06]
+ [  5.07222296e-07   3.43999346e-07   4.44805863e-07 ...,   2.03290696e-07
+    1.08178952e-04   3.18184448e-07]
+ [  3.00704244e-07   1.73426542e-07   2.91852501e-07 ...,   1.27806970e-07
+    1.12639958e-04   1.56623130e-07]
+ ..., 
+ [  9.99999642e-01   1.66258866e-13   9.07671182e-13 ...,   2.25649103e-13
+    6.30022293e-12   1.49437388e-13]
+ [  9.99999523e-01   1.66258839e-13   9.07671074e-13 ...,   2.25649076e-13
+    6.30022206e-12   1.49437374e-13]
+ [  9.99999642e-01   1.66258866e-13   9.07671182e-13 ...,   2.25649103e-13
+    6.30022293e-12   1.49437388e-13]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-3.665909
+No. 2
+BG why             
+-4.147190
+No. 3
+BG how             
+-4.495517
+No. 4
+BG putin             
+-4.554043
+No. 5
+BG saudi             
+-4.581923
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG saudi arabia            
+-5.212021
+No. 2
+BG why the            
+-6.140313
+No. 3
+BG how the            
+-6.502156
+No. 4
+BG why we            
+-7.176942
+No. 5
+BG the world            
+-7.199386
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG saudi arabia is           
+-7.723899
+No. 2
+BG saudi arabia will           
+-9.001202
+No. 3
+BG saudi arabia has           
+-9.149377
+No. 4
+BG why the us           
+-9.194491
+No. 5
+BG why we need           
+-9.258509
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG saudi arabia is the          
+-10.652770
+No. 2
+BG why we need know          
+-10.703179
+No. 3
+BG saudi arabia will be          
+-10.894162
+No. 4
+BG saudi arabia is not          
+-11.129888
+No. 5
+BG saudi arabia has been          
+-11.282626
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG why we need know about         
+-11.590002
+No. 2
+BG why we need know the         
+-13.370699
+No. 3
+BG saudi arabia is the most         
+-13.695376
+No. 4
+BG saudi arabia will be the         
+-14.079246
+No. 5
+BG saudi arabia is not the         
+-14.321280
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG why we need know about the        
+-13.208688
+No. 2
+BG why we need know about about        
+-15.109720
+No. 3
+BG why we need know about syria        
+-15.739338
+No. 4
+BG why we need know about iran        
+-15.771573
+No. 5
+BG why we need know the us        
+-16.705916
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG why we need know about the us       
+-16.293159
+No. 2
+BG why we need know about the world       
+-16.454505
+No. 3
+BG why we need know about the islamic       
+-16.769124
+No. 4
+BG why we need know about about the       
+-16.955802
+No. 5
+BG why we need know about the iran       
+-17.159134
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG why we need know about the islamic state      
+-17.320033
+No. 2
+BG why we need know about the world war      
+-19.728386
+No. 3
+BG why we need know about about the us      
+-19.948600
+No. 4
+BG why we need know about the world is      
+-20.045208
+No. 5
+BG why we need know about the world in      
+-20.203266
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG why we need know about the islamic state is     
+-20.439617
+No. 2
+BG why we need know about the islamic state in     
+-21.330105
+No. 3
+BG why we need know about the islamic state department     
+-21.848757
+No. 4
+BG why we need know about the islamic state war     
+-21.906582
+No. 5
+BG why we need know about the world war war     
+-22.322504
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG why we need know about the islamic state in the    
+-23.499585
+No. 2
+BG why we need know about the islamic state is the    
+-23.668852
+No. 3
+BG why we need know about the islamic state in syria    
+-23.754752
+No. 4
+BG why we need know about the islamic state is not    
+-23.914305
+No. 5
+BG why we need know about the islamic state is now    
+-24.833085
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG why we need know about the islamic state in the world   
+-25.909556
+No. 2
+BG why we need know about the islamic state in the us   
+-26.067120
+No. 3
+BG why we need know about the islamic state is the most   
+-27.274195
+No. 4
+BG why we need know about the islamic state is not the   
+-27.345424
+No. 5
+BG why we need know about the islamic state is the us   
+-27.599131
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG why we need know about the islamic state in the world war  
+-29.634170
+No. 2
+BG why we need know about the islamic state in the world the  
+-29.814987
+No. 3
+BG why we need know about the islamic state in the world in  
+-29.922690
+No. 4
+BG why we need know about the islamic state in the world is  
+-30.085273
+No. 5
+BG why we need know about the islamic state is the most the  
+-30.249444
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG why we need know about the islamic state in the world in the 
+-32.040933
+No. 2
+BG why we need know about the islamic state in the world war war 
+-32.492870
+No. 3
+BG why we need know about the islamic state in the world in syria 
+-32.615069
+No. 4
+BG why we need know about the islamic state in the world is the 
+-32.963989
+No. 5
+BG why we need know about the islamic state in the world the world 
+-33.175573
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG why we need know about the islamic state ED     
+-1.849288
+No. 2
+BG why we need know about the us ED      
+-1.856517
+No. 3
+BG why we need know about the ED       
+-1.952843
+No. 4
+BG why we need know about the world ED      
+-1.991470
+No. 5
+BG why we need know about the islamic state in syria ED   
+-2.007410
+Content:
+BG this article originally appeared in foreign policy defeating the islamic state was candidate top priority one the few policy issues on which he was consistent ED   
+
+BG while his claim have secret plan that keeping it secret was good strategy was national security experts his policy goals were are consistent ED     
+
+BG american effort should focus on fighting the islamic state ED                   
+
+BG regime change push out power was not only lesser objective but counterproductive stable for syria that prevents terrorism too costly given russia support for the regime ED  
+
+BG stability is be prioritized over humanitarian relief or democracy promotion ED                  
+
+BG russia is be their interests supported ED                      
+
+BG he proclaimed that are going convey my top generals give them simple instruction ED               

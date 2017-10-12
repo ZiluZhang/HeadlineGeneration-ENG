@@ -1,0 +1,614 @@
+Title:
+BG intel cancels its biggest event the year as the world moves past the pc ED
+Teacher Forced Generated Title:
+china is its first iphone ED us ED ED us ED ED ED ED ED
+Distribution for each word in title:
+1:
+china: 0.102148
+russia: 0.052619
+russian: 0.044201
+the: 0.031062
+putin: 0.026612
+iran: 0.017148
+apple: 0.017081
+yahoo: 0.016083
+report: 0.015327
+us: 0.012304
+* intel: 0.002893
+
+2:
+is: 0.050560
+says: 0.037104
+chief: 0.033471
+ceo: 0.023996
+russia: 0.020729
+report: 0.017839
+has: 0.016001
+will: 0.015370
+may: 0.014790
+hackers: 0.014145
+* cancels: 0.000279
+
+3:
+its: 0.038707
+russia: 0.025579
+billion: 0.016933
+us: 0.016548
+russian: 0.015619
+china: 0.014229
+new: 0.012884
+NUM: 0.011735
+security: 0.010275
+million: 0.008425
+* its: 0.038707
+
+4:
+first: 0.016070
+iphone: 0.011268
+security: 0.009484
+new: 0.008303
+own: 0.007041
+billion: 0.006378
+china: 0.005683
+russia: 0.004940
+air: 0.004866
+data: 0.004482
+* biggest: 0.001168
+
+5:
+iphone: 0.008452
+security: 0.006593
+time: 0.006395
+week: 0.005819
+deal: 0.005022
+data: 0.004739
+threat: 0.003925
+minister: 0.003891
+year: 0.003841
+billion: 0.003467
+* event: 0.000079
+
+6:
+ED: 0.229679
+in: 0.129742
+for: 0.065537
+with: 0.042279
+NUM: 0.019265
+on: 0.019260
+after: 0.016355
+at: 0.014567
+as: 0.013944
+over: 0.013532
+* the: 0.004511
+
+7:
+us: 0.029147
+ED: 0.025064
+NUM: 0.015152
+year: 0.014667
+week: 0.013320
+new: 0.012613
+first: 0.012199
+china: 0.009763
+world: 0.009165
+iphone: 0.008479
+* year: 0.014667
+
+8:
+ED: 0.307545
+NUM: 0.078818
+in: 0.049771
+for: 0.016367
+us: 0.012915
+after: 0.007683
+the: 0.007576
+year: 0.007531
+china: 0.007445
+years: 0.007285
+* as: 0.006106
+
+9:
+ED: 0.050143
+it: 0.032780
+trump: 0.022120
+us: 0.017660
+president: 0.016769
+china: 0.016446
+the: 0.016040
+NUM: 0.014917
+donald: 0.008000
+its: 0.005935
+* the: 0.016040
+
+10:
+us: 0.038111
+ED: 0.021648
+world: 0.012248
+NUM: 0.008945
+year: 0.008852
+week: 0.007654
+election: 0.007522
+china: 0.006924
+iphone: 0.005994
+first: 0.005964
+* world: 0.012248
+
+11:
+ED: 0.251337
+is: 0.014312
+the: 0.007082
+china: 0.006878
+in: 0.006761
+us: 0.005817
+security: 0.005076
+president: 0.004913
+war: 0.004678
+economy: 0.004375
+* moves: 0.000166
+
+12:
+ED: 0.200631
+on: 0.025385
+up: 0.019997
+the: 0.019966
+into: 0.016849
+in: 0.016657
+down: 0.016196
+us: 0.015399
+its: 0.014269
+from: 0.012288
+* past: 0.000900
+
+13:
+ED: 0.271778
+NUM: 0.039273
+the: 0.020985
+us: 0.017545
+its: 0.009952
+china: 0.007513
+trump: 0.007289
+in: 0.005785
+years: 0.005597
+new: 0.005051
+* the: 0.020985
+
+14:
+ED: 0.050290
+us: 0.033053
+world: 0.016134
+year: 0.009796
+most: 0.006455
+NUM: 0.006396
+week: 0.005463
+election: 0.004798
+next: 0.004370
+first: 0.004365
+* pc: 0.000047
+
+15:
+ED: 0.546761
+trump: 0.009867
+NUM: 0.008292
+in: 0.004912
+on: 0.003133
+climate: 0.002411
+the: 0.002250
+report: 0.001910
+sanders: 0.001901
+its: 0.001890
+* ED: 0.546761
+
+
+Perplexity = 5.791822
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.06396484  0.0067749  -0.08984375 ..., -0.22558594  0.03344727
+   0.24707031]
+ [-0.04492188 -0.03039551  0.00234985 ...,  0.01226807 -0.08837891
+  -0.015625  ]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ 0.20347942 -0.27799594  0.14077967 ...,  0.13217594  0.13040361
+   -0.36169896]
+  [ 0.16127351 -0.41704172  0.37599647 ..., -0.03475925  0.18557003
+   -0.61094612]
+  [ 0.19159241 -0.31537098  0.55094963 ..., -0.14127783  0.18065073
+   -0.63263327]
+  ..., 
+  [ 0.0828106   0.04909698  0.68625402 ..., -0.12604935 -0.01758987
+   -0.72028607]
+  [ 0.02325692 -0.00350029  0.56397933 ..., -0.14126781  0.01604219
+   -0.44719815]
+  [ 0.06631266 -0.08818613  0.541803   ..., -0.34683123  0.11134396
+   -0.38981265]]
+
+ [[ 0.13284323  0.14831945  0.00686551 ...,  0.21551357  0.0364118
+   -0.1712359 ]
+  [ 0.32841149  0.0670507  -0.0786213  ...,  0.16001156  0.18459813
+   -0.09161839]
+  [ 0.32848161 -0.0007358  -0.12098332 ...,  0.18534185  0.24349619
+   -0.14392893]
+  ..., 
+  [-0.13311636 -0.07413144  0.36407608 ..., -0.05594159 -0.09734111
+   -0.62061328]
+  [-0.13191301 -0.07878267  0.36083984 ..., -0.05291168 -0.09881946
+   -0.63035381]
+  [-0.12884592 -0.08272263  0.35815841 ..., -0.05006595 -0.10078345
+   -0.63797915]]
+
+ [[ 0.3972519  -0.41529739  0.36157238 ...,  0.24211481  0.36092818
+   -0.52537704]
+  [ 0.43263078 -0.33819771  0.36879468 ...,  0.16991951  0.39261943
+   -0.6236335 ]
+  [ 0.44960698 -0.24261869  0.47754169 ...,  0.28841078  0.33412981
+   -0.58765739]
+  ..., 
+  [ 0.3005853  -0.52513427  0.02357115 ...,  0.11550775 -0.03255118
+   -0.51085311]
+  [ 0.32584307 -0.61236095  0.14108479 ...,  0.17845725  0.00219181
+   -0.54902452]
+  [ 0.24227917 -0.28675544  0.18098943 ...,  0.05354086 -0.09378625
+   -0.32438728]]
+
+ ..., 
+ [[ 0.27726427 -0.28908658  0.1731263  ...,  0.10099138  0.15246634
+   -0.15768513]
+  [ 0.41484681 -0.30574292  0.06781535 ...,  0.0862692   0.15756746
+   -0.1593654 ]
+  [ 0.46526647 -0.24226509  0.01372893 ...,  0.04968869  0.17583582
+   -0.20366609]
+  ..., 
+  [ 0.31960055 -0.0367773   0.25623846 ..., -0.32175004 -0.10464644
+   -0.57055169]
+  [ 0.31339034 -0.09359639  0.24130315 ..., -0.32165578 -0.08465627
+   -0.56391692]
+  [ 0.1378372  -0.17052087  0.32807666 ..., -0.25038052 -0.10908403
+   -0.59690946]]
+
+ [[ 0.3276028  -0.14436683  0.34045422 ..., -0.24541835  0.06128706
+   -0.20593542]
+  [ 0.50145847 -0.16603753  0.21373259 ..., -0.25358003  0.04920536
+   -0.26805878]
+  [ 0.50731999 -0.13990368  0.18165925 ..., -0.1789948   0.01551661
+   -0.31630385]
+  ..., 
+  [-0.24493334 -0.21176706  0.58875656 ..., -0.02881385 -0.31203866
+   -0.55459595]
+  [-0.36029696  0.01682394  0.71593142 ..., -0.08494837 -0.35046655
+   -0.43199041]
+  [-0.61471891 -0.04807934  0.60908371 ..., -0.00483672 -0.44406235
+   -0.31192967]]
+
+ [[-0.05112134  0.01543613  0.0144208  ...,  0.04907993 -0.02770326
+   -0.04559518]
+  [-0.0580596   0.0128215   0.01199978 ...,  0.05814748 -0.03379157
+   -0.05747238]
+  [-0.06477651  0.00997306  0.00932646 ...,  0.06695326 -0.0396905
+   -0.06957396]
+  ..., 
+  [-0.1276007  -0.07429149 -0.01243753 ...,  0.15694883 -0.09958903
+   -0.30144116]
+  [-0.1245839  -0.07584989 -0.01210481 ...,  0.1564997  -0.10046785
+   -0.30489618]
+  [-0.11987913 -0.07641614 -0.01127244 ...,  0.15603997 -0.10175489
+   -0.30724576]]]
+encode_h2:
+[[ 0.53551209 -1.97517049  0.34389096 ...,  0.31460708 -2.1265254
+  -1.97671092]
+ [-0.88376731 -0.86687702  1.26192951 ...,  0.758641   -1.91263282
+  -1.95719421]
+ [-2.05814767 -0.93008757  0.71159911 ...,  1.64182222 -1.40768027
+  -1.52974224]
+ ..., 
+ [-1.37656307  0.30953151  1.89429653 ...,  0.30765924 -0.76555634
+  -3.45182753]
+ [-1.51427412  0.80726016  2.39761257 ...,  1.24692023 -0.8627125
+  -2.70234084]
+ [-2.06271124  1.04283655  1.9327848  ...,  0.78168166  0.06343745
+  -1.58321083]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.06396484  0.0067749  -0.08984375 ..., -0.22558594  0.03344727
+   0.24707031]
+ [ 0.2578125   0.2734375   0.25976562 ...,  0.11914062  0.10546875
+   0.09326172]
+ ..., 
+ [ 0.01049805  0.09277344 -0.17773438 ..., -0.05859375 -0.10205078
+  -0.02148438]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.125      -0.08496094 -0.12890625 ..., -0.15039062 -0.22167969
+  -0.1796875 ]]
+decode_seq:
+[[ 3.4151113  -0.76551938 -0.99979138 ..., -0.98360008 -0.52212     1.02302134]
+ [ 2.22646523 -0.75829369  0.47791281 ...,  0.30286649  0.08290185
+   0.69515765]
+ [ 1.81832516  0.659531    0.25719205 ..., -0.05387734  0.74139178
+   0.91044867]
+ ..., 
+ [ 0.41649172  0.41551015 -0.80113995 ...,  0.7915495   0.83092183
+   0.09776145]
+ [ 0.44294393 -0.24493597 -0.77621174 ...,  0.86436802  0.81199843
+   0.17780235]
+ [ 0.13743725  0.02316166 -0.77917993 ...,  0.88567418  0.77575666
+   0.19953528]]
+output_dstrb:
+[[  8.70901204e-07   3.93741786e-08   1.29587974e-07 ...,   3.58828167e-08
+    1.44162812e-04   4.22921467e-08]
+ [  9.28890884e-08   3.24683072e-08   3.02176602e-07 ...,   5.36914690e-08
+    4.00818448e-04   3.38917019e-08]
+ [  8.76411104e-06   9.08775633e-07   2.96613734e-06 ...,   1.14609929e-06
+    4.18523472e-04   9.77026389e-07]
+ ..., 
+ [  2.74930017e-06   1.44532450e-07   4.19845804e-07 ...,   2.87640859e-07
+    7.79496768e-05   1.38464969e-07]
+ [  2.43654067e-05   1.06420418e-06   2.24550490e-06 ...,   1.74854097e-06
+    1.02894985e-04   1.02259423e-06]
+ [  1.38687101e-04   2.35035841e-07   5.88010380e-07 ...,   5.44753448e-07
+    4.15939539e-05   2.25841092e-07]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG china             
+-2.281336
+No. 2
+BG russia             
+-2.944675
+No. 3
+BG russian             
+-3.119010
+No. 4
+BG the             
+-3.471786
+No. 5
+BG putin             
+-3.626397
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG russian hackers            
+-5.555412
+No. 2
+BG china is            
+-5.701083
+No. 3
+BG russia is            
+-5.743265
+No. 4
+BG china ceo            
+-6.085330
+No. 5
+BG russian hacking            
+-6.144681
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG china ceo says           
+-8.422117
+No. 2
+BG russian hackers are           
+-8.452373
+No. 3
+BG russian hackers will           
+-8.707827
+No. 4
+BG russian hackers have           
+-8.787644
+No. 5
+BG russia is the           
+-9.036954
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG china ceo says he          
+-10.445386
+No. 2
+BG russian hackers will be          
+-11.110077
+No. 3
+BG china ceo says it          
+-11.276771
+No. 4
+BG russian hackers have been          
+-11.313674
+No. 5
+BG russian hackers will have          
+-11.418560
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG china ceo says he was         
+-12.416189
+No. 2
+BG china ceo says he will         
+-12.847092
+No. 3
+BG china ceo says it was         
+-13.568241
+No. 4
+BG china ceo says it will         
+-13.626594
+No. 5
+BG china ceo says he is         
+-13.641867
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG china ceo says he will be        
+-15.034933
+No. 2
+BG china ceo says it will be        
+-15.512331
+No. 3
+BG china ceo says he will have        
+-15.732896
+No. 4
+BG china ceo says he was the        
+-15.987632
+No. 5
+BG china ceo says he was not        
+-15.991350
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG china ceo says he will have been       
+-18.341621
+No. 2
+BG china ceo says he will be the       
+-18.850446
+No. 3
+BG china ceo says he will be be       
+-19.203689
+No. 4
+BG china ceo says he will be an       
+-19.233850
+No. 5
+BG china ceo says it will be the       
+-19.262799
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG china ceo says he will have been been      
+-22.470982
+No. 2
+BG china ceo says he will have been the      
+-22.691797
+No. 3
+BG china ceo says he will be the best      
+-22.737475
+No. 4
+BG china ceo says he will be the most      
+-22.808296
+No. 5
+BG china ceo says he will have been more      
+-22.841482
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG china ceo says he will have been more than     
+-24.397432
+No. 2
+BG china ceo says he will be the most important     
+-26.278477
+No. 3
+BG china ceo says he will have been been in     
+-26.376914
+No. 4
+BG china ceo says he will be the best thing     
+-26.620366
+No. 5
+BG china ceo says he will have been the most     
+-26.656362
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG china ceo says he will have been more than NUM    
+-26.292760
+No. 2
+BG china ceo says he will have been more than than    
+-26.466899
+No. 3
+BG china ceo says he will have been more than more    
+-28.007911
+No. 4
+BG china ceo says he will have been more than ever    
+-28.423150
+No. 5
+BG china ceo says he will have been been in the    
+-28.581064
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG china ceo says he will have been more than NUM years   
+-27.557907
+No. 2
+BG china ceo says he will have been more than than than   
+-28.099438
+No. 3
+BG china ceo says he will have been more than than NUM   
+-28.236748
+No. 4
+BG china ceo says he will have been more than more than   
+-28.255641
+No. 5
+BG china ceo says he will have been more than NUM percent   
+-29.859950
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG china ceo says he will have been more than than NUM years  
+-29.408760
+No. 2
+BG china ceo says he will have been more than more than than  
+-29.619652
+No. 3
+BG china ceo says he will have been more than than than than  
+-29.679796
+No. 4
+BG china ceo says he will have been more than NUM years ago  
+-29.881542
+No. 5
+BG china ceo says he will have been more than than than NUM  
+-29.893666
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG china ceo says he will have been more than more than than than 
+-31.004936
+No. 2
+BG china ceo says he will have been more than than than NUM years 
+-31.023323
+No. 3
+BG china ceo says he will have been more than than than than than 
+-31.233632
+No. 4
+BG china ceo says he will have been more than more than than NUM 
+-31.466224
+No. 5
+BG china ceo says he will have been more than than than than NUM 
+-31.485407
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG china ceo says he will have been more than than than NUM years ED
+-2.153105
+No. 2
+BG china ceo says he will have been more than than NUM years ED 
+-2.226303
+No. 3
+BG china ceo says he will have been more than NUM years ago ED 
+-2.229852
+No. 4
+BG china ceo says he will have been more than NUM years ED  
+-2.295890
+No. 5
+BG china ceo says he will have been more than more than than than than ED
+-2.323367
+Content:
+BG intel has discontinued the intel developers forum idf its annual in san francisco citing the difficulties getting across unified message as it moves past just into bold new cancellation
+
+BG earlier in NUM intel had announced that its annual idf conference in china would not be held this year ED         
+
+BG idf is where the company makes new product announcements including the unveiling new intel tells the idea is that the company is moving beyond just focusing on servers into
+
+BG so an intel spokesperson tells business insider the company will be looking host smaller more focused events as well as increasing its presence at trade shows other events ED
+
+BG while the intel developers forum was at the time publication intel says that this cancellation has been in the works for some time as the company its events strategy
+
+BG as much as anything you can take the idf as another victim the pc market which has been another sign intel trying reinvent itself under those intel has ED
+
+                             

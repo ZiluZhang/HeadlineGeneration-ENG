@@ -1,0 +1,612 @@
+Title:
+BG john mccain comments on kim jong un are ED      
+Teacher Forced Generated Title:
+mccain mccain says on trump ED ED ED ED      
+Distribution for each word in title:
+1:
+mccain: 0.150478
+rubio: 0.069385
+gop: 0.064932
+john: 0.058293
+marco: 0.043368
+paul: 0.043281
+pence: 0.028241
+republican: 0.027188
+mike: 0.026870
+ted: 0.026525
+* john: 0.058293
+
+2:
+mccain: 0.332195
+rubio: 0.097744
+kerry: 0.033679
+pence: 0.029326
+sessions: 0.027290
+bolton: 0.018435
+sen: 0.013325
+rep: 0.012402
+on: 0.010775
+says: 0.009393
+* mccain: 0.332195
+
+3:
+says: 0.060789
+on: 0.043428
+calls: 0.035568
+is: 0.026595
+ED: 0.020041
+mccain: 0.019984
+i: 0.018291
+rep: 0.015984
+senator: 0.015274
+trump: 0.015250
+* comments: 0.000620
+
+4:
+on: 0.214405
+about: 0.137372
+are: 0.021572
+from: 0.020965
+trump: 0.020568
+ED: 0.018709
+in: 0.016923
+with: 0.011670
+that: 0.011283
+as: 0.010843
+* on: 0.214405
+
+5:
+trump: 0.083466
+the: 0.050429
+donald: 0.023433
+us: 0.021401
+russia: 0.018655
+his: 0.014834
+obama: 0.012873
+syria: 0.011849
+putin: 0.010936
+russian: 0.009351
+* kim: 0.000184
+
+6:
+ED: 0.015642
+mccain: 0.010691
+attack: 0.008722
+on: 0.007720
+speech: 0.006587
+rubio: 0.006178
+support: 0.005879
+attacks: 0.005714
+meeting: 0.005549
+visit: 0.005548
+* jong: 0.001793
+
+7:
+ED: 0.186375
+trump: 0.042478
+is: 0.016033
+obama: 0.015941
+un: 0.015613
+election: 0.015266
+president: 0.014560
+secretary: 0.014391
+as: 0.013808
+on: 0.008979
+* un: 0.015613
+
+8:
+ED: 0.684615
+president: 0.009930
+trump: 0.008357
+secretary: 0.007100
+is: 0.004253
+says: 0.003440
+as: 0.003042
+obama: 0.002805
+not: 0.002646
+the: 0.002453
+* are: 0.000447
+
+9:
+ED: 0.183239
+the: 0.042165
+not: 0.021158
+going: 0.017647
+in: 0.013624
+on: 0.012513
+more: 0.009339
+trying: 0.008679
+so: 0.008598
+now: 0.008476
+* ED: 0.183239
+
+10:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+longer: 0.000000
+claims: 0.000000
+mccain: 0.000000
+problem: 0.000000
+trump: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+longer: 0.000000
+claims: 0.000000
+mccain: 0.000000
+problem: 0.000000
+trump: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+longer: 0.000000
+claims: 0.000000
+mccain: 0.000000
+problem: 0.000000
+trump: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+longer: 0.000000
+claims: 0.000000
+mccain: 0.000000
+problem: 0.000000
+trump: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+longer: 0.000000
+claims: 0.000000
+mccain: 0.000000
+problem: 0.000000
+trump: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+assault: 0.000000
+longer: 0.000000
+claims: 0.000000
+mccain: 0.000000
+problem: 0.000000
+trump: 0.000000
+* : 1.000000
+
+
+Perplexity = 2.757558
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.38867188 -0.11132812 -0.140625   ...,  0.0625      0.01068115
+   0.20410156]
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[-0.70378834  0.29213977  0.52362221 ...,  0.08931558 -0.08888754
+    0.10221443]
+  [-0.68686187  0.21040751  0.3745479  ...,  0.05754154  0.03980793
+    0.16619909]
+  [-0.49595413  0.00671405 -0.05362397 ...,  0.11436071 -0.16552477
+    0.30449113]
+  ..., 
+  [-0.08118728 -0.04688012 -0.0518934  ...,  0.10189649 -0.06666858
+   -0.12937802]
+  [-0.08056739 -0.05045539 -0.05062182 ...,  0.10462477 -0.06926269
+   -0.14061514]
+  [-0.07815488 -0.05301075 -0.04886895 ...,  0.10720056 -0.07219599
+   -0.15065059]]
+
+ [[ 0.30873546 -0.45583957  0.59558856 ...,  0.16660526  0.23366289
+    0.29430744]
+  [ 0.39548907 -0.52279353  0.72259188 ...,  0.19440259  0.35275328
+    0.26359591]
+  [ 0.33864605 -0.47543031  0.77647603 ...,  0.11430607  0.31390423
+    0.00312266]
+  ..., 
+  [ 0.02000898  0.34552729  0.28939456 ..., -0.15853374  0.00512963
+    0.16437726]
+  [ 0.0048877   0.3484906   0.2948969  ..., -0.13668682 -0.00085409
+    0.15867284]
+  [-0.00731281  0.35184461  0.30018675 ..., -0.11572175 -0.00726575
+    0.15280637]]
+
+ [[ 0.07773754  0.07436112  0.55239749 ..., -0.1880302   0.0711492
+   -0.15741248]
+  [ 0.19243109  0.07646715  0.59585363 ..., -0.26542881  0.29098865
+   -0.23790812]
+  [ 0.27641627  0.06812833  0.43657166 ..., -0.22368567  0.19160363
+   -0.27701169]
+  ..., 
+  [-0.2060234   0.43290883  0.61162347 ..., -0.04813972 -0.25219366
+   -0.62871909]
+  [-0.19867548  0.43816018  0.61803269 ..., -0.04403131 -0.25993893
+   -0.64083892]
+  [-0.19339754  0.44368649  0.62291694 ..., -0.03883079 -0.26605883
+   -0.65140045]]
+
+ ..., 
+ [[ 0.42883903  0.0381736   0.52980715 ..., -0.07505658  0.23742549
+   -0.03107386]
+  [ 0.57698876  0.12967984  0.44317222 ..., -0.10128406  0.32858059
+   -0.03637461]
+  [ 0.57847333  0.1237331   0.40427125 ...,  0.01328082  0.20693718
+   -0.08434152]
+  ..., 
+  [-0.18831706  0.35849565  0.67005622 ..., -0.0441174  -0.32882473
+    0.06350024]
+  [-0.28329995  0.28875709  0.617989   ..., -0.03029993 -0.39773139
+   -0.0583865 ]
+  [-0.59404999  0.32181489  0.39658093 ...,  0.01928573 -0.41553926
+   -0.1171997 ]]
+
+ [[ 0.29135439  0.53527355  0.47256231 ..., -0.61117435 -0.04510948
+   -0.26782057]
+  [ 0.51325077  0.50609982  0.51697898 ..., -0.65768784  0.08739497
+   -0.11407741]
+  [ 0.51427346  0.56466097  0.5577985  ..., -0.50840324 -0.0254446
+   -0.15988521]
+  ..., 
+  [-0.18240288  0.21619681  0.53242373 ..., -0.00701907 -0.22965115
+   -0.67760217]
+  [-0.18047747  0.21396972  0.5319072  ..., -0.00420031 -0.22987086
+   -0.68496823]
+  [-0.17680497  0.21222982  0.53140014 ..., -0.00180987 -0.2304161
+   -0.69054425]]
+
+ [[ 0.26051301 -0.20785873  0.62833053 ..., -0.20368674  0.16290201
+    0.18437275]
+  [ 0.39223507 -0.16977881  0.6038456  ..., -0.18608405  0.17750107
+    0.20651914]
+  [ 0.3784278  -0.1664931   0.677284   ..., -0.17735364  0.17177619
+    0.2726036 ]
+  ..., 
+  [-0.10161209  0.07376845  0.07916041 ...,  0.07424433 -0.02835402
+   -0.01654242]
+  [-0.09641246  0.06980968  0.06952739 ...,  0.07767008 -0.03729876
+   -0.02682404]
+  [-0.09129538  0.06586137  0.06129272 ...,  0.08208616 -0.04607923
+   -0.0380735 ]]]
+encode_h2:
+[[-0.58076298 -0.76576734  4.16044617 ..., -1.9510138  -1.6369592
+  -7.44935369]
+ [ 0.46781996 -0.56697911  6.09413671 ..., -2.1614635  -1.86924803
+  -9.12568855]
+ [-1.2855401   0.06738977  5.98456287 ..., -2.75076556 -2.01842332
+  -9.33714581]
+ ..., 
+ [-1.37467313  1.34794354  5.83983946 ..., -2.76961446 -0.72650677
+  -7.55410576]
+ [-1.41730332  1.56349218  5.33832741 ..., -2.29678965 -0.42141068
+  -6.26579762]
+ [-1.50960827  1.65188897  4.75346661 ..., -2.91793227  0.52433366
+  -4.00948429]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.25390625  0.14746094 -0.08154297 ..., -0.12451172 -0.12792969
+   0.30664062]
+ [ 0.03540039  0.0013504   0.04443359 ..., -0.16015625 -0.18164062
+   0.17480469]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.95403844 -0.75295722  0.56966239 ..., -0.99962211 -1.12830257
+  -1.65096045]
+ [-0.49633572 -0.81387711  0.56520569 ..., -0.97195935 -0.57524389
+  -1.17522287]
+ [ 0.04667431  0.51495337  0.27398816 ..., -0.89232981  0.01341127
+  -0.5432862 ]
+ ..., 
+ [ 0.49584377  0.84432793 -0.43780434 ..., -0.07678519 -0.8896088
+   0.16162318]
+ [ 0.49584377  0.84432793 -0.43780434 ..., -0.07678519 -0.8896088
+   0.16162318]
+ [ 0.49584377  0.84432793 -0.43780434 ..., -0.07678519 -0.8896088
+   0.16162318]]
+output_dstrb:
+[[  2.64815662e-06   1.40292356e-08   2.96546663e-08 ...,   3.75695066e-08
+    3.64019161e-06   1.25397257e-08]
+ [  1.70861877e-05   6.87325183e-08   1.86470146e-07 ...,   9.91168889e-08
+    1.53453184e-05   6.78565257e-08]
+ [  3.59710725e-07   2.77740213e-08   2.07348251e-07 ...,   4.85251626e-08
+    6.42130108e-05   2.62129607e-08]
+ ..., 
+ [  1.00000000e+00   2.88841542e-13   1.20217128e-12 ...,   2.38757094e-13
+    4.67882287e-12   2.62698961e-13]
+ [  1.00000000e+00   2.88841542e-13   1.20217128e-12 ...,   2.38757094e-13
+    4.67882287e-12   2.62698961e-13]
+ [  1.00000000e+00   2.88841542e-13   1.20217128e-12 ...,   2.38757094e-13
+    4.67882287e-12   2.62698961e-13]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG mccain             
+-1.893937
+No. 2
+BG rubio             
+-2.668086
+No. 3
+BG gop             
+-2.734415
+No. 4
+BG john             
+-2.842279
+No. 5
+BG marco             
+-3.138030
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG marco rubio            
+-3.313882
+No. 2
+BG mccain rep            
+-3.869252
+No. 3
+BG gop rep            
+-3.922072
+No. 4
+BG john mccain            
+-3.944313
+No. 5
+BG gop senator            
+-4.140720
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG marco rubio trump           
+-5.724499
+No. 2
+BG marco rubio on           
+-6.577763
+No. 3
+BG gop rep trump           
+-6.604929
+No. 4
+BG mccain rep for           
+-6.635869
+No. 5
+BG john mccain says           
+-6.744655
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG john mccain says he          
+-8.352990
+No. 2
+BG mccain rep for trump          
+-8.509868
+No. 3
+BG marco rubio on trump          
+-8.845981
+No. 4
+BG marco rubio on the          
+-8.854343
+No. 5
+BG marco rubio trump on          
+-8.885109
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG john mccain says he was         
+-10.425264
+No. 2
+BG john mccain says he is         
+-10.609865
+No. 3
+BG john mccain says he will         
+-10.794337
+No. 4
+BG marco rubio trump on the         
+-11.369404
+No. 5
+BG john mccain says he would         
+-11.528899
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG john mccain says he will be        
+-12.813837
+No. 2
+BG john mccain says he would be        
+-13.427757
+No. 3
+BG john mccain says he is not        
+-13.438503
+No. 4
+BG john mccain says he is the        
+-13.516382
+No. 5
+BG john mccain says he will have        
+-13.518145
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG john mccain says he will be the       
+-15.396046
+No. 2
+BG john mccain says he would be the       
+-16.099744
+No. 3
+BG john mccain says he will have the       
+-16.281309
+No. 4
+BG john mccain says he will have been       
+-16.409774
+No. 5
+BG john mccain says he will be an       
+-16.523839
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG john mccain says he will be the us      
+-18.999858
+No. 2
+BG john mccain says he will be the president      
+-19.207925
+No. 3
+BG john mccain says he will be the trump      
+-19.385859
+No. 4
+BG john mccain says he will have the trump      
+-19.420581
+No. 5
+BG john mccain says he will have been the      
+-19.421702
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG john mccain says he will be the president trump     
+-21.531632
+No. 2
+BG john mccain says he will have the trump administration     
+-21.745846
+No. 3
+BG john mccain says he will be the trump administration     
+-21.937129
+No. 4
+BG john mccain says he will be the president the     
+-22.227653
+No. 5
+BG john mccain says he will be the president obama     
+-22.480090
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG john mccain says he will have the trump administration is    
+-24.580943
+No. 2
+BG john mccain says he will have the trump administration in    
+-24.759712
+No. 3
+BG john mccain says he will be the president trump the    
+-24.831439
+No. 4
+BG john mccain says he will be the trump administration in    
+-24.886686
+No. 5
+BG john mccain says he will be the trump administration is    
+-25.008192
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG john mccain says he will have the trump administration in the   
+-26.138118
+No. 2
+BG john mccain says he will be the trump administration in the   
+-26.248710
+No. 3
+BG john mccain says he will have the trump administration is the   
+-27.156794
+No. 4
+BG john mccain says he will have the trump administration is not   
+-27.198886
+No. 5
+BG john mccain says he will be the trump administration is the   
+-27.552165
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG john mccain says he will have the trump administration in the world  
+-29.626340
+No. 2
+BG john mccain says he will have the trump administration in the us  
+-29.686871
+No. 3
+BG john mccain says he will be the trump administration in the world  
+-29.705009
+No. 4
+BG john mccain says he will be the trump administration in the us  
+-29.771528
+No. 5
+BG john mccain says he will have the trump administration in the state  
+-30.229798
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG john mccain says he will have the trump administration in the world the 
+-33.115684
+No. 2
+BG john mccain says he will be the trump administration in the world the 
+-33.205229
+No. 3
+BG john mccain says he will have the trump administration in the world is 
+-33.362435
+No. 4
+BG john mccain says he will have the trump administration in the world in 
+-33.367785
+No. 5
+BG john mccain says he will be the trump administration in the world in 
+-33.402900
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG gop rep ED           
+-1.160743
+No. 2
+BG mccain rep ED           
+-1.195171
+No. 3
+BG john mccain says he will be the us ED     
+-1.943497
+No. 4
+BG john mccain says he will be the ED      
+-1.993304
+No. 5
+BG john mccain says he is not ED       
+-1.996007
+Content:
+BG sen ED                           
+
+BG john mccain rebuked president donald remarks towards controversial foreign leaders that have been widely admonished by lawmakers ED           
+
+BG speaking joe scarborough on on tuesday mccain said that latest attempts side with leaders like kim jong un north korea were beyond ED      
+
+BG understand it i think that the president appreciates the fact that when he says things like that it helps the credibility prestige this really outrageous mccain said referring kim
+
+BG wish the president would consider much more carefully his trump sent in the national security community after calling jong un acknowledging that he would be meet with him ED
+
+BG date no sitting us president has ever held meeting with current north korean leader ED              
+
+BG it would be appropriate for me meet with him i would absolutely i would be honored do trump on monday ED        

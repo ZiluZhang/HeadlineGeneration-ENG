@@ -1,0 +1,612 @@
+Title:
+BG texas should stop trying kill ED         
+Teacher Forced Generated Title:
+NUM man be the be her         
+Distribution for each word in title:
+1:
+NUM: 0.023361
+the: 0.018210
+death: 0.015037
+former: 0.010273
+mother: 0.009791
+two: 0.008272
+murder: 0.008222
+how: 0.008139
+brazil: 0.008016
+family: 0.007435
+* texas: 0.006715
+
+2:
+man: 0.032587
+police: 0.025303
+church: 0.020695
+woman: 0.020636
+prison: 0.016468
+drug: 0.014615
+family: 0.012186
+city: 0.011451
+death: 0.010833
+mother: 0.009338
+* should: 0.000399
+
+3:
+be: 0.109046
+not: 0.033457
+have: 0.031927
+help: 0.015616
+guilty: 0.013968
+kill: 0.011767
+prison: 0.011185
+face: 0.010167
+the: 0.006602
+found: 0.006576
+* stop: 0.004819
+
+4:
+the: 0.035294
+prison: 0.020349
+drug: 0.012450
+an: 0.008916
+in: 0.008570
+jail: 0.008400
+guilty: 0.008269
+death: 0.007784
+his: 0.007396
+up: 0.006156
+* trying: 0.000777
+
+5:
+be: 0.018134
+help: 0.016451
+kill: 0.012692
+prison: 0.010658
+drug: 0.008891
+get: 0.007481
+save: 0.007472
+for: 0.007464
+stop: 0.006888
+guilty: 0.006806
+* kill: 0.012692
+
+6:
+her: 0.029023
+the: 0.026118
+ED: 0.022689
+him: 0.016781
+his: 0.014647
+in: 0.012513
+death: 0.009980
+drug: 0.009760
+me: 0.009237
+them: 0.009233
+* ED: 0.022689
+
+7:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+8:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+9:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+10:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+11:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+12:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+13:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+14:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+15:
+: 0.999994
+ED: 0.000000
+sanders: 0.000000
+cancer: 0.000000
+than: 0.000000
+assault: 0.000000
+drug: 0.000000
+killer: 0.000000
+charges: 0.000000
+in: 0.000000
+* : 0.999994
+
+
+Perplexity = 2.231907
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.03637695 -0.02148438 -0.03540039 ..., -0.08740234  0.05151367
+   0.01745605]
+ [-0.03149414  0.06445312 -0.06054688 ...,  0.03881836  0.15234375
+  -0.02685547]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  7.40397424e-02   5.93544185e-01   2.00181250e-02 ...,  -7.85632372e-01
+    -2.81051040e-01  -1.27485201e-01]
+  [  1.90523490e-01   5.57246327e-01  -8.51710066e-02 ...,  -7.47651160e-01
+    -3.25541377e-01  -1.12929307e-01]
+  [  1.73081249e-01   5.68652987e-01  -1.97333977e-01 ...,  -8.19674909e-01
+    -3.40339184e-01  -1.32957801e-01]
+  ..., 
+  [ -9.00107175e-02   1.96047664e-01   2.89029658e-01 ...,   2.70356238e-02
+    -1.14486339e-02   3.23049165e-02]
+  [ -9.11454707e-02   1.92339510e-01   2.86993384e-01 ...,   3.53937410e-02
+    -1.78431515e-02   2.67703794e-02]
+  [ -9.03192461e-02   1.89120084e-01   2.84531295e-01 ...,   4.35224921e-02
+    -2.47046277e-02   2.16455460e-02]]
+
+ [[ -4.55947593e-05   4.99262571e-01   9.94228870e-02 ...,  -3.71340096e-01
+    -6.09081276e-02  -6.70507327e-02]
+  [  1.50858223e-01   4.52376127e-01   5.14616258e-03 ...,  -3.80471826e-01
+     2.92075984e-03  -8.49436745e-02]
+  [  1.59010753e-01   5.31597853e-01   9.19392332e-02 ...,  -2.28131995e-01
+     3.61017644e-01   1.33124679e-01]
+  ..., 
+  [ -8.58302563e-02   2.21166432e-01   3.56256187e-01 ...,   3.44762132e-02
+     6.11101948e-02   2.45454118e-01]
+  [ -8.21659416e-02   2.18277276e-01   3.45127523e-01 ...,   3.66089232e-02
+     5.00992946e-02   2.39876583e-01]
+  [ -7.74293244e-02   2.15161681e-01   3.34261119e-01 ...,   3.93753722e-02
+     3.93183567e-02   2.33770624e-01]]
+
+ [[ -7.89848715e-02   2.13585809e-01  -2.53280640e-01 ...,  -4.79690820e-01
+    -1.16583267e-02   4.21532899e-01]
+  [  1.03707790e-01  -1.44371949e-02  -4.87487972e-01 ...,  -5.92079878e-01
+     6.31993711e-02   5.32083988e-01]
+  [  1.50535673e-01   3.83560508e-02  -5.72914407e-02 ...,  -6.87689006e-01
+     3.81419398e-02   5.01117647e-01]
+  ..., 
+  [ -1.01905182e-01   3.02084565e-01   3.63824069e-01 ...,   3.72659042e-02
+    -8.32539052e-03   1.70005143e-01]
+  [ -1.03743032e-01   2.98636258e-01   3.57098818e-01 ...,   4.47046906e-02
+    -1.40140867e-02   1.62800923e-01]
+  [ -1.03616491e-01   2.95414150e-01   3.50252986e-01 ...,   5.19065410e-02
+    -2.02207994e-02   1.55751839e-01]]
+
+ ..., 
+ [[ -1.28451422e-01  -1.38913676e-01   2.91381180e-01 ...,   2.36226797e-01
+     5.21971844e-03   2.48383321e-02]
+  [ -1.53614283e-01  -1.31978512e-01   2.98181713e-01 ...,   1.89413980e-01
+     6.71456009e-02   8.76308978e-02]
+  [ -2.07155406e-01  -5.46935499e-02   2.15481281e-01 ...,  -5.56821451e-02
+    -5.05186133e-02   1.04845800e-01]
+  ..., 
+  [ -5.32605685e-03  -4.82862741e-02   6.13947809e-02 ...,   1.98217444e-02
+     1.01595782e-02   8.95661041e-02]
+  [ -4.81250184e-03  -5.24602458e-02   5.81602231e-02 ...,   2.41912268e-02
+     4.91398945e-03   7.99251050e-02]
+  [ -2.54200259e-03  -5.60088977e-02   5.51511161e-02 ...,   2.84330938e-02
+    -4.33133915e-04   7.07007647e-02]]
+
+ [[  2.26543229e-02   7.63801336e-02   1.40626729e-01 ...,  -7.69627616e-02
+    -1.01613194e-01   3.15590590e-01]
+  [  1.66543752e-01   2.37064958e-02   4.74913120e-02 ...,  -5.98737970e-02
+    -7.43256658e-02   3.64534497e-01]
+  [  2.82076120e-01   6.32473081e-02   1.66569263e-01 ...,   9.87915844e-02
+     1.38522342e-01   3.12877327e-01]
+  ..., 
+  [ -5.33114858e-02  -7.48847052e-02   5.22405542e-02 ...,   8.31852481e-02
+    -3.89085561e-02  -7.20515624e-02]
+  [ -5.14567606e-02  -7.94885829e-02   4.83255982e-02 ...,   8.53786692e-02
+    -4.20652032e-02  -8.15451965e-02]
+  [ -4.78760861e-02  -8.31527412e-02   4.49588969e-02 ...,   8.74254331e-02
+    -4.54913229e-02  -9.01247486e-02]]
+
+ [[ -1.06550395e-01   2.28563145e-01   1.70983166e-01 ...,   3.01130325e-01
+    -7.03927428e-02   2.99446508e-02]
+  [ -1.31386399e-01   2.33303070e-01   1.89137816e-01 ...,   2.57808089e-01
+    -5.87047078e-03   1.03828311e-01]
+  [ -3.45637977e-01   2.09197164e-01   1.74140483e-02 ...,   1.09953601e-02
+    -2.07672104e-01  -1.34829301e-02]
+  ..., 
+  [ -1.22458786e-01   2.27382500e-02   1.21083610e-01 ...,   1.30008683e-01
+    -8.89264196e-02  -2.00694948e-01]
+  [ -1.20590255e-01   1.77687611e-02   1.16770491e-01 ...,   1.32142454e-01
+    -9.08858031e-02  -2.07058549e-01]
+  [ -1.16864279e-01   1.36507396e-02   1.12917073e-01 ...,   1.34043708e-01
+    -9.31551754e-02  -2.12491840e-01]]]
+encode_h2:
+[[-1.97302222  1.7741915  -0.05679482 ..., -0.22535506  1.20635116
+  -1.47960842]
+ [-3.51928687  2.66610289  0.81036735 ..., -1.27055466  2.90682626
+  -2.60317135]
+ [-3.98543549  2.43727684  2.84040165 ..., -2.73978829  4.09117508
+  -2.14372921]
+ ..., 
+ [-4.78368521  3.82392716  2.52792788 ..., -0.74182677  5.23825312
+  -1.04618609]
+ [-3.82781005  3.89889574  4.11755705 ..., -1.69313705  5.53022337
+  -2.32180357]
+ [-3.45368481  3.77634501  3.96908617 ..., -0.69914997  5.1881361
+  -1.15751588]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.21582031 -0.24414062 -0.00097275 ..., -0.078125   -0.38085938
+   0.08789062]
+ [-0.03442383  0.04174805  0.24902344 ..., -0.21191406 -0.10009766
+  -0.04370117]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.1642091   0.24931026 -0.92420435 ..., -0.91731709 -0.28710935
+   0.07395574]
+ [ 0.20961775 -0.62306982 -0.78994823 ..., -0.76922637  0.23747194
+  -0.16452545]
+ [-0.40694514 -0.11351279 -0.88430572 ..., -0.48867783 -0.11240204
+   0.14102317]
+ ..., 
+ [-0.68258649  0.77288419 -0.88257265 ...,  0.18100107 -0.64608502
+  -0.36798179]
+ [-0.68258649  0.77288419 -0.88257265 ...,  0.18100107 -0.64608502
+  -0.36798179]
+ [-0.68258649  0.77288419 -0.88257265 ...,  0.18100107 -0.64608502
+  -0.36798179]]
+output_dstrb:
+[[  1.04002403e-07   1.54307642e-07   8.10757541e-08 ...,   1.61140008e-07
+    1.78486389e-05   1.48355028e-07]
+ [  3.66274868e-08   4.26163609e-07   4.70624599e-07 ...,   6.45743398e-07
+    2.52082173e-05   4.14520713e-07]
+ [  1.12894372e-06   5.13135433e-07   9.29143312e-07 ...,   8.00150190e-07
+    4.37644303e-05   5.66295114e-07]
+ ..., 
+ [  9.99994040e-01   3.06330759e-11   5.41790154e-11 ...,   2.07206179e-11
+    3.28250455e-10   2.96615579e-11]
+ [  9.99994040e-01   3.06330759e-11   5.41790154e-11 ...,   2.07206179e-11
+    3.28250455e-10   2.96615579e-11]
+ [  9.99994040e-01   3.06330759e-11   5.41790154e-11 ...,   2.07206179e-11
+    3.28250455e-10   2.96615579e-11]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG NUM             
+-3.756668
+No. 2
+BG the             
+-4.005795
+No. 3
+BG death             
+-4.197256
+No. 4
+BG former             
+-4.578244
+No. 5
+BG mother             
+-4.626270
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG NUM years            
+-5.147768
+No. 2
+BG death in            
+-7.174521
+No. 3
+BG death toll            
+-7.556335
+No. 4
+BG death death            
+-7.560419
+No. 5
+BG the death            
+-7.579197
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG NUM years in           
+-6.839934
+No. 2
+BG NUM years after           
+-7.574689
+No. 3
+BG NUM years for           
+-7.882870
+No. 4
+BG NUM years later           
+-7.991562
+No. 5
+BG NUM years NUM           
+-8.101423
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG NUM years in prison          
+-9.143121
+No. 2
+BG NUM years NUM years          
+-9.172185
+No. 3
+BG NUM years in the          
+-10.184621
+No. 4
+BG NUM years in NUM          
+-10.216000
+No. 5
+BG NUM years after prison          
+-10.590654
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG NUM years NUM years in         
+-10.989021
+No. 2
+BG NUM years in prison for         
+-11.104699
+No. 3
+BG NUM years in NUM years         
+-11.160590
+No. 4
+BG NUM years NUM years after         
+-11.458011
+No. 5
+BG NUM years in prison in         
+-11.605243
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG NUM years in NUM years in        
+-13.164817
+No. 2
+BG NUM years NUM years in prison        
+-13.518288
+No. 3
+BG NUM years in NUM years after        
+-13.657366
+No. 4
+BG NUM years in NUM years later        
+-14.094705
+No. 5
+BG NUM years in NUM years for        
+-14.127421
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG NUM years NUM years in prison for       
+-15.269396
+No. 2
+BG NUM years in NUM years in prison       
+-16.004716
+No. 3
+BG NUM years NUM years in prison in       
+-16.015929
+No. 4
+BG NUM years in NUM years in the       
+-16.296141
+No. 5
+BG NUM years in NUM years in NUM       
+-16.384096
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG NUM years in NUM years in NUM years      
+-17.348647
+No. 2
+BG NUM years in NUM years in prison for      
+-17.956951
+No. 3
+BG NUM years NUM years in prison for NUM      
+-18.544165
+No. 4
+BG NUM years in NUM years in prison in      
+-18.687969
+No. 5
+BG NUM years NUM years in prison in NUM      
+-18.863083
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG NUM years NUM years in prison for NUM years     
+-19.264407
+No. 2
+BG NUM years NUM years in prison in NUM years     
+-19.703742
+No. 3
+BG NUM years in NUM years in NUM years in     
+-19.768640
+No. 4
+BG NUM years in NUM years in NUM years after     
+-20.244725
+No. 5
+BG NUM years in NUM years in NUM years later     
+-20.404653
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG NUM years NUM years in prison for NUM years in    
+-21.598665
+No. 2
+BG NUM years NUM years in prison for NUM years after    
+-22.226887
+No. 3
+BG NUM years NUM years in prison in NUM years in    
+-22.535557
+No. 4
+BG NUM years NUM years in prison for NUM years for    
+-22.586636
+No. 5
+BG NUM years NUM years in prison for NUM years later    
+-22.753110
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG NUM years NUM years in prison for NUM years in NUM   
+-24.613675
+No. 2
+BG NUM years NUM years in prison for NUM years in the   
+-24.634449
+No. 3
+BG NUM years NUM years in prison for NUM years in prison   
+-25.330226
+No. 4
+BG NUM years NUM years in prison in NUM years in NUM   
+-25.523471
+No. 5
+BG NUM years NUM years in prison for NUM years after NUM   
+-25.546261
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG NUM years NUM years in prison for NUM years in NUM years  
+-25.753296
+No. 2
+BG NUM years NUM years in prison for NUM years after NUM years  
+-26.456018
+No. 3
+BG NUM years NUM years in prison in NUM years in NUM years  
+-26.626943
+No. 4
+BG NUM years NUM years in prison for NUM years in prison for  
+-27.800830
+No. 5
+BG NUM years NUM years in prison for NUM years in NUM days  
+-28.153328
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG NUM years NUM years in prison for NUM years in NUM years in 
+-28.986793
+No. 2
+BG NUM years NUM years in prison for NUM years in NUM years after 
+-29.512898
+No. 3
+BG NUM years NUM years in prison for NUM years in NUM years later 
+-29.625076
+No. 4
+BG NUM years NUM years in prison for NUM years after NUM years in 
+-29.643318
+No. 5
+BG NUM years NUM years in prison for NUM years in NUM years ago 
+-29.698034
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG NUM years NUM years in prison for NUM years ED    
+-1.819547
+No. 2
+BG NUM years NUM years in prison in NUM years ED    
+-1.838110
+No. 3
+BG NUM years in NUM years in NUM years ED     
+-1.847156
+No. 4
+BG NUM years NUM years in prison for NUM years in NUM years ED 
+-1.863137
+No. 5
+BG NUM years NUM years in prison for NUM years after NUM years ED 
+-1.922835
+Content:
+BG even as capital punishment becomes less frequent killing remains punishable by death in NUM states ED             
+
+BG in texas so is not killing if the state goes through with the execution wood slated for aug ED          
+
+BG NUM man will die for murder he did not commit is not accused committing ED              
+
+BG twenty years ago mr ED                        
+
+BG wood made plan with friend steal safe from store in kerr county tex ED               
+
+BG while daniel entered the store shot the clerk mr ED                   
+
+BG wood sat outside in truck ED                       

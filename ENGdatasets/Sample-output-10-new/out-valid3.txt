@@ -1,0 +1,612 @@
+Title:
+BG the world has more refugees now than ever before ED     
+Teacher Forced Generated Title:
+the us the been than in ED than ED ED     
+Distribution for each word in title:
+1:
+the: 0.059629
+NUM: 0.024449
+new: 0.024162
+in: 0.021641
+us: 0.010839
+why: 0.009992
+how: 0.007970
+at: 0.007840
+as: 0.006367
+first: 0.005997
+* the: 0.059629
+
+2:
+us: 0.025519
+new: 0.016687
+most: 0.014447
+first: 0.013721
+NUM: 0.012872
+rise: 0.012697
+world: 0.010664
+refugee: 0.010615
+migrant: 0.009176
+migrants: 0.007509
+* world: 0.010664
+
+3:
+the: 0.070956
+in: 0.042863
+is: 0.020675
+that: 0.015485
+for: 0.012069
+war: 0.011252
+has: 0.007755
+migrant: 0.007632
+migrants: 0.006708
+refugee: 0.006660
+* has: 0.007755
+
+4:
+been: 0.167418
+the: 0.074610
+NUM: 0.019026
+an: 0.013446
+no: 0.012820
+one: 0.010616
+just: 0.009459
+more: 0.008530
+new: 0.005975
+its: 0.005526
+* more: 0.008530
+
+5:
+than: 0.294975
+the: 0.023121
+more: 0.022488
+NUM: 0.020660
+ED: 0.012324
+migrants: 0.011815
+been: 0.010463
+women: 0.009514
+people: 0.009485
+one: 0.007710
+* refugees: 0.003872
+
+6:
+in: 0.154738
+ED: 0.134534
+are: 0.071083
+than: 0.041390
+from: 0.021360
+for: 0.013350
+on: 0.011872
+have: 0.010652
+the: 0.009418
+at: 0.009038
+* now: 0.001305
+
+7:
+ED: 0.067463
+the: 0.049077
+in: 0.020215
+more: 0.011977
+not: 0.011887
+NUM: 0.008676
+they: 0.007972
+be: 0.007271
+now: 0.007195
+are: 0.006692
+* than: 0.004916
+
+8:
+than: 0.067942
+NUM: 0.067343
+ED: 0.036206
+more: 0.033034
+the: 0.032629
+women: 0.011168
+one: 0.010993
+us: 0.010971
+ever: 0.010112
+americans: 0.008935
+* ever: 0.010112
+
+9:
+ED: 0.280140
+than: 0.061421
+in: 0.018855
+NUM: 0.018605
+ever: 0.012264
+been: 0.010020
+more: 0.008099
+the: 0.007766
+year: 0.007331
+one: 0.006544
+* before: 0.001879
+
+10:
+ED: 0.202781
+NUM: 0.071215
+the: 0.053070
+it: 0.011728
+year: 0.010020
+one: 0.010007
+us: 0.009810
+time: 0.008570
+ever: 0.007267
+than: 0.006613
+* ED: 0.202781
+
+11:
+: 1.000000
+sanders: 0.000000
+ED: 0.000000
+than: 0.000000
+assault: 0.000000
+finds: 0.000000
+ali: 0.000000
+cruz: 0.000000
+illness: 0.000000
+problem: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+sanders: 0.000000
+ED: 0.000000
+than: 0.000000
+assault: 0.000000
+finds: 0.000000
+ali: 0.000000
+cruz: 0.000000
+illness: 0.000000
+problem: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+sanders: 0.000000
+ED: 0.000000
+than: 0.000000
+assault: 0.000000
+finds: 0.000000
+ali: 0.000000
+cruz: 0.000000
+illness: 0.000000
+problem: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+sanders: 0.000000
+ED: 0.000000
+than: 0.000000
+assault: 0.000000
+finds: 0.000000
+ali: 0.000000
+cruz: 0.000000
+illness: 0.000000
+problem: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+sanders: 0.000000
+ED: 0.000000
+than: 0.000000
+assault: 0.000000
+finds: 0.000000
+ali: 0.000000
+cruz: 0.000000
+illness: 0.000000
+problem: 0.000000
+* : 1.000000
+
+
+Perplexity = 3.130756
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.08056641 -0.04296875 -0.09716797 ...,  0.36914062  0.14746094
+  -0.12792969]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  2.77140141e-02   2.89045393e-01  -1.20013207e-03 ...,   1.39352247e-01
+    -4.16847020e-02  -3.65492791e-01]
+  [  1.42914161e-01   2.58685589e-01  -1.25564218e-01 ...,   1.52324557e-01
+    -4.32158336e-02  -3.87336016e-01]
+  [  5.08105904e-02   3.26873183e-01  -1.57442123e-01 ...,   3.43399048e-02
+    -6.81112260e-02  -3.70034605e-01]
+  ..., 
+  [ -1.16524041e-01   7.86719695e-02   9.78461057e-02 ...,   1.12191401e-01
+    -7.95191377e-02  -1.05201364e-01]
+  [ -1.15739211e-01   7.19678849e-02   9.36734676e-02 ...,   1.15701266e-01
+    -8.23906064e-02  -1.16046838e-01]
+  [ -1.13038048e-01   6.61185980e-02   9.00268331e-02 ...,   1.18904658e-01
+    -8.55073780e-02  -1.25928327e-01]]
+
+ [[ -2.61731446e-01   2.58067667e-01  -2.50984728e-01 ...,   3.69275361e-01
+    -1.62132859e-01   1.40008673e-01]
+  [ -1.15758777e-01   2.04537362e-01  -2.91924059e-01 ...,   3.29833090e-01
+    -8.05894583e-02   1.87293157e-01]
+  [ -2.88657155e-02   1.72940001e-01  -3.47518504e-01 ...,   1.67322204e-01
+    -4.86514866e-02   2.18343884e-01]
+  ..., 
+  [ -2.92301830e-02   7.19917417e-01   6.68648958e-01 ...,   9.91777331e-03
+     7.77356774e-02   6.36445940e-01]
+  [  8.75078142e-04   6.63398266e-01   6.21786714e-01 ...,  -1.28938723e-02
+     1.52014762e-01   5.76752424e-01]
+  [ -1.38339788e-01   7.27568090e-01   6.37445569e-01 ...,  -1.62307069e-01
+     3.43971372e-01   5.51323891e-01]]
+
+ [[ -1.86339300e-02   5.02579033e-01  -3.13450433e-02 ...,  -1.04778565e-01
+    -1.76162198e-01  -1.43556640e-01]
+  [  1.59317940e-01   4.62264359e-01  -1.13515958e-01 ...,  -1.25011504e-01
+    -1.14675745e-01  -1.10452406e-01]
+  [  1.79702535e-01   4.92530107e-01  -1.58693522e-01 ...,  -4.06131893e-02
+    -1.47946045e-01  -1.39660180e-01]
+  ..., 
+  [ -8.02046806e-02  -6.75297156e-02  -2.71246657e-02 ...,   1.08179726e-01
+    -6.93594143e-02  -1.60155177e-01]
+  [ -7.92937875e-02  -7.07755908e-02  -2.66600810e-02 ...,   1.10602960e-01
+    -7.17715025e-02  -1.69687524e-01]
+  [ -7.65734166e-02  -7.30149522e-02  -2.56920308e-02 ...,   1.12836055e-01
+    -7.44976103e-02  -1.78042814e-01]]
+
+ ..., 
+ [[ -4.29504588e-02   3.81963909e-01  -3.00227404e-02 ...,   9.75367874e-02
+    -1.29036099e-01  -7.08241910e-02]
+  [  9.34612304e-02   3.40053976e-01  -1.42678946e-01 ...,   1.29139915e-01
+    -8.38121027e-02  -8.29100013e-02]
+  [  3.92064862e-02   3.41296017e-01  -1.72198206e-01 ...,   1.69823512e-01
+    -1.50654137e-01  -8.71413425e-02]
+  ..., 
+  [ -5.10598272e-02  -5.03599569e-02   3.20667773e-03 ...,   7.85026923e-02
+    -4.07931656e-02  -2.88742371e-02]
+  [ -4.98271808e-02  -5.57436123e-02   6.21309504e-04 ...,   8.10231864e-02
+    -4.39347997e-02  -4.12557758e-02]
+  [ -4.68726903e-02  -6.01088703e-02  -1.27778575e-03 ...,   8.34504515e-02
+    -4.73914742e-02  -5.26384376e-02]]
+
+ [[ -2.71510422e-01   2.84018993e-01  -3.55778575e-01 ...,   3.93593252e-01
+    -4.82871830e-02  -1.06182091e-01]
+  [ -9.60367173e-02   6.18846528e-02  -5.76505423e-01 ...,   2.43499771e-01
+    -6.28768466e-03   2.34299246e-03]
+  [ -6.16671368e-02   9.18016061e-02  -1.81678399e-01 ...,   3.19890827e-01
+    -9.80850458e-02   1.17712341e-01]
+  ..., 
+  [ -4.39761318e-02   1.45322651e-01   1.51528880e-01 ...,   2.90894359e-02
+     7.16838613e-03   2.50593275e-01]
+  [ -4.26638834e-02   1.37723729e-01   1.43287912e-01 ...,   3.21609750e-02
+     2.70541571e-03   2.38213822e-01]
+  [ -3.95845100e-02   1.30636722e-01   1.35567755e-01 ...,   3.52154672e-02
+    -2.11277790e-03   2.26161435e-01]]
+
+ [[  3.75169143e-02   4.11102057e-01  -7.24087507e-02 ...,  -1.15362011e-01
+    -2.05101416e-01   1.97237909e-01]
+  [  1.71636879e-01   4.42835867e-01  -1.33442372e-01 ...,  -5.89564666e-02
+    -1.96955860e-01   2.42299482e-01]
+  [  1.83615431e-01   5.36961973e-01  -9.05325115e-02 ...,  -7.87478089e-02
+    -2.21930400e-01   3.17390859e-01]
+  ..., 
+  [ -6.68714345e-02   5.26146531e-01   3.19227278e-01 ...,  -8.91079307e-02
+     6.66506588e-02   5.03170967e-01]
+  [ -6.94859996e-02   5.22798479e-01   3.26708376e-01 ...,  -7.27278739e-02
+     5.82991429e-02   4.99941915e-01]
+  [ -6.99429139e-02   5.19985735e-01   3.31936598e-01 ...,  -5.81523478e-02
+     4.95760478e-02   4.96187240e-01]]]
+encode_h2:
+[[-2.62221622 -0.26241496 -1.99389505 ...,  3.37765288 -0.40783736
+   2.17982888]
+ [-0.6640209   1.17825484 -1.39053178 ...,  4.2560935   1.63473725
+   1.28149283]
+ [-1.63081717  1.38507676 -1.6014415  ...,  4.63839149  1.7876718
+   1.52694583]
+ ..., 
+ [-1.94380188  1.6531682  -0.54562807 ...,  3.65967822  2.72710919
+   0.40363687]
+ [-2.23080754  1.5434556   0.10867821 ...,  2.8936317   3.09259868
+  -0.13647145]
+ [-1.00800347  1.31319964  1.31579864 ...,  2.03258896  3.45164061
+  -0.71131408]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.06396484  0.06835938  0.22460938 ...,  0.05786133  0.15917969
+  -0.06201172]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 1.30478406  0.36761612 -0.66866636 ..., -0.99580538 -0.99897254
+   3.33279729]
+ [ 1.04123294 -0.0660513  -0.79766709 ...,  0.68162489  0.37996733
+   1.54820967]
+ [ 0.64753473  0.10298131 -0.30646041 ...,  0.70027387  0.65288037
+   1.38337433]
+ ..., 
+ [-0.42837712  0.89845836 -0.83890676 ...,  0.42457554 -0.87693167
+  -0.50603187]
+ [-0.42837712  0.89845836 -0.83890676 ...,  0.42457554 -0.87693167
+  -0.50603187]
+ [-0.42837712  0.89845836 -0.83890676 ...,  0.42457554 -0.87693167
+  -0.50603187]]
+output_dstrb:
+[[  1.07453093e-06   1.23857802e-07   4.08028001e-07 ...,   1.98083598e-07
+    6.65123225e-05   1.19480603e-07]
+ [  4.30154500e-07   1.57686387e-07   4.95492088e-07 ...,   1.54189664e-07
+    1.21848156e-04   1.53487221e-07]
+ [  2.25493491e-09   5.55962281e-08   1.26734179e-07 ...,   5.89690288e-08
+    7.20295648e-05   5.33599085e-08]
+ ..., 
+ [  1.00000000e+00   3.55184090e-14   8.42998021e-14 ...,   2.12179534e-14
+    2.61263369e-13   3.57131012e-14]
+ [  1.00000000e+00   3.55184090e-14   8.42998021e-14 ...,   2.12179534e-14
+    2.61263369e-13   3.57131012e-14]
+ [  1.00000000e+00   3.55184090e-14   8.42998021e-14 ...,   2.12179534e-14
+    2.61263369e-13   3.57131012e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.819614
+No. 2
+BG NUM             
+-3.711147
+No. 3
+BG new             
+-3.722958
+No. 4
+BG in             
+-3.833172
+No. 5
+BG us             
+-4.524611
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG new york            
+-5.221945
+No. 2
+BG in the            
+-6.047153
+No. 3
+BG in NUM            
+-6.310148
+No. 4
+BG the us            
+-6.487939
+No. 5
+BG NUM years            
+-6.589688
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG new york city           
+-6.544836
+No. 2
+BG new york times           
+-7.338717
+No. 3
+BG NUM years in           
+-8.676528
+No. 4
+BG NUM years NUM           
+-8.745047
+No. 5
+BG in the us           
+-9.067752
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG new york times NUM          
+-9.708309
+No. 2
+BG new york city is          
+-10.161779
+No. 3
+BG new york city in          
+-10.432202
+No. 4
+BG NUM years in the          
+-10.669969
+No. 5
+BG new york city has          
+-10.898051
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG new york times NUM years         
+-12.245507
+No. 2
+BG new york times NUM percent         
+-12.637330
+No. 3
+BG new york city in the         
+-12.701921
+No. 4
+BG new york times NUM million         
+-12.782790
+No. 5
+BG new york city has been         
+-12.848208
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG new york times NUM years in        
+-14.196904
+No. 2
+BG new york times NUM percent in        
+-14.620984
+No. 3
+BG new york times NUM years after        
+-14.815980
+No. 4
+BG new york times NUM years ago        
+-15.181398
+No. 5
+BG new york times NUM years NUM        
+-15.197730
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG new york times NUM years in the       
+-16.313636
+No. 2
+BG new york times NUM years in NUM       
+-16.646642
+No. 3
+BG new york times NUM percent in the       
+-16.681188
+No. 4
+BG new york times NUM percent in NUM       
+-16.918571
+No. 5
+BG new york times NUM years ago NUM       
+-17.002190
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG new york times NUM years in NUM years      
+-18.775547
+No. 2
+BG new york times NUM percent in NUM years      
+-19.123513
+No. 3
+BG new york times NUM years ago NUM years      
+-19.135858
+No. 4
+BG new york times NUM years in the us      
+-19.476271
+No. 5
+BG new york times NUM percent in the us      
+-19.695397
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG new york times NUM years in NUM years in     
+-20.894741
+No. 2
+BG new york times NUM percent in NUM years in     
+-21.099729
+No. 3
+BG new york times NUM years ago NUM years in     
+-21.278236
+No. 4
+BG new york times NUM years ago NUM years ago     
+-21.600153
+No. 5
+BG new york times NUM years in NUM years ago     
+-21.706153
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG new york times NUM years in NUM years in the    
+-23.026834
+No. 2
+BG new york times NUM percent in NUM years in the    
+-23.195451
+No. 3
+BG new york times NUM years ago NUM years in the    
+-23.425454
+No. 4
+BG new york times NUM years in NUM years in NUM    
+-23.478127
+No. 5
+BG new york times NUM percent in NUM years in NUM    
+-23.606350
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG new york times NUM years in NUM years in NUM years   
+-25.548898
+No. 2
+BG new york times NUM percent in NUM years in NUM years   
+-25.720232
+No. 3
+BG new york times NUM years in NUM years in the us   
+-25.997445
+No. 4
+BG new york times NUM percent in NUM years in the us   
+-26.121228
+No. 5
+BG new york times NUM years in NUM years in the world   
+-26.403649
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG new york times NUM years in NUM years in NUM years in  
+-28.174513
+No. 2
+BG new york times NUM percent in NUM years in NUM years in  
+-28.263270
+No. 3
+BG new york times NUM years in NUM years in NUM years ago  
+-28.493613
+No. 4
+BG new york times NUM percent in NUM years in NUM years ago  
+-28.716786
+No. 5
+BG new york times NUM years in NUM years in NUM years after  
+-29.118564
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG new york times NUM years in NUM years in NUM years in the 
+-30.491263
+No. 2
+BG new york times NUM percent in NUM years in NUM years in the 
+-30.556747
+No. 3
+BG new york times NUM years in NUM years in NUM years in NUM 
+-30.897567
+No. 4
+BG new york times NUM percent in NUM years in NUM years in NUM 
+-30.902997
+No. 5
+BG new york times NUM years in NUM years in NUM years ago NUM 
+-30.986875
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG us ED            
+-1.772853
+No. 2
+BG the us ED           
+-1.967617
+No. 3
+BG new york times NUM years in the us ED     
+-1.997457
+No. 4
+BG in the us ED          
+-2.011262
+No. 5
+BG new york times NUM years in NUM years ED     
+-2.013289
+Content:
+BG the global community has reached devastating new milestone ED                    
+
+BG according report released by the united refugee agency this morning the number people displaced by conflict at the end NUM was the highest ever even greater than the refugee
+
+BG by the end NUM some NUM ED                      
+
+BG NUM million people were forcibly displaced from their homes globally ED                  
+
+BG in that year alone an estimated NUM ED                     
+
+BG NUM million people were newly displaced according the report ED                   
+
+BG this means that for every minute in NUM an average NUM people left their communities because violence or persecution ED         

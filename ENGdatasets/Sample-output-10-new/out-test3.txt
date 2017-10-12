@@ -1,0 +1,612 @@
+Title:
+BG bill clinton meeting scandal is every clinton scandal in miniature ED    
+Teacher Forced Generated Title:
+hillary clinton is with over not ED ED ED ED ED    
+Distribution for each word in title:
+1:
+hillary: 0.148043
+the: 0.050847
+bill: 0.029585
+fbi: 0.027686
+clinton: 0.021439
+exclusive: 0.017101
+wikileaks: 0.016017
+huma: 0.014110
+why: 0.012238
+how: 0.011850
+* bill: 0.029585
+
+2:
+clinton: 0.693564
+hillary: 0.043343
+is: 0.018317
+on: 0.009815
+says: 0.007185
+ED: 0.006901
+bill: 0.006061
+was: 0.006004
+the: 0.005909
+for: 0.004010
+* clinton: 0.693564
+
+3:
+is: 0.039831
+says: 0.022911
+was: 0.017799
+foundation: 0.014163
+has: 0.013404
+email: 0.012228
+calls: 0.010909
+should: 0.010578
+hillary: 0.010428
+campaign: 0.009685
+* meeting: 0.001044
+
+4:
+with: 0.151153
+on: 0.020763
+was: 0.013083
+hillary: 0.012945
+is: 0.011935
+in: 0.011296
+the: 0.008294
+fbi: 0.007185
+ED: 0.007072
+her: 0.006266
+* scandal: 0.000480
+
+5:
+over: 0.038150
+ED: 0.037400
+about: 0.028543
+with: 0.028052
+on: 0.017853
+is: 0.011278
+that: 0.010926
+was: 0.009631
+in: 0.009288
+clinton: 0.008355
+* is: 0.011278
+
+6:
+not: 0.042476
+ED: 0.025464
+the: 0.009444
+going: 0.009374
+no: 0.008468
+hillary: 0.008215
+an: 0.007458
+coming: 0.006201
+about: 0.006168
+trying: 0.004953
+* every: 0.000173
+
+7:
+ED: 0.036363
+week: 0.015463
+year: 0.009709
+time: 0.008860
+NUM: 0.006266
+hillary: 0.004429
+fbi: 0.004184
+case: 0.004147
+worst: 0.003772
+the: 0.003752
+* clinton: 0.002737
+
+8:
+ED: 0.267904
+campaign: 0.021105
+foundation: 0.020825
+email: 0.014204
+in: 0.013606
+is: 0.009633
+on: 0.007936
+administration: 0.006347
+at: 0.006132
+was: 0.005830
+* scandal: 0.002090
+
+9:
+ED: 0.709227
+is: 0.008671
+in: 0.007770
+about: 0.007705
+over: 0.006811
+on: 0.004000
+scandal: 0.003856
+with: 0.003520
+was: 0.003262
+case: 0.002828
+* in: 0.007770
+
+10:
+ED: 0.088118
+the: 0.054180
+NUM: 0.029141
+his: 0.016171
+her: 0.009887
+america: 0.007265
+new: 0.006499
+hillary: 0.005207
+an: 0.004922
+case: 0.004735
+* miniature: 0.000001
+
+11:
+ED: 0.171518
+house: 0.008062
+video: 0.005866
+york: 0.005851
+campaign: 0.005594
+white: 0.005205
+office: 0.005118
+case: 0.004996
+news: 0.004293
+history: 0.004090
+* ED: 0.171518
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+assault: 0.000000
+than: 0.000000
+claims: 0.000000
+case: 0.000000
+scandal: 0.000000
+bill: 0.000000
+harassment: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+assault: 0.000000
+than: 0.000000
+claims: 0.000000
+case: 0.000000
+scandal: 0.000000
+bill: 0.000000
+harassment: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+assault: 0.000000
+than: 0.000000
+claims: 0.000000
+case: 0.000000
+scandal: 0.000000
+bill: 0.000000
+harassment: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+assault: 0.000000
+than: 0.000000
+claims: 0.000000
+case: 0.000000
+scandal: 0.000000
+bill: 0.000000
+harassment: 0.000000
+* : 1.000000
+
+
+Perplexity = 4.255159
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0267334  -0.09082031  0.02783203 ..., -0.11669922 -0.02941895
+  -0.07080078]
+ [-0.15136719 -0.0324707   0.14257812 ..., -0.21582031  0.06176758
+  -0.18457031]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ 0.13882145  0.07865496  0.25353175 ..., -0.1535202  -0.12510739
+    0.4278582 ]
+  [ 0.32188112  0.05085457  0.19366778 ..., -0.1617621  -0.00769083
+    0.52515692]
+  [ 0.269741    0.05964952  0.33166099 ..., -0.05495916  0.16556798
+    0.59063774]
+  ..., 
+  [ 0.09529243 -0.1616196   0.13236402 ..., -0.14308415  0.1463078
+    0.18318954]
+  [ 0.09318312 -0.16146073  0.13160619 ..., -0.13434075  0.13704987
+    0.18192552]
+  [ 0.09313954 -0.1602044   0.13102567 ..., -0.12631309  0.12788941
+    0.18099469]]
+
+ [[-0.08098    -0.53134775  0.00402124 ...,  0.40355575 -0.31593257
+    0.48042506]
+  [ 0.01501616 -0.38920146 -0.10179537 ...,  0.36130595 -0.20849097
+    0.57574564]
+  [-0.18388166 -0.45442122 -0.26248986 ...,  0.37670666 -0.23283403
+    0.48574027]
+  ..., 
+  [-0.10867904  0.01159753  0.11848488 ...,  0.11187735 -0.08399488
+   -0.2131685 ]
+  [-0.10799165  0.00796419  0.11549758 ...,  0.11571434 -0.08650689
+   -0.21823819]
+  [-0.10537502  0.00504314  0.11280142 ...,  0.11916333 -0.08925745
+   -0.22248402]]
+
+ [[ 0.10014179 -0.35941964  0.31059718 ..., -0.05095521 -0.0355899
+    0.41676429]
+  [ 0.22920986 -0.38007903  0.22681911 ..., -0.06196871 -0.0074849
+    0.39511955]
+  [ 0.20822744 -0.29653507  0.16112924 ..., -0.01028021 -0.09878094
+    0.5085001 ]
+  ..., 
+  [ 0.33194155 -0.21066055  0.04873006 ..., -0.26070437 -0.22610942
+   -0.38518092]
+  [ 0.32091025 -0.19448581  0.02008983 ..., -0.12192757 -0.2539787
+   -0.2679989 ]
+  [ 0.28005174 -0.2036134  -0.1520949  ..., -0.09256911 -0.15320534
+   -0.461384  ]]
+
+ ..., 
+ [[-0.40259668 -0.06442645  0.14088978 ...,  0.01584285 -0.27340901
+    0.3942661 ]
+  [-0.19490303 -0.08113359  0.10926667 ...,  0.00750628 -0.23457201
+    0.43138415]
+  [-0.36219206 -0.22283773  0.15289004 ...,  0.17366135 -0.05642943
+    0.42985624]
+  ..., 
+  [-0.03461633 -0.07089344 -0.16786788 ...,  0.04624114 -0.03733997
+   -0.04528891]
+  [-0.03644704 -0.07094668 -0.16231051 ...,  0.05093189 -0.04061507
+   -0.05711478]
+  [-0.03648608 -0.07021774 -0.15627162 ...,  0.05553252 -0.04432727
+   -0.06804286]]
+
+ [[-0.21798743  0.22483124  0.38084626 ..., -0.10245349 -0.12434693
+    0.26390085]
+  [-0.00868407  0.23126018  0.32974249 ..., -0.21856055 -0.08728547
+    0.29113689]
+  [-0.00605005 -0.101735    0.37318712 ..., -0.26287505 -0.03898512
+    0.29047745]
+  ..., 
+  [-0.08411281  0.07179883  0.05192249 ...,  0.08051833 -0.05302189
+    0.00192274]
+  [-0.08372892  0.06436759  0.04793972 ...,  0.08467166 -0.05691034
+   -0.01221645]
+  [-0.08148834  0.05783632  0.04460521 ...,  0.08854465 -0.06096685
+   -0.02540603]]
+
+ [[-0.01641934 -0.11856078  0.36683029 ...,  0.69708788 -0.01397838
+    0.4426963 ]
+  [-0.05639518 -0.16901563  0.43689728 ...,  0.73768675  0.09396397
+    0.39805049]
+  [-0.26676223 -0.01085083  0.33629268 ...,  0.23230708 -0.01832923
+    0.2458133 ]
+  ..., 
+  [-0.1021705  -0.04309275 -0.02898429 ...,  0.12378302 -0.0795076
+   -0.18023619]
+  [-0.10058345 -0.04677763 -0.02870013 ...,  0.12537849 -0.08154603
+   -0.18983303]
+  [-0.09724551 -0.04939671 -0.0278814  ...,  0.1268654  -0.08393437
+   -0.19817694]]]
+encode_h2:
+[[ 0.56870836  2.25777006  4.24367619 ..., -5.07013941  0.69022721
+  -5.56556463]
+ [ 0.98501331  0.60197413  5.51290798 ..., -3.92152476  0.43970758
+  -5.43024826]
+ [ 0.15590887  0.47629187  6.97269821 ..., -2.52027321  0.38054827
+  -5.33768129]
+ ..., 
+ [-0.04590506  0.487836    5.95890093 ..., -0.60299951  1.4834162
+  -4.62016535]
+ [-1.38119149  0.83409172  5.71771955 ..., -0.89458054  1.96403658
+  -4.29734087]
+ [-1.79939842  1.08278322  5.13356113 ..., -0.231626    2.20409322
+  -2.68573761]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.04785156  0.15429688 -0.11767578 ..., -0.29492188  0.25195312
+   0.12597656]
+ [-0.06884766  0.38085938 -0.02600098 ..., -0.27734375 -0.046875
+   0.17675781]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.45137718 -0.5830251  -0.39758632 ...,  2.60059977 -0.69002897
+   0.65091342]
+ [ 0.35071436  0.88405633 -0.40709195 ...,  2.60059977  0.0659587
+  -0.00441564]
+ [ 0.82937098  0.48766074  0.02483964 ...,  2.60059977 -0.71327066
+   0.38170952]
+ ..., 
+ [-0.37003443  0.91242081 -0.3466863  ...,  1.23754346 -0.20041028
+   0.76832157]
+ [-0.37003443  0.91242081 -0.3466863  ...,  1.23754346 -0.20041028
+   0.76832157]
+ [-0.37003443  0.91242081 -0.3466863  ...,  1.23754346 -0.20041028
+   0.76832157]]
+output_dstrb:
+[[  2.15042883e-06   5.63260549e-08   4.15195018e-07 ...,   3.08700763e-08
+    9.52562259e-05   5.67953364e-08]
+ [  1.54656703e-07   8.49852899e-09   7.60836514e-08 ...,   4.94238250e-09
+    1.82282620e-05   8.34593994e-09]
+ [  1.55406701e-06   4.01865464e-07   2.01526314e-06 ...,   2.59485347e-07
+    1.44992227e-04   4.28848836e-07]
+ ..., 
+ [  9.99999881e-01   8.84812243e-13   2.25799544e-12 ...,   6.92922499e-13
+    7.07703644e-12   8.94122667e-13]
+ [  9.99999881e-01   8.84812243e-13   2.25799544e-12 ...,   6.92922499e-13
+    7.07703644e-12   8.94122667e-13]
+ [  1.00000000e+00   8.84812351e-13   2.25799566e-12 ...,   6.92922607e-13
+    7.07703731e-12   8.94122775e-13]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG hillary             
+-1.910250
+No. 2
+BG the             
+-2.978932
+No. 3
+BG bill             
+-3.520499
+No. 4
+BG fbi             
+-3.586818
+No. 5
+BG clinton             
+-3.842545
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG hillary clinton            
+-2.372777
+No. 2
+BG bill clinton            
+-3.886411
+No. 3
+BG fbi director            
+-5.007030
+No. 4
+BG the hillary            
+-5.811045
+No. 5
+BG hillary hillary            
+-5.959254
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG hillary clinton is           
+-5.683849
+No. 2
+BG hillary clinton says           
+-6.118039
+No. 3
+BG hillary clinton was           
+-6.356289
+No. 4
+BG hillary clinton email           
+-6.384241
+No. 5
+BG hillary clinton foundation           
+-6.473639
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG hillary clinton says she          
+-7.816245
+No. 2
+BG hillary clinton says he          
+-8.073919
+No. 3
+BG hillary clinton is not          
+-8.951133
+No. 4
+BG hillary clinton was not          
+-9.804133
+No. 5
+BG hillary clinton is going          
+-10.041669
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG hillary clinton says she was         
+-9.708725
+No. 2
+BG hillary clinton says he was         
+-9.974349
+No. 3
+BG hillary clinton says she is         
+-11.013595
+No. 4
+BG hillary clinton says she will         
+-11.230758
+No. 5
+BG hillary clinton says he is         
+-11.335977
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG hillary clinton says she was not        
+-12.973522
+No. 2
+BG hillary clinton says he was not        
+-13.212091
+No. 3
+BG hillary clinton says she will be        
+-13.503818
+No. 4
+BG hillary clinton says she will not        
+-14.065378
+No. 5
+BG hillary clinton says she was an        
+-14.081618
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG hillary clinton says she was not not       
+-16.314408
+No. 2
+BG hillary clinton says she will not be       
+-16.386644
+No. 3
+BG hillary clinton says he was not not       
+-16.544093
+No. 4
+BG hillary clinton says she was not be       
+-16.555940
+No. 5
+BG hillary clinton says he was not be       
+-16.774648
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG hillary clinton says she was not not be      
+-19.238918
+No. 2
+BG hillary clinton says he was not not be      
+-19.453561
+No. 3
+BG hillary clinton says she was not not not      
+-19.567356
+No. 4
+BG hillary clinton says he was not not not      
+-19.779325
+No. 5
+BG hillary clinton says she was not not about      
+-20.217913
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG hillary clinton says she was not not not be     
+-22.409710
+No. 2
+BG hillary clinton says he was not not not be     
+-22.600701
+No. 3
+BG hillary clinton says she was not not not not     
+-22.871060
+No. 4
+BG hillary clinton says she was not not about the     
+-23.021712
+No. 5
+BG hillary clinton says he was not not not not     
+-23.064763
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG hillary clinton says she was not not not not be    
+-25.701703
+No. 2
+BG hillary clinton says he was not not not not be    
+-25.874205
+No. 3
+BG hillary clinton says she was not not not not not    
+-26.190374
+No. 4
+BG hillary clinton says she was not not not be the    
+-26.240826
+No. 5
+BG hillary clinton says he was not not not not not    
+-26.364728
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG hillary clinton says she was not not not not not be   
+-29.043427
+No. 2
+BG hillary clinton says he was not not not not not be   
+-29.197723
+No. 3
+BG hillary clinton says she was not not not not be the   
+-29.503256
+No. 4
+BG hillary clinton says she was not not not not not not   
+-29.521236
+No. 5
+BG hillary clinton says he was not not not not be the   
+-29.634217
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG hillary clinton says she was not not not not not not be  
+-32.418764
+No. 2
+BG hillary clinton says she was not not not not not be the  
+-32.845631
+No. 3
+BG hillary clinton says she was not not not not not not not  
+-32.871246
+No. 4
+BG hillary clinton says he was not not not not not be the  
+-32.966989
+No. 5
+BG hillary clinton says she was not not not not not be not  
+-33.099428
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG hillary clinton says she was not not not not not not not be 
+-35.821712
+No. 2
+BG hillary clinton says she was not not not not not not be the 
+-36.235275
+No. 3
+BG hillary clinton says she was not not not not not not not not 
+-36.248128
+No. 4
+BG hillary clinton says she was not not not not not be not be 
+-36.266847
+No. 5
+BG hillary clinton says she was not not not not not be not not 
+-36.467735
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG hillary clinton says she was not not ED      
+-2.147847
+No. 2
+BG hillary clinton says she was not be ED      
+-2.158446
+No. 3
+BG hillary clinton says he was not not ED      
+-2.168273
+No. 4
+BG hillary clinton says she was not not be ED     
+-2.171035
+No. 5
+BG hillary clinton says he was not be ED      
+-2.178498
+Content:
+BG on monday night attorney general lynch former president bill clinton were both at the phoenix airport waiting on the tarmac ED        
+
+BG lynch said that clinton then walked her plane say hi ED                  
+
+BG did come over say she said at news conference on wednesday speak my husband myself talk about his grandchildren his travels things like the whole incident might be banal
+
+BG even though lynch others present for the conversation say the two discuss any department justice cases certainly not the clinton case doing nothing calm criticism from republicans ED 
+
+BG as bernie sanders said hillary clinton has bad ED                    
+
+BG meeting was probably initiated demanded by hillary ED                     
+
+BG donald j ED                          

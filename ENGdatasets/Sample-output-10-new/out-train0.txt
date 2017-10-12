@@ -1,0 +1,615 @@
+Title:
+BG exclusive rep ED            
+Teacher Forced Generated Title:
+paul paul paul            
+Distribution for each word in title:
+1:
+paul: 0.297102
+ryan: 0.234140
+trump: 0.045489
+gop: 0.021166
+rep: 0.015947
+mike: 0.010868
+pence: 0.010210
+house: 0.008505
+republican: 0.008027
+donald: 0.007533
+* exclusive: 0.007359
+
+2:
+paul: 0.197023
+house: 0.078509
+ryan: 0.040070
+trump: 0.036140
+gop: 0.034382
+republican: 0.016344
+rep: 0.011927
+chief: 0.010163
+pence: 0.009201
+senate: 0.007518
+* rep: 0.011927
+
+3:
+paul: 0.180095
+trump: 0.136559
+ED: 0.126625
+on: 0.036272
+says: 0.033526
+for: 0.033380
+is: 0.019077
+pence: 0.018897
+ryan: 0.016701
+gop: 0.013535
+* ED: 0.126625
+
+4:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+5:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+6:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+7:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+8:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+9:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+10:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+11:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+12:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+13:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+14:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+15:
+: 0.999988
+ryan: 0.000001
+paul: 0.000001
+ED: 0.000001
+trump: 0.000001
+pence: 0.000000
+is: 0.000000
+on: 0.000000
+pick: 0.000000
+says: 0.000000
+* : 0.999988
+
+
+Perplexity = 0.760493
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [ 0.01116943 -0.16308594  0.01373291 ...,  0.1796875   0.23828125
+   0.05664062]
+ ..., 
+ [ 0.04882812  0.16699219  0.16894531 ..., -0.22949219 -0.00970459
+  -0.09570312]
+ [-0.22851562 -0.08837891  0.12792969 ..., -0.21289062  0.18847656
+  -0.14550781]
+ [ 0.40039062 -0.18457031  0.11328125 ..., -0.21386719  0.15234375
+   0.13769531]]
+encode_h1:
+[[[  6.27166152e-01   7.80326314e-03   1.17500961e+00 ...,  -3.99944007e-01
+     5.70324242e-01  -2.32566699e-01]
+  [  7.93975234e-01   2.43237782e-02   1.14128685e+00 ...,  -3.92477751e-01
+     6.01037085e-01  -2.66757965e-01]
+  [  8.23918283e-01  -2.04602614e-01   1.05522406e+00 ...,  -3.85182619e-01
+     7.14146733e-01  -3.24800313e-01]
+  ..., 
+  [  9.43062007e-02  -6.29881397e-02   6.44803513e-03 ...,  -1.22669227e-01
+     3.09010819e-02  -4.61074524e-04]
+  [  8.52940977e-02  -5.99051937e-02   1.28395241e-02 ...,  -1.05891883e-01
+     2.59628259e-02  -1.03050191e-03]
+  [  7.72316158e-02  -5.43060601e-02   1.90852638e-02 ...,  -8.97200853e-02
+     1.91034228e-02  -2.01233383e-03]]
+
+ [[  1.66150406e-01   6.92977011e-01   3.72561038e-01 ...,  -2.10166544e-01
+     1.10239908e-02  -1.84267715e-01]
+  [  3.22409064e-01   7.09205627e-01   3.13325882e-01 ...,  -2.13372320e-01
+     6.30886555e-02  -2.27030098e-01]
+  [  3.04799974e-01   8.61260653e-01   2.97516108e-01 ...,  -3.84660810e-01
+     9.88454372e-02  -1.38513893e-01]
+  ..., 
+  [  1.04125187e-01  -5.66624478e-02   5.97819798e-02 ...,  -9.15783569e-02
+     1.11122474e-01   3.66928697e-01]
+  [  1.02210626e-01  -5.63947707e-02   5.44566810e-02 ...,  -8.61338526e-02
+     1.03904560e-01   3.63085806e-01]
+  [  1.02131307e-01  -5.62114790e-02   4.90176603e-02 ...,  -8.08150396e-02
+     9.63578522e-02   3.58821094e-01]]
+
+ [[ -4.32531647e-02   1.89491361e-01   4.61952150e-01 ...,  -2.72880763e-01
+     8.85906070e-02  -8.97021964e-02]
+  [  5.74540608e-02   1.71390966e-01   3.14048946e-01 ...,  -3.47868085e-01
+     1.39379129e-01  -1.07004069e-01]
+  [  1.26036346e-01   3.09093416e-01   2.39767164e-01 ...,  -2.44024590e-01
+    -4.37071323e-02  -1.67241842e-01]
+  ..., 
+  [ -9.71510857e-02  -2.03209110e-02   7.13652000e-03 ...,   1.15093917e-01
+    -7.53419399e-02  -1.48310527e-01]
+  [ -9.58682299e-02  -2.51619481e-02   5.81749994e-03 ...,   1.17392294e-01
+    -7.76881278e-02  -1.58599794e-01]
+  [ -9.27796513e-02  -2.89643630e-02   5.07376064e-03 ...,   1.19507559e-01
+    -8.03455859e-02  -1.67715251e-01]]
+
+ ..., 
+ [[ -2.84098405e-02  -2.29031608e-01   5.67129672e-01 ...,   3.38959545e-02
+     1.27228022e-01   1.28583372e-01]
+  [  1.15217060e-01  -1.28153428e-01   5.68135202e-01 ...,   4.52294461e-02
+     1.92949399e-01   2.25506365e-01]
+  [ -2.14810669e-02  -3.22654307e-01   5.08834541e-01 ...,   1.49981782e-01
+     2.48372242e-01   8.77801329e-02]
+  ..., 
+  [ -9.01898444e-02  -8.70676897e-03  -5.58154359e-02 ...,   9.52264220e-02
+    -7.09308684e-02  -1.34051293e-01]
+  [ -9.05679464e-02  -1.20741390e-02  -5.35006300e-02 ...,   9.92345139e-02
+    -7.37533569e-02  -1.45045325e-01]
+  [ -8.90383124e-02  -1.45352203e-02  -5.08895963e-02 ...,   1.02954894e-01
+    -7.68658444e-02  -1.54896438e-01]]
+
+ [[  4.68681812e-01  -2.83495903e-01   6.87319458e-01 ...,  -8.94344822e-02
+     1.56888202e-01  -2.77313679e-01]
+  [  5.84238350e-01  -3.40763688e-01   6.11002088e-01 ...,  -2.34759465e-01
+     2.59883791e-01  -3.72794122e-01]
+  [  3.92746329e-01  -4.66265738e-01   5.40638387e-01 ...,  -3.13074768e-01
+     2.05832988e-01  -3.27490032e-01]
+  ..., 
+  [ -6.54996932e-02  -3.21080051e-02   1.18687145e-01 ...,   6.19454980e-02
+    -5.60053885e-02  -1.84484482e-01]
+  [ -6.64825737e-02  -3.36272717e-02   1.16112828e-01 ...,   6.87770322e-02
+    -5.98044805e-02  -1.89620137e-01]
+  [ -6.54893070e-02  -3.46782170e-02   1.13770552e-01 ...,   7.50964731e-02
+    -6.38280660e-02  -1.93888918e-01]]
+
+ [[ -7.11047947e-02   3.50800693e-01   7.75012851e-01 ...,  -3.42166305e-01
+     1.90172195e-01  -2.64797240e-01]
+  [  6.10917844e-02   3.21541905e-01   7.06886590e-01 ...,  -2.94062614e-01
+     3.12467605e-01  -3.65414739e-01]
+  [  2.74243280e-02   5.24669468e-01   6.46290720e-01 ...,  -4.01461989e-01
+     7.65089393e-02  -2.58532554e-01]
+  ..., 
+  [  5.26065826e-01  -1.15683392e-01   2.21624836e-01 ...,  -4.41530079e-01
+     2.08061635e-01   4.14187938e-01]
+  [  4.32750493e-01  -1.81130782e-01   1.94463447e-01 ...,  -3.07217956e-01
+     9.13712084e-02   5.74845016e-01]
+  [  2.65737951e-01  -2.25238010e-01   9.81963873e-02 ...,  -2.85529196e-01
+     1.13399282e-01   5.81350863e-01]]]
+encode_h2:
+[[-0.91026652 -0.30691418  4.83790731 ..., -0.91227126 -2.25426674
+  -6.30329418]
+ [-1.22908068  0.87374341  3.84705162 ...,  0.75578004 -0.76572937
+  -5.97505951]
+ [-1.66309142  0.64469218  3.73924422 ...,  1.02194726 -1.03008533
+  -5.93844271]
+ ..., 
+ [-2.85182643  1.38319838  3.7496388  ...,  0.55139297 -0.74591571
+  -4.9493351 ]
+ [-2.5629282   1.69713104  3.05463338 ...,  0.08217748 -0.1049722
+  -4.43622017]
+ [-2.70206213  1.61685383  2.40673709 ...,  0.90415221  0.73728722
+  -1.92180908]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.11132812 -0.0234375  -0.30078125 ...,  0.09228516 -0.20507812
+  -0.15039062]
+ [ 0.00765991  0.03369141 -0.34570312 ...,  0.02416992  0.03955078
+  -0.09472656]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 1.29279971 -0.66473937 -0.41278458 ..., -0.99400711 -0.71955121
+  -1.8396188 ]
+ [ 1.29279971 -0.44947052 -0.14674474 ..., -0.85310417 -0.14254153
+  -0.7087667 ]
+ [ 1.29279971  0.56948686 -0.07358901 ..., -0.85962373  0.66077077
+   0.27519619]
+ ..., 
+ [ 1.16071153  0.8929323   0.12503576 ..., -0.89121926 -0.49078664
+   0.31109092]
+ [ 1.16071153  0.8929323   0.12503576 ..., -0.89121926 -0.49078664
+   0.31109092]
+ [ 1.16071153  0.8929323   0.12503576 ..., -0.89121926 -0.49078664
+   0.31109092]]
+output_dstrb:
+[[  2.82503635e-07   2.52012047e-08   1.04399142e-07 ...,   1.12655822e-08
+    3.92604088e-05   2.27991155e-08]
+ [  4.49354928e-07   2.12150439e-08   1.26878092e-07 ...,   1.21915615e-08
+    1.16256138e-04   1.94664587e-08]
+ [  5.56184681e-08   3.47919227e-09   2.52211478e-08 ...,   3.53377261e-09
+    4.81703100e-05   2.88778668e-09]
+ ..., 
+ [  9.99988317e-01   4.54374196e-13   7.79744498e-12 ...,   4.52342075e-13
+    1.91337257e-09   4.05782450e-13]
+ [  9.99988437e-01   4.54374250e-13   7.79744585e-12 ...,   4.52342130e-13
+    1.91337279e-09   4.05782504e-13]
+ [  9.99988317e-01   4.54374196e-13   7.79744498e-12 ...,   4.52342075e-13
+    1.91337257e-09   4.05782450e-13]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG paul             
+-1.213678
+No. 2
+BG ryan             
+-1.451835
+No. 3
+BG trump             
+-3.090279
+No. 4
+BG gop             
+-3.855357
+No. 5
+BG rep             
+-4.138484
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG paul ryan            
+-1.274377
+No. 2
+BG ryan ryan            
+-3.624778
+No. 3
+BG ryan paul            
+-3.859592
+No. 4
+BG trump paul            
+-4.242415
+No. 5
+BG ryan on            
+-4.295963
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG paul ryan ryan           
+-3.610693
+No. 2
+BG paul ryan on           
+-3.935201
+No. 3
+BG ryan paul ryan           
+-4.008776
+No. 4
+BG paul ryan paul           
+-4.116706
+No. 5
+BG trump paul ryan           
+-4.336376
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG paul ryan paul ryan          
+-4.343898
+No. 2
+BG paul ryan on trump          
+-6.294793
+No. 3
+BG paul ryan ryan on          
+-6.300311
+No. 4
+BG paul ryan ryan ryan          
+-6.414215
+No. 5
+BG ryan paul ryan ryan          
+-6.737356
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG paul ryan paul ryan is         
+-6.998481
+No. 2
+BG paul ryan paul ryan on         
+-7.054370
+No. 3
+BG paul ryan paul ryan ryan         
+-7.435742
+No. 4
+BG paul ryan paul ryan trump         
+-8.013232
+No. 5
+BG paul ryan paul ryan will         
+-8.155004
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG paul ryan paul ryan on the        
+-9.306415
+No. 2
+BG paul ryan paul ryan on trump        
+-9.555093
+No. 3
+BG paul ryan paul ryan is not        
+-9.813626
+No. 4
+BG paul ryan paul ryan ryan on        
+-9.835928
+No. 5
+BG paul ryan paul ryan is the        
+-10.075733
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG paul ryan paul ryan ryan on the       
+-11.924381
+No. 2
+BG paul ryan paul ryan on the gop       
+-12.363424
+No. 3
+BG paul ryan paul ryan ryan on trump       
+-12.630445
+No. 4
+BG paul ryan paul ryan on trump is       
+-12.806392
+No. 5
+BG paul ryan paul ryan is not not       
+-12.977148
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG paul ryan paul ryan on the gop health      
+-14.610877
+No. 2
+BG paul ryan paul ryan ryan on the gop      
+-15.215634
+No. 3
+BG paul ryan paul ryan on trump is not      
+-15.457346
+No. 4
+BG paul ryan paul ryan on trump is the      
+-15.706302
+No. 5
+BG paul ryan paul ryan ryan on trump is      
+-15.889333
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG paul ryan paul ryan on the gop health care     
+-15.180599
+No. 2
+BG paul ryan paul ryan on the gop health bill     
+-17.312099
+No. 3
+BG paul ryan paul ryan ryan on the gop health     
+-17.373322
+No. 4
+BG paul ryan paul ryan on the gop health secretary     
+-17.985860
+No. 5
+BG paul ryan paul ryan on the gop health plan     
+-18.073764
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG paul ryan paul ryan on the gop health care bill    
+-17.556549
+No. 2
+BG paul ryan paul ryan ryan on the gop health care    
+-17.918001
+No. 3
+BG paul ryan paul ryan on the gop health care is    
+-18.775120
+No. 4
+BG paul ryan paul ryan on the gop health care care    
+-18.964367
+No. 5
+BG paul ryan paul ryan on the gop health care for    
+-19.574503
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG paul ryan paul ryan ryan on the gop health care bill   
+-20.396070
+No. 2
+BG paul ryan paul ryan on the gop health care bill is   
+-20.819520
+No. 3
+BG paul ryan paul ryan ryan on the gop health care is   
+-21.768215
+No. 4
+BG paul ryan paul ryan on the gop health care is the   
+-21.804506
+No. 5
+BG paul ryan paul ryan ryan on the gop health care care   
+-21.878098
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG paul ryan paul ryan on the gop health care bill is the  
+-23.970374
+No. 2
+BG paul ryan paul ryan ryan on the gop health care bill is  
+-24.028604
+No. 3
+BG paul ryan paul ryan on the gop health care bill is not  
+-24.196935
+No. 4
+BG paul ryan paul ryan ryan on the gop health care is the  
+-24.830570
+No. 5
+BG paul ryan paul ryan on the gop health care bill is going  
+-24.991293
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG paul ryan paul ryan ryan on the gop health care bill is the 
+-27.187765
+No. 2
+BG paul ryan paul ryan ryan on the gop health care bill is not 
+-27.543074
+No. 3
+BG paul ryan paul ryan on the gop health care bill is not the 
+-28.134774
+No. 4
+BG paul ryan paul ryan on the gop health care bill is not not 
+-28.239703
+No. 5
+BG paul ryan paul ryan on the gop health care bill is the next 
+-28.264087
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG paul ryan paul ryan on the gop health care ED    
+-1.442651
+No. 2
+BG paul ryan paul ryan on the gop health care bill ED   
+-1.476692
+No. 3
+BG paul ryan paul ryan ryan on the gop health care ED   
+-1.536131
+No. 4
+BG paul ryan paul ryan ryan on the gop health care bill ED  
+-1.577294
+No. 5
+BG paul ryan paul ryan on the gop health bill ED    
+-1.598984
+Content:
+BG the chairman the house freedom caucus spoke news on thursday after his meeting with speaker paul ryan three senior aides president trump ED      
+
+BG the topic was the final attempt modify the american health care act before the house vote on friday ED          
+
+BG principles deal have been defined an ED                      
+
+BG the details the agreement are the most fundamental question that is what we are working said rep ED           
+
+BG mark meadows who met with stephen k ED                     
+
+BG president chief strategist his chief staff mick his budget director ED                  
+
+BG meadows said the house freedom caucus welcomed the compromise from the president that the essential health benefits provision in the NUM patient protection affordable care act will be stripped

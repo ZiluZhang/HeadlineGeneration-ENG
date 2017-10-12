@@ -11,7 +11,8 @@ from gensim.models import KeyedVectors
 #   Loop eliminating punc_ptrn
 
 # wv = KeyedVectors.load('SohuNews_w2v_CHN_300.bin')
-wv = KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300-SLIM.bin', binary=True)
+# wv = KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300-SLIM.bin', binary=True)
+wv = KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
 
 input_dir = 'Raw_data'
 output_dir = 'Fmt_data_divsens'

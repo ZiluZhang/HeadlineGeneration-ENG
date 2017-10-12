@@ -1,0 +1,615 @@
+Title:
+BG james reportedly believes trump was trying influence him ED      
+Teacher Forced Generated Title:
+trump sessions trump trump russia not be ED ED      
+Distribution for each word in title:
+1:
+trump: 0.308814
+donald: 0.079681
+white: 0.025708
+the: 0.024170
+former: 0.024114
+fbi: 0.023076
+james: 0.019383
+michael: 0.016817
+conway: 0.014088
+sessions: 0.012950
+* james: 0.019383
+
+2:
+sessions: 0.083840
+on: 0.032579
+trump: 0.031499
+says: 0.029120
+house: 0.021575
+james: 0.016253
+lawyer: 0.014558
+fbi: 0.013135
+fires: 0.011943
+officials: 0.008652
+* reportedly: 0.005526
+
+3:
+trump: 0.038472
+fbi: 0.022364
+russia: 0.016765
+russian: 0.012746
+says: 0.010585
+was: 0.010130
+james: 0.009167
+chief: 0.009111
+no: 0.009035
+told: 0.007625
+* believes: 0.000140
+
+4:
+trump: 0.194843
+he: 0.145931
+fbi: 0.032484
+russia: 0.026615
+not: 0.021804
+that: 0.017961
+russian: 0.015467
+about: 0.014852
+no: 0.014541
+she: 0.010286
+* trump: 0.194843
+
+5:
+russia: 0.052054
+is: 0.035692
+was: 0.033036
+will: 0.026085
+campaign: 0.019611
+has: 0.015882
+team: 0.013686
+says: 0.013677
+russian: 0.009095
+should: 0.008567
+* was: 0.033036
+
+6:
+not: 0.043904
+ED: 0.033838
+russia: 0.023300
+fbi: 0.022631
+no: 0.012740
+russian: 0.011292
+his: 0.010903
+the: 0.008426
+an: 0.008404
+on: 0.006570
+* trying: 0.005634
+
+7:
+be: 0.101634
+ED: 0.032221
+russia: 0.024787
+not: 0.021917
+have: 0.019752
+get: 0.018380
+him: 0.015341
+for: 0.013282
+fbi: 0.012087
+make: 0.010436
+* influence: 0.000440
+
+8:
+ED: 0.293235
+on: 0.124218
+in: 0.077764
+the: 0.064639
+russia: 0.044010
+with: 0.031173
+from: 0.012984
+at: 0.012570
+over: 0.009663
+for: 0.009567
+* him: 0.005026
+
+9:
+ED: 0.641788
+russia: 0.025311
+in: 0.018988
+on: 0.018879
+with: 0.010205
+from: 0.009570
+for: 0.009112
+says: 0.008387
+trump: 0.006880
+the: 0.006737
+* ED: 0.641788
+
+10:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+russia: 0.000000
+director: 0.000000
+investigation: 0.000000
+says: 0.000000
+claims: 0.000000
+evidence: 0.000000
+russian: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+russia: 0.000000
+director: 0.000000
+investigation: 0.000000
+says: 0.000000
+claims: 0.000000
+evidence: 0.000000
+russian: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+russia: 0.000000
+director: 0.000000
+investigation: 0.000000
+says: 0.000000
+claims: 0.000000
+evidence: 0.000000
+russian: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+russia: 0.000000
+director: 0.000000
+investigation: 0.000000
+says: 0.000000
+claims: 0.000000
+evidence: 0.000000
+russian: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+russia: 0.000000
+director: 0.000000
+investigation: 0.000000
+says: 0.000000
+claims: 0.000000
+evidence: 0.000000
+russian: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+russia: 0.000000
+director: 0.000000
+investigation: 0.000000
+says: 0.000000
+claims: 0.000000
+evidence: 0.000000
+russian: 0.000000
+* : 1.000000
+
+
+Perplexity = 2.780462
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.02062988  0.16796875  0.1875     ..., -0.09375    -0.06591797
+   0.13183594]
+ [-0.00411987  0.1171875   0.18945312 ..., -0.28515625 -0.03613281
+   0.09814453]
+ ..., 
+ [-0.02490234  0.02197266 -0.03540039 ...,  0.01080322 -0.01879883
+  -0.06884766]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.01348877 -0.12011719  0.14453125 ...,  0.26757812  0.24023438
+   0.07910156]]
+encode_h1:
+[[[ 0.57661313 -0.35169381  0.47300833 ..., -0.11808526  0.34696442
+    0.22808148]
+  [ 0.75439829 -0.43660641  0.35754931 ..., -0.18425258  0.41021916
+    0.19603369]
+  [ 0.67630583 -0.49965501  0.46765357 ..., -0.16434419  0.53378761
+    0.12624675]
+  ..., 
+  [ 0.00860814 -0.26310807  0.34744608 ..., -0.14262123 -0.03987277
+   -0.50189555]
+  [ 0.01804684 -0.26130927  0.34268886 ..., -0.14105278 -0.04814153
+   -0.50944322]
+  [ 0.02659417 -0.25962901  0.33762139 ..., -0.13892403 -0.05505213
+   -0.51635867]]
+
+ [[ 0.38076606  0.3842352   0.54659444 ..., -0.40672421  0.25845924
+    0.09449558]
+  [ 0.49403     0.43240827  0.57567322 ..., -0.41005403  0.30120724
+    0.17436357]
+  [ 0.58530992  0.48819411  0.49577224 ..., -0.371649    0.3575879
+    0.33823273]
+  ..., 
+  [ 0.03217302  0.28337383  0.2501902  ..., -0.3541173  -0.13404205
+   -0.07616436]
+  [-0.01172691 -0.14285734  0.20608565 ..., -0.28484327 -0.2106714
+   -0.16856512]
+  [-0.28892392 -0.27883548  0.27489477 ..., -0.12613314 -0.27272677
+    0.02365598]]
+
+ [[ 0.00082364  0.2383146   0.34414262 ..., -0.60631734 -0.01878847
+   -0.29041904]
+  [ 0.05993673  0.12579522  0.32635552 ..., -0.68502289  0.00424809
+   -0.2408686 ]
+  [ 0.13929552  0.35172993  0.27615899 ..., -0.74370581 -0.1675214
+   -0.01842187]
+  ..., 
+  [-0.04442011 -0.02785417  0.19984846 ...,  0.02791635 -0.00908828
+   -0.06708579]
+  [-0.04476639 -0.02997193  0.19516018 ...,  0.0344949  -0.01313653
+   -0.07260263]
+  [-0.04310616 -0.03160271  0.19043374 ...,  0.04068987 -0.01772007
+   -0.07749505]]
+
+ ..., 
+ [[ 0.36843812  0.17255481  0.47567749 ...,  0.11035163  0.19425747
+    0.27454236]
+  [ 0.51186615  0.06058293  0.4125182  ...,  0.06660355  0.2359726
+    0.35280332]
+  [ 0.57475698  0.20206524  0.3815673  ...,  0.11377199  0.17400494
+    0.32447034]
+  ..., 
+  [ 0.14389645 -0.48545027  0.02349968 ..., -0.2017446   0.12893972
+   -0.15511604]
+  [ 0.14066535 -0.47579634  0.02614604 ..., -0.18936086  0.12521455
+   -0.14900813]
+  [ 0.13952526 -0.46571767  0.0290913  ..., -0.17749451  0.11961602
+   -0.14220558]]
+
+ [[ 0.38893902  0.07274215  0.38983464 ...,  0.47100043  0.16981363
+    0.17720047]
+  [ 0.61029369  0.02759449  0.25894254 ...,  0.46166512  0.1832432
+    0.15754129]
+  [ 0.63437998  0.03162692  0.27673763 ...,  0.52077806  0.08574724
+   -0.02942174]
+  ..., 
+  [-0.09788084  0.08730195  0.19994743 ...,  0.09013987 -0.0430987
+   -0.01899306]
+  [-0.0962529   0.0817114   0.19344682 ...,  0.09351908 -0.04716603
+   -0.02683382]
+  [-0.0928968   0.07662132  0.18705027 ...,  0.09667463 -0.05158634
+   -0.03448442]]
+
+ [[ 0.2789205  -0.23955686  0.41964662 ..., -0.53777456  0.1414147
+   -0.06290668]
+  [ 0.38461468 -0.28121454  0.36796468 ..., -0.55815232  0.1235403
+   -0.10259538]
+  [ 0.37006262 -0.34791285  0.28394848 ..., -0.56767946  0.0868389
+   -0.14990517]
+  ..., 
+  [ 0.3561554   0.03631379  0.5730955  ..., -0.2411661  -0.2533671
+   -0.68995613]
+  [ 0.36939538  0.0833246   0.52436244 ..., -0.17531504 -0.25073931
+   -0.7753045 ]
+  [ 0.30905277 -0.00328673  0.46546435 ..., -0.17187876 -0.27439135
+   -0.81164312]]]
+encode_h2:
+[[  1.24838686e+00   1.45428753e+00   4.41561222e+00 ...,  -7.64788055e+00
+   -2.25225568e+00  -6.44422197e+00]
+ [ -4.97838855e-01   3.07989764e+00   5.26420975e+00 ...,  -5.79146194e+00
+   -5.26155114e-01  -6.13498068e+00]
+ [ -1.68859744e+00   2.34791636e+00   5.26851892e+00 ...,  -5.12951231e+00
+   -3.69334966e-03  -7.06363440e+00]
+ ..., 
+ [ -1.81213474e+00   3.51477480e+00   5.12315845e+00 ...,  -5.00012589e+00
+    7.44897246e-01  -5.17157364e+00]
+ [ -1.86378455e+00   2.53286743e+00   4.41620779e+00 ...,  -3.97635746e+00
+    4.35477167e-01  -4.69054794e+00]
+ [ -1.81160164e+00   1.98884308e+00   4.52492332e+00 ...,  -2.99473572e+00
+    1.09970726e-01  -3.48201060e+00]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.15917969  0.29492188 -0.08203125 ..., -0.22070312 -0.20019531
+   0.12597656]
+ [ 0.19824219  0.06201172 -0.09375    ...,  0.09228516  0.03930664
+  -0.04052734]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.94605201 -0.94806981 -0.33391225 ..., -0.99910975 -0.99750322
+   0.99958146]
+ [-0.23266241 -0.96361917  0.3568272  ..., -0.99762142 -0.90725827
+   0.57301742]
+ [ 0.66843265  0.16499671 -0.17916439 ..., -0.99737883 -0.7259813
+   0.77152085]
+ ..., 
+ [-0.49484628  0.89650607 -0.42415223 ..., -0.94064182 -0.88756949
+   0.55074996]
+ [-0.49484628  0.89650607 -0.42415223 ..., -0.94064182 -0.88756949
+   0.55074996]
+ [-0.49484628  0.89650607 -0.42415223 ..., -0.94064182 -0.88756949
+   0.55074996]]
+output_dstrb:
+[[  1.03185427e-09   6.31282537e-09   8.17543224e-08 ...,   2.46986769e-08
+    3.61857128e-05   5.55843949e-09]
+ [  1.72154714e-07   1.65418143e-07   2.37236054e-06 ...,   2.34383506e-07
+    3.92605405e-04   1.66877484e-07]
+ [  7.24435552e-07   2.45945643e-07   4.24504151e-06 ...,   2.97234550e-07
+    4.43347148e-04   2.34367377e-07]
+ ..., 
+ [  9.99999762e-01   1.08444551e-13   7.11104840e-13 ...,   2.07721969e-13
+    5.91156247e-12   9.44955987e-14]
+ [  9.99999762e-01   1.08444551e-13   7.11104840e-13 ...,   2.07721969e-13
+    5.91156247e-12   9.44955987e-14]
+ [  9.99999762e-01   1.08444551e-13   7.11104840e-13 ...,   2.07721969e-13
+    5.91156247e-12   9.44955987e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG trump             
+-1.175018
+No. 2
+BG donald             
+-2.529730
+No. 3
+BG white             
+-3.660955
+No. 4
+BG the             
+-3.722623
+No. 5
+BG former             
+-3.724967
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG donald trump            
+-2.689990
+No. 2
+BG white house            
+-3.703247
+No. 3
+BG trump says            
+-4.061947
+No. 4
+BG trump campaign            
+-4.514011
+No. 5
+BG trump russia            
+-4.764802
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG trump says he           
+-5.069241
+No. 2
+BG donald trump says           
+-5.700880
+No. 3
+BG donald trump russia           
+-6.139296
+No. 4
+BG donald trump on           
+-6.201460
+No. 5
+BG white house trump           
+-6.576932
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG trump says he was          
+-6.202523
+No. 2
+BG donald trump says he          
+-6.694017
+No. 3
+BG donald trump on russia          
+-7.969652
+No. 4
+BG trump says he will          
+-8.109424
+No. 5
+BG trump says he is          
+-8.186281
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG donald trump says he was         
+-7.840554
+No. 2
+BG trump says he was not         
+-9.392493
+No. 3
+BG donald trump says he is         
+-9.502329
+No. 4
+BG donald trump says he will         
+-9.584320
+No. 5
+BG trump says he was fbi         
+-9.988655
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG donald trump says he was not        
+-10.913939
+No. 2
+BG donald trump says he will be        
+-11.508377
+No. 3
+BG trump says he was fbi director        
+-11.564502
+No. 4
+BG donald trump says he was fbi        
+-11.789935
+No. 5
+BG donald trump says he was the        
+-11.833831
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG donald trump says he was fbi director       
+-13.665816
+No. 2
+BG trump says he was fbi director says       
+-13.904514
+No. 3
+BG donald trump says he was not not       
+-14.033113
+No. 4
+BG donald trump says he was not be       
+-14.052827
+No. 5
+BG donald trump says he was not he       
+-14.412124
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG trump says he was fbi director says he      
+-15.627266
+No. 2
+BG donald trump says he was fbi director says      
+-16.127945
+No. 3
+BG donald trump says he was not not be      
+-16.578454
+No. 4
+BG donald trump says he was not he was      
+-16.816862
+No. 5
+BG donald trump says he was not not not      
+-17.118141
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG trump says he was fbi director says he was     
+-17.025828
+No. 2
+BG trump says he was fbi director says he is     
+-18.063871
+No. 3
+BG donald trump says he was fbi director says he     
+-18.428038
+No. 4
+BG trump says he was fbi director says he will     
+-18.669502
+No. 5
+BG trump says he was fbi director says he would     
+-19.291261
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG donald trump says he was fbi director says he was    
+-19.874342
+No. 2
+BG trump says he was fbi director says he will be    
+-20.164626
+No. 3
+BG trump says he was fbi director says he was not    
+-20.175404
+No. 4
+BG trump says he was fbi director says he was the    
+-20.539169
+No. 5
+BG trump says he was fbi director says he would be    
+-20.643024
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG donald trump says he was fbi director says he was not   
+-23.120443
+No. 2
+BG trump says he was fbi director says he was not be   
+-23.178182
+No. 3
+BG trump says he was fbi director says he was not not   
+-23.208685
+No. 4
+BG trump says he was fbi director says he will be the   
+-23.264554
+No. 5
+BG donald trump says he was fbi director says he was the   
+-23.374259
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG trump says he was fbi director says he was not not be  
+-25.921940
+No. 2
+BG donald trump says he was fbi director says he was not be  
+-26.190922
+No. 3
+BG donald trump says he was fbi director says he was not not  
+-26.224638
+No. 4
+BG donald trump says he was fbi director says he was the fbi  
+-26.382583
+No. 5
+BG trump says he was fbi director says he was not not not  
+-26.406174
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG donald trump says he was fbi director says he was not not be 
+-29.039142
+No. 2
+BG donald trump says he was fbi director says he was the fbi director 
+-29.099131
+No. 3
+BG trump says he was fbi director says he was not not not be 
+-29.200399
+No. 4
+BG trump says he was fbi director says he was not not be the 
+-29.203124
+No. 5
+BG donald trump says he was fbi director says he was not not not 
+-29.506703
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG donald trump says he was ED        
+-1.541411
+No. 2
+BG donald trump says he was fbi director ED      
+-1.618840
+No. 3
+BG trump says he was fbi director says ED      
+-1.633440
+No. 4
+BG trump says he was fbi director ED       
+-1.634123
+No. 5
+BG trump says he was fbi director says he was ED    
+-1.652552
+Content:
+BG former fbi director james believes that president trump was trying influence him the investigation into the trump ties russia on saturday ED       
+
+BG is set testify before the senate intelligence committee after memorial day the main question around his hearing will be whether believes trump was trying intervene in the investigation ED
+
+BG source added that still unclear whether attempts influence amounted obstruction justice ED                 
+
+BG trump fired who was the russia probe at the time two weeks ago ED               
+
+BG initially the white house said that trump acted entirely based on the advice deputy attorney general rod attorney general jeff sessions ED       
+
+BG later however trump said that he had already made the decision fire before getting input ED             
+
+BG he also said that russia had been factor in his decision later calling nut after was fired it emerged that he had kept detailed memos encounters with the president

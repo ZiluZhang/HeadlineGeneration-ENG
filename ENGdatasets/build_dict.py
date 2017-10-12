@@ -13,7 +13,8 @@ input_dir = 'Fmt_data_divsens'
 # stop_words_file = 'Stop-words-none.txt'
 
 # wv = KeyedVectors.load('SohuNews_w2v_CHN_300_seg.bin')
-wv = KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300-SLIM.bin', binary=True)
+# wv = KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300-SLIM.bin', binary=True)
+wv = KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
 
 d = {}                          # Used words: word -> (vector, freq)
 w2id_dict = {}                  # word -> id

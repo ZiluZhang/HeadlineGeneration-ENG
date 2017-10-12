@@ -1,0 +1,615 @@
+Title:
+BG leo pushes climate change during oscar acceptance speech ED      
+Teacher Forced Generated Title:
+the is back change in the ED ED ED      
+Distribution for each word in title:
+1:
+the: 0.117695
+hollywood: 0.016836
+watch: 0.016412
+NUM: 0.011594
+in: 0.011532
+is: 0.010665
+on: 0.010039
+la: 0.009961
+from: 0.009912
+review: 0.008619
+* leo: 0.000022
+
+2:
+is: 0.003933
+olympics: 0.003686
+jones: 0.003339
+la: 0.003320
+review: 0.003131
+disney: 0.002501
+star: 0.002470
+moore: 0.002419
+director: 0.002084
+cunningham: 0.002072
+* pushes: 0.000059
+
+3:
+back: 0.008512
+out: 0.008405
+down: 0.007842
+into: 0.007708
+hollywood: 0.007704
+for: 0.006929
+off: 0.005263
+up: 0.004612
+new: 0.003545
+the: 0.003202
+* climate: 0.000159
+
+4:
+change: 0.151591
+for: 0.007256
+into: 0.005456
+in: 0.005408
+on: 0.003497
+at: 0.003274
+ED: 0.002645
+as: 0.002527
+review: 0.002488
+like: 0.002459
+* change: 0.151591
+
+5:
+in: 0.026140
+ED: 0.021048
+from: 0.012568
+the: 0.010737
+at: 0.009647
+with: 0.008118
+on: 0.006703
+as: 0.005549
+after: 0.005321
+into: 0.003842
+* during: 0.000919
+
+6:
+the: 0.035719
+ED: 0.018603
+NUM: 0.012400
+new: 0.006603
+its: 0.005282
+trump: 0.004358
+us: 0.004323
+london: 0.004006
+his: 0.003878
+la: 0.003477
+* oscar: 0.000946
+
+7:
+ED: 0.132324
+NUM: 0.006239
+in: 0.006219
+as: 0.005453
+after: 0.005381
+for: 0.004291
+trump: 0.002957
+but: 0.002847
+sanders: 0.002815
+the: 0.002665
+* acceptance: 0.000023
+
+8:
+ED: 0.643755
+in: 0.008143
+the: 0.007156
+by: 0.005661
+as: 0.005538
+after: 0.004259
+for: 0.002633
+from: 0.002364
+on: 0.002200
+NUM: 0.002137
+* speech: 0.001080
+
+9:
+ED: 0.898224
+in: 0.005145
+at: 0.002830
+is: 0.002706
+on: 0.002100
+after: 0.001135
+as: 0.001071
+with: 0.000984
+but: 0.000955
+was: 0.000922
+* ED: 0.898224
+
+10:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+finds: 0.000000
+cruz: 0.000000
+ali: 0.000000
+assault: 0.000000
+pence: 0.000000
+claims: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+finds: 0.000000
+cruz: 0.000000
+ali: 0.000000
+assault: 0.000000
+pence: 0.000000
+claims: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+finds: 0.000000
+cruz: 0.000000
+ali: 0.000000
+assault: 0.000000
+pence: 0.000000
+claims: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+finds: 0.000000
+cruz: 0.000000
+ali: 0.000000
+assault: 0.000000
+pence: 0.000000
+claims: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+finds: 0.000000
+cruz: 0.000000
+ali: 0.000000
+assault: 0.000000
+pence: 0.000000
+claims: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+than: 0.000000
+finds: 0.000000
+cruz: 0.000000
+ali: 0.000000
+assault: 0.000000
+pence: 0.000000
+claims: 0.000000
+* : 1.000000
+
+
+Perplexity = 4.178600
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09375    -0.05004883  0.17480469 ...,  0.00836182  0.06396484
+  -0.02636719]
+ [-0.00497437  0.04638672  0.00221252 ..., -0.26367188 -0.06201172
+  -0.11816406]
+ ..., 
+ [-0.01177979 -0.04736328  0.04467773 ...,  0.07128906 -0.03491211
+   0.02416992]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ [-0.02844238  0.01068115  0.10058594 ..., -0.01049805  0.33984375
+  -0.05834961]]
+encode_h1:
+[[[ 0.33950934 -0.22601432  0.16486932 ..., -0.27688721 -0.06922534
+    0.21003921]
+  [ 0.51594919 -0.31324798  0.01140243 ..., -0.31574127 -0.00427646
+    0.31023359]
+  [ 0.55130816 -0.32034016 -0.08944976 ..., -0.27027828  0.01612907
+    0.23534706]
+  ..., 
+  [ 0.03272553  0.46510261 -0.21349961 ..., -0.39120194  0.20005067
+    0.56889498]
+  [ 0.01398239  0.43343341 -0.21864635 ..., -0.35297963  0.18176404
+    0.55073875]
+  [ 0.00872811  0.41796887 -0.23454596 ..., -0.32469097  0.17098089
+    0.53802204]]
+
+ [[ 0.3169302  -0.08303951  0.07446084 ...,  0.02050018  0.01193497
+   -0.15218687]
+  [ 0.45698619 -0.13662736 -0.02998891 ...,  0.05622186  0.01343649
+   -0.17778873]
+  [ 0.40370789 -0.1163283  -0.03963055 ...,  0.11412527  0.0623222
+   -0.32925686]
+  ..., 
+  [ 0.02173659  0.06331659 -0.16015692 ..., -0.23336479 -0.06578648
+   -0.0660156 ]
+  [-0.17243499  0.04117138 -0.18256067 ..., -0.19184159 -0.18479715
+    0.02689401]
+  [-0.31834123  0.01064712 -0.14863876 ..., -0.10584603 -0.17988072
+    0.06058809]]
+
+ [[-0.1728023   0.08226085 -0.13839185 ...,  0.31245774 -0.18080364
+   -0.44627121]
+  [-0.08482407 -0.00856773 -0.32587326 ...,  0.24116978 -0.09239334
+   -0.44727194]
+  [ 0.03760381  0.1178328  -0.29413629 ...,  0.22792292 -0.21437183
+   -0.25894713]
+  ..., 
+  [-0.09904554 -0.06425159  0.03162771 ...,  0.12569639 -0.08331206
+   -0.23673879]
+  [-0.09741662 -0.06690558  0.03027261 ...,  0.12739271 -0.08511145
+   -0.24202946]
+  [-0.09398608 -0.06867777  0.02938585 ...,  0.12892236 -0.08725214
+   -0.24634893]]
+
+ ..., 
+ [[ 0.02431294  0.26102459  0.20920464 ..., -0.17706133 -0.11968037
+   -0.06408854]
+  [ 0.12365064  0.28917849  0.16307506 ..., -0.13570222 -0.12668207
+   -0.06196853]
+  [-0.00510119  0.32982695  0.21503161 ..., -0.09717095 -0.1755174
+    0.01739462]
+  ..., 
+  [-0.11421429 -0.0158229   0.04745866 ...,  0.13516244 -0.08387624
+   -0.17745341]
+  [-0.11154847 -0.02123912  0.04416396 ...,  0.13590394 -0.08562371
+   -0.18641628]
+  [-0.10716909 -0.02557365  0.04152125 ...,  0.13657545 -0.08772776
+   -0.194216  ]]
+
+ [[ 0.02952598  0.23626043  0.0562951  ...,  0.09654032 -0.12198606
+   -0.14724483]
+  [ 0.11378537  0.24497384  0.01195387 ...,  0.10717236 -0.13138241
+   -0.14226656]
+  [ 0.10527983  0.27502912 -0.08043951 ...,  0.13011801 -0.186731
+   -0.11961117]
+  ..., 
+  [-0.13278425  0.13061714  0.27161103 ...,  0.12796549 -0.04379198
+    0.03311732]
+  [-0.12799877  0.12186505  0.26116645 ...,  0.12742691 -0.04695646
+    0.02319386]
+  [-0.12161542  0.11389838  0.25109145 ...,  0.12703672 -0.05057671
+    0.01368167]]
+
+ [[ 0.04910341  0.13074553  0.35631245 ..., -0.31620735 -0.06276626
+   -0.03346378]
+  [ 0.14051273  0.09663688  0.286488   ..., -0.33224532 -0.09807873
+   -0.11541797]
+  [ 0.1420534   0.18953848  0.24380736 ..., -0.34119281 -0.19936681
+   -0.1656159 ]
+  ..., 
+  [ 0.05351808  0.39938104  0.08440149 ..., -0.05043197 -0.18067341
+   -0.0900673 ]
+  [ 0.03271317  0.37326252  0.05493605 ...,  0.00366885 -0.146147
+   -0.18637435]
+  [-0.11398995  0.44689673  0.11007898 ..., -0.07702334  0.04106197
+   -0.03115737]]]
+encode_h2:
+[[-4.3740325  -3.31397915  2.73413587 ..., -0.30048877 -1.09124732
+   1.01407206]
+ [-2.82702565 -3.33802009  2.67489195 ...,  2.52138925 -1.91842616
+  -0.28025967]
+ [-3.41191578 -2.35107446  3.18107629 ...,  3.00753355 -1.75047374
+  -1.36768675]
+ ..., 
+ [-2.76014447 -2.4089632   4.90095615 ...,  2.86300898 -1.13151896
+  -3.16124701]
+ [-2.57722044 -1.90981376  4.09618568 ...,  2.38331199 -0.69849372
+  -2.10027623]
+ [-2.46778822 -1.97779942  4.50896835 ...,  1.31619501 -0.14822607
+  -2.00270581]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.24023438  0.10986328 -0.03613281 ..., -0.17285156 -0.08056641
+   0.08056641]
+ [ 0.0267334   0.19433594 -0.04785156 ...,  0.16015625  0.14355469
+   0.15039062]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 1.91054261  0.7871967  -0.89091164 ..., -0.99943101 -0.69199187
+   3.04879308]
+ [ 1.74008751 -0.63944155 -0.42437258 ..., -0.73953378 -0.73328567
+   0.48929191]
+ [ 1.45555329 -0.26271218 -0.42093754 ..., -0.03324363  0.2573843
+  -0.39912418]
+ ..., 
+ [-0.77312207  0.91860253  0.1583157  ...,  0.70768118 -0.38094181
+   0.25665259]
+ [-0.77312207  0.91860253  0.1583157  ...,  0.70768118 -0.38094181
+   0.25665259]
+ [-0.77312207  0.91860253  0.1583157  ...,  0.70768118 -0.38094181
+   0.25665259]]
+output_dstrb:
+[[  7.01584497e-07   7.08911116e-08   6.00058954e-08 ...,   6.48335998e-08
+    5.22489354e-05   6.32763673e-08]
+ [  6.02655236e-05   1.45246474e-06   5.37317192e-07 ...,   5.84186921e-07
+    1.15424838e-04   1.33335368e-06]
+ [  2.34435211e-05   2.21963160e-06   1.08048152e-06 ...,   9.42757879e-07
+    1.19686942e-04   2.18895298e-06]
+ ..., 
+ [  1.00000000e+00   9.42197167e-14   1.37615722e-13 ...,   5.68626092e-14
+    1.38663647e-12   9.27198856e-14]
+ [  1.00000000e+00   9.42197167e-14   1.37615722e-13 ...,   5.68626092e-14
+    1.38663647e-12   9.27198856e-14]
+ [  1.00000000e+00   9.42197167e-14   1.37615722e-13 ...,   5.68626092e-14
+    1.38663647e-12   9.27198856e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.139661
+No. 2
+BG hollywood             
+-4.084245
+No. 3
+BG watch             
+-4.109751
+No. 4
+BG NUM             
+-4.457291
+No. 5
+BG in             
+-4.462664
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG the best            
+-6.371265
+No. 2
+BG the hollywood            
+-6.728405
+No. 3
+BG the world            
+-6.818227
+No. 4
+BG the most            
+-7.070142
+No. 5
+BG the rio            
+-7.519356
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG the world the           
+-11.241363
+No. 2
+BG the hollywood star           
+-11.516015
+No. 3
+BG the best hollywood           
+-11.533425
+No. 4
+BG the world is           
+-11.620728
+No. 5
+BG the world hollywood           
+-11.864840
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG the world the best          
+-15.931189
+No. 2
+BG the world is the          
+-15.959686
+No. 3
+BG the world the world          
+-16.090139
+No. 4
+BG the world the most          
+-16.130740
+No. 5
+BG the best hollywood star          
+-16.612593
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG the world is the best         
+-19.343173
+No. 2
+BG the world is the most         
+-19.642849
+No. 3
+BG the world the world the         
+-19.809903
+No. 4
+BG the world the world is         
+-19.907102
+No. 5
+BG the world the most the         
+-20.418637
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG the world is the most the        
+-23.675984
+No. 2
+BG the world the world is the        
+-23.733199
+No. 3
+BG the world is the best the        
+-23.935267
+No. 4
+BG the world the world the world        
+-24.125961
+No. 5
+BG the world the most the most        
+-24.184309
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG the world the world is the best       
+-27.130299
+No. 2
+BG the world the world the world is       
+-27.215407
+No. 3
+BG the world the world is the most       
+-27.244749
+No. 4
+BG the world is the most the most       
+-27.345823
+No. 5
+BG the world the world the world the       
+-27.346136
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG the world the world the world is the      
+-30.460258
+No. 2
+BG the world is the most the most the      
+-30.900845
+No. 3
+BG the world the world is the most the      
+-31.111768
+No. 4
+BG the world is the most the most ever      
+-31.205161
+No. 5
+BG the world the world the world the world      
+-31.433971
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG the world the world the world is the most     
+-33.877019
+No. 2
+BG the world the world the world is the best     
+-33.883139
+No. 3
+BG the world is the most the most ever ever     
+-33.899301
+No. 4
+BG the world the world the world the world is     
+-34.135048
+No. 5
+BG the world the world the world the world the     
+-34.428942
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG the world is the most the most ever ever ever    
+-36.851086
+No. 2
+BG the world the world the world the world is the    
+-37.004267
+No. 3
+BG the world the world the world is the most the    
+-37.609735
+No. 4
+BG the world is the most the most ever ever the    
+-37.657122
+No. 5
+BG the world is the most the most ever ever than    
+-38.044703
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG the world is the most the most ever ever ever ever   
+-40.237201
+No. 2
+BG the world the world the world the world is the most   
+-40.384361
+No. 3
+BG the world the world the world the world is the best   
+-40.478857
+No. 4
+BG the world is the most the most ever ever than ever   
+-40.773171
+No. 5
+BG the world is the most the most ever ever than NUM   
+-40.784802
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG the world is the most the most ever ever than NUM years  
+-42.653927
+No. 2
+BG the world the world the world the world is the most the  
+-44.012174
+No. 3
+BG the world is the most the most ever ever ever ever ever  
+-44.031921
+No. 4
+BG the world is the most the most ever ever ever ever is  
+-44.265580
+No. 5
+BG the world is the most the most ever ever than ever than  
+-44.330965
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG the world is the most the most ever ever than NUM years in 
+-45.405714
+No. 2
+BG the world is the most the most ever ever than NUM years ago 
+-45.508141
+No. 3
+BG the world is the most the most ever ever than NUM years later 
+-45.715301
+No. 4
+BG the world is the most the most ever ever than NUM years for 
+-46.224879
+No. 5
+BG the world is the most the most ever ever than ever than than 
+-46.781607
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG the world is the most the most ever ever than NUM years ago ED
+-3.087469
+No. 2
+BG the world is the most the most ever ever than NUM years later ED
+-3.087710
+No. 3
+BG the world is the most the most ever ever than NUM years ED 
+-3.109796
+No. 4
+BG the world is the most the most ever ever ever ED   
+-3.137105
+No. 5
+BG the world is the most the most ever ever ever ever ED  
+-3.137462
+Content:
+BG after winning his first oscar at the academy awards in los angeles on sunday actor leonardo immediately launched into politically charged speech about climate change ED   
+
+BG the revenant was about relationship the natural world world that we collectively felt in NUM as the hottest year in recorded the frequent environmental activist told the audience ED
+
+BG production needed move the southern tip this planet just be able find snow ED               
+
+BG change is real ED                         
+
+BG it is happening right said ED                       
+
+BG is the most urgent threat facing our entire species we need work collectively together stop ED             
+
+BG he added we need support leaders around the world who do not speak for the big or the big corporations but who speak for all humanity for the indigenous

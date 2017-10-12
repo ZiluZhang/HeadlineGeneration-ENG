@@ -1,0 +1,611 @@
+Title:
+BG an lawsuit just won big victory ED        
+Teacher Forced Generated Title:
+congress house against the the ED on        
+Distribution for each word in title:
+1:
+congress: 0.085962
+supreme: 0.057341
+justice: 0.037419
+federal: 0.030562
+house: 0.018706
+white: 0.016766
+ethics: 0.015734
+judge: 0.015423
+court: 0.015352
+the: 0.014700
+* an: 0.002189
+
+2:
+house: 0.029217
+supreme: 0.027329
+government: 0.024672
+justice: 0.023452
+executive: 0.015427
+court: 0.014982
+federal: 0.014588
+judge: 0.010670
+law: 0.010171
+appeals: 0.010076
+* lawsuit: 0.005806
+
+3:
+against: 0.134566
+that: 0.060507
+over: 0.037005
+on: 0.031162
+for: 0.020522
+ED: 0.019661
+justice: 0.014878
+in: 0.012596
+congress: 0.010720
+order: 0.009402
+* just: 0.002409
+
+4:
+the: 0.030526
+ED: 0.021716
+will: 0.017792
+congress: 0.012177
+trump: 0.011929
+is: 0.011923
+it: 0.011534
+on: 0.011081
+just: 0.010963
+bill: 0.009310
+* won: 0.000524
+
+5:
+the: 0.097706
+on: 0.059301
+in: 0.055614
+NUM: 0.042571
+over: 0.040377
+ED: 0.038937
+by: 0.036819
+its: 0.025472
+for: 0.024147
+from: 0.020318
+* big: 0.004173
+
+6:
+ED: 0.024698
+on: 0.020526
+federal: 0.013528
+government: 0.013343
+for: 0.011463
+in: 0.011166
+legal: 0.009933
+over: 0.009518
+house: 0.009287
+law: 0.009155
+* victory: 0.000965
+
+7:
+on: 0.292462
+in: 0.191607
+ED: 0.109409
+for: 0.098086
+over: 0.074659
+at: 0.017960
+with: 0.016220
+the: 0.015783
+against: 0.009001
+from: 0.008266
+* ED: 0.109409
+
+8:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+9:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+10:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+bill: 0.000000
+fraud: 0.000000
+sessions: 0.000000
+justice: 0.000000
+over: 0.000000
+on: 0.000000
+than: 0.000000
+* : 1.000000
+
+
+Perplexity = 2.632733
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.06005859 -0.1875      0.18066406 ..., -0.03051758  0.09277344
+  -0.15429688]
+ [-0.08349609  0.01782227  0.04492188 ..., -0.09179688  0.15917969
+   0.01904297]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ 0.16452324  0.48188061  0.38698751 ..., -0.53394222  0.08076993
+    0.01311831]
+  [ 0.41727522  0.3063578   0.44045073 ..., -0.65921408  0.30658197
+    0.15269661]
+  [ 0.54794401  0.21444754  0.61296761 ..., -0.79109055  0.47977185
+    0.20938015]
+  ..., 
+  [ 0.32459423 -0.12842551  0.21199894 ..., -0.35375565  0.37384745
+    0.6203059 ]
+  [ 0.32228756 -0.12729053  0.22614947 ..., -0.33622736  0.37926987
+    0.62580639]
+  [ 0.32103643 -0.1259764   0.23629543 ..., -0.32237488  0.37993485
+    0.62929195]]
+
+ [[ 0.38250175 -0.12428203  0.75205415 ..., -0.45921278  0.21412824
+    0.00722233]
+  [ 0.54416484 -0.20012468  0.61120528 ..., -0.51420975  0.2429357
+   -0.05005736]
+  [ 0.51812857 -0.16563746  0.61467636 ..., -0.5658915   0.34238634
+    0.00135633]
+  ..., 
+  [ 0.05012411 -0.29779154  0.07218003 ..., -0.31652245  0.07233651
+    0.63289863]
+  [ 0.39039323 -0.28117591  0.02288677 ..., -0.38722956  0.31921613
+    0.46767336]
+  [ 0.3722057  -0.27303785  0.03263783 ..., -0.3636325   0.32305044
+    0.47388163]]
+
+ [[ 0.0796756   0.01864359  0.43687314 ..., -0.29135585  0.22358052
+    0.17091601]
+  [ 0.18457009 -0.08586212  0.43011367 ..., -0.24544628  0.33557731
+    0.12708451]
+  [ 0.16019365  0.08432873  0.40886748 ..., -0.32252371  0.41960037
+    0.42694449]
+  ..., 
+  [ 0.28645131 -0.04256646  0.35338932 ..., -0.15850201  0.27816659
+    0.69316834]
+  [ 0.37009966 -0.00706776  0.41364253 ..., -0.15929618  0.33631399
+    0.77081454]
+  [ 0.38186184  0.08200353  0.37052721 ..., -0.18106943  0.32604319
+    0.76461506]]
+
+ ..., 
+ [[ 0.27972034  0.51374966  0.32038331 ..., -0.64619726 -0.01753469
+   -0.07020542]
+  [ 0.43301171  0.54669696  0.31650501 ..., -0.89797008  0.23427387
+   -0.01608267]
+  [ 0.35003024  0.34038299  0.50896716 ..., -0.68989879  0.17440902
+    0.10794403]
+  ..., 
+  [ 0.35663247  0.25392085  0.47460097 ..., -0.25011858  0.11656736
+    0.19011104]
+  [ 0.29256397  0.21273619  0.37712449 ..., -0.25917718  0.13098423
+    0.33620512]
+  [ 0.2493155   0.21841896  0.34812528 ..., -0.11382843  0.17280127
+    0.39768025]]
+
+ [[ 0.24423862  0.61805761  0.42440718 ..., -0.73437685  0.00986505
+   -0.26286677]
+  [ 0.38893178  0.64308733  0.32332689 ..., -0.71062338  0.05973416
+   -0.26421076]
+  [ 0.44456717  0.73238033  0.319776   ..., -0.65100151 -0.01035633
+   -0.27124962]
+  ..., 
+  [ 0.48325709 -0.04578689  0.05471151 ..., -0.2871201   0.17393082
+    0.16841593]
+  [ 0.52574253  0.09137215  0.11694394 ..., -0.35732716  0.16086036
+    0.26748332]
+  [ 0.4915911  -0.00758848  0.14563559 ..., -0.35240209  0.06270003
+    0.30575967]]
+
+ [[-0.10327968  0.04730374  0.50026709 ...,  0.01865362  0.24311273
+   -0.47648668]
+  [ 0.08328101 -0.05597608  0.54644275 ..., -0.16618739  0.40014753
+   -0.44669279]
+  [ 0.08827323  0.10641839  0.52054757 ..., -0.05697303  0.26479992
+   -0.08389102]
+  ..., 
+  [ 0.23339485 -0.21432452 -0.01849033 ..., -0.17225008  0.18109456
+    0.52909088]
+  [ 0.23023164 -0.21251251 -0.01805323 ..., -0.17101231  0.17791227
+    0.52365762]
+  [ 0.22917414 -0.21056227 -0.01786458 ..., -0.16884829  0.17377637
+    0.51869625]]]
+encode_h2:
+[[-0.90005004  4.19316578  1.21267736 ..., -1.13308847  3.20382643
+  -4.59828234]
+ [-2.44075871  2.93771148  3.3369844  ..., -0.88803554  2.47731876
+  -4.92373753]
+ [-2.35918856  3.94662714  3.00770187 ...,  1.14463913  3.22138238
+  -4.28020334]
+ ..., 
+ [-2.54611754  4.04988575  4.08503103 ...,  2.66162014  2.38588881
+  -3.28267264]
+ [-2.97531486  3.76162744  2.78277707 ...,  2.8070612   2.655725
+  -1.67031646]
+ [-2.25629735  3.0540731   1.27832425 ...,  2.91263533  2.72660375
+  -0.35669011]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.12597656  0.19042969  0.06982422 ...,  0.0612793   0.17285156
+  -0.07861328]
+ [-0.15429688  0.05859375 -0.16015625 ..., -0.1171875   0.08251953  0.1875    ]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.27473664 -0.70990539 -0.83319288 ...,  0.53269118 -0.99996108
+   0.01099392]
+ [ 0.42128265  0.18452145 -0.2480102  ...,  0.56359088 -0.27398697
+  -0.74003243]
+ [ 0.23143147  0.85614419 -0.71486843 ...,  0.39634138  0.39752853
+  -0.81963861]
+ ..., 
+ [-0.40863147  0.96299028  0.08504274 ..., -0.10520447 -0.3727783
+  -0.15430021]
+ [-0.40863147  0.96299028  0.08504274 ..., -0.10520447 -0.3727783
+  -0.15430021]
+ [-0.40863147  0.96299028  0.08504274 ..., -0.10520447 -0.3727783
+  -0.15430021]]
+output_dstrb:
+[[  7.25369773e-08   1.03894919e-07   1.03498405e-06 ...,   1.19828456e-07
+    2.08005265e-04   9.68896643e-08]
+ [  3.09191546e-06   6.76769645e-08   1.03517823e-06 ...,   5.20735490e-08
+    8.83861445e-04   6.14121944e-08]
+ [  5.75175285e-08   3.22972298e-08   3.49716402e-07 ...,   5.09423543e-08
+    3.95210256e-04   2.46957867e-08]
+ ..., 
+ [  9.99999762e-01   4.72233851e-13   2.32002243e-12 ...,   4.32228418e-13
+    3.25766011e-11   4.16531881e-13]
+ [  9.99999762e-01   4.72233851e-13   2.32002243e-12 ...,   4.32228418e-13
+    3.25766011e-11   4.16531881e-13]
+ [  9.99999762e-01   4.72233851e-13   2.32002243e-12 ...,   4.32228418e-13
+    3.25766011e-11   4.16531881e-13]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG congress             
+-2.453850
+No. 2
+BG supreme             
+-2.858743
+No. 3
+BG justice             
+-3.285572
+No. 4
+BG federal             
+-3.488014
+No. 5
+BG house             
+-3.978905
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG supreme court            
+-2.897659
+No. 2
+BG justice department            
+-3.974335
+No. 3
+BG congress approves            
+-5.757079
+No. 4
+BG federal department            
+-6.269783
+No. 5
+BG congress lawmakers            
+-6.432654
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG supreme court rules           
+-5.911832
+No. 2
+BG supreme court nominee           
+-6.570807
+No. 3
+BG supreme court order           
+-6.670155
+No. 4
+BG supreme court rejects           
+-6.677620
+No. 5
+BG supreme court justice           
+-6.956123
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG supreme court rules on          
+-7.987826
+No. 2
+BG supreme court justice department          
+-8.654980
+No. 3
+BG supreme court rules for          
+-9.091912
+No. 4
+BG supreme court rules will          
+-9.472791
+No. 5
+BG supreme court rules that          
+-9.635119
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG supreme court rules on the         
+-10.706174
+No. 2
+BG supreme court rules on obamacare         
+-11.620744
+No. 3
+BG supreme court rules on congress         
+-11.734570
+No. 4
+BG supreme court rules will be         
+-11.817220
+No. 5
+BG supreme court rules on travel         
+-11.960087
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG supreme court rules on travel ban        
+-12.144363
+No. 2
+BG supreme court rules on the supreme        
+-14.179241
+No. 3
+BG supreme court rules on the government        
+-14.427430
+No. 4
+BG supreme court rules on obamacare repeal        
+-14.664567
+No. 5
+BG supreme court rules on the federal        
+-14.870698
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG supreme court rules on the supreme court       
+-14.214117
+No. 2
+BG supreme court rules on travel ban on       
+-14.572988
+No. 3
+BG supreme court rules on travel ban from       
+-16.506519
+No. 4
+BG supreme court rules on travel ban court       
+-16.508447
+No. 5
+BG supreme court rules on travel ban for       
+-16.539933
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG supreme court rules on the supreme court rules      
+-16.931815
+No. 2
+BG supreme court rules on the supreme court order      
+-17.758910
+No. 3
+BG supreme court rules on the supreme court nominee      
+-17.806003
+No. 4
+BG supreme court rules on the supreme court court      
+-18.149839
+No. 5
+BG supreme court rules on travel ban on travel      
+-18.418438
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG supreme court rules on travel ban on travel ban     
+-18.686873
+No. 2
+BG supreme court rules on the supreme court rules on     
+-19.328408
+No. 3
+BG supreme court rules on the supreme court rules for     
+-20.241135
+No. 4
+BG supreme court rules on the supreme court rules in     
+-21.092656
+No. 5
+BG supreme court rules on the supreme court rules that     
+-21.151611
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG supreme court rules on the supreme court rules on the    
+-21.776479
+No. 2
+BG supreme court rules on travel ban on travel ban on    
+-22.051573
+No. 3
+BG supreme court rules on the supreme court rules on travel    
+-22.780451
+No. 4
+BG supreme court rules on the supreme court rules for the    
+-23.241794
+No. 5
+BG supreme court rules on travel ban on travel ban case    
+-23.536247
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG supreme court rules on the supreme court rules on travel ban   
+-23.042327
+No. 2
+BG supreme court rules on the supreme court rules on the supreme   
+-25.258058
+No. 3
+BG supreme court rules on the supreme court rules on the case   
+-25.639801
+No. 4
+BG supreme court rules on the supreme court rules on the government   
+-25.735343
+No. 5
+BG supreme court rules on the supreme court rules on the law   
+-25.913817
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG supreme court rules on the supreme court rules on the supreme court  
+-25.293425
+No. 2
+BG supreme court rules on the supreme court rules on travel ban on  
+-26.251569
+No. 3
+BG supreme court rules on the supreme court rules on travel ban case  
+-27.931139
+No. 4
+BG supreme court rules on the supreme court rules on travel ban in  
+-28.010413
+No. 5
+BG supreme court rules on the supreme court rules on travel ban is  
+-28.052542
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG supreme court rules on the supreme court rules on the supreme court rules 
+-28.597210
+No. 2
+BG supreme court rules on the supreme court rules on the supreme court case 
+-29.211278
+No. 3
+BG supreme court rules on the supreme court rules on the supreme court order 
+-29.384147
+No. 4
+BG supreme court rules on the supreme court rules on the supreme court nominee 
+-29.530279
+No. 5
+BG supreme court rules on the supreme court rules on travel ban on travel 
+-29.999971
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG supreme court rules on travel ban on travel ban ED    
+-1.755475
+No. 2
+BG supreme court rules on the supreme court rules ED     
+-1.759032
+No. 3
+BG supreme court rules on travel ban ED       
+-1.787034
+No. 4
+BG supreme court rules on the supreme court rules on travel ban ED  
+-1.809616
+No. 5
+BG supreme court rules on the supreme court ED      
+-1.823991
+Content:
+BG federal judge sided with house lawsuit against obamacare on thursday significant victory for one the last remaining legal challenges the president barack health law ED    
+
+BG former house speaker john boehner filed lawsuit last july contending that the white house had broken the law by giving insurance companies money that congress authorized ED  
+
+BG dc district court judge rosemary ruled thursday that the house republicans were right the obama administration does not have legal authority provide obamacare enrollees with subsidies help pay their
+
+BG authorized reduced cost sharing but did not appropriate for it in the fy NUM budget or since ED           
+
+BG congress is the only source for such an appropriation no public money can be spent without the ruling is not final the obama administration will near certainly appeal this
+
+BG but if other courts were find in the favor the decision hold it would have sweeping implications significantly reshaping the relationship between the executive legislative branches striking significant blow
+
+BG subsidies explained the main way obamacare helps people buy insurance is with subsidies that cover some portion their monthly premium ED        
