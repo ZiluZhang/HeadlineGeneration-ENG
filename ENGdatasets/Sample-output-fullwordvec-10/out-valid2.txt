@@ -1,0 +1,612 @@
+Title:
+BG NUM ways white millennials view race today ED       
+Teacher Forced Generated Title:
+the the for house ED ED ED ED       
+Distribution for each word in title:
+1:
+the: 0.092553
+why: 0.065791
+how: 0.041261
+black: 0.040611
+new: 0.040098
+donald: 0.032839
+what: 0.021199
+NUM: 0.020254
+americans: 0.013380
+us: 0.010166
+* NUM: 0.020254
+
+2:
+the: 0.066464
+trump: 0.032017
+ED: 0.031376
+people: 0.028096
+black: 0.019784
+years: 0.018130
+in: 0.017311
+donald: 0.016272
+why: 0.014912
+is: 0.014668
+* ways: 0.000305
+
+3:
+for: 0.087074
+the: 0.058380
+you: 0.033836
+are: 0.029583
+will: 0.024275
+black: 0.024072
+trump: 0.021443
+with: 0.020828
+we: 0.020330
+in: 0.017409
+* white: 0.002868
+
+4:
+house: 0.058939
+lives: 0.056917
+black: 0.054495
+people: 0.051814
+men: 0.023429
+voters: 0.022897
+women: 0.020568
+trump: 0.020304
+americans: 0.017338
+are: 0.015436
+* millennials: 0.000162
+
+5:
+ED: 0.276600
+are: 0.096066
+on: 0.041192
+in: 0.027799
+the: 0.019812
+for: 0.017194
+will: 0.016927
+from: 0.013961
+have: 0.013875
+who: 0.011417
+* view: 0.000039
+
+6:
+ED: 0.127304
+on: 0.125820
+the: 0.082649
+from: 0.073242
+for: 0.031042
+in: 0.020187
+black: 0.013069
+are: 0.012360
+at: 0.012276
+as: 0.009376
+* race: 0.000707
+
+7:
+ED: 0.380535
+for: 0.045403
+in: 0.029185
+is: 0.019169
+as: 0.018416
+with: 0.011064
+at: 0.009959
+the: 0.009123
+black: 0.009082
+NUM: 0.009027
+* today: 0.000229
+
+8:
+ED: 0.445952
+the: 0.015614
+in: 0.010890
+is: 0.010441
+black: 0.010350
+trump: 0.008999
+police: 0.008300
+for: 0.007311
+NUM: 0.006836
+says: 0.005866
+* ED: 0.445952
+
+9:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+10:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+in: 0.000000
+trump: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+for: 0.000000
+sanders: 0.000000
+says: 0.000000
+* : 1.000000
+
+
+Perplexity = 3.545217
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.58203125 -0.30664062 -0.07763672 ..., -0.20507812  0.08447266
+   0.08349609]
+ [ 0.05981445  0.02380371  0.06738281 ..., -0.10986328 -0.00872803
+   0.03710938]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ 0.05818539  0.38260451  0.23418677 ...,  0.13669348 -0.27778205
+    0.08496138]
+  [ 0.28723457  0.56384796  0.64443028 ...,  0.42652264 -0.13724515
+    0.11359153]
+  [ 0.22052854  0.32256988  0.60906464 ...,  0.35545692  0.10781923
+    0.1180786 ]
+  ..., 
+  [ 0.08330598  0.24603859  0.49486876 ...,  0.01664513  0.14776762
+    0.08271382]
+  [ 0.17641234  0.09393872  0.53673154 ...,  0.01868843  0.18229307
+    0.21440375]
+  [ 0.02618702  0.11330549  0.27354464 ..., -0.01488999  0.30569071
+    0.17870587]]
+
+ [[ 0.03852116 -0.44481152  0.18614298 ...,  0.07399704  0.05649282
+   -0.33477589]
+  [ 0.03776916 -0.40332624  0.42826381 ...,  0.19310737  0.16699465
+   -0.24715546]
+  [-0.03583873 -0.37998521  0.54048026 ...,  0.18187025  0.16387884
+   -0.1434053 ]
+  ..., 
+  [ 0.16573572  0.12152945  0.16709927 ...,  0.10485274  0.01648305
+    0.0046461 ]
+  [ 0.17281258  0.11389351  0.15962569 ...,  0.0968266   0.01945076
+    0.00820016]
+  [ 0.17557189  0.10292052  0.15006784 ...,  0.08596444  0.02608088
+    0.00980613]]
+
+ [[ 0.04908139  0.17107384 -0.15945594 ..., -0.08679796 -0.23908202
+    0.23587921]
+  [ 0.2204456   0.17241767 -0.05031522 ..., -0.31319976 -0.18509781
+    0.29449239]
+  [ 0.33689445 -0.00993396  0.16630803 ..., -0.03770484 -0.27770069
+    0.2287614 ]
+  ..., 
+  [ 0.00088106  0.26987278 -0.14728032 ..., -0.12704206  0.20614789
+    0.07734201]
+  [ 0.01538382  0.26648167 -0.13707258 ..., -0.11821484  0.19155562
+    0.08737285]
+  [ 0.02703076  0.25948513 -0.12992282 ..., -0.11642606  0.18469448
+    0.09222616]]
+
+ ..., 
+ [[ 0.33673698  0.07508968  0.09691068 ..., -0.1066956  -0.03568083
+   -0.18828508]
+  [ 0.36713499  0.01275799  0.20601383 ..., -0.07463986 -0.00947986
+   -0.01705841]
+  [ 0.40125641  0.09777926  0.27586821 ..., -0.10433393  0.16396441
+    0.13373075]
+  ..., 
+  [ 0.05259298 -0.19157521  0.28716636 ...,  0.01094134  0.21067531
+    0.07373285]
+  [ 0.05364656 -0.26007527  0.32257822 ..., -0.08990959  0.22790802
+    0.0663951 ]
+  [-0.04359875 -0.21120352  0.25118315 ..., -0.19131219  0.21979646
+    0.12283164]]
+
+ [[ 0.27381957  0.03717081  0.52805811 ..., -0.20055002 -0.16207725
+   -0.60884988]
+  [ 0.35590208  0.04695383  0.50265163 ..., -0.10597635 -0.52645844
+   -0.84718043]
+  [ 0.26836848  0.25504655  0.56474596 ...,  0.14818394 -0.19910628
+   -0.3799431 ]
+  ..., 
+  [ 0.126572    0.0250609   0.0808792  ...,  0.0527431   0.06079435
+    0.02865521]
+  [ 0.1225115   0.01410426  0.06937006 ...,  0.0458214   0.0545905
+    0.03578176]
+  [ 0.11637906  0.00217411  0.05900939 ...,  0.03665134  0.05330721
+    0.0397333 ]]
+
+ [[-0.00580026  0.00265273 -0.00761491 ...,  0.29071844 -0.18549444
+    0.00274551]
+  [ 0.01063951 -0.02593823  0.17429183 ...,  0.37426272 -0.02190358
+    0.11292075]
+  [-0.09115448 -0.07103746  0.27240127 ...,  0.31538811 -0.06415822
+    0.06905127]
+  ..., 
+  [ 0.03316252 -0.00557831  0.01676823 ...,  0.02378145  0.04138453
+    0.06918862]
+  [ 0.03762304 -0.01375596  0.01764331 ...,  0.02159528  0.03457594
+    0.06951962]
+  [ 0.03991953 -0.02263629  0.0188636  ...,  0.01748906  0.03269716
+    0.06680287]]]
+encode_h2:
+[[ 0.99508721 -1.48309219  0.268457   ...,  4.7108531  -4.25377178
+  -0.34069642]
+ [ 1.8836621  -0.2377266   0.0496681  ...,  3.46079326 -3.75285792
+   0.23974074]
+ [ 3.38341808 -0.7017538   0.25489238 ...,  3.26943183 -4.29847431
+   1.89142799]
+ ..., 
+ [ 1.67827415 -1.45060849  0.54153031 ...,  3.78380704 -3.65612006
+  -0.48874846]
+ [ 0.55008048 -1.10487747  0.61845922 ...,  3.43171668 -2.83030677
+  -0.39828786]
+ [ 0.65320355 -0.11299657  0.58272278 ...,  2.20612764 -1.76494527
+  -0.33115891]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.3828125  -0.22753906  0.19335938 ...,  0.00393677 -0.08105469
+  -0.13574219]
+ [ 0.15234375  0.29492188 -0.00091171 ...,  0.16796875 -0.01391602
+   0.18261719]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.9146508   1.79906285  5.38091421 ...,  0.81241989  3.3961103
+  -2.31945634]
+ [-0.99983084  1.79906285 -0.9748286  ...,  0.99597621  1.30103087
+  -2.31945634]
+ [-0.5687747   1.79906285 -0.07771257 ..., -0.18621425  1.10153925
+  -2.31945634]
+ ..., 
+ [ 0.15832537  1.03034115 -0.36192453 ...,  0.96009564  0.31374797
+  -1.53371727]
+ [ 0.15832537  1.03034115 -0.36192453 ...,  0.96009564  0.31374797
+  -1.53371727]
+ [ 0.15832537  1.03034115 -0.36192453 ...,  0.96009564  0.31374797
+  -1.53371727]]
+output_dstrb:
+[[  6.82947575e-05   7.10984196e-08   1.79577256e-07 ...,   1.83404325e-07
+    1.88039085e-05   7.09867649e-08]
+ [  3.75542572e-06   1.60852849e-07   1.52466811e-07 ...,   3.62776632e-07
+    3.97962467e-05   1.59387540e-07]
+ [  2.29081767e-08   1.12788982e-07   1.68456879e-07 ...,   2.74670327e-07
+    3.14394638e-05   1.12523608e-07]
+ ..., 
+ [  1.00000000e+00   6.11294731e-16   7.05854101e-16 ...,   1.10208325e-15
+    8.20793290e-14   6.09985589e-16]
+ [  1.00000000e+00   6.11294731e-16   7.05854101e-16 ...,   1.10208325e-15
+    8.20793290e-14   6.09985589e-16]
+ [  1.00000000e+00   6.11294731e-16   7.05854101e-16 ...,   1.10208325e-15
+    8.20793290e-14   6.09985589e-16]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.379975
+No. 2
+BG why             
+-2.721276
+No. 3
+BG how             
+-3.187848
+No. 4
+BG black             
+-3.203721
+No. 5
+BG new             
+-3.216422
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG black lives            
+-4.769086
+No. 2
+BG why the            
+-4.939463
+No. 3
+BG why trump            
+-5.281632
+No. 4
+BG how trump            
+-5.405295
+No. 5
+BG how the            
+-5.416032
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG black lives matter           
+-4.887977
+No. 2
+BG why trump is           
+-7.453181
+No. 3
+BG how trump is           
+-7.818138
+No. 4
+BG why the black           
+-7.971928
+No. 5
+BG how trump the           
+-8.043497
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG black lives matter the          
+-8.262556
+No. 2
+BG black lives matter is          
+-8.311000
+No. 3
+BG black lives matter on          
+-8.457502
+No. 4
+BG black lives matter black          
+-8.659934
+No. 5
+BG why the black lives          
+-9.452451
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG why the black lives matter         
+-9.551669
+No. 2
+BG black lives matter black lives         
+-10.520792
+No. 3
+BG black lives matter on the         
+-10.560633
+No. 4
+BG black lives matter is not         
+-11.042804
+No. 5
+BG black lives matter is the         
+-11.424555
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG black lives matter black lives matter        
+-10.652840
+No. 2
+BG why the black lives matter is        
+-12.708764
+No. 3
+BG why the black lives matter the        
+-13.071126
+No. 4
+BG why the black lives matter on        
+-13.562467
+No. 5
+BG black lives matter on the black        
+-13.720343
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG black lives matter black lives matter is       
+-14.305654
+No. 2
+BG black lives matter black lives matter on       
+-14.534549
+No. 3
+BG black lives matter black lives matter the       
+-14.725704
+No. 4
+BG black lives matter black lives matter in       
+-14.913966
+No. 5
+BG why the black lives matter is not       
+-15.484141
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG black lives matter black lives matter on the      
+-16.942664
+No. 2
+BG black lives matter black lives matter is not      
+-17.076896
+No. 3
+BG black lives matter black lives matter in the      
+-17.235284
+No. 4
+BG black lives matter black lives matter is the      
+-17.744616
+No. 5
+BG black lives matter black lives matter in NUM      
+-17.899093
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG black lives matter black lives matter in the us     
+-19.696222
+No. 2
+BG black lives matter black lives matter on the us     
+-20.162219
+No. 3
+BG black lives matter black lives matter is not the     
+-20.220381
+No. 4
+BG black lives matter black lives matter on the black     
+-20.526719
+No. 5
+BG black lives matter black lives matter is not not     
+-20.888193
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG black lives matter black lives matter on the black lives    
+-22.454101
+No. 2
+BG black lives matter black lives matter is not the us    
+-23.637549
+No. 3
+BG black lives matter black lives matter on the black people    
+-23.782597
+No. 4
+BG black lives matter black lives matter is not not the    
+-24.319301
+No. 5
+BG black lives matter black lives matter on the black black    
+-24.324727
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG black lives matter black lives matter on the black lives matter   
+-22.691310
+No. 2
+BG black lives matter black lives matter on the black black lives   
+-26.350460
+No. 3
+BG black lives matter black lives matter on the black lives in   
+-26.964820
+No. 4
+BG black lives matter black lives matter on the black people in   
+-27.296236
+No. 5
+BG black lives matter black lives matter on the black people are   
+-27.460737
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG black lives matter black lives matter on the black black lives matter  
+-26.720924
+No. 2
+BG black lives matter black lives matter on the black lives matter is  
+-27.141826
+No. 3
+BG black lives matter black lives matter on the black lives matter on  
+-27.186752
+No. 4
+BG black lives matter black lives matter on the black lives matter the  
+-27.269356
+No. 5
+BG black lives matter black lives matter on the black lives matter in  
+-27.480907
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG black lives matter black lives matter on the black lives matter on the 
+-29.736622
+No. 2
+BG black lives matter black lives matter on the black lives matter in the 
+-29.890899
+No. 3
+BG black lives matter black lives matter on the black lives matter is not 
+-29.933158
+No. 4
+BG black lives matter black lives matter on the black lives matter the us 
+-30.651291
+No. 5
+BG black lives matter black lives matter on the black lives matter in NUM 
+-30.672650
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG black lives matter ED          
+-1.340198
+No. 2
+BG black lives matter black lives matter ED       
+-1.430781
+No. 3
+BG why the black lives matter ED        
+-1.502498
+No. 4
+BG black lives matter black lives matter is ED      
+-1.750544
+No. 5
+BG black lives matter is ED         
+-1.764460
+Content:
+BG millennials may be the most racially diverse generation in american history generally more tolerant racial differences than their predecessors but that make it any easier for them grapple with
+
+BG at least the takeaway from the latest installment filmmaker whitney the whiteness project ED               
+
+BG dow interviewed dozens white millennials ages NUM NUM in dallas texas in hopes teasing out perceptions racial differences without limiting the discussions people color ED    
+
+BG believe our whiteness is so tangled up in our relationship dow told vox last year ED             
+
+BG ask white people about whiteness they talk about black he added trying give voice my own community so that they can listen here are five takeaways from the project
+
+BG NUM why white millennials see ED                       
+
+BG many were taught not see it ED                      

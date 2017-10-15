@@ -1,0 +1,615 @@
+Title:
+BG missing us ED            
+Teacher Forced Generated Title:
+border mexican ED            
+Distribution for each word in title:
+1:
+border: 0.120049
+mexican: 0.079098
+texas: 0.063519
+NUM: 0.044970
+mexico: 0.029135
+the: 0.028329
+illegal: 0.013574
+us: 0.013348
+how: 0.008318
+at: 0.008300
+* missing: 0.000297
+
+2:
+mexican: 0.080320
+border: 0.069721
+texas: 0.061368
+illegal: 0.029643
+in: 0.025470
+mexico: 0.025392
+patrol: 0.018473
+NUM: 0.018392
+the: 0.017864
+at: 0.010166
+* us: 0.007198
+
+3:
+ED: 0.787679
+border: 0.031495
+texas: 0.010127
+mexican: 0.009148
+mexico: 0.006831
+for: 0.004608
+in: 0.004284
+at: 0.004262
+illegal: 0.003910
+are: 0.003283
+* ED: 0.787679
+
+4:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+5:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+6:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+7:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+8:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+9:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+10:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+border: 0.000000
+mexican: 0.000000
+illegal: 0.000000
+sanders: 0.000000
+mexico: 0.000000
+in: 0.000000
+patrol: 0.000000
+on: 0.000000
+* : 1.000000
+
+
+Perplexity = 0.886264
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.21582031 -0.24414062 -0.00097275 ..., -0.078125   -0.38085938
+   0.08789062]
+ [ 0.24023438  0.41210938  0.07958984 ..., -0.23144531  0.27148438
+  -0.20117188]
+ ..., 
+ [ 0.07910156  0.09667969 -0.01086426 ...,  0.05273438  0.07128906
+  -0.05004883]
+ [ 0.45117188  0.06079102 -0.10888672 ..., -0.04760742  0.13867188
+  -0.03710938]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]]
+encode_h1:
+[[[  3.17586772e-02   9.68749225e-02  -4.32187557e-01 ...,   1.92629755e-01
+    -5.05307987e-02   6.22947395e-01]
+  [ -1.41889259e-01   2.09184363e-01  -5.30749738e-01 ...,   9.29231197e-02
+    -1.35077089e-01   8.24335337e-01]
+  [ -1.32049676e-02   2.98425913e-01  -1.90320700e-01 ...,  -6.89149499e-02
+    -1.57526582e-01   5.45124412e-01]
+  ..., 
+  [ -9.03065428e-02   5.13154827e-02  -6.25608563e-02 ...,  -3.36745858e-01
+    -2.44837388e-01   1.86159834e-01]
+  [ -8.82254168e-02   4.74704355e-02  -5.73696271e-02 ...,  -3.35465759e-01
+    -2.39274323e-01   1.90269530e-01]
+  [ -8.78212675e-02   4.21463400e-02  -5.28035015e-02 ...,  -3.36967379e-01
+    -2.28766322e-01   1.91216886e-01]]
+
+ [[  1.89345464e-01  -4.32600826e-03  -6.11314848e-02 ...,   5.20190835e-01
+     2.94916511e-01   4.88143772e-01]
+  [  1.71229154e-01  -3.93638946e-02   8.57875347e-02 ...,   5.99754035e-01
+     3.30815881e-01   6.25034392e-01]
+  [  1.97742328e-01  -3.41971725e-01   1.01799160e-01 ...,   6.30718052e-01
+     5.15190125e-01   4.65940505e-01]
+  ..., 
+  [ -3.99947703e-01   2.26030275e-01  -1.26453951e-01 ...,  -2.61155814e-01
+    -2.09602863e-01   3.60565662e-01]
+  [ -4.08183008e-01   1.02240928e-01  -1.27379477e-01 ...,  -4.45156753e-01
+    -2.19036102e-01   1.52940020e-01]
+  [ -3.35944742e-01   9.77349952e-02  -1.56017974e-01 ...,  -3.98738623e-01
+    -2.11079061e-01   1.85766861e-01]]
+
+ [[  2.06970423e-01  -1.02650948e-01  -6.67786598e-02 ...,   1.39912426e-01
+    -2.76036352e-01   3.44174892e-01]
+  [ -2.05920085e-01  -2.59919018e-02  -1.54566109e-01 ...,  -4.80972826e-02
+    -7.32859552e-01   4.04973626e-01]
+  [ -3.80868345e-01  -2.89350659e-01  -1.61942512e-01 ...,  -4.89579439e-02
+    -6.42958701e-01  -3.13299615e-03]
+  ..., 
+  [ -3.17904860e-01   6.57283589e-02  -9.53118131e-02 ...,  -4.20727938e-01
+    -3.21715534e-01   9.27995443e-02]
+  [ -3.12452465e-01   6.04015104e-02  -9.72381383e-02 ...,  -4.21214968e-01
+    -3.20998520e-01   9.23139155e-02]
+  [ -3.08655351e-01   5.38899265e-02  -9.95967612e-02 ...,  -4.23977166e-01
+    -3.15871477e-01   8.85858908e-02]]
+
+ ..., 
+ [[ -1.34929180e-01  -1.01444963e-02  -1.19576849e-01 ...,  -1.15842976e-01
+    -3.13633382e-02  -2.80751307e-02]
+  [ -1.19938068e-01   4.96202931e-02  -2.00863570e-01 ...,  -4.31124344e-02
+    -3.46317254e-02  -2.60394067e-01]
+  [ -2.00375430e-02   4.43719476e-02  -1.73321232e-01 ...,  -3.42136547e-02
+     2.44567730e-03  -1.91092283e-01]
+  ..., 
+  [  3.66878174e-02  -3.35132144e-03   6.77307025e-02 ...,   6.68101460e-02
+    -2.62906961e-02   4.36274409e-02]
+  [  4.24085520e-02  -7.21543189e-03   6.60847053e-02 ...,   6.43966794e-02
+    -2.59189270e-02   4.30009067e-02]
+  [  4.62922715e-02  -1.25610270e-02   6.39064088e-02 ...,   5.90152740e-02
+    -2.04828493e-02   4.01321203e-02]]
+
+ [[ -1.33852050e-01  -1.76186301e-03  -3.01743031e-01 ...,   2.03521438e-02
+    -7.72639811e-02   1.11985914e-01]
+  [ -2.19377443e-01  -7.36810593e-03  -2.74213135e-01 ...,   1.29410386e-01
+    -6.51975647e-02   2.25252047e-01]
+  [ -1.07924402e-01  -6.53337389e-02  -2.86051303e-01 ...,   7.47773722e-02
+    -1.09504135e-02   2.51561612e-01]
+  ..., 
+  [  4.23010923e-02  -3.25957313e-04   5.43160886e-02 ...,   4.68091816e-02
+    -6.74365973e-03   6.29008487e-02]
+  [  4.48294505e-02  -5.90906898e-03   5.32859378e-02 ...,   4.59522307e-02
+    -8.27128626e-03   6.11432269e-02]
+  [  4.61643822e-02  -1.24833826e-02   5.22475056e-02 ...,   4.27905992e-02
+    -4.97897808e-03   5.64548448e-02]]
+
+ [[  1.05219051e-01   2.92256594e-01  -1.80015057e-01 ...,   2.20753282e-01
+    -9.85992327e-02   3.22142243e-01]
+  [  6.93828985e-02   2.77209491e-01  -3.07766981e-02 ...,   2.85731673e-01
+    -9.63780507e-02   4.58345294e-01]
+  [  1.46672353e-01   2.45203584e-01   1.35708228e-01 ...,   4.09909427e-01
+    -1.52827099e-01   2.70485163e-01]
+  ..., 
+  [ -3.13214898e-01  -4.89017144e-02   2.64664739e-01 ...,  -2.58570075e-01
+    -1.23713672e-01   1.59643263e-01]
+  [ -2.82829881e-01   8.18868447e-03   3.69128555e-01 ...,  -2.81529993e-01
+    -1.26425758e-01   2.82608449e-01]
+  [ -4.46468115e-01   7.76144117e-02   1.09554619e-01 ...,  -2.46732622e-01
+    -3.36314589e-01   1.95995525e-01]]]
+encode_h2:
+[[ 2.51353979  0.05142687  3.25793147 ..., -6.03894997  2.44560051
+   5.49646521]
+ [ 2.9200778   0.31582409  1.27955031 ..., -3.91276646  1.32824135
+   4.84841824]
+ [ 3.08931065  0.8956731   0.83134437 ..., -2.86979127  0.94799757
+   4.1921134 ]
+ ..., 
+ [ 3.31267548  1.03785813  0.81722564 ..., -1.72361422  0.01104907
+   3.92827201]
+ [ 3.41862798  1.06190205  0.63897628 ..., -1.692276    0.38525695
+   3.88318229]
+ [ 3.40645552  1.22562134  0.02901413 ..., -1.24701917  0.43602997
+   4.16234446]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.29492188 -0.01306152 -0.08398438 ..., -0.06884766  0.22949219
+  -0.22070312]
+ [ 0.02990723  0.05639648  0.0037384  ..., -0.02416992  0.01086426
+  -0.14746094]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[  0.53349435  14.8404398    1.49742889 ...,  -0.19171809   0.63204658
+   -3.54292464]
+ [ -0.75664878  14.8404398    1.23957443 ...,   0.98844975  -0.30853891
+   -3.54292464]
+ [  0.37964442  14.8404398    0.47914019 ...,   0.04920898  -0.94603455
+   -3.54292464]
+ ..., 
+ [  0.6222195   14.8404398    0.47914019 ...,   0.90275109  -0.77338439
+   -3.42395067]
+ [  0.6222195   14.8404398    0.47914019 ...,   0.90275109  -0.77338439
+   -3.42395067]
+ [  0.6222195   14.8404398    0.47914019 ...,   0.90275109  -0.77338439
+   -3.42395067]]
+output_dstrb:
+[[  4.25716928e-09   2.63433133e-08   1.73604747e-07 ...,   4.69750248e-08
+    2.26101984e-05   2.61659405e-08]
+ [  3.01976513e-07   2.84121882e-08   1.78339377e-07 ...,   7.83522580e-08
+    2.56979965e-05   2.87917672e-08]
+ [  3.80193477e-09   9.11028231e-09   6.01537948e-08 ...,   2.02674038e-08
+    7.00035798e-06   9.28049193e-09]
+ ..., 
+ [  9.99999523e-01   1.25308538e-14   7.70718057e-14 ...,   3.43418599e-14
+    1.06186804e-11   1.27420318e-14]
+ [  9.99999523e-01   1.25308538e-14   7.70718057e-14 ...,   3.43418599e-14
+    1.06186804e-11   1.27420318e-14]
+ [  9.99999523e-01   1.25308538e-14   7.70718057e-14 ...,   3.43418599e-14
+    1.06186804e-11   1.27420318e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG border             
+-2.119853
+No. 2
+BG mexican             
+-2.537071
+No. 3
+BG texas             
+-2.756413
+No. 4
+BG NUM             
+-3.101753
+No. 5
+BG mexico             
+-3.535825
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG border patrol            
+-3.485778
+No. 2
+BG mexican border            
+-4.038525
+No. 3
+BG texas border            
+-4.236975
+No. 4
+BG border wall            
+-4.422862
+No. 5
+BG mexico border            
+-5.576783
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG mexican border patrol           
+-6.014833
+No. 2
+BG mexican border wall           
+-6.401616
+No. 3
+BG texas border patrol           
+-6.414347
+No. 4
+BG border patrol patrol           
+-6.469143
+No. 5
+BG border wall street           
+-6.496352
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG mexican border wall street          
+-8.452065
+No. 2
+BG border patrol patrol in          
+-9.158115
+No. 3
+BG mexican border wall in          
+-9.265650
+No. 4
+BG mexican border patrol border          
+-9.277226
+No. 5
+BG border wall street border          
+-9.297831
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG mexican border wall street border         
+-11.335044
+No. 2
+BG mexican border patrol border patrol         
+-11.469252
+No. 3
+BG border wall street border patrol         
+-11.583633
+No. 4
+BG border patrol patrol in NUM         
+-11.592678
+No. 5
+BG mexican border wall street in         
+-11.608328
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG mexican border wall street border wall        
+-13.933543
+No. 2
+BG mexican border wall street border in        
+-13.979873
+No. 3
+BG mexican border wall street border patrol        
+-14.146991
+No. 4
+BG border wall street border patrol in        
+-14.189299
+No. 5
+BG mexican border wall street in border        
+-14.230501
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG mexican border wall street border wall street       
+-16.338945
+No. 2
+BG mexican border wall street in border wall       
+-16.674005
+No. 3
+BG mexican border wall street border wall in       
+-16.674387
+No. 4
+BG mexican border wall street border in border       
+-16.686781
+No. 5
+BG mexican border wall street border in texas       
+-16.722752
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG mexican border wall street border in texas border      
+-19.037375
+No. 2
+BG mexican border wall street border wall in border      
+-19.304919
+No. 3
+BG mexican border wall street border in border wall      
+-19.328628
+No. 4
+BG mexican border wall street border wall in texas      
+-19.531513
+No. 5
+BG mexican border wall street border wall street on      
+-19.580560
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG mexican border wall street border wall street on border     
+-22.234488
+No. 2
+BG mexican border wall street border wall in texas border     
+-22.249131
+No. 3
+BG mexican border wall street border wall in border wall     
+-22.274172
+No. 4
+BG mexican border wall street border in texas border wall     
+-22.341635
+No. 5
+BG mexican border wall street border in border wall street     
+-23.101514
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG mexican border wall street border wall street on border wall    
+-25.143156
+No. 2
+BG mexican border wall street border wall in texas border wall    
+-26.035918
+No. 3
+BG mexican border wall street border in texas border wall street    
+-26.514244
+No. 4
+BG mexican border wall street border wall in border wall street    
+-26.551054
+No. 5
+BG mexican border wall street border wall street on border border    
+-26.580676
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG mexican border wall street border wall street on border wall street   
+-29.590435
+No. 2
+BG mexican border wall street border wall street on border wall in   
+-29.678538
+No. 3
+BG mexican border wall street border wall street on border border wall   
+-30.320702
+No. 4
+BG mexican border wall street border wall in texas border wall street   
+-30.533575
+No. 5
+BG mexican border wall street border wall street on border wall on   
+-30.692780
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG mexican border wall street border wall street on border wall in texas  
+-32.877061
+No. 2
+BG mexican border wall street border wall street on border wall in border  
+-33.218437
+No. 3
+BG mexican border wall street border wall street on border wall in NUM  
+-33.467556
+No. 4
+BG mexican border wall street border wall street on border wall in the  
+-33.737421
+No. 5
+BG mexican border wall street border wall street on border wall on border  
+-33.961373
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG mexican border wall street border wall street on border wall in texas border 
+-36.891927
+No. 2
+BG mexican border wall street border wall street on border wall in border wall 
+-37.347180
+No. 3
+BG mexican border wall street border wall street on border wall in the us 
+-37.375769
+No. 4
+BG mexican border wall street border wall street on border wall in the border 
+-37.496113
+No. 5
+BG mexican border wall street border wall street on border wall on border wall 
+-37.660892
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG border patrol patrol in NUM ED        
+-1.770762
+No. 2
+BG mexican border wall ED          
+-1.807568
+No. 3
+BG mexican border wall street border wall ED       
+-1.871806
+No. 4
+BG mexican border wall street ED         
+-1.884185
+No. 5
+BG mexican border wall street border in texas ED      
+-1.896175
+Content:
+BG texas traveled the mexican states recruit citizen journalists willing risk their lives expose the cartels silencing their communities ED          
+
+BG the writers would face certain death at the hands the various cartels that operate in those areas including the gulf cartel los if pseudonym were not used ED 
+
+BG cartel chronicles are published in both english in their original spanish ED                 
+
+BG this article was written by ED                       
+
+BG ED                            
+
+BG from ortiz ED                          
+
+BG the attempts by government officials the activities cartel members in this border city following the discovery clandestine near the border has stolen the hopes dozens families who cling the

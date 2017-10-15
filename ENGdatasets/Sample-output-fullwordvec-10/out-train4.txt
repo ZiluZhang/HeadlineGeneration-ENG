@@ -1,0 +1,612 @@
+Title:
+BG how trump attacks the media why that reality ED      
+Teacher Forced Generated Title:
+the the the on ED ED ED is ED      
+Distribution for each word in title:
+1:
+the: 0.179673
+donald: 0.098211
+how: 0.046739
+NUM: 0.037768
+is: 0.016300
+watch: 0.015373
+what: 0.013627
+trump: 0.011794
+in: 0.010377
+on: 0.010251
+* how: 0.046739
+
+2:
+the: 0.239553
+donald: 0.055755
+trump: 0.039649
+NUM: 0.026070
+is: 0.014788
+you: 0.014234
+we: 0.010443
+this: 0.010353
+how: 0.008748
+it: 0.008521
+* trump: 0.039649
+
+3:
+the: 0.090707
+is: 0.079335
+will: 0.036290
+has: 0.026607
+could: 0.019742
+can: 0.019299
+should: 0.018469
+campaign: 0.012431
+how: 0.011120
+NUM: 0.008948
+* attacks: 0.001795
+
+4:
+on: 0.099757
+the: 0.062488
+are: 0.037382
+against: 0.026399
+NUM: 0.023304
+in: 0.018770
+could: 0.016175
+that: 0.014177
+ED: 0.014101
+is: 0.011465
+* the: 0.062488
+
+5:
+ED: 0.035917
+the: 0.033521
+media: 0.026456
+gop: 0.022025
+NUM: 0.019280
+at: 0.015225
+new: 0.011771
+in: 0.010400
+is: 0.009025
+like: 0.008036
+* media: 0.026456
+
+6:
+ED: 0.225834
+the: 0.048538
+in: 0.031388
+is: 0.024594
+for: 0.021160
+media: 0.018730
+are: 0.015268
+at: 0.011227
+NUM: 0.010779
+will: 0.009990
+* why: 0.001938
+
+7:
+ED: 0.124844
+the: 0.098475
+is: 0.049154
+you: 0.027209
+he: 0.019268
+are: 0.017027
+NUM: 0.016930
+it: 0.016281
+we: 0.015470
+not: 0.012436
+* that: 0.005620
+
+8:
+is: 0.066568
+will: 0.043125
+are: 0.027386
+ED: 0.025927
+the: 0.023594
+was: 0.019410
+has: 0.016791
+NUM: 0.015740
+he: 0.015308
+could: 0.013419
+* reality: 0.000133
+
+9:
+ED: 0.202926
+is: 0.127739
+will: 0.028399
+are: 0.024687
+has: 0.015614
+the: 0.014924
+was: 0.009911
+it: 0.009623
+in: 0.008937
+media: 0.008719
+* ED: 0.202926
+
+10:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+trump: 0.000000
+the: 0.000000
+people: 0.000000
+sanders: 0.000000
+are: 0.000000
+should: 0.000000
+can: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+trump: 0.000000
+the: 0.000000
+people: 0.000000
+sanders: 0.000000
+are: 0.000000
+should: 0.000000
+can: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+trump: 0.000000
+the: 0.000000
+people: 0.000000
+sanders: 0.000000
+are: 0.000000
+should: 0.000000
+can: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+trump: 0.000000
+the: 0.000000
+people: 0.000000
+sanders: 0.000000
+are: 0.000000
+should: 0.000000
+can: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+trump: 0.000000
+the: 0.000000
+people: 0.000000
+sanders: 0.000000
+are: 0.000000
+should: 0.000000
+can: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+trump: 0.000000
+the: 0.000000
+people: 0.000000
+sanders: 0.000000
+are: 0.000000
+should: 0.000000
+can: 0.000000
+* : 1.000000
+
+
+Perplexity = 2.731144
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.09375    -0.09326172  0.05444336 ..., -0.09277344 -0.02453613
+  -0.08496094]
+ [ 0.13867188  0.02941895 -0.18652344 ...,  0.10058594 -0.09912109
+  -0.03173828]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  1.50023168e-02  -3.68816182e-02   5.03717586e-02 ...,  -2.90714175e-01
+     1.91277161e-01  -5.20752788e-01]
+  [  9.59653631e-02  -6.40471205e-02   2.18159899e-01 ...,  -2.12680370e-01
+     1.50538906e-01  -4.72819805e-01]
+  [  6.71138242e-02  -1.38627589e-01   3.29115361e-01 ...,  -2.44466096e-01
+     2.97491342e-01  -3.94636005e-01]
+  ..., 
+  [  6.82610422e-02  -2.91922301e-01   2.33808696e-01 ...,  -4.82151508e-02
+     8.07669684e-02   2.73426116e-01]
+  [ -3.73916700e-02  -2.14518249e-01   1.90514833e-01 ...,  -1.17860861e-01
+     9.91167799e-02   2.86140740e-01]
+  [  1.24548161e-02  -2.04180434e-01   2.72130579e-01 ...,  -9.28553641e-02
+     2.00727463e-01   2.08526894e-01]]
+
+ [[ -1.08065411e-01  -2.15731794e-03  -1.52716011e-01 ...,  -9.34065580e-02
+    -1.07079804e-01  -8.33431184e-02]
+  [ -1.23017572e-01  -1.54084936e-02   8.88289884e-03 ...,  -6.10157475e-02
+    -3.45698372e-02  -4.79502231e-02]
+  [ -3.35474797e-02   5.06087542e-02   4.02463824e-02 ...,  -6.50667697e-02
+     8.68625119e-02  -1.56397209e-01]
+  ..., 
+  [  2.97280792e-02   6.51570968e-04   5.76049834e-02 ...,   5.43792136e-02
+    -1.34884380e-02   5.66368178e-02]
+  [  3.46054733e-02  -4.26852703e-03   5.74076585e-02 ...,   5.37384599e-02
+    -1.51321096e-02   5.46562597e-02]
+  [  3.80120873e-02  -1.02966428e-02   5.67968264e-02 ...,   5.04466519e-02
+    -1.16540967e-02   5.00600338e-02]]
+
+ [[  7.55385980e-02   8.69907662e-02  -1.62997618e-01 ...,   2.50729829e-01
+     1.09242521e-01  -6.82108477e-02]
+  [ -1.28773237e-02  -1.70016810e-02  -3.90009172e-02 ...,   6.37462139e-01
+     9.66951177e-02  -6.06459677e-02]
+  [  1.89476326e-01   7.73576349e-02  -2.63846964e-02 ...,   6.87297046e-01
+    -3.22552435e-02  -1.83680281e-02]
+  ..., 
+  [  4.80327040e-01  -2.64832854e-01   1.53463766e-01 ...,   3.82526331e-02
+     2.36942470e-01   4.86839842e-03]
+  [  1.29516289e-01  -1.67612687e-01   1.59140632e-01 ...,   2.31549978e-01
+     2.03976393e-01  -5.69314733e-02]
+  [  8.31593424e-02  -2.44459406e-01   3.43708657e-02 ...,   4.60351557e-02
+     2.69231260e-01  -2.18774140e-01]]
+
+ ..., 
+ [[ -2.45415084e-02   4.87530828e-02  -6.61403239e-01 ...,   1.69543087e-01
+    -6.30056784e-02   1.06416032e-01]
+  [  7.33729312e-03   8.07498544e-02  -4.93883908e-01 ...,   3.75886321e-01
+    -2.22733319e-01   2.49879047e-01]
+  [  5.98331466e-02   6.22993670e-02  -4.77312654e-01 ...,   3.01520854e-01
+    -1.00060649e-01   2.35317960e-01]
+  ..., 
+  [ -9.98638049e-02   2.88703680e-01  -2.27892306e-03 ...,   2.28355020e-01
+     4.44985032e-02   1.26985788e-01]
+  [ -1.90970987e-01   2.20141917e-01  -1.47675956e-02 ...,   1.85308099e-01
+     5.28857671e-03   1.88729450e-01]
+  [ -2.27954939e-01   2.80364960e-01  -3.54402252e-02 ...,   1.68670535e-01
+     8.61909911e-02   1.96161091e-01]]
+
+ [[  9.33467746e-02  -2.26322353e-01   1.20709702e-01 ...,  -2.43702620e-01
+     1.38865337e-01   1.33649468e-01]
+  [  2.24867791e-01  -1.26125425e-01   4.19085592e-01 ...,  -4.94211689e-02
+     1.74746159e-02   2.93606728e-01]
+  [  3.03844154e-01  -1.61028817e-01   3.39185089e-01 ...,   3.19030136e-03
+    -3.98135483e-02   4.02884871e-01]
+  ..., 
+  [  2.37690471e-02  -2.00522557e-01  -2.04114877e-02 ...,  -5.75822070e-02
+     2.63536274e-01  -3.19380835e-02]
+  [  2.66148541e-02  -1.95136353e-01  -7.35574868e-03 ...,  -4.60452214e-02
+     2.32861057e-01  -1.72505789e-02]
+  [  2.94332579e-02  -1.87169164e-01   6.84836879e-04 ...,  -4.04166877e-02
+     2.11782053e-01  -5.21495473e-03]]
+
+ [[ -1.77571774e-01  -1.46652624e-01  -3.86885375e-01 ...,  -1.24548592e-01
+     1.28522068e-01   5.35113961e-02]
+  [ -2.18620032e-01  -2.11208276e-02  -1.95881143e-01 ...,   2.57968083e-02
+     3.62599641e-01   1.94450423e-01]
+  [ -1.80383071e-01  -8.98252875e-02  -2.44707286e-01 ...,  -1.09623559e-03
+     5.73164582e-01   2.74623424e-01]
+  ..., 
+  [ -9.41058528e-03   1.15487643e-01  -2.59016864e-02 ...,   1.56570882e-01
+    -1.30716227e-02   1.30375102e-02]
+  [  5.38945256e-04   1.04319826e-01  -1.68855265e-02 ...,   1.53088450e-01
+    -1.49780698e-03   1.48015693e-02]
+  [  8.16467777e-03   9.49507356e-02  -9.06647462e-03 ...,   1.47762865e-01
+     1.38336048e-02   1.41517054e-02]]]
+encode_h2:
+[[ 3.50531268  1.36865842 -0.1096026  ...,  0.92348778 -0.28960708
+   2.01731253]
+ [ 2.9109211   0.28795183 -0.58859897 ...,  1.12242079  0.6050244
+   3.1595397 ]
+ [ 3.64237928  0.15347686 -0.80235428 ...,  1.42959416  1.0332706
+   2.80510283]
+ ..., 
+ [ 3.34658027  1.08468544 -0.36744663 ...,  0.55491197  1.16955197
+   3.46821785]
+ [ 2.27105474  0.49245062  0.25313437 ...,  1.53909802  0.97469747
+   3.04576087]
+ [ 2.03360224  0.84969807  0.33894557 ...,  1.01127946  0.63169599
+   3.6715219 ]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.26953125  0.0859375   0.09423828 ...,  0.12304688 -0.01843262
+  -0.16699219]
+ [-0.07910156  0.12158203 -0.00842285 ..., -0.39257812  0.07763672
+   0.27148438]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.81559396  6.65128088  2.06253648 ...,  0.17004474  1.43203938
+  -4.35640383]
+ [-0.96276611  5.84284258  0.47173256 ..., -0.91421002  0.67503405
+  -4.35640383]
+ [-0.95380336  5.16283321  0.20564422 ...,  0.93611968 -0.93001926
+  -4.35640383]
+ ..., 
+ [-0.51337725  0.89061975 -0.41956097 ...,  0.95508426 -0.36110097
+  -2.74186873]
+ [-0.51337725  0.89061975 -0.41956097 ...,  0.95508426 -0.36110097
+  -2.74186873]
+ [-0.51337725  0.89061975 -0.41956097 ...,  0.95508426 -0.36110097
+  -2.74186873]]
+output_dstrb:
+[[  8.81437998e-08   8.99217127e-08   1.41696262e-07 ...,   2.82556044e-07
+    8.13301358e-06   9.05077897e-08]
+ [  9.83627118e-08   6.97667630e-08   1.64704559e-07 ...,   3.12329064e-07
+    3.81986974e-05   7.11551351e-08]
+ [  5.20744322e-07   1.32352028e-07   3.68632470e-07 ...,   4.53375549e-07
+    2.08537749e-05   1.33039194e-07]
+ ..., 
+ [  9.99999881e-01   6.31501221e-15   8.44207584e-15 ...,   8.63614380e-15
+    1.48518546e-12   6.35231724e-15]
+ [  9.99999881e-01   6.31501221e-15   8.44207584e-15 ...,   8.63614380e-15
+    1.48518546e-12   6.35231724e-15]
+ [  9.99999881e-01   6.31501221e-15   8.44207584e-15 ...,   8.63614380e-15
+    1.48518546e-12   6.35231724e-15]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-1.716618
+No. 2
+BG donald             
+-2.320631
+No. 3
+BG how             
+-3.063175
+No. 4
+BG NUM             
+-3.276282
+No. 5
+BG is             
+-4.116577
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG donald trump            
+-3.274842
+No. 2
+BG how the            
+-4.492158
+No. 3
+BG the NUM            
+-4.664505
+No. 4
+BG the the            
+-4.968074
+No. 5
+BG donald the            
+-5.333928
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG donald trump the           
+-5.778720
+No. 2
+BG donald trump is           
+-6.239940
+No. 3
+BG donald trump has           
+-6.755774
+No. 4
+BG donald trump on           
+-7.126737
+No. 5
+BG donald trump NUM           
+-7.218533
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG donald trump is the          
+-9.001078
+No. 2
+BG donald trump on the          
+-9.031007
+No. 3
+BG donald trump is not          
+-9.077482
+No. 4
+BG donald trump the NUM          
+-9.357943
+No. 5
+BG donald trump the the          
+-9.544915
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG donald trump is not the         
+-11.663559
+No. 2
+BG donald trump on the NUM         
+-12.089152
+No. 3
+BG donald trump is the the         
+-12.261969
+No. 4
+BG donald trump on the the         
+-12.391535
+No. 5
+BG donald trump is the NUM         
+-12.434642
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG donald trump is not the the        
+-15.363214
+No. 2
+BG donald trump is the the the        
+-15.373224
+No. 3
+BG donald trump on the the the        
+-15.559896
+No. 4
+BG donald trump on the NUM the        
+-15.708471
+No. 5
+BG donald trump on the the NUM        
+-15.796406
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG donald trump is the the the the       
+-18.356431
+No. 2
+BG donald trump is not the the the       
+-18.729289
+No. 3
+BG donald trump on the the the the       
+-18.736060
+No. 4
+BG donald trump on the the NUM the       
+-19.141731
+No. 5
+BG donald trump is the the the in       
+-19.239788
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG donald trump is the the the in the      
+-20.412321
+No. 2
+BG donald trump is the the the the the      
+-21.323859
+No. 3
+BG donald trump on the the the the the      
+-21.838190
+No. 4
+BG donald trump is not the the the the      
+-21.890553
+No. 5
+BG donald trump is the the the the in      
+-22.231796
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG donald trump is the the the the in the     
+-23.421986
+No. 2
+BG donald trump is the the the in the the     
+-23.681594
+No. 3
+BG donald trump is the the the in the NUM     
+-23.862363
+No. 4
+BG donald trump is the the the the the the     
+-24.367687
+No. 5
+BG donald trump is the the the in the world     
+-24.388105
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG donald trump is the the the the in the the    
+-26.763269
+No. 2
+BG donald trump is the the the the in the NUM    
+-26.844462
+No. 3
+BG donald trump is the the the in the the the    
+-26.882550
+No. 4
+BG donald trump is the the the in the world the    
+-27.057709
+No. 5
+BG donald trump is the the the the in the world    
+-27.280165
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG donald trump is the the the the in the the the   
+-30.001030
+No. 2
+BG donald trump is the the the the in the world the   
+-30.081243
+No. 3
+BG donald trump is the the the in the the the the   
+-30.103557
+No. 4
+BG donald trump is the the the in the world the NUM   
+-30.173301
+No. 5
+BG donald trump is the the the the in the the NUM   
+-30.389259
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG donald trump is the the the the in the world the NUM  
+-33.213847
+No. 2
+BG donald trump is the the the the in the the the the  
+-33.258400
+No. 3
+BG donald trump is the the the in the the the the the  
+-33.295524
+No. 4
+BG donald trump is the the the the in the the the NUM  
+-33.604534
+No. 5
+BG donald trump is the the the in the the the the NUM  
+-33.850132
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG donald trump is the the the the in the the the the the 
+-36.493089
+No. 2
+BG donald trump is the the the in the the the the the the 
+-36.524830
+No. 3
+BG donald trump is the the the the in the the the the NUM 
+-37.000701
+No. 4
+BG donald trump is the the the in the the the the the NUM 
+-37.138200
+No. 5
+BG donald trump is the the the the in the world the NUM years 
+-37.154370
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG donald trump the NUM ED         
+-2.029475
+No. 2
+BG donald trump on the NUM ED        
+-2.063840
+No. 3
+BG donald trump is not the ED        
+-2.159821
+No. 4
+BG donald trump is the NUM ED        
+-2.176884
+No. 5
+BG donald trump is the the ED        
+-2.185735
+Content:
+BG only few minutes into donald acceptance speech thursday night he started his familiar attacks on the media you want hear the corporate spin the carefully crafted lies the media
+
+BG go there ED                          
+
+BG casting himself as truth teller in chief he doubled down will tell you the plain facts that have been edited out your nightly news your morning he said ED
+
+BG this business elite media major donors are lining up behind my opponent because they know she will keep our rigged system in place ED     
+
+BG his words brought approval in the cleveland arena at the republican national convention the next morning they brought approving smiles from mary sue delegate from dallas who came the
+
+BG wearing cowboy hat as she waited for her flight home the told me that media criticism hits home is finally saying what we think ED    
+
+BG signs in cleveland reminded longtime television journalist ted seen talking on jonathan satellite radio show the NUM republican national convention ED        

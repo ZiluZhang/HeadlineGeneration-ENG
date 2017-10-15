@@ -1,0 +1,610 @@
+Title:
+BG in gop sen ED           
+Teacher Forced Generated Title:
+jeff the the ED           
+Distribution for each word in title:
+1:
+jeff: 0.136813
+the: 0.092242
+why: 0.033542
+paul: 0.032968
+what: 0.028689
+sessions: 0.025590
+how: 0.021743
+mike: 0.013829
+donald: 0.011830
+NUM: 0.010703
+* in: 0.004976
+
+2:
+the: 0.051117
+jeff: 0.024149
+NUM: 0.017679
+mike: 0.011376
+case: 0.009400
+his: 0.008078
+sessions: 0.007822
+paul: 0.007264
+convention: 0.007238
+america: 0.006810
+* gop: 0.001706
+
+3:
+the: 0.041612
+senator: 0.030872
+ED: 0.025693
+convention: 0.018247
+debate: 0.012642
+is: 0.011406
+jeff: 0.009369
+NUM: 0.008431
+has: 0.008062
+should: 0.007503
+* sen: 0.002741
+
+4:
+ED: 0.433955
+the: 0.012784
+what: 0.011558
+is: 0.010235
+was: 0.008776
+in: 0.007181
+on: 0.006947
+jeff: 0.005613
+says: 0.005308
+at: 0.004820
+* ED: 0.433955
+
+5:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+6:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+7:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+8:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+9:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+10:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+on: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+with: 0.000000
+is: 0.000000
+after: 0.000000
+* : 1.000000
+
+
+Perplexity = 1.227407
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.05053711  0.22070312  0.09814453 ..., -0.05493164 -0.03515625
+   0.04833984]
+ [-0.11572266 -0.03149414  0.15917969 ...,  0.02624512 -0.0625     -0.04150391]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  7.41874576e-02  -4.98175733e-02  -4.49260026e-01 ...,  -1.02674730e-01
+     1.82783455e-01   7.82451872e-03]
+  [ -8.02439302e-02  -2.01074347e-01  -5.74396670e-01 ...,  -7.62703568e-02
+     3.57927829e-01   6.32802024e-02]
+  [  7.82640874e-02  -2.32426286e-01  -2.38951921e-01 ...,  -4.86590043e-02
+     2.95722634e-01  -5.23061380e-02]
+  ..., 
+  [  2.17203051e-02   1.00843646e-01   1.25130638e-02 ...,   9.65140536e-02
+     1.16504349e-01   1.15708753e-01]
+  [  2.25592889e-02   9.42053869e-02   1.04211550e-02 ...,   9.60269719e-02
+     1.19278274e-01   1.18841514e-01]
+  [  2.10116673e-02   8.62039924e-02   8.17259960e-03 ...,   9.19184536e-02
+     1.27051875e-01   1.17553055e-01]]
+
+ [[  1.80559307e-01  -2.28169814e-01  -1.57183871e-01 ...,   2.61557728e-01
+     2.75590926e-01  -1.69152826e-01]
+  [  1.50341347e-01  -2.26419657e-01   3.23529318e-02 ...,   5.04055679e-01
+     1.72842309e-01  -5.29791787e-02]
+  [  1.16949581e-01  -2.27186084e-01   2.01112196e-01 ...,   6.18024170e-01
+     2.29084179e-01  -8.86701494e-02]
+  ..., 
+  [  1.90744385e-01  -8.21619183e-02  -1.00121997e-01 ...,   1.92190886e-01
+    -1.16465643e-01   1.18387155e-01]
+  [  2.60286659e-01   8.33773538e-02  -1.83216363e-01 ...,   1.72097385e-01
+    -1.32397547e-01   1.05593935e-01]
+  [ -2.95675993e-02   2.71858364e-01  -2.26599321e-01 ...,   1.30389497e-01
+    -1.90962836e-01   1.39167815e-01]]
+
+ [[  2.01242507e-01  -2.51223177e-01  -1.14578180e-01 ...,   4.06652093e-02
+     1.93860665e-01  -2.81678569e-02]
+  [  1.26226336e-01  -2.21785441e-01   2.57457271e-02 ...,   1.10011704e-01
+     2.30622292e-01   7.06678182e-02]
+  [  1.43559575e-01  -2.55066484e-01   9.78191644e-02 ...,   1.96084410e-01
+     1.89327285e-01   7.00619146e-02]
+  ..., 
+  [ -5.56067638e-02  -1.26172928e-02  -2.76701264e-02 ...,   2.48161517e-02
+     1.13961674e-01   5.08255810e-02]
+  [ -4.62039374e-02  -1.50228208e-02  -3.26243788e-02 ...,   1.29524544e-02
+     1.06718503e-01   5.98664507e-02]
+  [ -3.79523337e-02  -1.94311347e-02  -3.56605574e-02 ...,   1.13559328e-03
+     1.03438519e-01   6.48632273e-02]]
+
+ ..., 
+ [[  3.89797874e-02   1.47550613e-01  -3.61392021e-01 ...,  -6.67976215e-04
+    -3.25592279e-01   4.35542583e-01]
+  [  1.54331475e-02   1.80255815e-01  -3.29622120e-01 ...,   5.10391742e-02
+    -2.58152515e-01   6.05779409e-01]
+  [ -1.69755504e-01  -1.02717513e-02  -1.74145177e-01 ...,  -8.02259222e-02
+     4.70366031e-02  -1.57001883e-01]
+  ..., 
+  [  3.80619504e-02  -8.90657865e-03   5.80536574e-02 ...,   5.37964329e-02
+    -1.62937883e-02   5.46015054e-02]
+  [  4.12603468e-02  -1.27863446e-02   5.75868040e-02 ...,   5.33868037e-02
+    -1.74193755e-02   5.28718308e-02]
+  [  4.34439555e-02  -1.78577155e-02   5.68337999e-02 ...,   5.03198355e-02
+    -1.35678574e-02   4.83614355e-02]]
+
+ [[ -1.36642888e-01  -2.07290009e-01  -7.00616598e-01 ...,   3.57324868e-01
+     3.84633660e-01   1.26338720e-01]
+  [ -2.43220732e-01  -3.47978510e-02  -7.60911167e-01 ...,   7.51483142e-01
+     6.33058846e-01   5.46188891e-01]
+  [ -4.00418252e-01   4.57144249e-03  -6.15131438e-01 ...,   4.13416803e-01
+     4.65947241e-01   5.75504243e-01]
+  ..., 
+  [ -4.02020151e-03   8.90642852e-02  -6.78854138e-02 ...,   2.82645728e-02
+     1.75866961e-01   1.23429298e-03]
+  [  1.12518594e-02   6.73967525e-02  -5.96805736e-02 ...,   2.50303689e-02
+     1.53855518e-01  -1.28815789e-03]
+  [  2.38491092e-02   4.49281968e-02  -5.15140370e-02 ...,   1.96266528e-02
+     1.37694776e-01  -4.26598359e-03]]
+
+ [[ -3.56593020e-02  -4.16046055e-03  -4.53359783e-02 ...,   2.76509803e-02
+     2.13706940e-01  -1.70134142e-01]
+  [ -1.54895693e-01   9.43170115e-02   1.00622974e-01 ...,   7.62273818e-02
+     1.51841685e-01  -2.49720424e-01]
+  [ -1.13628790e-01   7.88255259e-02   4.85995039e-02 ...,   8.71043280e-02
+     2.83602774e-01  -2.10766524e-01]
+  ..., 
+  [  5.19441739e-02   2.73317732e-02   3.81228141e-02 ...,   2.68393587e-02
+     3.86344865e-02   7.79754594e-02]
+  [  5.50757423e-02   1.86158307e-02   3.56520712e-02 ...,   2.39404254e-02
+     3.46070603e-02   7.84540921e-02]
+  [  5.60630038e-02   8.34688265e-03   3.35454457e-02 ...,   1.90720893e-02
+     3.50738764e-02   7.55326897e-02]]]
+encode_h2:
+[[ 5.35530996  0.4048897  -0.79547364 ..., -2.62953305  1.17034686
+  -0.97041935]
+ [ 6.59417057  0.17781001  2.05244255 ...,  0.96803463 -0.08282688
+  -0.68127578]
+ [ 7.02119541 -0.13439584  2.39556432 ...,  0.68163645 -1.37633383
+  -2.30889153]
+ ..., 
+ [ 4.96449947 -0.95244467  2.41383147 ...,  1.91021001 -1.18720829
+  -1.25587296]
+ [ 5.13704109 -1.00557959  1.94681585 ...,  1.19565332 -0.564381
+  -1.20427036]
+ [ 4.83408785 -0.5881325   1.83560205 ...,  1.71278501 -0.75499368
+  -1.11282992]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0703125   0.08691406  0.08789062 ..., -0.04760742  0.01446533 -0.0625    ]
+ [-0.04931641 -0.19824219  0.00497437 ...,  0.04125977 -0.29492188
+   0.29296875]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.85503638  5.00039196 -0.03637769 ...,  0.04858593 -0.99727136
+   3.73927999]
+ [-0.87800694  4.35465384  0.54393405 ..., -0.5008384  -0.53177214
+   3.25974798]
+ [-0.88646466  3.93444395 -0.8482278  ...,  0.67261112 -0.956837
+   3.25974798]
+ ..., 
+ [-0.41177195  1.71835566 -0.58221149 ...,  0.92662853 -0.04784852
+   2.72106886]
+ [-0.41177195  1.71835566 -0.58221149 ...,  0.92662853 -0.04784852
+   2.72106886]
+ [-0.41177195  1.71835566 -0.58221149 ...,  0.92662853 -0.04784852
+   2.72106886]]
+output_dstrb:
+[[  3.66614358e-06   3.02900673e-08   1.30900943e-07 ...,   8.84884273e-08
+    1.42512217e-04   3.08837116e-08]
+ [  7.19969023e-07   6.34135233e-08   2.03747391e-07 ...,   1.42028512e-07
+    1.48785446e-04   6.38041797e-08]
+ [  5.06639083e-07   8.46233306e-08   1.74130932e-07 ...,   1.49339627e-07
+    1.67368329e-04   8.51604085e-08]
+ ..., 
+ [  9.99999642e-01   2.88145227e-14   8.01574451e-14 ...,   4.77135252e-14
+    1.10000602e-11   2.91079518e-14]
+ [  9.99999642e-01   2.88145227e-14   8.01574451e-14 ...,   4.77135252e-14
+    1.10000602e-11   2.91079518e-14]
+ [  9.99999642e-01   2.88145227e-14   8.01574451e-14 ...,   4.77135252e-14
+    1.10000602e-11   2.91079518e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG jeff             
+-1.989138
+No. 2
+BG the             
+-2.383333
+No. 3
+BG why             
+-3.394954
+No. 4
+BG paul             
+-3.412209
+No. 5
+BG what             
+-3.551260
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG jeff sessions            
+-2.940769
+No. 2
+BG paul ryan            
+-5.308126
+No. 3
+BG the jeff            
+-6.169263
+No. 4
+BG jeff jeff            
+-6.344615
+No. 5
+BG jeff on            
+-6.491489
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG jeff sessions on           
+-6.738311
+No. 2
+BG jeff sessions in           
+-6.945593
+No. 3
+BG jeff sessions the           
+-6.953340
+No. 4
+BG jeff sessions should           
+-7.080314
+No. 5
+BG jeff sessions for           
+-7.082529
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG jeff sessions should be          
+-9.182042
+No. 2
+BG jeff sessions should not          
+-9.786088
+No. 3
+BG jeff sessions in the          
+-9.885725
+No. 4
+BG jeff sessions on the          
+-9.985421
+No. 5
+BG jeff sessions should have          
+-10.434711
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG jeff sessions should not be         
+-11.839727
+No. 2
+BG jeff sessions should be be         
+-12.716039
+No. 3
+BG jeff sessions should be the         
+-12.795171
+No. 4
+BG jeff sessions in the supreme         
+-13.193762
+No. 5
+BG jeff sessions on the supreme         
+-13.295203
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG jeff sessions in the supreme court        
+-13.671155
+No. 2
+BG jeff sessions on the supreme court        
+-13.764872
+No. 3
+BG jeff sessions should not be the        
+-14.979653
+No. 4
+BG jeff sessions should not be be        
+-15.331897
+No. 5
+BG jeff sessions should be be the        
+-15.655359
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG jeff sessions in the supreme court over       
+-17.876112
+No. 2
+BG jeff sessions on the supreme court over       
+-17.901876
+No. 3
+BG jeff sessions in the supreme court pick       
+-18.031133
+No. 4
+BG jeff sessions in the supreme court case       
+-18.099563
+No. 5
+BG jeff sessions on the supreme court pick       
+-18.153920
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG jeff sessions in the supreme court pick up      
+-20.697134
+No. 2
+BG jeff sessions on the supreme court pick up      
+-20.772471
+No. 3
+BG jeff sessions in the supreme court over the      
+-21.511319
+No. 4
+BG jeff sessions on the supreme court over the      
+-21.596450
+No. 5
+BG jeff sessions in the supreme court over trump      
+-21.688195
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG jeff sessions in the supreme court pick up with     
+-24.057246
+No. 2
+BG jeff sessions on the supreme court pick up on     
+-24.111658
+No. 3
+BG jeff sessions in the supreme court pick up on     
+-24.116169
+No. 4
+BG jeff sessions on the supreme court pick up with     
+-24.140648
+No. 5
+BG jeff sessions in the supreme court pick up the     
+-24.341264
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG jeff sessions in the supreme court pick up on the    
+-27.174176
+No. 2
+BG jeff sessions on the supreme court pick up on the    
+-27.189586
+No. 3
+BG jeff sessions in the supreme court pick up with the    
+-27.237213
+No. 4
+BG jeff sessions on the supreme court pick up with the    
+-27.343101
+No. 5
+BG jeff sessions on the supreme court pick up on his    
+-28.015830
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG jeff sessions on the supreme court pick up on the supreme   
+-30.997781
+No. 2
+BG jeff sessions in the supreme court pick up with the supreme   
+-31.005873
+No. 3
+BG jeff sessions in the supreme court pick up on the supreme   
+-31.009873
+No. 4
+BG jeff sessions on the supreme court pick up with the supreme   
+-31.087369
+No. 5
+BG jeff sessions on the supreme court pick up on the day   
+-31.543822
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG jeff sessions on the supreme court pick up on the supreme court  
+-31.552959
+No. 2
+BG jeff sessions in the supreme court pick up on the supreme court  
+-31.560852
+No. 3
+BG jeff sessions in the supreme court pick up with the supreme court  
+-31.685529
+No. 4
+BG jeff sessions on the supreme court pick up with the supreme court  
+-31.768130
+No. 5
+BG jeff sessions on the supreme court pick up on the day in  
+-34.859839
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG jeff sessions on the supreme court pick up on the supreme court case 
+-36.209393
+No. 2
+BG jeff sessions in the supreme court pick up on the supreme court case 
+-36.219199
+No. 3
+BG jeff sessions in the supreme court pick up with the supreme court case 
+-36.526457
+No. 4
+BG jeff sessions on the supreme court pick up with the supreme court case 
+-36.605013
+No. 5
+BG jeff sessions in the supreme court pick up on the supreme court says 
+-36.681821
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG jeff sessions in the supreme court ED       
+-1.976334
+No. 2
+BG jeff sessions on the supreme court ED       
+-2.004680
+No. 3
+BG jeff sessions in the supreme court case ED      
+-2.058861
+No. 4
+BG jeff sessions in the supreme court pick ED      
+-2.171637
+No. 5
+BG jeff sessions on the supreme court pick ED      
+-2.200110
+Content:
+BG cleveland by the time jeff sessions appeared before the senate answer questions about his nomination the federal bench his reputation was in ED      
+
+BG former colleagues had accused him frequently making racist comments such as accusing the naacp teaching agreeing with comment that white civil rights lawyer voting rights cases was his race
+
+BG with his nomination all but doomed sessions pleaded for chance salvage his reputation ED               
+
+BG am not the jeff sessions my detractors have tried said sessions then u ED               
+
+BG s ED                           
+
+BG attorney from alabama ED                         
+
+BG am not racist ED                         

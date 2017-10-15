@@ -1,0 +1,613 @@
+Title:
+BG i hope one day an israeli pm can fly saudi arabia ED   
+Teacher Forced Generated Title:
+israel trump trump trump trump trump ED ED trump ED ED ED   
+Distribution for each word in title:
+1:
+israel: 0.111903
+trump: 0.108019
+donald: 0.034499
+on: 0.013561
+obama: 0.012995
+in: 0.009952
+first: 0.008634
+muslim: 0.007679
+as: 0.007115
+former: 0.006938
+* i: 0.001930
+
+2:
+trump: 0.036459
+was: 0.018638
+israel: 0.015759
+muslim: 0.013736
+is: 0.013659
+will: 0.013002
+in: 0.012853
+president: 0.012635
+calls: 0.010324
+the: 0.010051
+* hope: 0.000723
+
+3:
+trump: 0.205050
+for: 0.180579
+the: 0.023877
+is: 0.022888
+in: 0.018010
+be: 0.017736
+donald: 0.015458
+on: 0.012307
+us: 0.010517
+israel: 0.009638
+* one: 0.001446
+
+4:
+trump: 0.098532
+us: 0.029693
+the: 0.023382
+is: 0.022815
+donald: 0.016674
+president: 0.014756
+new: 0.013486
+israel: 0.012451
+muslim: 0.012166
+ED: 0.011570
+* day: 0.001088
+
+5:
+trump: 0.114653
+in: 0.069991
+for: 0.068423
+is: 0.057770
+the: 0.028730
+on: 0.027020
+after: 0.026028
+ED: 0.017581
+donald: 0.016870
+as: 0.015215
+* an: 0.001932
+
+6:
+trump: 0.141460
+ED: 0.077934
+is: 0.030018
+donald: 0.027265
+president: 0.018139
+obama: 0.011849
+for: 0.010614
+us: 0.009066
+muslim: 0.008778
+israel: 0.007702
+* israeli: 0.001814
+
+7:
+ED: 0.080343
+is: 0.048630
+president: 0.031238
+trump: 0.014290
+on: 0.012295
+will: 0.012194
+as: 0.012098
+for: 0.011074
+with: 0.010402
+has: 0.010015
+* pm: 0.000985
+
+8:
+ED: 0.230380
+trump: 0.109181
+in: 0.033848
+the: 0.033571
+on: 0.029525
+donald: 0.029218
+for: 0.027966
+at: 0.020131
+with: 0.016108
+is: 0.015521
+* can: 0.000625
+
+9:
+trump: 0.116617
+be: 0.088408
+ED: 0.085338
+the: 0.039775
+donald: 0.038119
+have: 0.019699
+not: 0.015502
+you: 0.007921
+obama: 0.007292
+get: 0.007233
+* fly: 0.000016
+
+10:
+ED: 0.109943
+the: 0.055517
+for: 0.049922
+on: 0.047417
+trump: 0.040256
+with: 0.029687
+donald: 0.029120
+us: 0.025381
+in: 0.021759
+as: 0.009218
+* saudi: 0.003771
+
+11:
+ED: 0.243918
+arabia: 0.064533
+for: 0.024493
+the: 0.021873
+as: 0.016426
+donald: 0.013837
+in: 0.013782
+from: 0.010626
+us: 0.010624
+with: 0.008682
+* arabia: 0.064533
+
+12:
+ED: 0.521231
+for: 0.038454
+the: 0.019578
+as: 0.018404
+trump: 0.016029
+in: 0.015855
+on: 0.010695
+with: 0.010219
+us: 0.006442
+donald: 0.006400
+* ED: 0.521231
+
+13:
+: 1.000000
+ED: 0.000000
+trump: 0.000000
+for: 0.000000
+on: 0.000000
+sanders: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+is: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+trump: 0.000000
+for: 0.000000
+on: 0.000000
+sanders: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+is: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+trump: 0.000000
+for: 0.000000
+on: 0.000000
+sanders: 0.000000
+the: 0.000000
+over: 0.000000
+in: 0.000000
+is: 0.000000
+* : 1.000000
+
+
+Perplexity = 4.915673
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.18847656  0.04052734 -0.01409912 ..., -0.09033203 -0.01818848
+   0.24121094]
+ [ 0.0267334  -0.09082031  0.02783203 ..., -0.11669922 -0.02941895
+  -0.07080078]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[  3.93543780e-01  -2.94382930e-01   1.26099169e-01 ...,  -4.09890443e-01
+     4.41280931e-01  -2.46059477e-01]
+  [  3.79372656e-01  -6.90407231e-02   3.70185040e-02 ...,  -3.95113409e-01
+     3.11306059e-01  -1.56272709e-01]
+  [  2.47724742e-01  -2.38545075e-01   1.03479840e-01 ...,  -3.62281054e-01
+     2.28181154e-01  -1.76408201e-01]
+  ..., 
+  [ -4.30981547e-01   4.87877935e-01  -5.95963895e-01 ...,  -4.03701246e-01
+    -2.19601810e-01   6.50898397e-01]
+  [ -5.59701562e-01   4.51357335e-01  -4.52566355e-01 ...,  -3.70179743e-01
+    -3.29335660e-01   2.35467404e-01]
+  [ -4.78293985e-01   4.54219431e-01  -4.56529081e-01 ...,  -2.98455834e-01
+    -3.19472462e-01   2.57097930e-01]]
+
+ [[  3.60952288e-01  -2.11769983e-01   2.77699351e-01 ...,  -5.52324414e-01
+     3.94561261e-01  -2.79879600e-01]
+  [  1.26719937e-01  -1.51183680e-01   2.86556184e-01 ...,  -4.23167437e-01
+     3.56999338e-01   1.40333697e-01]
+  [  2.53422171e-01  -1.20148003e-01   3.15693706e-01 ...,  -4.90407765e-01
+     7.12025106e-01   3.75289619e-01]
+  ..., 
+  [ -1.97301328e-01   3.74214113e-01  -8.13241005e-02 ...,  -4.20795530e-02
+    -1.94191575e-01   2.02344716e-01]
+  [ -1.90840960e-01   3.64708602e-01  -6.29420877e-02 ...,  -3.57970633e-02
+    -1.84301272e-01   2.00380564e-01]
+  [ -1.86490163e-01   3.52562040e-01  -4.77369614e-02 ...,  -3.18037756e-02
+    -1.69975281e-01   1.94727004e-01]]
+
+ [[  1.01472437e-01  -2.32571706e-01   1.36825964e-01 ...,  -1.84057117e-01
+     1.34517282e-01  -1.94441304e-01]
+  [  1.04524404e-01  -1.81715906e-01   2.78422713e-01 ...,  -9.95398462e-02
+     2.46337861e-01  -1.06306143e-01]
+  [  1.06467709e-01  -3.08974236e-01   2.68560350e-01 ...,  -1.55921519e-01
+     3.15186471e-01  -6.46592528e-02]
+  ..., 
+  [ -3.69387358e-01   3.78462404e-01  -1.71136335e-01 ...,   6.77229762e-02
+    -9.14357901e-02   3.50243188e-02]
+  [ -3.63651931e-01   3.70185733e-01  -1.69044524e-01 ...,   6.72686994e-02
+    -8.62132162e-02   3.41579579e-02]
+  [ -3.59466434e-01   3.60814303e-01  -1.68157235e-01 ...,   6.45483211e-02
+    -7.64223859e-02   3.00540235e-02]]
+
+ ..., 
+ [[  9.50930715e-02  -2.93873876e-01   4.13633808e-02 ...,  -2.64807343e-01
+     7.49461502e-02  -3.36020947e-01]
+  [  1.92761466e-01  -2.98575610e-01   6.85106739e-02 ...,  -1.06329195e-01
+    -2.65741557e-01  -5.11095583e-01]
+  [  2.85696443e-02  -2.27982223e-01   1.61009625e-01 ...,  -2.90694647e-03
+     5.02541587e-02  -6.71270415e-02]
+  ..., 
+  [ -1.19317576e-01   2.41447955e-01   7.97002539e-02 ...,   9.04731676e-02
+    -3.22946250e-01  -1.42386019e-01]
+  [ -1.12816744e-01   2.37941191e-01   7.72761852e-02 ...,   9.42555070e-02
+    -3.13545406e-01  -1.50344625e-01]
+  [ -1.08106330e-01   2.32903406e-01   7.41328001e-02 ...,   9.52255502e-02
+    -2.99216032e-01  -1.61448061e-01]]
+
+ [[  7.52803311e-02  -2.16618553e-01   2.08608538e-01 ...,  -5.34046441e-04
+    -5.69889098e-02  -1.63145900e-01]
+  [  1.88145377e-02  -2.86029071e-01   2.52796352e-01 ...,   1.66075170e-01
+    -1.73690423e-01   4.26215380e-02]
+  [ -6.29396364e-02  -1.23387493e-01   1.25486687e-01 ...,   3.27427685e-01
+    -2.11650252e-01   1.39014095e-01]
+  ..., 
+  [ -2.26468146e-02   4.85964268e-02   3.16270962e-02 ...,   4.77694310e-02
+     2.51537766e-02   9.36148688e-02]
+  [ -1.04530798e-02   3.90390381e-02   2.99289450e-02 ...,   3.95438820e-02
+     2.36281287e-02   9.28020999e-02]
+  [ -8.47402844e-04   2.81814300e-02   2.83853523e-02 ...,   2.98379026e-02
+     2.68149953e-02   8.91556591e-02]]
+
+ [[  4.17854264e-02  -1.09996162e-01   1.31824715e-02 ...,  -7.62566328e-02
+     5.00988662e-01  -1.97673336e-01]
+  [  1.48933291e-01  -1.95174277e-01   2.53851622e-01 ...,   5.20767458e-03
+     6.09633565e-01  -2.42323220e-01]
+  [  2.30776846e-01  -2.55643040e-01   2.24294007e-01 ...,  -6.19408302e-03
+     7.08815098e-01  -2.42731541e-01]
+  ..., 
+  [ -1.28965259e-01   4.93294686e-01   5.58604710e-02 ...,   2.90936798e-01
+    -3.98476794e-02  -2.14948580e-01]
+  [ -1.23748928e-01   4.92391378e-01   5.18857986e-02 ...,   2.89083123e-01
+    -3.27830985e-02  -2.12430760e-01]
+  [ -1.19718112e-01   4.89817232e-01   4.77521196e-02 ...,   2.84159422e-01
+    -2.16724258e-02  -2.13057220e-01]]]
+encode_h2:
+[[-0.09816835  2.400388    1.21953118 ..., -1.97358072  0.17638789
+   0.29355595]
+ [ 1.46339488  0.96758068  0.47358632 ..., -1.65820265  0.14526434
+   0.74494016]
+ [ 0.62593794  0.40258723  0.24868056 ..., -1.40262651  0.17996497
+  -0.4790504 ]
+ ..., 
+ [ 1.85693741 -0.5390988  -1.16222537 ...,  0.05102065 -0.122293
+   1.47601831]
+ [ 2.09186316  0.03162637 -1.90197301 ...,  1.4368695  -1.7312212
+   0.80025625]
+ [ 3.30822015  0.14009377 -1.81222034 ...,  1.09861279 -1.49184656
+   1.00204682]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.22558594 -0.01953125  0.09082031 ...,  0.02819824 -0.17773438
+  -0.00604248]
+ [ 0.01611328  0.14550781  0.22265625 ..., -0.08984375  0.10986328
+  -0.0534668 ]
+ ..., 
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.06673235 -1.55482197 -1.86947823 ...,  0.22211878 -0.81745064
+   3.29446006]
+ [-0.8764776  -1.51328647 -1.38631225 ...,  0.91416651 -0.94820809
+   3.29446006]
+ [-0.34793949 -1.3775965  -1.26779246 ..., -0.97530007  0.87111354
+   3.29446006]
+ ..., 
+ [-0.16899443 -0.61343783 -0.7749092  ...,  0.60488433  0.4608281
+   2.03068209]
+ [-0.16899443 -0.61343783 -0.7749092  ...,  0.60488433  0.4608281
+   2.03068209]
+ [-0.16899443 -0.61343783 -0.7749092  ...,  0.60488433  0.4608281
+   2.03068209]]
+output_dstrb:
+[[  3.54200347e-05   6.92469087e-08   5.43119043e-08 ...,   1.37659569e-07
+    4.58529285e-05   6.92315965e-08]
+ [  2.09892096e-05   1.44441458e-07   9.51148280e-08 ...,   3.19131317e-07
+    4.36790688e-05   1.45239312e-07]
+ [  2.17136699e-06   1.52524862e-07   1.05846738e-07 ...,   2.85857624e-07
+    2.85113583e-05   1.54132167e-07]
+ ..., 
+ [  9.99999881e-01   4.94443455e-15   6.43524261e-15 ...,   9.07954521e-15
+    6.67840349e-13   5.00136364e-15]
+ [  9.99999881e-01   4.94443455e-15   6.43524261e-15 ...,   9.07954521e-15
+    6.67840349e-13   5.00136364e-15]
+ [  9.99999881e-01   4.94443455e-15   6.43524261e-15 ...,   9.07954521e-15
+    6.67840349e-13   5.00136364e-15]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG israel             
+-2.190115
+No. 2
+BG trump             
+-2.225449
+No. 3
+BG donald             
+-3.366816
+No. 4
+BG on             
+-4.300563
+No. 5
+BG obama             
+-4.343183
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG donald trump            
+-3.675509
+No. 2
+BG israel is            
+-5.627256
+No. 3
+BG on trump            
+-5.950050
+No. 4
+BG trump israel            
+-6.068368
+No. 5
+BG trump is            
+-6.115983
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG donald trump is           
+-5.933296
+No. 2
+BG donald trump for           
+-6.554744
+No. 3
+BG donald trump in           
+-6.578955
+No. 4
+BG donald trump on           
+-6.669239
+No. 5
+BG donald trump the           
+-6.856530
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG donald trump is the          
+-9.504395
+No. 2
+BG donald trump in the          
+-9.591155
+No. 3
+BG donald trump on the          
+-9.607265
+No. 4
+BG donald trump is not          
+-9.722492
+No. 5
+BG donald trump for the          
+-9.833385
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG donald trump is not the         
+-11.878815
+No. 2
+BG donald trump in the us         
+-12.664096
+No. 3
+BG donald trump is the the         
+-12.957403
+No. 4
+BG donald trump is the us         
+-13.114349
+No. 5
+BG donald trump is the new         
+-13.162588
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG donald trump is not the us        
+-15.379804
+No. 2
+BG donald trump is not the new        
+-15.846363
+No. 3
+BG donald trump is not the the        
+-15.964091
+No. 4
+BG donald trump is the new york        
+-16.075129
+No. 5
+BG donald trump is not the most        
+-16.254857
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG donald trump is not the new york       
+-18.412963
+No. 2
+BG donald trump is not the new president       
+-19.254915
+No. 3
+BG donald trump is not the the us       
+-19.364360
+No. 4
+BG donald trump is not the most the       
+-19.469980
+No. 5
+BG donald trump is the new york times       
+-19.499198
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG donald trump is not the new york times      
+-21.882938
+No. 2
+BG donald trump is the new york times for      
+-22.156011
+No. 3
+BG donald trump is not the new york the      
+-22.180438
+No. 4
+BG donald trump is the new york times the      
+-22.221269
+No. 5
+BG donald trump is not the new president is      
+-22.437114
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG donald trump is the new york times for trump     
+-24.058493
+No. 2
+BG donald trump is not the new york times the     
+-24.526898
+No. 3
+BG donald trump is not the new york times for     
+-24.695618
+No. 4
+BG donald trump is not the new york times trump     
+-24.734257
+No. 5
+BG donald trump is the new york times for donald     
+-25.031310
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG donald trump is the new york times for donald trump    
+-25.202436
+No. 2
+BG donald trump is not the new york times for trump    
+-26.501608
+No. 3
+BG donald trump is not the new york times the trump    
+-27.483217
+No. 4
+BG donald trump is not the new york times for donald    
+-27.488610
+No. 5
+BG donald trump is not the new york times for the    
+-27.587991
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG donald trump is not the new york times for donald trump   
+-27.646133
+No. 2
+BG donald trump is the new york times for donald trump the   
+-29.032427
+No. 3
+BG donald trump is the new york times for donald trump is   
+-29.204460
+No. 4
+BG donald trump is not the new york times for the trump   
+-29.579941
+No. 5
+BG donald trump is the new york times for donald trump in   
+-29.792518
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG donald trump is not the new york times for donald trump the  
+-31.444868
+No. 2
+BG donald trump is not the new york times for donald trump is  
+-31.709748
+No. 3
+BG donald trump is the new york times for donald trump the us  
+-31.825328
+No. 4
+BG donald trump is the new york times for donald trump in the  
+-32.122563
+No. 5
+BG donald trump is not the new york times for donald trump in  
+-32.293718
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG donald trump is not the new york times for donald trump the us 
+-34.143476
+No. 2
+BG donald trump is the new york times for donald trump in the us 
+-34.567985
+No. 3
+BG donald trump is not the new york times for donald trump in the 
+-34.568713
+No. 4
+BG donald trump is not the new york times for donald trump is the 
+-35.149481
+No. 5
+BG donald trump is not the new york times for donald trump in us 
+-35.261837
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG donald trump in the us ED        
+-1.887579
+No. 2
+BG donald trump is the us ED        
+-1.928761
+No. 3
+BG donald trump is not the us ED       
+-1.960453
+No. 4
+BG donald trump is not ED         
+-2.001293
+No. 5
+BG donald trump on the ED         
+-2.072536
+Content:
+BG jerusalem on the tarmac airport prime minister benjamin expressed his hope president donald trump that one day an israeli head government will be able visit saudi arabia ED 
+
+BG president you just flew from tel told trump at the airport ceremony marking the arrival in israel ED           
+
+BG hope that one day an israeli prime minister can fly from tel ED                
+
+BG praised trump for delivering forceful speech on terrorism in which he on forces civilization confront the forces during his visit the gulf kingdom ED     
+
+BG NUM years israel has been doing just continued ED                    
+
+BG manned the front lines civilization ED                       
+
+BG doing so protected all faiths muslims christians said ED                    

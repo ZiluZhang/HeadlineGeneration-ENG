@@ -1,0 +1,614 @@
+Title:
+BG huge gender pay gap for stem careers just one year after graduation ED  
+Teacher Forced Generated Title:
+the ED in for ED ED ED ED ED ED ED ED ED  
+Distribution for each word in title:
+1:
+the: 0.038173
+why: 0.027608
+more: 0.024693
+women: 0.022839
+how: 0.019528
+study: 0.017498
+police: 0.016021
+americans: 0.015793
+in: 0.015353
+new: 0.015186
+* huge: 0.000414
+
+2:
+ED: 0.033656
+women: 0.022812
+us: 0.018500
+people: 0.015370
+are: 0.014579
+for: 0.013378
+in: 0.012924
+americans: 0.011801
+new: 0.011262
+study: 0.010918
+* gender: 0.000608
+
+3:
+in: 0.029751
+study: 0.016436
+the: 0.016001
+people: 0.013368
+ED: 0.012499
+is: 0.011177
+for: 0.010482
+women: 0.009973
+that: 0.009657
+americans: 0.009546
+* pay: 0.002325
+
+4:
+for: 0.143760
+ED: 0.077208
+in: 0.071624
+is: 0.025067
+us: 0.019416
+the: 0.019245
+more: 0.016940
+people: 0.011487
+NUM: 0.011183
+out: 0.008608
+* gap: 0.000124
+
+5:
+ED: 0.141500
+in: 0.108588
+with: 0.033037
+the: 0.023103
+is: 0.018371
+us: 0.010926
+as: 0.010349
+women: 0.010078
+people: 0.008751
+more: 0.008733
+* for: 0.006036
+
+6:
+ED: 0.096001
+the: 0.077381
+us: 0.026097
+NUM: 0.018992
+in: 0.016686
+more: 0.013861
+women: 0.010830
+new: 0.010417
+people: 0.008963
+their: 0.008497
+* stem: 0.000005
+
+7:
+ED: 0.119746
+from: 0.046862
+the: 0.034226
+us: 0.014635
+in: 0.012021
+people: 0.008259
+its: 0.007326
+NUM: 0.007245
+new: 0.007122
+study: 0.006781
+* careers: 0.000001
+
+8:
+ED: 0.772683
+in: 0.029151
+from: 0.016322
+at: 0.007193
+for: 0.006119
+after: 0.005958
+on: 0.004424
+the: 0.004421
+with: 0.003735
+as: 0.003208
+* just: 0.000404
+
+9:
+ED: 0.177602
+the: 0.013776
+it: 0.013596
+NUM: 0.010895
+out: 0.009278
+from: 0.009151
+study: 0.008582
+says: 0.008492
+police: 0.007918
+year: 0.007104
+* one: 0.003963
+
+10:
+ED: 0.190088
+the: 0.019822
+in: 0.017288
+year: 0.015940
+NUM: 0.013349
+more: 0.012559
+years: 0.011363
+us: 0.008502
+people: 0.007542
+it: 0.006916
+* year: 0.015940
+
+11:
+ED: 0.636198
+in: 0.076215
+for: 0.015969
+NUM: 0.011008
+after: 0.006620
+by: 0.006062
+says: 0.005306
+the: 0.004697
+with: 0.004086
+from: 0.003659
+* after: 0.006620
+
+12:
+ED: 0.293786
+the: 0.025310
+NUM: 0.016957
+it: 0.011808
+election: 0.009494
+trump: 0.008936
+says: 0.008850
+police: 0.007200
+year: 0.006816
+years: 0.006106
+* graduation: 0.000008
+
+13:
+ED: 0.692427
+from: 0.004442
+in: 0.003406
+says: 0.003213
+day: 0.003187
+study: 0.002716
+NUM: 0.002494
+state: 0.002434
+the: 0.002211
+was: 0.002165
+* ED: 0.692427
+
+14:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+in: 0.000000
+trump: 0.000000
+sanders: 0.000000
+cruz: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+says: 0.000000
+in: 0.000000
+trump: 0.000000
+sanders: 0.000000
+cruz: 0.000000
+the: 0.000000
+on: 0.000000
+is: 0.000000
+* : 1.000000
+
+
+Perplexity = 6.438649
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.00964355 -0.13378906  0.03076172 ...,  0.06884766 -0.04443359
+  -0.12011719]
+ [ 0.08007812  0.10498047  0.04980469 ...,  0.00366211  0.04760742
+  -0.06884766]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[-0.05542331  0.44797322  0.03884962 ...,  0.26928094 -0.25667188
+   -0.12561391]
+  [-0.08182321  0.494504    0.21272562 ...,  0.37894922 -0.1987069
+   -0.17307757]
+  [-0.23864892  0.48821157  0.12652999 ...,  0.22640255 -0.14382218
+    0.03451026]
+  ..., 
+  [-0.09985742 -0.03427607 -0.04534357 ..., -0.00589672  0.09172899
+    0.09870015]
+  [-0.09082654 -0.03582594 -0.04903804 ..., -0.01303533  0.08669763
+    0.10317611]
+  [-0.08275631 -0.03891839 -0.05122501 ..., -0.02111412  0.08672087
+    0.10399507]]
+
+ [[ 0.03157992  0.30767608  0.04087875 ...,  0.33726254 -0.28434357
+   -0.06627518]
+  [ 0.02560139  0.31386665  0.18197763 ...,  0.46514308 -0.25268605
+   -0.04307987]
+  [-0.08349166  0.33899981  0.15638581 ...,  0.39577192 -0.18572605
+    0.11542328]
+  ..., 
+  [-0.08960154  0.04135881  0.08254988 ..., -0.09651028  0.1434173
+   -0.06742446]
+  [-0.08499894  0.03148449  0.07923074 ..., -0.10177132  0.14248832
+   -0.06287328]
+  [-0.08230527  0.02056711  0.07630965 ..., -0.10944412  0.14702979
+   -0.06167746]]
+
+ [[-0.09312871  0.23429319 -0.00677919 ...,  0.30409461 -0.36106014
+   -0.18947174]
+  [-0.09181681  0.21335301  0.21541487 ...,  0.41556633 -0.28702334
+   -0.14841262]
+  [-0.05895433  0.16271929  0.34391302 ...,  0.43674597 -0.19262274
+   -0.12898619]
+  ..., 
+  [ 0.12626697  0.08117004  0.23357372 ...,  0.05236382  0.11801898
+   -0.19110851]
+  [ 0.13841486  0.07432212  0.22243311 ...,  0.04799822  0.11557496
+   -0.19421692]
+  [ 0.14759956  0.06474636  0.21202208 ...,  0.03722174  0.12037995
+   -0.19745646]]
+
+ ..., 
+ [[-0.30885461  0.37604326 -0.04365726 ...,  0.47203267 -0.43368649
+   -0.23810402]
+  [-0.34580392  0.36059263  0.06080646 ...,  0.57084042 -0.43709061
+   -0.08810185]
+  [-0.45792022  0.4588055   0.19216061 ...,  0.43908647 -0.53904372
+    0.11854874]
+  ..., 
+  [ 0.09064288 -0.05664055  0.08465859 ..., -0.06600842  0.08745665
+   -0.08174686]
+  [ 0.09171994 -0.06101127  0.07110617 ..., -0.06619248  0.09125168
+   -0.07705689]
+  [ 0.09095596 -0.06644946  0.05733224 ..., -0.06882574  0.09901674
+   -0.07463677]]
+
+ [[-0.3224237   0.15142584 -0.09637908 ...,  0.25331837  0.00970751
+    0.04900497]
+  [-0.27867618  0.08905166  0.01856058 ...,  0.2633706   0.13624744
+    0.17252219]
+  [-0.16995943 -0.06036285 -0.0055352  ...,  0.29442611  0.09970255
+    0.05566005]
+  ..., 
+  [ 0.00279331 -0.08979782 -0.04935123 ...,  0.03732387  0.07678843
+   -0.04173059]
+  [ 0.00321521 -0.08831794 -0.04481173 ...,  0.03396685  0.06793395
+   -0.02246569]
+  [ 0.00297832 -0.08872831 -0.04010205 ...,  0.02756493  0.06434317
+   -0.00756938]]
+
+ [[-0.13661386  0.20764412  0.07385355 ...,  0.40212458 -0.16664153
+   -0.08364193]
+  [-0.24642301  0.28269282  0.33651677 ...,  0.36665761 -0.28674784
+    0.21008119]
+  [-0.12855308  0.13551906  0.32500085 ...,  0.20486876 -0.06587158
+    0.21944194]
+  ..., 
+  [-0.01719705 -0.07533161  0.03661009 ..., -0.17421427 -0.01280865
+   -0.03616741]
+  [-0.0177336  -0.08312614  0.03426811 ..., -0.18110725 -0.0103586
+   -0.03817983]
+  [-0.01948092 -0.092204    0.03188042 ..., -0.19030172 -0.00251042
+   -0.04274949]]]
+encode_h2:
+[[-2.51693869 -2.5535481   2.1304028  ..., -0.30161268 -0.73016536
+   2.14166212]
+ [-0.84361136 -2.6144917   2.62192512 ..., -0.01174341 -0.64580452
+   2.3502965 ]
+ [-0.71893573 -2.32765031  2.31330609 ...,  0.26850361 -0.33250862
+   2.2560358 ]
+ ..., 
+ [-0.36013734 -1.31028998  2.57252526 ..., -0.1239261  -0.50678301
+   1.26878607]
+ [ 0.49999312 -0.69099581  2.1392014  ...,  0.32481414 -0.15654381
+   0.33911815]
+ [ 0.80108839 -0.78494358  1.92551184 ...,  0.77386808  0.35856453
+   0.74287128]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.1875      0.11767578 -0.05517578 ..., -0.06176758 -0.03295898
+  -0.15722656]
+ [-0.00421143 -0.0390625   0.01733398 ...,  0.11621094 -0.14746094
+  -0.16308594]
+ ..., 
+ [-0.08154297  0.22558594 -0.14550781 ...,  0.00811768  0.00741577
+   0.13183594]
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.99533588  0.34992847  3.80154204 ...,  0.90048301  1.94841635
+  -3.61387992]
+ [-0.10062468 -0.05731522  1.82089794 ...,  0.50251174  0.68757987
+  -3.61387992]
+ [-0.22369912  0.04466513 -0.1417536  ...,  0.40661839  0.47718084
+  -3.61387992]
+ ..., 
+ [ 0.15750526  0.75172102 -0.74073434 ...,  0.93622953 -0.87808204
+  -2.09642649]
+ [ 0.29531443  0.75094825 -0.90102959 ...,  0.95863545 -0.91919738
+  -1.42695546]
+ [ 0.29531443  0.75094825 -0.90102959 ...,  0.95863545 -0.91919738
+  -1.42695546]]
+output_dstrb:
+[[  1.33977965e-05   8.93868091e-08   3.03189807e-07 ...,   1.13162457e-07
+    1.81593314e-05   8.84339286e-08]
+ [  6.24057020e-06   1.30460052e-07   2.97123847e-07 ...,   1.80886261e-07
+    2.77351792e-05   1.29700112e-07]
+ [  5.28199689e-06   1.55032254e-07   3.15691466e-07 ...,   1.97491758e-07
+    2.66305760e-05   1.53371559e-07]
+ ..., 
+ [  1.25078395e-06   5.27647899e-08   1.17347263e-07 ...,   7.60787415e-08
+    1.18384582e-06   5.40504921e-08]
+ [  9.99999642e-01   2.94647060e-15   7.13453056e-15 ...,   4.60715408e-15
+    1.22930420e-13   2.98745238e-15]
+ [  9.99999642e-01   2.94647060e-15   7.13453056e-15 ...,   4.60715408e-15
+    1.22930420e-13   2.98745238e-15]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-3.265611
+No. 2
+BG why             
+-3.589662
+No. 3
+BG more             
+-3.701255
+No. 4
+BG women             
+-3.779302
+No. 5
+BG how             
+-3.935903
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG more than            
+-5.431220
+No. 2
+BG how the            
+-5.847825
+No. 3
+BG why the            
+-5.919709
+No. 4
+BG women are            
+-5.977380
+No. 5
+BG women in            
+-6.374540
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG more than NUM           
+-6.606686
+No. 2
+BG women are the           
+-8.427150
+No. 3
+BG women in the           
+-8.523239
+No. 4
+BG women are in           
+-8.524770
+No. 5
+BG how the us           
+-8.534942
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG more than NUM in          
+-8.893333
+No. 2
+BG more than NUM people          
+-9.561758
+No. 3
+BG more than NUM the          
+-9.822915
+No. 4
+BG more than NUM years          
+-10.122859
+No. 5
+BG women are in the          
+-10.399157
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG more than NUM in the         
+-10.779306
+No. 2
+BG more than NUM in NUM         
+-11.119564
+No. 3
+BG more than NUM people in         
+-11.133629
+No. 4
+BG more than NUM years in         
+-11.941478
+No. 5
+BG more than NUM in in         
+-11.972406
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG more than NUM people in the        
+-12.720884
+No. 2
+BG more than NUM in the us        
+-13.274014
+No. 3
+BG more than NUM years in the        
+-13.797239
+No. 4
+BG more than NUM in in the        
+-13.983015
+No. 5
+BG more than NUM people in NUM        
+-14.326317
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG more than NUM people in the us       
+-15.308316
+No. 2
+BG more than NUM people in the world       
+-16.167411
+No. 3
+BG more than NUM in in the us       
+-16.371207
+No. 4
+BG more than NUM years in the us       
+-16.420575
+No. 5
+BG more than NUM people in the new       
+-16.620246
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG more than NUM people in the new york      
+-18.692555
+No. 2
+BG more than NUM people in the world the      
+-19.504112
+No. 3
+BG more than NUM people in the us are      
+-19.556885
+No. 4
+BG more than NUM people in the world in      
+-19.576333
+No. 5
+BG more than NUM people in the world is      
+-19.983972
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG more than NUM people in the world in the     
+-21.845152
+No. 2
+BG more than NUM people in the new york city     
+-21.864493
+No. 3
+BG more than NUM people in the new york the     
+-21.949583
+No. 4
+BG more than NUM people in the new york state     
+-22.526277
+No. 5
+BG more than NUM people in the us are the     
+-22.659844
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG more than NUM people in the world in the us    
+-24.522558
+No. 2
+BG more than NUM people in the world in the world    
+-25.174753
+No. 3
+BG more than NUM people in the new york city in    
+-25.604790
+No. 4
+BG more than NUM people in the world in the NUM    
+-25.988324
+No. 5
+BG more than NUM people in the world in the new    
+-26.055768
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG more than NUM people in the new york city in the   
+-27.861285
+No. 2
+BG more than NUM people in the world in the new york   
+-28.123500
+No. 3
+BG more than NUM people in the world in the world the   
+-28.682611
+No. 4
+BG more than NUM people in the world in the world in   
+-29.050125
+No. 5
+BG more than NUM people in the new york city in NUM   
+-29.059406
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG more than NUM people in the new york city in the us  
+-30.806442
+No. 2
+BG more than NUM people in the new york city in the world  
+-31.309399
+No. 3
+BG more than NUM people in the world in the world in the  
+-31.344366
+No. 4
+BG more than NUM people in the world in the new york the  
+-31.468253
+No. 5
+BG more than NUM people in the world in the new york city  
+-31.819242
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG more than NUM people in the world in the world in the us 
+-34.141019
+No. 2
+BG more than NUM people in the world in the world in the world 
+-34.664443
+No. 3
+BG more than NUM people in the new york city in the world the 
+-34.999559
+No. 4
+BG more than NUM people in the world in the world in the NUM 
+-35.461956
+No. 5
+BG more than NUM people in the new york city in the world is 
+-35.601140
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG more than NUM in the us ED       
+-1.693238
+No. 2
+BG more than NUM people in the us ED      
+-1.734199
+No. 3
+BG more than NUM ED          
+-1.760090
+No. 4
+BG how the us ED          
+-1.778094
+No. 5
+BG more than NUM in NUM ED        
+-1.832972
+Content:
+BG across the economy men make more than women ED                    
+
+BG part the push close the wage gap is remove barriers women entering careers like those in science technology engineering mathematics stem ED       
+
+BG but even at this high level new study finds women in stem careers make NUM percent less then men in their first year after graduation ED   
+
+BG bruce an ohio state university economist recently the study in the american economic review papers proceedings which draws data from NUM NUM new at four research universities ED 
+
+BG the study combined university employee data with census records provide details about home lives ED              
+
+BG this anonymous data has not been available until now ED                   
+
+BG study suggests two reasons for the pay gap hard know whether the pay gap is the result discrimination says ED         

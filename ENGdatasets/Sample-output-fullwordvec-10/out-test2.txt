@@ -1,0 +1,614 @@
+Title:
+BG has new grocery service parents might never shop the old way again ED  
+Teacher Forced Generated Title:
+how new york ED ED ED be ED ED ED ED ED ED  
+Distribution for each word in title:
+1:
+how: 0.037067
+new: 0.032076
+the: 0.021240
+why: 0.019480
+is: 0.019234
+what: 0.019157
+if: 0.014796
+will: 0.014328
+this: 0.013923
+your: 0.013607
+* has: 0.004350
+
+2:
+new: 0.048139
+the: 0.035651
+NUM: 0.031806
+been: 0.028826
+ED: 0.024979
+no: 0.023632
+an: 0.019598
+one: 0.013833
+more: 0.011717
+its: 0.008085
+* new: 0.048139
+
+3:
+york: 0.058511
+new: 0.029975
+ED: 0.029198
+president: 0.015389
+its: 0.011603
+the: 0.008842
+up: 0.008234
+people: 0.007987
+will: 0.007859
+us: 0.007726
+* grocery: 0.000002
+
+4:
+ED: 0.152751
+is: 0.017202
+in: 0.014203
+the: 0.013394
+will: 0.011654
+that: 0.009851
+new: 0.007638
+plan: 0.007607
+an: 0.006193
+its: 0.006075
+* service: 0.000721
+
+5:
+ED: 0.483865
+is: 0.033796
+will: 0.020238
+with: 0.015700
+in: 0.015650
+the: 0.014963
+for: 0.011552
+on: 0.010073
+could: 0.008500
+has: 0.006893
+* parents: 0.000180
+
+6:
+ED: 0.436637
+are: 0.043493
+in: 0.019237
+will: 0.018239
+the: 0.013764
+is: 0.012227
+says: 0.009350
+with: 0.009095
+can: 0.006467
+could: 0.006181
+* might: 0.000806
+
+7:
+be: 0.214081
+have: 0.066052
+ED: 0.055340
+not: 0.042424
+get: 0.016987
+you: 0.011454
+make: 0.008584
+it: 0.008132
+help: 0.007988
+the: 0.007013
+* never: 0.002438
+
+8:
+ED: 0.121110
+be: 0.093641
+you: 0.026587
+the: 0.024663
+it: 0.013413
+have: 0.013059
+been: 0.011011
+will: 0.010526
+get: 0.010220
+more: 0.009211
+* shop: 0.000010
+
+9:
+ED: 0.553064
+for: 0.046357
+in: 0.026229
+the: 0.018423
+is: 0.014659
+up: 0.009352
+you: 0.007272
+at: 0.007117
+will: 0.006907
+it: 0.006579
+* the: 0.018423
+
+10:
+ED: 0.535348
+the: 0.009432
+new: 0.008868
+us: 0.008123
+is: 0.007197
+for: 0.007064
+on: 0.005834
+in: 0.005816
+will: 0.005300
+says: 0.005026
+* old: 0.000279
+
+11:
+ED: 0.573022
+is: 0.014820
+president: 0.013115
+says: 0.008643
+the: 0.006732
+NUM: 0.005312
+will: 0.005066
+who: 0.004898
+with: 0.003835
+it: 0.003787
+* way: 0.001951
+
+12:
+ED: 0.791366
+the: 0.008458
+is: 0.007785
+for: 0.004841
+will: 0.004411
+you: 0.003274
+it: 0.003139
+on: 0.002744
+are: 0.002513
+says: 0.001987
+* again: 0.000109
+
+13:
+ED: 0.788332
+the: 0.016871
+is: 0.010942
+it: 0.005022
+will: 0.003597
+in: 0.003249
+was: 0.002732
+be: 0.002661
+for: 0.002453
+with: 0.002243
+* ED: 0.788332
+
+14:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+says: 0.000000
+sanders: 0.000000
+trump: 0.000000
+people: 0.000000
+on: 0.000000
+the: 0.000000
+who: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+is: 0.000000
+says: 0.000000
+sanders: 0.000000
+trump: 0.000000
+people: 0.000000
+on: 0.000000
+the: 0.000000
+who: 0.000000
+* : 1.000000
+
+
+Perplexity = 5.992856
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.00704956 -0.07324219  0.171875   ...,  0.01123047  0.1640625
+   0.10693359]
+ [ 0.02648926  0.01916504  0.02197266 ...,  0.06005859  0.07128906
+  -0.05834961]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ -9.27755702e-03   8.10176283e-02   9.67393145e-02 ...,  -1.60334855e-01
+    -1.43702775e-01   1.59553856e-01]
+  [  8.40866752e-03   1.35528162e-01   2.65736520e-01 ...,  -1.90520048e-01
+    -2.47761458e-02   3.93377870e-01]
+  [  6.76843300e-02   1.36882693e-01   2.47265622e-01 ...,  -2.30388612e-01
+     2.77438406e-02   3.60782951e-01]
+  ..., 
+  [  2.41525516e-01   1.04458101e-01   3.20307940e-01 ...,  -3.00133228e-02
+     6.32748753e-02   3.66697282e-01]
+  [  2.31022686e-01   8.23630914e-02   2.81010985e-01 ...,  -7.94747919e-02
+    -6.20412827e-02   2.96705931e-01]
+  [  2.05196157e-01  -1.41362837e-02   2.95711190e-01 ...,  -2.19433844e-01
+     3.40161398e-02   2.98107415e-01]]
+
+ [[  6.58207014e-02  -2.62737960e-01  -1.68432593e-01 ...,  -8.29790905e-02
+    -4.78896424e-02  -2.14826703e-01]
+  [  2.96614673e-02  -2.88847148e-01  -7.49668777e-02 ...,   8.66269786e-03
+    -9.29730758e-02  -1.28537685e-01]
+  [ -4.30329107e-02  -2.98391432e-01  -2.45972544e-01 ...,  -1.20196871e-01
+     1.51424021e-01  -3.52843404e-02]
+  ..., 
+  [ -1.31242806e-02  -1.83256827e-02  -1.28840832e-02 ...,   2.18104962e-02
+     7.86709040e-02   5.47562838e-02]
+  [  1.39236532e-03  -1.92451142e-02  -8.29710532e-03 ...,   2.30550151e-02
+     7.12805986e-02   5.42732328e-02]
+  [  1.32063683e-02  -2.26556733e-02  -4.29988932e-03 ...,   2.08333749e-02
+     6.87235519e-02   5.17476052e-02]]
+
+ [[ -2.94882864e-01   2.21325979e-01  -4.51010838e-02 ...,  -7.27048442e-02
+    -1.15218565e-01   6.31229132e-02]
+  [ -1.96057230e-01   2.60686100e-01   1.55970991e-01 ...,  -6.33338392e-02
+     9.07363147e-02   2.42128700e-01]
+  [ -1.03891827e-01   3.36567283e-01   2.23900422e-01 ...,  -5.98307177e-02
+     3.38908210e-02   1.80208668e-01]
+  ..., 
+  [  1.87545046e-01   6.27849922e-02   3.62945013e-02 ...,  -1.24148868e-01
+     1.92446068e-01   1.00330457e-01]
+  [  1.91999212e-01   6.98963553e-02   4.27570567e-02 ...,  -1.18476070e-01
+     1.84723929e-01   1.06827199e-01]
+  [  1.93374157e-01   7.49209896e-02   4.74881381e-02 ...,  -1.16700716e-01
+     1.84026986e-01   1.11283705e-01]]
+
+ ..., 
+ [[ -4.80598994e-02   1.59934208e-01   8.68913252e-03 ...,   3.93545404e-02
+    -2.87589692e-02  -1.86795834e-02]
+  [ -9.14848968e-02   1.58528745e-01   2.13960499e-01 ...,   1.63819790e-01
+    -4.41381261e-02   3.48397121e-02]
+  [ -7.75932670e-02   1.20390423e-01   3.39108676e-01 ...,   1.28302304e-02
+    -4.73984927e-02   7.34850094e-02]
+  ..., 
+  [  1.37879163e-01   5.21627888e-02   1.11077197e-01 ...,  -3.68653052e-02
+     2.79724777e-01   1.37842476e-01]
+  [  7.71545619e-02  -2.74966359e-02   2.15905264e-01 ...,  -1.03091791e-01
+     1.07870996e-01   2.91614145e-01]
+  [ -2.22552828e-02  -8.55857134e-02   2.45211899e-01 ...,  -6.52114600e-02
+     1.73695132e-01   1.37609392e-01]]
+
+ [[ -1.67461008e-01   3.47495079e-01   1.48165524e-01 ...,  -7.27679953e-02
+    -7.42222555e-03   1.94118857e-01]
+  [ -2.06467018e-01   3.40519220e-01   2.25349575e-01 ...,  -7.27491640e-03
+    -6.83424436e-03   3.79124492e-01]
+  [  1.39432132e-01   4.50961024e-01   3.80142689e-01 ...,   1.99541539e-01
+     1.34630680e-01   4.69046801e-01]
+  ..., 
+  [  1.24685325e-01  -1.72050312e-01   3.11639249e-01 ...,  -1.08747445e-01
+     3.99209917e-01   5.45913354e-02]
+  [  2.03470528e-01  -6.46579545e-03   3.13613057e-01 ...,  -5.95097467e-02
+     3.33056629e-01  -4.52750400e-02]
+  [  1.93986133e-01   2.85598077e-03   2.33245239e-01 ...,  -5.35713732e-02
+     2.59299874e-01   9.76023078e-03]]
+
+ [[  5.01729408e-03   1.17903776e-01   1.86555889e-02 ...,  -1.29020572e-01
+    -5.44028431e-02  -9.62966606e-02]
+  [  6.44395575e-02   6.84078336e-02   1.75790012e-01 ...,  -6.94851875e-02
+     2.97067259e-02   5.79839526e-03]
+  [  3.82871076e-04   4.57622148e-02   1.51790887e-01 ...,  -1.52018845e-01
+    -7.76716834e-03   1.45299420e-01]
+  ..., 
+  [  1.03468411e-01  -6.35880455e-02   3.05420645e-02 ...,  -2.48674244e-01
+    -5.60895354e-02   1.50138944e-01]
+  [  1.02466799e-01  -5.90843968e-02   3.09365056e-02 ...,  -2.44841695e-01
+    -5.89302853e-02   1.51044264e-01]
+  [  9.92992446e-02  -5.61977699e-02   3.14667113e-02 ...,  -2.43462890e-01
+    -5.54649159e-02   1.49878442e-01]]]
+encode_h2:
+[[-0.42251793 -2.09171104  1.37605441 ..., -0.18566404 -2.39951181
+   1.21740043]
+ [-0.62573212 -1.51745546  1.58626652 ...,  0.46296683 -1.34732413
+   1.17212081]
+ [-0.50974756 -1.70252144  0.73289734 ...,  1.02644038 -1.92957854
+   1.254004  ]
+ ..., 
+ [-0.225642   -0.68129337  0.59343863 ...,  2.05127501 -1.71253502
+   1.07189071]
+ [-0.01446284 -0.60586584  0.41656008 ...,  2.98667693 -1.76394069
+   0.17743923]
+ [-1.4592706  -0.47589797  0.13470094 ...,  2.91412473 -0.45478034
+   0.54341555]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.04492188 -0.03039551  0.00234985 ...,  0.01226807 -0.08837891
+  -0.015625  ]
+ [ 0.0112915   0.02893066  0.08349609 ...,  0.08154297 -0.04589844
+  -0.04638672]
+ ..., 
+ [ 0.08691406  0.15136719 -0.02319336 ..., -0.20410156  0.04467773
+  -0.18066406]
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.42368314 -1.18221927  1.9859736  ...,  0.53955919  0.98396569
+   1.36934078]
+ [ 0.10443739 -1.11011493  0.8883543  ...,  0.92427683 -0.24856581
+   1.36934078]
+ [ 0.34976757 -1.05465055  0.74301052 ..., -0.28873041  0.59378844
+   1.36934078]
+ ..., 
+ [-0.57280892 -0.64574051  0.72443557 ...,  0.2234786  -0.7146616
+   1.36462796]
+ [-0.1245807  -0.73871714  0.08747277 ...,  0.96928722 -0.76609439
+   1.1024456 ]
+ [-0.1245807  -0.73871714  0.08747277 ...,  0.96928722 -0.76609439
+   1.1024456 ]]
+output_dstrb:
+[[  3.04132282e-05   8.45269099e-08   1.25866933e-07 ...,   1.80708838e-07
+    4.14509559e-05   8.61160103e-08]
+ [  1.34343486e-06   1.03321362e-07   1.24449528e-07 ...,   1.90600815e-07
+    4.09434870e-05   1.03692713e-07]
+ [  6.49499796e-08   1.13845623e-07   1.31871431e-07 ...,   1.92072449e-07
+    2.25998119e-05   1.12830790e-07]
+ ..., 
+ [  3.60224317e-06   3.74087463e-08   3.76713096e-08 ...,   7.35257828e-08
+    5.28459350e-06   3.71058775e-08]
+ [  1.00000000e+00   7.64556502e-16   1.04176106e-15 ...,   1.30100110e-15
+    1.17506848e-13   7.64055059e-16]
+ [  1.00000000e+00   7.64556502e-16   1.04176106e-15 ...,   1.30100110e-15
+    1.17506848e-13   7.64055059e-16]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG how             
+-3.295011
+No. 2
+BG new             
+-3.439646
+No. 3
+BG the             
+-3.851875
+No. 4
+BG why             
+-3.938369
+No. 5
+BG is             
+-3.951055
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG how the            
+-5.526246
+No. 2
+BG new york            
+-5.538045
+No. 3
+BG why the            
+-6.496116
+No. 4
+BG new new            
+-6.583710
+No. 5
+BG is the            
+-6.634405
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG new york city           
+-8.599692
+No. 2
+BG new york the           
+-8.607571
+No. 3
+BG new york times           
+-8.614095
+No. 4
+BG how the new           
+-8.788888
+No. 5
+BG new york new           
+-8.856579
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG new york new york          
+-11.387540
+No. 2
+BG how the new york          
+-11.423474
+No. 3
+BG new york city is          
+-11.448814
+No. 4
+BG new york city will          
+-11.786376
+No. 5
+BG new york times the          
+-11.856728
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG new york city will be         
+-14.168099
+No. 2
+BG new york new york city         
+-14.279318
+No. 3
+BG how the new york the         
+-14.462672
+No. 4
+BG how the new york city         
+-14.598031
+No. 5
+BG new york city is the         
+-14.627694
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG new york city will be the        
+-16.691177
+No. 2
+BG how the new york city is        
+-17.285067
+No. 3
+BG new york new york city is        
+-17.428978
+No. 4
+BG how the new york city will        
+-17.794511
+No. 5
+BG new york new york city will        
+-17.872535
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG new york new york city will be       
+-20.147427
+No. 2
+BG how the new york city will be       
+-20.259937
+No. 3
+BG new york city will be the new       
+-20.290932
+No. 4
+BG new york city will be the most       
+-20.637329
+No. 5
+BG new york city will be the for       
+-20.653113
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG how the new york city will be the      
+-22.868191
+No. 2
+BG new york new york city will be the      
+-22.877265
+No. 3
+BG new york city will be the for the      
+-23.165906
+No. 4
+BG new york city will be the new york      
+-23.546471
+No. 5
+BG new york new york city will be be      
+-23.916667
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG how the new york city will be the new     
+-26.738981
+No. 2
+BG how the new york city will be the for     
+-26.785579
+No. 3
+BG new york new york city will be the for     
+-26.808991
+No. 4
+BG new york new york city will be the new     
+-26.854055
+No. 5
+BG new york city will be the new york city     
+-26.943894
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG how the new york city will be the for the    
+-29.352411
+No. 2
+BG new york new york city will be the for the    
+-29.463997
+No. 3
+BG how the new york city will be the new york    
+-30.057423
+No. 4
+BG new york new york city will be the new york    
+-30.178659
+No. 5
+BG new york new york city will be the for NUM    
+-30.757145
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG how the new york city will be the for the us   
+-33.312857
+No. 2
+BG new york new york city will be the for the us   
+-33.346903
+No. 3
+BG how the new york city will be the new york city   
+-33.662128
+No. 4
+BG new york new york city will be the new york city   
+-33.769865
+No. 5
+BG how the new york city will be the for the new   
+-33.770755
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG how the new york city will be the for the new york  
+-37.266731
+No. 2
+BG how the new york city will be the new york city for  
+-38.134946
+No. 3
+BG new york new york city will be the new york city for  
+-38.271029
+No. 4
+BG how the new york city will be the new york city on  
+-38.396162
+No. 5
+BG how the new york city will be the new york city in  
+-38.576842
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG how the new york city will be the for the new york city 
+-41.167938
+No. 2
+BG how the new york city will be the new york city on the 
+-41.229654
+No. 3
+BG how the new york city will be the new york city in the 
+-41.268957
+No. 4
+BG how the new york city will be the new york city for the 
+-41.517707
+No. 5
+BG new york new york city will be the new york city for the 
+-41.664523
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG new york ED           
+-2.075935
+No. 2
+BG new york new york ED         
+-2.180074
+No. 3
+BG how the new york ED         
+-2.216960
+No. 4
+BG new york new york city ED        
+-2.260728
+No. 5
+BG new york city ED          
+-2.265410
+Content:
+BG is now delivering groceries homes using grocery chain already has program called that lets customers order groceries online pick them up at store where employees will load their food
+
+BG no i was not paid by write this review ED                   
+
+BG stores are huge come dread the inconvenience across the entire store especially when i have only few items on my grocery list ED      
+
+BG the delivery service cuts out that also found that service is superior other grocery delivery services that tried ED          
+
+BG other services tend have longer delivery windows several times my groceries were left outside my door without my it was great be able track exactly where my groceries were
+
+BG the uber offer carry them my kitchen counter made things even this could be big problem for the price is too steep for me use the service regularly when
+
+BG if the price were cut in half i would consider using this service for all my grocery is now delivering groceries ED       

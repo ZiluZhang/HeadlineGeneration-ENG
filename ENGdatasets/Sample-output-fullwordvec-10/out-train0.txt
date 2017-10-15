@@ -1,0 +1,613 @@
+Title:
+BG greg garrison on mike will miss him ED       
+Teacher Forced Generated Title:
+michael on the the ED be ED ED       
+Distribution for each word in title:
+1:
+michael: 0.046535
+watch: 0.041382
+john: 0.030207
+the: 0.027212
+milo: 0.016746
+donald: 0.010178
+david: 0.008977
+chris: 0.008676
+at: 0.008538
+this: 0.007364
+* greg: 0.000003
+
+2:
+on: 0.038881
+the: 0.022929
+is: 0.014952
+trump: 0.011284
+milo: 0.009345
+for: 0.009217
+NUM: 0.009148
+michael: 0.008615
+calls: 0.007609
+has: 0.006773
+* garrison: 0.000001
+
+3:
+the: 0.031979
+in: 0.029194
+is: 0.022468
+that: 0.014039
+on: 0.011012
+with: 0.010281
+NUM: 0.010027
+are: 0.009914
+ED: 0.009064
+his: 0.008232
+* on: 0.011012
+
+4:
+the: 0.123798
+ED: 0.031967
+his: 0.021235
+trump: 0.017459
+on: 0.011021
+donald: 0.009606
+black: 0.008678
+how: 0.008340
+with: 0.007808
+that: 0.007039
+* mike: 0.000798
+
+5:
+ED: 0.114986
+at: 0.040438
+pence: 0.038357
+the: 0.025990
+on: 0.013698
+NUM: 0.011891
+in: 0.009504
+with: 0.008084
+how: 0.007094
+is: 0.006194
+* will: 0.003035
+
+6:
+be: 0.131285
+not: 0.090706
+the: 0.040138
+have: 0.026558
+ED: 0.016975
+make: 0.013003
+on: 0.008709
+get: 0.008412
+you: 0.006716
+at: 0.006641
+* miss: 0.000116
+
+7:
+ED: 0.211856
+the: 0.127529
+in: 0.022632
+at: 0.019427
+out: 0.016522
+NUM: 0.014052
+his: 0.010231
+on: 0.009896
+with: 0.009214
+us: 0.008795
+* him: 0.003127
+
+8:
+ED: 0.265146
+at: 0.070979
+the: 0.033044
+on: 0.029929
+in: 0.029551
+with: 0.023004
+for: 0.016356
+from: 0.014727
+who: 0.011340
+trump: 0.011123
+* ED: 0.265146
+
+9:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+10:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+in: 0.000000
+who: 0.000000
+after: 0.000000
+with: 0.000000
+says: 0.000000
+* : 1.000000
+
+
+Perplexity = 4.044818
+
+Output of each layer:
+input_emb:
+[[ -4.62890625e-01  -5.12695312e-02  -2.35351562e-01 ...,  -1.13525391e-02
+   -3.51562500e-02  -5.17578125e-02]
+ [ -1.80664062e-02   1.39648438e-01  -6.59179688e-02 ...,  -1.63085938e-01
+   -2.40234375e-01   1.69921875e-01]
+ [ -3.35937500e-01   2.01171875e-01   1.13769531e-01 ...,  -9.37500000e-02
+    1.87500000e-01   1.47460938e-01]
+ ..., 
+ [ -1.29882812e-01   4.68750000e-01   6.19506836e-03 ...,   2.81250000e-01
+   -1.52587891e-04  -1.64062500e-01]
+ [ -9.08203125e-02   2.55859375e-01   8.93554688e-02 ...,  -1.34765625e-01
+   -1.48437500e-01   5.15136719e-02]
+ [ -4.49218750e-01   1.85546875e-01  -1.33666992e-02 ...,   1.77734375e-01
+   -6.00585938e-02   3.33984375e-01]]
+encode_h1:
+[[[ -2.81740904e-01  -4.60227996e-01  -1.28009290e-01 ...,  -2.69031912e-01
+     4.14356112e-01  -1.35299191e-02]
+  [ -2.32122347e-01  -4.57567722e-01  -1.33601204e-01 ...,  -1.52339369e-01
+     4.24715519e-01   4.69893813e-02]
+  [  1.83250353e-01  -2.94521481e-01   2.49204680e-01 ...,  -2.08992064e-01
+     5.86651117e-02   5.93823075e-01]
+  ..., 
+  [ -2.45365590e-01   1.01967705e-02  -4.16456796e-02 ...,   2.90714651e-01
+    -1.05447233e-01   3.70850235e-01]
+  [ -2.36366510e-01  -2.02537671e-01  -1.26811251e-01 ...,   1.10262558e-01
+    -4.47290614e-02   4.77251023e-01]
+  [ -1.77333489e-01  -1.57678157e-01  -2.30854362e-01 ...,   1.27376884e-01
+    -1.20721005e-01   3.66867691e-01]]
+
+ [[ -1.41664565e-01  -1.37955666e-01  -3.35004658e-01 ...,  -1.51404254e-02
+    -2.38080360e-02   1.74180821e-01]
+  [ -1.85646445e-01  -1.05100207e-01  -4.14590567e-01 ...,   5.39881736e-02
+    -2.52514910e-02   1.74867138e-01]
+  [ -1.55012026e-01   6.63764253e-02  -3.28424513e-01 ...,  -1.31886862e-02
+     1.88700538e-02  -2.68158466e-01]
+  ..., 
+  [  4.14609425e-02   4.06579487e-03   5.86318001e-02 ...,   5.31328842e-02
+    -9.22228675e-03   5.99557236e-02]
+  [  4.47341762e-02  -1.50752068e-03   5.69711700e-02 ...,   5.12401871e-02
+    -1.00329006e-02   5.85692674e-02]
+  [  4.66457717e-02  -8.18875711e-03   5.52356429e-02 ...,   4.69769351e-02
+    -6.04229514e-03   5.44152260e-02]]
+
+ [[  5.22789604e-04  -2.98680723e-01  -1.03935562e-01 ...,  -4.27590609e-02
+    -7.09053129e-02  -1.92498416e-01]
+  [  3.38145308e-02  -2.79768348e-01   9.94262248e-02 ...,   4.68662083e-02
+    -5.58297560e-02  -6.86551630e-02]
+  [  4.69640188e-04  -3.20601553e-01   1.18527517e-01 ...,  -3.69540900e-02
+    -4.79767844e-02  -2.36203689e-02]
+  ..., 
+  [  2.69568861e-02   2.42559403e-01   9.52342078e-02 ...,   4.67044115e-03
+     6.72772229e-02   1.24344125e-01]
+  [  2.43610516e-02   2.30670363e-01   8.65563676e-02 ...,   7.27337413e-03
+     7.52848536e-02   1.27688244e-01]
+  [  2.08735839e-02   2.16794595e-01   7.74269477e-02 ...,   7.00992439e-03
+     8.71035159e-02   1.27261236e-01]]
+
+ ..., 
+ [[  1.85482562e-01  -3.29048872e-01  -1.27065346e-01 ...,  -3.17960352e-01
+    -6.74121380e-02  -1.58185557e-01]
+  [  1.29043490e-01  -2.97017187e-01  -1.63318872e-01 ...,  -3.74868512e-01
+     1.22600012e-01  -7.52216280e-02]
+  [ -4.48215343e-02  -2.77295977e-01   7.23921955e-02 ...,  -3.73181134e-01
+     1.18508480e-01  -1.26093194e-01]
+  ..., 
+  [ -1.17656484e-01   1.35745645e-01   1.90310869e-02 ...,  -7.60287046e-03
+     2.28122678e-02   2.09045291e-01]
+  [ -1.10338703e-01   1.30496755e-01   2.70937886e-02 ...,   4.54243273e-04
+     2.27028932e-02   2.07280993e-01]
+  [ -1.02626346e-01   1.23266838e-01   3.20870243e-02 ...,   4.22372110e-03
+     2.82599647e-02   2.00862378e-01]]
+
+ [[  3.16212445e-01  -4.39164847e-01   1.24777347e-01 ...,  -4.04093228e-02
+     1.90405056e-01  -1.63100407e-01]
+  [  3.25949043e-01  -4.36346501e-01   2.92912036e-01 ...,   1.61107063e-01
+     9.17418078e-02  -1.06625706e-02]
+  [  3.30446482e-01  -5.30014098e-01   4.16256577e-01 ...,   9.79831815e-02
+     2.07058504e-01  -2.11663600e-02]
+  ..., 
+  [ -2.91904528e-02  -2.34271623e-02   8.48098546e-02 ...,   6.37640506e-02
+     7.19980896e-02   4.23754007e-02]
+  [ -1.20406272e-02  -2.26382725e-02   8.92059579e-02 ...,   6.10598773e-02
+     6.76217973e-02   4.99004871e-02]
+  [  2.89314985e-03  -2.17521694e-02   9.02997255e-02 ...,   5.44142239e-02
+     6.74298480e-02   5.35720512e-02]]
+
+ [[  5.41473962e-02  -1.37359545e-01   9.04555917e-02 ...,  -8.16904455e-02
+     3.30677256e-02  -2.67893076e-01]
+  [  4.27097380e-02  -1.73334852e-01   2.86526501e-01 ...,  -2.74889171e-04
+     1.12769239e-01  -2.07756266e-01]
+  [  1.17880523e-01  -3.21454763e-01   3.17767620e-01 ...,  -3.35906409e-02
+     2.38555551e-01  -1.62495658e-01]
+  ..., 
+  [ -4.31343555e-01   1.19058408e-01   1.54201798e-02 ...,   1.01729408e-01
+    -7.99670964e-02   4.22764242e-01]
+  [ -4.10986900e-01   9.28597618e-03  -3.12240392e-01 ...,   1.51064068e-01
+    -1.03607669e-01   5.18676281e-01]
+  [ -3.60748857e-01   1.32448450e-01  -1.53899536e-01 ...,  -9.29381698e-04
+     3.49494964e-02   4.94744405e-02]]]
+encode_h2:
+[[ 1.31010234  1.92770433  1.54805207 ...,  1.0258323  -0.95569748
+   1.89214778]
+ [ 0.43226615  0.50826597  3.00685978 ...,  0.98831367 -1.49495077  0.75632   ]
+ [ 0.69498819  0.49513942  2.68078303 ...,  1.62558138 -1.47389746
+   0.97976959]
+ ..., 
+ [ 1.41603959  0.21233994  1.86127698 ...,  1.84784448 -1.35430837
+   0.48780885]
+ [ 1.44831336  0.3740955   1.83458745 ...,  1.75863683 -1.02957582
+   0.57399893]
+ [ 1.51588464  0.36472616  1.90854824 ...,  1.43136144 -0.81364477
+   0.66341048]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.01806641  0.13964844 -0.06591797 ..., -0.16308594 -0.24023438
+   0.16992188]
+ [-0.3359375   0.20117188  0.11376953 ..., -0.09375     0.1875      0.14746094]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.92595434  0.77649575  2.94960856 ..., -0.99026608  0.99326336
+  -4.66490078]
+ [-0.99642414  0.77649575 -0.66955036 ...,  0.89246452 -0.94864511
+  -4.66490078]
+ [-0.99280274  0.77649575 -0.55834597 ...,  0.23117548 -0.34318069
+  -4.66490078]
+ ..., 
+ [ 0.50405979  0.51708841 -0.67500287 ...,  0.85360116  0.01797098
+  -4.25746441]
+ [ 0.50405979  0.51708841 -0.67500287 ...,  0.85360116  0.01797098
+  -4.25746441]
+ [ 0.50405979  0.51708841 -0.67500287 ...,  0.85360116  0.01797098
+  -4.25746441]]
+output_dstrb:
+[[  1.47522701e-06   6.59314168e-08   2.97892541e-07 ...,   1.63177148e-07
+    6.19700149e-05   6.56212791e-08]
+ [  3.36492462e-06   1.17812327e-07   2.97176086e-07 ...,   3.64768113e-07
+    1.85092227e-04   1.14097055e-07]
+ [  5.76336623e-09   1.26303476e-07   2.91580875e-07 ...,   4.59602603e-07
+    4.54104302e-05   1.26659543e-07]
+ ..., 
+ [  1.00000000e+00   1.49042763e-15   1.42448358e-15 ...,   3.06160228e-15
+    1.42135855e-13   1.48621491e-15]
+ [  1.00000000e+00   1.49042763e-15   1.42448358e-15 ...,   3.06160228e-15
+    1.42135855e-13   1.48621491e-15]
+ [  1.00000000e+00   1.49042763e-15   1.42448358e-15 ...,   3.06160228e-15
+    1.42135855e-13   1.48621491e-15]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG michael             
+-3.067540
+No. 2
+BG watch             
+-3.184912
+No. 3
+BG john             
+-3.499685
+No. 4
+BG the             
+-3.604103
+No. 5
+BG milo             
+-4.089567
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG michael the            
+-5.906788
+No. 2
+BG michael on            
+-6.177488
+No. 3
+BG watch the            
+-6.708843
+No. 4
+BG watch live            
+-6.905589
+No. 5
+BG john the            
+-7.027836
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG michael on the           
+-8.269300
+No. 2
+BG watch live in           
+-9.491270
+No. 3
+BG michael on his           
+-9.605343
+No. 4
+BG michael the gop           
+-9.708049
+No. 5
+BG watch live with           
+-9.758520
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG watch live in the          
+-11.244978
+No. 2
+BG watch live with the          
+-11.915006
+No. 3
+BG michael on the gop          
+-12.314426
+No. 4
+BG michael on the trump          
+-12.473142
+No. 5
+BG michael on the the          
+-12.614856
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG watch live in the the         
+-15.087762
+No. 2
+BG watch live in the trump         
+-15.192819
+No. 3
+BG michael on the gop the         
+-15.304391
+No. 4
+BG michael on the trump the         
+-15.314591
+No. 5
+BG watch live in the NUM         
+-15.426805
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG watch live in the trump the        
+-17.554136
+No. 2
+BG watch live in the the the        
+-18.405036
+No. 3
+BG watch live in the NUM years        
+-18.452838
+No. 4
+BG watch live in the the trump        
+-19.155224
+No. 5
+BG watch live in the NUM the        
+-19.322225
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG watch live in the NUM years after       
+-21.338487
+No. 2
+BG watch live in the trump the the       
+-21.507323
+No. 3
+BG watch live in the the trump the       
+-21.577538
+No. 4
+BG watch live in the NUM years in       
+-21.679492
+No. 5
+BG watch live in the the the the       
+-21.851894
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG watch live in the NUM years in the      
+-23.449121
+No. 2
+BG watch live in the NUM years after the      
+-23.716440
+No. 3
+BG watch live in the NUM years after his      
+-25.123756
+No. 4
+BG watch live in the NUM years in NUM      
+-25.293891
+No. 5
+BG watch live in the the the the the      
+-25.351280
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG watch live in the NUM years in the world     
+-27.471613
+No. 2
+BG watch live in the NUM years in the the     
+-27.575909
+No. 3
+BG watch live in the NUM years in the NUM     
+-28.006248
+No. 4
+BG watch live in the NUM years after his own     
+-28.019984
+No. 5
+BG watch live in the NUM years in the us     
+-28.035662
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG watch live in the NUM years in the world the    
+-30.006880
+No. 2
+BG watch live in the NUM years in the world is    
+-31.255304
+No. 3
+BG watch live in the NUM years in the NUM years    
+-31.300847
+No. 4
+BG watch live in the NUM years in the world that    
+-31.442409
+No. 5
+BG watch live in the NUM years in the the the    
+-31.480305
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG watch live in the NUM years in the world is the   
+-34.001755
+No. 2
+BG watch live in the NUM years in the world the the   
+-34.242684
+No. 3
+BG watch live in the NUM years in the world is not   
+-34.309072
+No. 4
+BG watch live in the NUM years in the NUM years after   
+-34.486428
+No. 5
+BG watch live in the NUM years in the world the NUM   
+-34.498623
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG watch live in the NUM years in the NUM years after the  
+-37.333337
+No. 2
+BG watch live in the NUM years in the world is not the  
+-37.569081
+No. 3
+BG watch live in the NUM years in the world is the in  
+-37.754187
+No. 4
+BG watch live in the NUM years in the world is the the  
+-38.048833
+No. 5
+BG watch live in the NUM years in the world is not be  
+-38.122860
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG watch live in the NUM years in the world is the in the 
+-39.728758
+No. 2
+BG watch live in the NUM years in the world is not be the 
+-41.185545
+No. 3
+BG watch live in the NUM years in the world is the in NUM 
+-41.903518
+No. 4
+BG watch live in the NUM years in the NUM years after the the 
+-41.942662
+No. 5
+BG watch live in the NUM years in the world is the in new 
+-41.992312
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG michael on the gop ED         
+-2.450488
+No. 2
+BG watch live in the NUM years ED       
+-2.465165
+No. 3
+BG watch live in the ED         
+-2.484705
+No. 4
+BG watch live in the trump ED        
+-2.490300
+No. 5
+BG watch live in the NUM ED        
+-2.495258
+Content:
+BG greg garrison radio host in indianapolis was one the earliest supporters news network close friend mike ironically i first met mike in person at the reception in washington d
+
+BG c ED                           
+
+BG for those who had attended the memorial service for andrew ED                  
+
+BG course andrew had just died suddenly few days before we were all shell shocked as we met remember him ED         
+
+BG i had interviewed mike often on air during the years before as we weekly celebrated here in country indianapolis ED         
+
+BG his wit his passion for liberty greatness always animated informed his every opportunity talk with me about the issues the day ED       
+
+BG but then we met even though on sad occasion handshake turned into fine glass for me for him in about minute we were on the front steps d ED

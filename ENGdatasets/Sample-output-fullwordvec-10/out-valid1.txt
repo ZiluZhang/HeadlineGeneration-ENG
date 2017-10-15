@@ -1,0 +1,612 @@
+Title:
+BG one reason for the rush reserve model ED       
+Teacher Forced Generated Title:
+the ED for the ED ED ED ED       
+Distribution for each word in title:
+1:
+the: 0.076408
+NUM: 0.055026
+how: 0.026418
+this: 0.026233
+new: 0.023448
+why: 0.017776
+what: 0.013671
+one: 0.011637
+are: 0.011337
+your: 0.008296
+* one: 0.011637
+
+2:
+ED: 0.093393
+NUM: 0.079493
+the: 0.056959
+is: 0.051753
+in: 0.026806
+new: 0.020731
+one: 0.013586
+will: 0.011124
+has: 0.008852
+are: 0.007153
+* reason: 0.000160
+
+3:
+for: 0.139694
+is: 0.072565
+ED: 0.067441
+the: 0.048768
+in: 0.023202
+will: 0.021263
+not: 0.015088
+that: 0.014919
+why: 0.014274
+has: 0.013401
+* for: 0.139694
+
+4:
+the: 0.180752
+ED: 0.096857
+NUM: 0.033892
+for: 0.023393
+is: 0.023208
+new: 0.022405
+will: 0.008387
+president: 0.007375
+your: 0.007218
+an: 0.007166
+* the: 0.180752
+
+5:
+ED: 0.186887
+new: 0.032856
+NUM: 0.030539
+the: 0.027758
+is: 0.013429
+first: 0.012314
+in: 0.012302
+most: 0.009899
+best: 0.009849
+us: 0.008580
+* rush: 0.000021
+
+6:
+ED: 0.636775
+for: 0.032628
+the: 0.026482
+is: 0.024020
+on: 0.021822
+in: 0.021053
+NUM: 0.009255
+with: 0.005691
+out: 0.003911
+at: 0.003608
+* reserve: 0.000002
+
+7:
+ED: 0.623145
+on: 0.022553
+the: 0.020876
+is: 0.009960
+in: 0.008751
+for: 0.004766
+could: 0.003814
+NUM: 0.003225
+about: 0.002969
+will: 0.002834
+* model: 0.000166
+
+8:
+ED: 0.635809
+for: 0.028779
+the: 0.022010
+is: 0.019472
+in: 0.012524
+on: 0.010522
+NUM: 0.009713
+will: 0.008349
+that: 0.005870
+with: 0.005836
+* ED: 0.635809
+
+9:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+10:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+11:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+12:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+13:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+14:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+15:
+: 1.000000
+ED: 0.000000
+sanders: 0.000000
+who: 0.000000
+in: 0.000000
+is: 0.000000
+says: 0.000000
+the: 0.000000
+trump: 0.000000
+on: 0.000000
+* : 1.000000
+
+
+Perplexity = 3.325268
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0267334  -0.09082031  0.02783203 ..., -0.11669922 -0.02941895
+  -0.07080078]
+ [-0.30273438 -0.06103516  0.04003906 ...,  0.01879883 -0.1328125
+  -0.06005859]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ -1.71664134e-01   8.24352875e-02   3.76460880e-01 ...,  -4.70194221e-01
+    -3.92306186e-02  -4.70379069e-02]
+  [ -1.87103957e-01   2.75220908e-03   5.03031552e-01 ...,  -3.33604634e-01
+    -1.88970596e-01   1.38504222e-01]
+  [ -1.28336489e-01   4.51508462e-02   5.27046263e-01 ...,  -5.07634342e-01
+    -1.23168051e-01   1.46063730e-01]
+  ..., 
+  [  8.51078480e-02  -2.28439808e-01   2.13658005e-01 ...,  -6.09756470e-01
+     3.25179994e-01  -1.12250395e-01]
+  [  2.25186348e-01  -2.62458622e-01   1.85026050e-01 ...,  -4.70076740e-01
+    -2.76649147e-01  -5.58504283e-01]
+  [ -3.15441424e-03   1.70417763e-02  -7.84881115e-02 ...,  -3.23960513e-01
+     8.89840275e-02  -3.40231955e-02]]
+
+ [[ -2.76119649e-01   4.16245647e-02   3.41364667e-02 ...,   7.52535462e-02
+     7.98436180e-02  -2.33468469e-02]
+  [ -3.13038111e-01   2.20107958e-02   1.21238925e-01 ...,   1.57491297e-01
+     7.96222985e-02   1.30069107e-01]
+  [ -3.64667654e-01  -1.98759526e-01   2.70986497e-01 ...,   3.28152448e-01
+     1.36380449e-01   2.05380246e-02]
+  ..., 
+  [  2.31771260e-01  -7.49539509e-02   2.54746079e-02 ...,   3.04044992e-01
+     2.65713513e-01  -3.63687307e-01]
+  [  2.38194153e-01  -7.46642873e-02   2.04259939e-02 ...,   2.93372571e-01
+     2.61131823e-01  -3.57844144e-01]
+  [  2.41901189e-01  -7.63397217e-02   1.57466568e-02 ...,   2.80894816e-01
+     2.61834472e-01  -3.54209602e-01]]
+
+ [[  6.51272014e-02   5.05202860e-02  -6.77723344e-03 ...,   1.37287043e-02
+    -3.46096665e-01  -3.44998211e-01]
+  [  9.85667929e-02   1.35189416e-02   2.04708114e-01 ...,   1.37549311e-01
+    -2.61044294e-01  -2.55233169e-01]
+  [  1.69156805e-01  -9.98125151e-02   2.69703090e-01 ...,   4.83783185e-02
+    -2.87320524e-01  -3.24178934e-01]
+  ..., 
+  [ -1.15085125e-01  -1.18242130e-01  -7.43182600e-02 ...,  -1.30475372e-01
+    -1.49850287e-02   5.79028875e-02]
+  [ -1.09328054e-01  -1.20345332e-01  -7.22719952e-02 ...,  -1.32958353e-01
+    -2.87792087e-03   5.77863827e-02]
+  [ -1.05209135e-01  -1.21586516e-01  -7.16538206e-02 ...,  -1.37341052e-01
+     1.32961925e-02   5.48649281e-02]]
+
+ ..., 
+ [[ -4.16683615e-04  -2.07656115e-01   1.37650087e-01 ...,  -4.97088969e-01
+     9.30228308e-02   6.01712391e-02]
+  [  1.20306045e-01  -1.20575897e-01   3.39677602e-01 ...,  -3.34870428e-01
+     3.18193957e-02   2.69823015e-01]
+  [  1.22851573e-01  -2.04853237e-01   1.23487070e-01 ...,  -4.78055984e-01
+     1.62270471e-01   3.28159243e-01]
+  ..., 
+  [  1.32193446e-01   9.94922593e-05   8.90394151e-02 ...,   2.01735161e-02
+     4.84116822e-02   5.61616197e-02]
+  [  1.28270790e-01  -1.13438908e-03   7.86485821e-02 ...,   2.04601623e-02
+     4.60387915e-02   5.61540425e-02]
+  [  1.22897789e-01  -5.36807301e-03   6.84367269e-02 ...,   1.73287597e-02
+     4.86214459e-02   5.38952425e-02]]
+
+ [[ -2.44977385e-01  -5.17060123e-02   3.10086876e-01 ...,  -2.02741206e-01
+     2.51446158e-01  -3.14246714e-02]
+  [ -2.01250017e-01  -8.95901099e-02   5.18413782e-01 ...,  -2.29640007e-02
+     3.46953839e-01   1.53423041e-01]
+  [ -1.13551922e-01  -4.71898839e-02   5.09235680e-01 ...,   1.51510835e-01
+     1.25606999e-01   1.03919432e-01]
+  ..., 
+  [  1.41818106e-01   9.53710750e-02   5.96126206e-02 ...,  -6.51416034e-02
+     1.08320318e-01   5.49865589e-02]
+  [  1.40123188e-01   8.39594677e-02   5.11064455e-02 ...,  -6.22366071e-02
+     1.02481090e-01   5.18202707e-02]
+  [  1.36071280e-01   7.03535527e-02   4.23219502e-02 ...,  -6.06412441e-02
+     1.01982944e-01   4.59329933e-02]]
+
+ [[ -7.88712129e-02  -3.80319804e-02   3.98307927e-02 ...,  -1.46044135e-01
+    -3.09373178e-02   1.49022788e-01]
+  [ -1.07710563e-01  -6.08977713e-02   1.32932812e-01 ...,  -5.45797721e-02
+    -4.60991859e-02   3.37179780e-01]
+  [ -7.62563348e-02  -1.15070738e-01   2.85742521e-01 ...,  -9.07230526e-02
+    -6.16081059e-02   3.44302684e-01]
+  ..., 
+  [  1.65886357e-01  -5.55664450e-02   6.42663017e-02 ...,  -1.45053677e-02
+     1.37153625e-01  -5.77688217e-02]
+  [  1.59330279e-01  -5.84765375e-02   5.88470027e-02 ...,  -1.55463852e-02
+     1.34263992e-01  -4.43689227e-02]
+  [  1.51343659e-01  -6.03012480e-02   5.21861911e-02 ...,  -1.84035338e-02
+     1.36065781e-01  -3.56487781e-02]]]
+encode_h2:
+[[-1.93571794 -2.92939162 -1.4356811  ...,  1.2069937  -2.01063275
+  -2.28159618]
+ [-3.73326802 -1.92752063 -1.19438636 ...,  3.55484486 -1.65966439
+  -0.50779259]
+ [-4.10330582 -2.40902162 -0.75448489 ...,  2.58672333 -0.60726112
+  -0.17980275]
+ ..., 
+ [-0.26557425 -1.63785601 -1.23877168 ...,  3.80482912 -1.16906595
+  -0.73523742]
+ [ 0.10868458 -2.12149382 -2.12577033 ...,  4.1738348  -1.38327944
+  -0.78331614]
+ [ 0.2728551  -1.57718408 -1.81239665 ...,  4.37362432 -1.05879688
+  -0.78835982]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [ 0.0456543  -0.14550781  0.15625    ..., -0.01586914  0.00671387
+  -0.00188446]
+ [ 0.20507812  0.00421143  0.08447266 ..., -0.02160645  0.25585938
+  -0.00097275]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[ 0.90239543  0.4686743  -0.8774994  ...,  0.91395211  0.69985628
+   1.22576272]
+ [-0.77252579  0.14929104 -0.37051699 ...,  0.60116184 -0.28519985
+   1.22576272]
+ [ 0.46923929  0.02866668 -0.03834594 ...,  0.73682308  0.43614987
+   1.22576272]
+ ..., 
+ [ 0.11855573 -0.72433877 -0.34865105 ...,  0.91456372 -0.73409104
+   1.22576272]
+ [ 0.11855573 -0.72433877 -0.34865105 ...,  0.91456372 -0.73409104
+   1.22576272]
+ [ 0.11855573 -0.72433877 -0.34865105 ...,  0.91456372 -0.73409104
+   1.22576272]]
+output_dstrb:
+[[  6.19496950e-06   1.11123875e-07   1.14058047e-07 ...,   2.59744866e-07
+    2.03752366e-04   1.10554964e-07]
+ [  5.21594188e-07   1.23430951e-07   1.86752914e-07 ...,   2.26889441e-07
+    2.04283322e-04   1.23865604e-07]
+ [  7.56805684e-06   8.34533864e-08   1.49443224e-07 ...,   1.79576247e-07
+    1.04303064e-04   8.46467358e-08]
+ ..., 
+ [  9.99999881e-01   4.32848447e-15   5.38668019e-15 ...,   7.39602064e-15
+    1.55175981e-12   4.31034272e-15]
+ [  9.99999881e-01   4.32848447e-15   5.38668019e-15 ...,   7.39602064e-15
+    1.55175981e-12   4.31034272e-15]
+ [  9.99999881e-01   4.32848447e-15   5.38668019e-15 ...,   7.39602064e-15
+    1.55175981e-12   4.31034272e-15]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG the             
+-2.571661
+No. 2
+BG NUM             
+-2.899959
+No. 3
+BG how             
+-3.633716
+No. 4
+BG this             
+-3.640739
+No. 5
+BG new             
+-3.752950
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG the NUM            
+-5.370258
+No. 2
+BG this is            
+-5.459011
+No. 3
+BG new york            
+-5.835159
+No. 4
+BG the new            
+-5.865047
+No. 5
+BG how the            
+-5.876511
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG this is the           
+-7.292369
+No. 2
+BG the new york           
+-8.129726
+No. 3
+BG how the NUM           
+-8.620646
+No. 4
+BG new york city           
+-8.886336
+No. 5
+BG new york the           
+-8.901351
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG this is the the          
+-10.456672
+No. 2
+BG this is the new          
+-10.724127
+No. 3
+BG this is the best          
+-10.854616
+No. 4
+BG this is the most          
+-10.989244
+No. 5
+BG the new york the          
+-11.008349
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG this is the most the         
+-13.681816
+No. 2
+BG this is the the the         
+-13.716361
+No. 3
+BG this is the new york         
+-13.774915
+No. 4
+BG this is the the new         
+-14.011511
+No. 5
+BG this is the best for         
+-14.014786
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG this is the best for the        
+-15.634174
+No. 2
+BG this is the new york the        
+-16.816525
+No. 3
+BG this is the the the the        
+-16.943517
+No. 4
+BG this is the the new york        
+-17.065117
+No. 5
+BG this is the most the NUM        
+-17.211975
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG this is the best for the the       
+-19.351229
+No. 2
+BG this is the best for the NUM       
+-19.376952
+No. 3
+BG this is the best for the new       
+-19.550666
+No. 4
+BG this is the best for the in       
+-20.004470
+No. 5
+BG this is the the new york the       
+-20.264607
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG this is the best for the in the      
+-21.611837
+No. 2
+BG this is the best for the new york      
+-22.693847
+No. 3
+BG this is the best for the the the      
+-22.853005
+No. 4
+BG this is the best for the in NUM      
+-23.017305
+No. 5
+BG this is the best for the the NUM      
+-23.183391
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG this is the best for the in the NUM     
+-25.261723
+No. 2
+BG this is the best for the in the the     
+-25.391604
+No. 3
+BG this is the best for the in the us     
+-25.417986
+No. 4
+BG this is the best for the in the new     
+-25.461487
+No. 5
+BG this is the best for the new york the     
+-26.310756
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG this is the best for the in the new york    
+-28.493024
+No. 2
+BG this is the best for the in the the the    
+-29.238709
+No. 3
+BG this is the best for the in the NUM years    
+-29.243485
+No. 4
+BG this is the best for the in the the NUM    
+-29.396993
+No. 5
+BG this is the best for the in the the new    
+-29.583623
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG this is the best for the in the new york the   
+-32.292421
+No. 2
+BG this is the best for the in the new york city   
+-32.707342
+No. 3
+BG this is the best for the in the the new york   
+-32.759902
+No. 4
+BG this is the best for the in the new york times   
+-33.010447
+No. 5
+BG this is the best for the in the new york new   
+-33.140539
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG this is the best for the in the new york times the  
+-36.414471
+No. 2
+BG this is the best for the in the new york the NUM  
+-36.456582
+No. 3
+BG this is the best for the in the new york the new  
+-36.540131
+No. 4
+BG this is the best for the in the the new york the  
+-36.558805
+No. 5
+BG this is the best for the in the new york times NUM  
+-36.587943
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG this is the best for the in the new york times NUM years 
+-39.670305
+No. 2
+BG this is the best for the in the new york the new york 
+-39.983368
+No. 3
+BG this is the best for the in the new york the NUM years 
+-40.306997
+No. 4
+BG this is the best for the in the new york times the NUM 
+-40.367269
+No. 5
+BG this is the best for the in the new york times the new 
+-40.676481
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG the ED            
+-1.686744
+No. 2
+BG NUM ED            
+-1.727985
+No. 3
+BG this ED            
+-1.813520
+No. 4
+BG the new york ED          
+-1.857785
+No. 5
+BG the NUM ED           
+-1.893596
+Content:
+BG on thursday musk unveiled prototype new model NUM the vehicle that he hopes will finally help electric cars go mainstream when it hits the market in december NUM ED
+
+BG the news has induced the sort feeding frenzy usually associated with shark apple products ED              
+
+BG more than NUM NUM people have already down refundable NUM deposit reserve their model NUM year in advance ED          
+
+BG in california colorado even australia hundreds fans were lining up vehicle they even laid eyes on yet tesla fans stand in line inside park meadows mall march NUM NUM
+
+BG photo by john denver post via getty images partly because the car seems pretty neat ED             
+
+BG musk says the model NUM will start at just NUM considerably cheaper than flashy models ED             
+
+BG the base version is expected get range NUM miles on single charge though the company is hoping bump up that number eventually ED      

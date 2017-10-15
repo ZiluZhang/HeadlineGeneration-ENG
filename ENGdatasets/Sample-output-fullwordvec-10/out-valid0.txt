@@ -1,0 +1,612 @@
+Title:
+BG robert appointment as special counsel in the investigation is getting bipartisan support ED  
+Teacher Forced Generated Title:
+senate senate is as election ED the russia ED ED ED ED ED  
+Distribution for each word in title:
+1:
+senate: 0.098952
+house: 0.087086
+in: 0.039087
+NUM: 0.037048
+with: 0.027812
+on: 0.023615
+the: 0.021226
+at: 0.018313
+gop: 0.017912
+russia: 0.016588
+* robert: 0.000065
+
+2:
+senate: 0.045346
+trump: 0.032399
+russia: 0.023050
+ED: 0.022905
+gop: 0.021161
+fbi: 0.020366
+us: 0.016714
+the: 0.015979
+as: 0.014036
+says: 0.013687
+* appointment: 0.000001
+
+3:
+is: 0.052334
+was: 0.034952
+as: 0.028223
+in: 0.022635
+the: 0.014404
+fbi: 0.013367
+will: 0.010033
+russia: 0.009447
+be: 0.009064
+with: 0.007879
+* as: 0.028223
+
+4:
+as: 0.033385
+is: 0.024959
+russia: 0.022161
+it: 0.020007
+trump: 0.016061
+fbi: 0.015969
+the: 0.014610
+investigation: 0.013322
+was: 0.013052
+he: 0.011472
+* special: 0.001906
+
+5:
+election: 0.032581
+probe: 0.016637
+russia: 0.016355
+as: 0.016084
+court: 0.014780
+fbi: 0.013933
+is: 0.013215
+white: 0.010316
+security: 0.009205
+investigation: 0.009203
+* counsel: 0.000041
+
+6:
+ED: 0.089894
+is: 0.089482
+for: 0.044636
+in: 0.032470
+the: 0.026795
+on: 0.024860
+as: 0.018860
+was: 0.014302
+says: 0.014270
+russia: 0.012640
+* in: 0.032470
+
+7:
+the: 0.078425
+russia: 0.052023
+NUM: 0.020911
+us: 0.017379
+trump: 0.016722
+new: 0.011511
+on: 0.011118
+probe: 0.010855
+is: 0.010146
+russian: 0.008335
+* the: 0.078425
+
+8:
+russia: 0.035387
+us: 0.034403
+white: 0.022147
+fbi: 0.018226
+election: 0.017378
+ED: 0.016906
+probe: 0.013193
+trump: 0.011582
+russian: 0.010247
+gop: 0.009733
+* investigation: 0.008886
+
+9:
+ED: 0.434337
+into: 0.058696
+for: 0.022590
+is: 0.017827
+in: 0.011723
+as: 0.010045
+the: 0.009357
+that: 0.007628
+on: 0.007117
+was: 0.006629
+* is: 0.017827
+
+10:
+ED: 0.068189
+not: 0.033391
+the: 0.027616
+russia: 0.014779
+no: 0.014266
+on: 0.010079
+in: 0.010027
+trump: 0.009975
+about: 0.009697
+russian: 0.007587
+* getting: 0.001361
+
+11:
+ED: 0.053016
+the: 0.020914
+out: 0.013908
+from: 0.011501
+into: 0.011248
+russia: 0.010874
+more: 0.008597
+investigation: 0.008352
+white: 0.008274
+it: 0.008272
+* bipartisan: 0.000002
+
+12:
+ED: 0.530761
+on: 0.021450
+with: 0.020064
+in: 0.014836
+as: 0.007757
+at: 0.006643
+into: 0.006562
+for: 0.005912
+russia: 0.005673
+is: 0.004412
+* support: 0.000474
+
+13:
+ED: 0.693286
+for: 0.029606
+trump: 0.019449
+in: 0.016957
+the: 0.011333
+on: 0.010802
+with: 0.007511
+russia: 0.007251
+at: 0.006934
+is: 0.004960
+* ED: 0.693286
+
+14:
+: 0.999999
+ED: 0.000001
+trump: 0.000000
+on: 0.000000
+for: 0.000000
+in: 0.000000
+the: 0.000000
+is: 0.000000
+says: 0.000000
+over: 0.000000
+* : 0.999999
+
+15:
+: 0.999999
+ED: 0.000001
+trump: 0.000000
+on: 0.000000
+for: 0.000000
+in: 0.000000
+the: 0.000000
+is: 0.000000
+says: 0.000000
+over: 0.000000
+* : 0.999999
+
+
+Perplexity = 5.709699
+
+Output of each layer:
+input_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.04736328  0.12109375  0.12353516 ..., -0.03588867  0.16601562
+   0.23730469]
+ [ 0.13671875  0.16699219 -0.12109375 ...,  0.02563477  0.28125     0.10400391]
+ ..., 
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+encode_h1:
+[[[ -3.27703863e-01  -1.63860209e-02  -4.38541263e-01 ...,   6.43058896e-01
+     4.45725203e-01   1.25171263e-02]
+  [ -5.38535297e-01   4.07081023e-02  -3.37185264e-01 ...,   8.14066231e-01
+     5.68226516e-01  -4.12272811e-02]
+  [ -6.14702940e-01   2.34614462e-01  -2.10803077e-01 ...,   6.89773083e-01
+     2.45649815e-01   2.17432499e-01]
+  ..., 
+  [ -4.61813390e-01   3.27805169e-02  -5.36954165e-01 ...,   1.95171028e-01
+     5.69431782e-01   3.91861320e-01]
+  [ -5.78692794e-01   9.16026458e-02  -7.55817533e-01 ...,  -4.34076265e-02
+     6.31283343e-01   2.17477918e-01]
+  [ -4.82413858e-01   1.85106128e-01  -6.84961200e-01 ...,  -1.94094032e-02
+     6.42972469e-01  -2.89295137e-01]]
+
+ [[  1.04009723e-02  -3.81980628e-01   1.01556797e-02 ...,  -3.73134613e-01
+     2.74889827e-01  -3.18325549e-01]
+  [  7.91399088e-03  -3.68468076e-01   1.65511355e-01 ...,  -5.80211341e-01
+     3.64846885e-01  -3.02830309e-01]
+  [  5.56811765e-02  -2.56734937e-01   3.68658513e-01 ...,  -2.68545419e-01
+     2.99664378e-01  -2.53959358e-01]
+  ..., 
+  [ -5.18356085e-01  -3.10458630e-01  -6.49734020e-01 ...,   5.72414137e-02
+     8.67250800e-01  -1.99663676e-02]
+  [ -5.49901247e-01  -2.49723762e-01  -7.58225739e-01 ...,   1.40817821e-01
+     6.53495610e-01  -3.45585078e-01]
+  [ -5.09229422e-01  -1.62772059e-01  -6.47249281e-01 ...,  -7.76238367e-03
+     6.53075993e-01  -6.28825665e-01]]
+
+ [[ -1.37869343e-01  -3.27531457e-01  -4.58402820e-02 ...,  -2.78873354e-01
+     1.88658595e-01  -3.98912840e-03]
+  [ -1.21714756e-01  -5.37451506e-01   1.79362178e-01 ...,  -3.43055800e-02
+     1.80575162e-01  -1.17003828e-01]
+  [ -3.95854339e-02  -3.25908422e-01   1.71482280e-01 ...,   8.70609432e-02
+     7.56899044e-02   1.22553453e-01]
+  ..., 
+  [ -4.51391041e-02  -2.56778821e-02   2.86834016e-02 ...,   5.35311848e-02
+    -3.36977318e-02   9.08485726e-02]
+  [ -3.54226902e-02  -2.48154569e-02   3.05345319e-02 ...,   4.86344993e-02
+    -2.47056447e-02   9.12316665e-02]
+  [ -2.66970452e-02  -2.50739306e-02   3.16282809e-02 ...,   4.12116982e-02
+    -1.17350584e-02   8.86235610e-02]]
+
+ ..., 
+ [[  4.54628058e-02  -6.25607669e-02  -2.23448157e-01 ...,   2.75345862e-01
+     2.61700630e-01  -6.64595142e-02]
+  [ -8.59283954e-02   1.13711461e-01  -2.25073889e-01 ...,   6.53746486e-01
+     4.63645995e-01   3.54517937e-01]
+  [ -6.40996993e-02   1.19386308e-01  -1.46930724e-01 ...,   4.66120154e-01
+     4.31277543e-01   4.22911137e-01]
+  ..., 
+  [ -1.07006833e-01   2.06539437e-01  -4.60721791e-01 ...,   1.72124803e-01
+     6.92697585e-01  -2.64243603e-01]
+  [ -1.04135774e-01   1.95811406e-01  -4.57365662e-01 ...,   1.68243438e-01
+     6.93682015e-01  -2.63458729e-01]
+  [ -1.02955766e-01   1.84054628e-01  -4.54321980e-01 ...,   1.61778092e-01
+     6.98650658e-01  -2.65394330e-01]]
+
+ [[  1.79169580e-01  -8.79473910e-02   1.30849481e-01 ...,   6.94103763e-02
+     5.45212924e-02  -3.25672179e-02]
+  [  1.71858177e-01  -6.83304891e-02   2.72707015e-01 ...,   1.79561943e-01
+     2.91593317e-02   3.42364460e-02]
+  [  1.80907473e-02  -1.33407190e-02   2.95389205e-01 ...,   1.00124910e-01
+     1.82746187e-01   2.83905327e-01]
+  ..., 
+  [  4.05724756e-02   1.64491385e-02  -2.20311955e-02 ...,  -3.48606706e-03
+     1.67517811e-01   1.02799721e-01]
+  [  4.06317189e-02   1.68649592e-02  -2.19338983e-02 ...,  -4.82513011e-03
+     1.55295923e-01   1.03566341e-01]
+  [  3.99953499e-02   1.45010753e-02  -2.16550417e-02 ...,  -8.21869820e-03
+     1.47741899e-01   1.00145452e-01]]
+
+ [[  7.61590153e-02  -1.13263302e-01  -1.69188395e-01 ...,   4.44692701e-01
+     6.87151998e-02  -1.44747764e-01]
+  [ -3.06263398e-02  -1.13246694e-01  -5.23185879e-02 ...,   5.55450737e-01
+    -4.68778461e-02  -4.94927727e-03]
+  [ -1.31725475e-01  -4.11910936e-04  -1.92041472e-02 ...,   8.39171052e-01
+     1.72881961e-01   3.14190648e-02]
+  ..., 
+  [ -8.92570168e-02   9.42473337e-02  -1.33374870e-01 ...,   1.04698934e-01
+     4.46032435e-01   6.28028512e-02]
+  [ -8.34799111e-02   9.49995965e-02  -1.30298987e-01 ...,   9.64530706e-02
+     4.28986490e-01   5.54482713e-02]
+  [ -7.73582533e-02   9.29860324e-02  -1.27415314e-01 ...,   8.50318223e-02
+     4.14444774e-01   4.42371443e-02]]]
+encode_h2:
+[[ 3.98581243 -2.52789736 -1.87635386 ..., -1.57350731  0.6235891
+   1.02372396]
+ [ 4.20531034 -2.59251738 -1.65645516 ..., -2.31764269 -0.05800047
+   0.67265838]
+ [ 4.50888205 -2.67933416 -0.844486   ..., -0.43732867 -0.43818599
+   0.74398118]
+ ..., 
+ [ 5.49290514 -2.53841996 -0.74002856 ...,  0.66026235 -1.63629746
+  -0.0558302 ]
+ [ 4.46486664 -2.12924075 -0.7168352  ...,  0.85701513 -2.2277801
+   0.58178586]
+ [ 4.52575397 -2.01547384 -0.7001006  ...,  0.78584409 -1.86045301
+   0.77101833]]
+ref_emb:
+[[-0.46289062 -0.05126953 -0.23535156 ..., -0.01135254 -0.03515625
+  -0.05175781]
+ [-0.29882812 -0.0088501  -0.04956055 ..., -0.25390625 -0.17773438
+   0.19140625]
+ [-0.19726562 -0.22753906 -0.08496094 ...,  0.09716797 -0.21875    -0.02001953]
+ ..., 
+ [-0.08984375 -0.14746094 -0.04956055 ...,  0.18261719 -0.03222656
+   0.0480957 ]
+ [-0.44921875  0.18554688 -0.0133667  ...,  0.17773438 -0.06005859
+   0.33398438]
+ [ 0.          0.          0.         ...,  0.          0.          0.        ]]
+decode_seq:
+[[-0.97900957  8.40219307  2.74031329 ...,  0.72739875 -0.99763846
+   5.1932683 ]
+ [-0.98568285  8.40219307  0.97833788 ...,  0.9059062  -0.90241838
+   5.1932683 ]
+ [-0.65815324  8.33233356  0.97833788 ..., -0.83013284  0.87578607
+   3.86735702]
+ ..., 
+ [ 0.92875767  1.83536565  0.04676338 ...,  0.16508128 -0.11493677
+   0.38340932]
+ [ 0.92968458  1.35269427 -0.43299407 ...,  0.91262698 -0.12481376
+  -0.06171258]
+ [ 0.92968458  1.35269427 -0.43299407 ...,  0.91262698 -0.12481376
+  -0.06171258]]
+output_dstrb:
+[[  3.12648218e-08   6.39712070e-08   9.58182653e-08 ...,   2.16868187e-07
+    7.99720237e-06   6.60427304e-08]
+ [  2.98774921e-06   8.88658036e-08   1.19114560e-07 ...,   1.62198759e-07
+    2.85966180e-05   9.02037129e-08]
+ [  1.05659603e-06   7.22361548e-08   1.48352626e-07 ...,   1.62958173e-07
+    4.29572319e-05   7.31896392e-08]
+ ..., 
+ [  1.92374046e-07   2.88915558e-08   6.18657552e-08 ...,   4.94436776e-08
+    1.94236527e-05   2.88793238e-08]
+ [  9.99999285e-01   1.05850929e-14   1.90619107e-14 ...,   1.82189316e-14
+    3.13194978e-12   1.06678692e-14]
+ [  9.99999285e-01   1.05850929e-14   1.90619107e-14 ...,   1.82189316e-14
+    3.13194978e-12   1.06678692e-14]]
+
+Intermediate Titles:
+--- Step 1 ---
+No. 1
+BG              
+0.000000
+--- End of Step 1 ---
+--- Step 2 ---
+No. 1
+BG senate             
+-2.313121
+No. 2
+BG house             
+-2.440862
+No. 3
+BG in             
+-3.241974
+No. 4
+BG NUM             
+-3.295542
+No. 5
+BG with             
+-3.582271
+--- End of Step 2 ---
+--- Step 3 ---
+No. 1
+BG house gop            
+-5.911241
+No. 2
+BG house in            
+-5.919497
+No. 3
+BG senate russia            
+-6.075441
+No. 4
+BG senate is            
+-6.110560
+No. 5
+BG house russia            
+-6.117483
+--- End of Step 3 ---
+--- Step 4 ---
+No. 1
+BG senate russia probe           
+-8.198451
+No. 2
+BG house russia probe           
+-8.589881
+No. 3
+BG senate russia investigation           
+-8.849138
+No. 4
+BG house in russia           
+-8.917228
+No. 5
+BG house russia investigation           
+-9.109051
+--- End of Step 4 ---
+--- Step 5 ---
+No. 1
+BG senate russia probe into          
+-10.285355
+No. 2
+BG house russia probe into          
+-10.651135
+No. 3
+BG house in russia probe          
+-10.678696
+No. 4
+BG senate russia investigation into          
+-10.917832
+No. 5
+BG house russia investigation into          
+-11.139331
+--- End of Step 5 ---
+--- Step 6 ---
+No. 1
+BG senate russia probe into russia         
+-13.096594
+No. 2
+BG senate russia probe into the         
+-13.226707
+No. 3
+BG senate russia probe into trump         
+-13.242124
+No. 4
+BG house russia probe into russia         
+-13.503071
+No. 5
+BG house russia probe into the         
+-13.678970
+--- End of Step 6 ---
+--- Step 7 ---
+No. 1
+BG senate russia probe into russia probe        
+-14.796037
+No. 2
+BG house russia probe into russia probe        
+-15.148307
+No. 3
+BG senate russia probe into russia investigation        
+-15.923858
+No. 4
+BG house russia probe into russia investigation        
+-16.288284
+No. 5
+BG senate russia probe into the fbi        
+-16.342896
+--- End of Step 7 ---
+--- Step 8 ---
+No. 1
+BG senate russia probe into russia probe into       
+-18.158148
+No. 2
+BG house russia probe into russia probe into       
+-18.368847
+No. 3
+BG senate russia probe into russia probe is       
+-19.140570
+No. 4
+BG senate russia probe into russia probe was       
+-19.253080
+No. 5
+BG senate russia probe into russia probe as       
+-19.376526
+--- End of Step 8 ---
+--- Step 9 ---
+No. 1
+BG senate russia probe into russia probe into the      
+-20.617787
+No. 2
+BG senate russia probe into russia probe into trump      
+-20.627408
+No. 3
+BG house russia probe into russia probe into the      
+-20.814876
+No. 4
+BG house russia probe into russia probe into trump      
+-20.886835
+No. 5
+BG senate russia probe into russia probe into russia      
+-21.326157
+--- End of Step 9 ---
+--- Step 10 ---
+No. 1
+BG senate russia probe into russia probe into russia probe     
+-23.500419
+No. 2
+BG senate russia probe into russia probe into the us     
+-24.113178
+No. 3
+BG senate russia probe into russia probe into the russia     
+-24.236776
+No. 4
+BG house russia probe into russia probe into the us     
+-24.275916
+No. 5
+BG senate russia probe into russia probe into russia investigation     
+-24.302798
+--- End of Step 10 ---
+--- Step 11 ---
+No. 1
+BG senate russia probe into russia probe into the russia probe    
+-26.590509
+No. 2
+BG senate russia probe into russia probe into the russia investigation    
+-27.287587
+No. 3
+BG senate russia probe into russia probe into russia probe into    
+-27.773726
+No. 4
+BG senate russia probe into russia probe into the russia is    
+-28.656702
+No. 5
+BG senate russia probe into russia probe into russia probe is    
+-28.661117
+--- End of Step 11 ---
+--- Step 12 ---
+No. 1
+BG senate russia probe into russia probe into russia probe into the   
+-30.062631
+No. 2
+BG senate russia probe into russia probe into russia probe into trump   
+-30.436969
+No. 3
+BG senate russia probe into russia probe into the russia probe into   
+-30.851741
+No. 4
+BG senate russia probe into russia probe into russia probe into russia   
+-31.504819
+No. 5
+BG senate russia probe into russia probe into the russia probe is   
+-31.578241
+--- End of Step 12 ---
+--- Step 13 ---
+No. 1
+BG senate russia probe into russia probe into the russia probe into the  
+-32.966187
+No. 2
+BG senate russia probe into russia probe into russia probe into the us  
+-33.169370
+No. 3
+BG senate russia probe into russia probe into the russia probe into trump  
+-33.783671
+No. 4
+BG senate russia probe into russia probe into russia probe into the white  
+-33.979389
+No. 5
+BG senate russia probe into russia probe into russia probe into the new  
+-34.335635
+--- End of Step 13 ---
+--- Step 14 ---
+No. 1
+BG senate russia probe into russia probe into russia probe into the white house 
+-34.423304
+No. 2
+BG senate russia probe into russia probe into the russia probe into the us 
+-36.058160
+No. 3
+BG senate russia probe into russia probe into russia probe into the new york 
+-36.230663
+No. 4
+BG senate russia probe into russia probe into the russia probe into the white 
+-36.943818
+No. 5
+BG senate russia probe into russia probe into the russia probe into the new 
+-37.218152
+--- End of Step 14 ---
+
+Generated Titles:
+No. 1
+BG senate russia probe into russia probe ED       
+-1.924803
+No. 2
+BG house russia probe into russia probe ED       
+-1.979290
+No. 3
+BG house in russia probe ED         
+-1.981326
+No. 4
+BG senate russia probe into russia investigation ED       
+-2.034601
+No. 5
+BG house russia probe into russia investigation ED       
+-2.084486
+Content:
+BG democratic lawmakers handful republicans are praising deputy attorney general rod decision appoint former fbi director robert as special counsel investigate any potential ties between president donald associates russia ED
+
+BG wednesday evening saying he appointment bob as special counsel for the russia investigation is good first step get the bottom the many questions we have about russian interference in
+
+BG bob was fine u ED                        
+
+BG s ED                           
+
+BG attorney great fbi director no better person who could be asked perform this function ED              
+
+BG he is respected he is talented he has the knowledge ability do the right thing ED             
+
+BG special counsel is very much needed in this situation deputy attorney general has done the right thing ED           
